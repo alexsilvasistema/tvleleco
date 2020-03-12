@@ -1,8 +1,304 @@
 #EXTM3U
+#EXTINF:-1 group-title="Aberta" tvg-name="Sbt Pernambuco" tvg-logo="",Sbt
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1149121645_b216000_sleng.m3u8
 
+#EXTINF:-1 group-title="Aberta" tvg-name="Sbt2" tvg-logo="",Sbt2
+https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist.m3u8
 
-#PLAYLISTV: pltv-logo="http://www.incrementador.com.br/uploads/tokusatsu.jpg" pltv-name="Tokusatsus Tyciano" pltv-description="Tokusatsus" pltv-cover="http://www.incrementador.com.br/uploads/tokusatsu.jpg"
+#EXTINF:-1 group-title="Aberta" tvg-name="Foradoar" tvg-logo="",Foradoar
+https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoar/chunklist.m3u8
 
+#EXTINF:-1 group-title="Aberta" tvg-name="canaltvhd" tvg-logo="",canaltvhd
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-MT07uHeUd-o/TlwVfbECFSI/AAAAAAAASV8/7w-a_p6gJJ4/s320/1.jpg" group-title="Jiraiya", Episódio 01
-https://www.seuanime.com/players/novo/?contentId=aa63ea869c34ae34
+#EXTINF:-1 group-title="Aberta" tvg-name="Istv" tvg-logo="",Istv
+https://cdn.jmvstream.com/w/oscarito/_definst_/oscarito/playlist.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="Tv8" tvg-logo="",Tv8
+https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="tvcaruaru" tvg-logo="",tvcaruaru
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="PortoTv" tvg-logo="",Portotv
+http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 group-title="Aberta" tvg-name="MTVREINOUNIDO " tvg-logo="",MTVREUNOUNIDO
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="NATIONALGEOWILD " tvg-logo="",NATIONALGEOWILD
+http://tv.factoryiptv.com:80/jose/12345678/41497
+
+#EXTINF:-1 group-title="Aberta" tvg-name="TVINFORBA " tvg-logo="",TVINFORBA
+https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/tvinforbahia/chunklist_w147238720.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="DISNEYJR " tvg-logo="",DISNEYJR
+http://tv.factoryiptv.com:80/jose/12345678/41512
+
+#EXTINF:-1 group-title="Aberta" tvg-name="TVMKKWEB " tvg-logo="",TVMKKEB
+http://wse01.logicahost.com.br:1935/mkkweb/_definst_/mkkweb/chunklist_w526421337.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="Rba " tvg-logo="",Rba
+https://video01.kshost.com.br/rba2779/rba2779/playlist.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="RedeTV " tvg-logo="",RedeTV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
+
+Playboy1 group-title="Aberta" tvg-name="Record " tvg-logo="",RecordGuara
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="RBTV " tvg-logo="",RBTV
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="CATVE " tvg-logo="",CATVE
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="TVBAIANA " tvg-logo="",TVBAIANA
+http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="KKIDS " tvg-logo="",KKIDS
+http://c2.manasat.com:1935/kkids/kkids2/chunklist_w817493835.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="MANAUS " tvg-logo="",MANAUS
+https://v4-slbps-sambavideos.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="RTGUARANI " tvg-logo="",RTGUARANI
+http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="TOPTV " tvg-logo="",TOPTV
+https://cdn.jmvstream.com/w/estado/_definst_/estado/playlist.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="CANCAONOVA " tvg-logo="",CANCAONOVA
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/master.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="CARIOCA " tvg-logo="",CARIOCA
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="TVCAMARA " tvg-logo="",TVCAMARA
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="RDCTV " tvg-logo="",RDCTV
+https://5a7d54e35f9d2.streamlock.net/rdctv/smil:rdctv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="TVARACATI " tvg-logo="",TVARACATI
+https://livefocamundo.com:8081/8148/index.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="SERTAOTV " tvg-logo="",SERTAOTV
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="TVVILAVELHA " tvg-logo="",TVVILAVELHA
+https://cdn.jmvstream.com/w/LVW-8497/LVW8497_dapTBZ4cm4/playlist.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="CBN " tvg-logo="",CBN
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="TVAPARECIDA " tvg-logo="",TVAPARECIDA
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="TVEBA " tvg-logo="",TVEBA
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="ALPHACHANNEL " tvg-logo="",ALPHACHANNEL
+http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="CARIOCAINTERATIVO " tvg-logo="",CARIOCAINTERATIVO
+http://tv02.logicahost.com.br:1935/cariocainterativo/cariocainterativo/live.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="MASTERTV " tvg-logo="",MASTERTV
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="REDERC " tvg-logo="",REDERC
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="REDETV2 " tvg-logo="",REDETV2
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/live.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="TVACARADABAHIA " tvg-logo="",TVACARADABAHIA
+http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/live.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="TVPIONEIRA " tvg-logo="",TVPIONEIRA
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="TVFLORIPA " tvg-logo="",TVFLORIPA
+https://59566a7951f71.streamlock.net:8090/ricsc/ricsc/playlist.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="AMAZONASTV " tvg-logo="",AMAZONASTV
+https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b1155072.m3u8?sts=st=1557102741~exp=1557109341~acl=/*~hmac=7acb1281c68cd011d9ac192673fb62d8cc6571e547aaf3de0b5b60f6bfa39dbf
+
+#EXTINF:-1 group-title="Aberta" tvg-name="CATVE " tvg-logo="",CATVE
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w2140063674.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="TVPANTANAL " tvg-logo="",TVPANTANAL
+https://5ca42828c3a79.streamlock.net/tvpantanalms/tvpantanalms/chunklist_w1320184666.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="TVBIRIGUI " tvg-logo="",TVBIRIGUI
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?LISTASDAGLAU
+
+#EXTINF:-1 group-title="Aberta" tvg-name="TVBIRIGUI2 " tvg-logo="",TVBIRIGUI2
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="TVUP " tvg-logo="",TVUP
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="TVPADRECICERO " tvg-logo="",TVPADRECICERO
+https://59f2354c05961.streamlock.net:1443/tvpadrecicero/_definst_/tvpadrecicero/chunklist_w589529614.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="TVREDEMINAS " tvg-logo="",TVREDEMINAS
+https://slbps-sambatech.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b954368.m3u8?sts=st=1555716938~exp=1555723538~acl=/*~hmac=a68a349d7dc8af5c07cde745ba4ebbfc2e1de74a038364c6988a0651a934bc9
+
+#EXTINF:-1 group-title="Aberta" tvg-name="TVJSID " tvg-logo="",TVJSID
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
+
+#EXTINF:-1 group-title="Aberta" tvg-name="TVRECORDTROPICAL " tvg-logo="",TVRECORDTROPICAL
+https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="TVREDEVIDA " tvg-logo="",TVREDEVIDA
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="TVNATAL " tvg-logo="",TVNATAL
+http://stmv6.conectastm.com/antonioflavio9466/antonioflavio9466/playlist.m3u8?wowzasessionid=1108698460
+
+#EXTINF:-1 group-title="Esportes" tvg-name="ALLSPORTS " tvg-logo="",ALLSPORTS
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+
+#EXTINF:-1 group-title="Esportes" tvg-name="REALMADRITV " tvg-logo="",REALMADRITV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
+
+#EXTINF:-1 group-title="Esportes" tvg-name="REALMADRITV2 " tvg-logo="",REALMADRITV2
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="Esportes" tvg-name="combate" tvg-logo="",combate
+https://nimbleserver.canais.ink/a/hls1/combate.m3u8?expires=1583975198&token=f885a163b190f8dd61591cbaa5598aa0
+
+#EXTINF:-1 group-title="Sem Nome" tvg-name="sn1 " tvg-logo="",filmeedesenho
+https://5b7f3c45ab7c2.streamlock.net/8002/8002/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sem Nome" tvg-name="sn2 " tvg-logo="",diversosceara
+http://serv1.videovox.pw/eduardo2183/eduardo2183/playlist.m3u8
+
+#EXTINF:-1 group-title="Sem Nome" tvg-name="sn3 " tvg-logo="",100automotoTV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sem Nome" tvg-name="sn4 " tvg-logo="",ViaSATsporte
+http://persik.by/stream/2944/263250/10249.m3u8
+
+#EXTINF:-1 group-title="Sem Nome" tvg-name="sn5 " tvg-logo="",tvverdescamposSAT
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="GloboRJ " tvg-logo="",GloboRJ
+http://proxyts.canais.info:8084/hls1/boborj.m3u8
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="GloboSP " tvg-logo="",GloboSP
+http://proxyts.canais.info:8084/hls1/bobosp.m3u8
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="GloboNORDESTE " tvg-logo="",GloboNORDESTE
+http://proxyts.canais.vip:8084/hls1/bobonordeste.m3u8
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="GloboBAHIA " tvg-logo="",GloboBAHIA
+http://proxyts.canais.info:8084/hls1/bobonordeste.m3u8
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="TERRAVIVA " tvg-logo="",TERRAVIVA
+https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w225696193.m3u8
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="TERRAVIVA2 " tvg-logo="",TERRAVIVA2
+https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w1411123508.m3u8
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="TVCANCAONOVA " tvg-logo="",TVCANCAONOVA
+https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="TVAPARECIDA2 " tvg-logo="",TVAPARECIDA2
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w327541017.m3u8
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="TVAPARECIDA3 " tvg-logo="",TVAPARECIDA3
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/chunklist_w1646479017.m3u8
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="RTPPORTUGAL " tvg-logo="",RTPPORTUGAL
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b640000_slpt.m3u8
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="TVCLIMA " tvg-logo="",TVCLIMA
+https://stmv1.srvstm.com/tvcadm/tvcadm/playlist.m3u8?wowzasessionid=1238638288
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="TVCLIMA2 " tvg-logo="",TVCLIMA2
+https://stmv1.srvstm.com/tvcadm/tvcadm/playlist.m3u8?wowzasessionid=120310324
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="TVBRASIL " tvg-logo="",TVBRASIL
+http://streaming.procergs.com.br:1935/tve/stve/chunklist_w2130077699.m3u8
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="SBTGO " tvg-logo="",SBTGO
+https://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/chunklist_w1903704781_b1000000.m3u8
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="SBT2 " tvg-logo="",SBT2
+http://proxyts.canais.vip:8084/hls1/sbt.m3u8
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="SBTPIAUI " tvg-logo="",SBTPIAUI
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="SBTINTERIORSP " tvg-logo="",SBTINTERIORSP
+https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist.m3u8
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="FISHTV " tvg-logo="",FISHTV
+http://proxyts.canais.info:8084/hls1/fishtv.m3u8
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="BAND " tvg-logo="",BAND
+https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="BAND2 " tvg-logo="",BAND2
+https://r1---sn-bg0eznek.c.2mdn.net/videoplayback/id/d812b94d63c79eca/itag/347/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3724180939/sparams/acao,ctier,expire,id,ip,ipbits,itag,mip,mm,mn,ms,mv,mvi,pl,source/signature/189291573940B5F277251DDE8DC0CCACEA23C07F.77102F113A097F4422572570C4D4101249B9394B/key/cms1/cms_redirect/yes/mip/177.200.113.195/mm/42/mn/sn-bg0eznek/ms/onc/mt/1583867721/mv/u/mvi/0/pl/24/file/file.mp4https://r1---sn-bg0eznek.c.2mdn.net/videoplayback/id/d812b94d63c79eca/itag/347/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3724180939/sparams/acao,ctier,expire,id,ip,ipbits,itag,mip,mm,mn,ms,mv,mvi,pl,source/signature/189291573940B5F277251DDE8DC0CCACEA23C07F.77102F113A097F4422572570C4D4101249B9394B/key/cms1/cms_redirect/yes/mip/177.200.113.195/mm/42/mn/sn-bg0eznek/ms/onc/mt/1583867721/mv/u/mvi/0/pl/24/file/file.mp4
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="BAND3 " tvg-logo="",BAND3
+http://proxyts.canais.info:8084/hls1/band.m3u8
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="FUTURA " tvg-logo="",FUTURA
+http://caikron.com.br:1935/unipar/tvup/chunklist_w53367588.m3u8
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="RECORDNEWS " tvg-logo="",RECORDNEWS
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="TVALJAZEERAARABE " tvg-logo="",TVALJAZEERAARABE
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="TVALJAZEERAINGLES " tvg-logo="",TVALJAZEERAINGLES
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index4147.m3u8
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="RECORDDF " tvg-logo="",RECORDdf
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="RECORDRIO " tvg-logo="",RECORDRIO
+http://proxyts.canais.vip:8084/hls1/recordsp.m3u8
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="RECORDSP " tvg-logo="",RECORDSP
+http://proxyts.canais.info:8084/hls1/recordsp.m3u8
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="REDETVRS " tvg-logo="",REDETVRS
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w1379590905.m3u8
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="REDETVSP " tvg-logo="",REDETVSP
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
+
+#EXTINF:-1 group-title="Canais em teste" tvg-name="REDETV " tvg-logo="",REDETV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
+
+#EXTINF:-1 group-title="Teste Filme" tvg-name="vingadoresguerrainfinita " tvg-logo="",vingadoresguerrainfinita
+https://cdn.netcine.info/html/content/delivery/filmes2018/VINGADORES4DUBHD-BAIXO.mp4?token=wiIv3RNCDHKEhCcptsEftA&expires=1583991550
+
+#EXTINF:-1 group-title="Teste Filme" tvg-name="vingadoresultimato " tvg-logo="",vingadoresultimato
+https://cdn.netcine.info/html/content/conteudolb4/filmes2019/VINGADORESHDFULLDUB-BAIXO.mp4?token=bmgE4CWKm02VGsP8OqEAjA&expires=1583991468&ip=177.200.113.195
+
+#EXTINF:-1 group-title="Teste Filme" tvg-name="oautodacompadecida " tvg-logo="",oautodacompadecida
+https://cdn.netcine.info/html/content/conteudolb4/filmes2019/OAUTODACOMPARECIDA-BAIXO.mp4?token=x4FmKPi03ksNuZFMYRNv8Q&expires=1583990481&ip=177.200.113.195
+
+#EXTINF:-1 group-title="Teste Filme" tvg-name="fenixnegra " tvg-logo="",fenixnegra
+https://cdn.netcine.info/html/content/conteudolb4/filmes2019/XMENFENIXNEGRADUBHDFULL-BAIXO.mp4?token=uOMYyGAOUt1vSVH9MAeMLw&expires=1583991246&ip=177.200.113.195
+
+#EXTINF:-1 group-title="Teste Filme" tvg-name="devoltaparaofuturo1 " tvg-logo="",devoltaparaofuturo1
+https://cdn.netcine.info/html/content/httpdelivery-auth024846/filmes2018/DEVOLTAPARAOFUTURODUB-BAIXO.mp4?token=cd2AUVG2feWN2PqwJOX2Cw&expires=1583992811
+
+#EXTINF:-1 group-title="Teste Filme" tvg-name="devoltaparaofuturo2 " tvg-logo="",devoltaparaofuturo2
+https://cdn.netcine.info/html/content/httpdelivery-auth024846/filmes2018/DEVOLTAPARAOFUTURO2DUB-BAIXO.mp4?token=YXsVQGI-rn74ZEIqw-IitA&expires=1583992967
+
+#EXTINF:-1 group-title="Teste Filme" tvg-name="devoltaparaofuturo3 " tvg-logo="",devoltaparaofuturo3
+https://cdn.netcine.info/html/content/httpdelivery-auth024846/filmes2018/DEVOLTAPARAOFUTURO3DUB-BAIXO.mp4?token=2kh-igQDkxMwcDohZSciGA&expires=1583992847
+
+#EXTINF:-1 group-title="Teste Filme" tvg-name="falaserio " tvg-logo="",falaserio
+https://cdn.netcine.info/html/content/httpdelivery-auth024846/filmes2018/FALASERIEMAE-BAIXO.mp4?token=lgKRWkmcyflsTw-Pwj8FYA&expires=1583993308
+
