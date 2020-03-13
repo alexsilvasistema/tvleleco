@@ -158,20 +158,20 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.
 #EXTINF:-1 group-title="Aberta" tvg-name="TVNATAL " tvg-logo="",TVNATAL
 http://stmv6.conectastm.com/antonioflavio9466/antonioflavio9466/playlist.m3u8?wowzasessionid=1108698460
 
-#EXTINF:-1 group-title="Aberta" tvg-name="GloboRJ " tvg-logo="",GloboRJ
-http://proxyts.canais.info:8084/hls1/boborj.m3u8
+#EXTINF:-1 group-title="Aberta" tvg-name="GloboSP1 " tvg-logo="",GloboSP1
+https://cerbot.kastream.biz/edge/veref41adf600cc33b7ee4cd14777ef4965/chunks.m3u8?nimblesessionid=190560&wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIwIDEwOjEzOjUwIFBNJmhhc2hfdmFsdWU9YkRyNkdpYmZsUW1zbUhvR241TTI1Zz09JnZhbGlkbWludXRlcz0xMjA=
 
 #EXTINF:-1 group-title="Aberta" tvg-name="GloboSP " tvg-logo="",GloboSP
 http://proxyts.canais.info:8084/hls1/bobosp.m3u8
 
+#EXTINF:-1 group-title="Aberta" tvg-name="GloboSP2 " tvg-logo="",GloboSP2
+http://cerbot.kastream.biz:8081/edge/veref41adf600cc33b7ee4cd14777ef4965/chunks.m3u8?nimblesessionid=190762&wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIwIDEwOjIwOjQ3IFBNJmhhc2hfdmFsdWU9bzJxSmN2cUROK01RY2M1Y3pPN2pqQT09JnZhbGlkbWludXRlcz0xMjA=
+
+#EXTINF:-1 group-title="Aberta" tvg-name="GloboRJ " tvg-logo="",GloboRJ
+http://proxyts.canais.vip:8084/hls1/boborj.m3u8
+
 #EXTINF:-1 group-title="Aberta" tvg-name="tvverdescamposSAT " tvg-logo="",tvverdescamposSAT
 https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
-
-#EXTINF:-1 group-title="Aberta" tvg-name="GloboNORDESTE " tvg-logo="",GloboNORDESTE
-http://proxyts.canais.vip:8084/hls1/bobonordeste.m3u8
-
-#EXTINF:-1 group-title="Aberta" tvg-name="GloboBAHIA " tvg-logo="",GloboBAHIA
-http://proxyts.canais.info:8084/hls1/bobonordeste.m3u8
 
 #EXTINF:-1 group-title="Aberta" tvg-name="TERRAVIVA " tvg-logo="",TERRAVIVA
 https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w225696193.m3u8
@@ -256,7 +256,6 @@ http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
 
 
 
-
 #EXTINF:-1 group-title="Esportes" tvg-name="ALLSPORTS " tvg-logo="",ALLSPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
@@ -282,11 +281,8 @@ http://serv1.videovox.pw/eduardo2183/eduardo2183/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Filme Sob Demanda" tvg-name="MinhaMãeeumapeça3 " tvg-logo=""minhaMãeemapeça3
+#EXTINF:-1 group-title="Filme Sob Demanda" tvg-name="MinhaMãeeumapeça3 " tvg-logo="",MinhaMãeemapeça3
 https://s-delivery15.mxdcontent.net/v/d687cba29bf66892c1c204fdcd50ec60.mp4?s=2FyKSiIm0sf4LGhm36aSAg&e=1584086431
-
-#EXTINF:-1 group-title="Filme Sob Demanda" tvg-name="vingadoresultimato " tvg-logo="",vingadoresultimato
-https://cdn.netcine.info/html/content/conteudolb4/filmes2019/VINGADORESHDFULLDUB-BAIXO.mp4?token=bmgE4CWKm02VGsP8OqEAjA&expires=1583991468&ip=177.200.113.195
 
 #EXTINF:-1 group-title="Filme Sob Demanda" tvg-name="oautodacompadecida " tvg-logo="",oautodacompadecida
 https://cdn.netcine.info/html/content/conteudolb4/filmes2019/OAUTODACOMPARECIDA-BAIXO.mp4?token=xxo8qfKaEc_NOF2Q8mUjDg&expires=1584079304&ip=177.200.113.195
@@ -302,7 +298,6 @@ https://cdn.netcine.info/html/content/httpdelivery-auth024846/filmes2018/DEVOLTA
 
 
 
-
 #EXTINF:-1 group-title="Filme fixos" tvg-name="Corrente do bem " tvg-logo="",CorrenteDoBem
 https://videos.files.wordpress.com/KOhDo3TN/a-corrente-do-bem_fmt1.ogv?_=1
 
@@ -311,4 +306,3 @@ https://videos.files.wordpress.com/78g7EKYp/tropa-de-elite-2007-dvdrip-xvid-nsie
 
 #EXTINF:-1 group-title="Filme fixos" tvg-name="Genio Indomavel " tvg-logo="",GenioIndomavel
 https://blogdosampaiodotcom.files.wordpress.com/2015/03/gc3aanio-indomc3a1vel-1997.mp4?_=1
-
