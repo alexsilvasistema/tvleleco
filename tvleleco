@@ -299,13 +299,29 @@ https://www.googleapis.com/drive/v3/files/1c0bP1VhP_kVYV8aLsSUwosef_HGYCHJx?alt=
 #EXTINF:-1 group-title="Filme fixos" tvg-name="De volta para o futuro3 " tvg-logo="",DeVoltaParaOFuturo3
 https://www.googleapis.com/drive/v3/files/1_zxzblhnUM9iWE4gJCp-ueDJ1uiZj6av?alt=media&key=AIzaSyCLBaoK0z2PwWbCleg9pbR4UkfbtMNZ_7s
 
+#EXTINF:-1 group-title="Filme fixos" tvg-name="Auto da Compadecida " tvg-logo="",OAutoDaCompadecida
+https://www.googleapis.com/drive/v3/files/1ER-ZVd2he0kD2wXubZVsmj_adDoK9X_F?alt=media&key=AIzaSyCLBaoK0z2PwWbCleg9pbR4UkfbtMNZ_7s
+
+#EXTINF:-1 group-title="Filme fixos" tvg-name="Fala Serio Mae " tvg-logo="",FalaSerioMae
+https://www.googleapis.com/drive/v3/files/1KDmbgnCF8Olg_ut_-pTdPWQYof2rCfuL?alt=media&key=AIzaSyCLBaoK0z2PwWbCleg9pbR4UkfbtMNZ_7s
+
+#EXTINF:-1 group-title="Filme fixos" tvg-name="Troia " tvg-logo="",Troia
+https://www.googleapis.com/drive/v3/files/1pRGPY1BqnUho7uE_Aw9KNy3tPRtQ-heK?alt=media&key=AIzaSyCLBaoK0z2PwWbCleg9pbR4UkfbtMNZ_7s
+
+#EXTINF:-1 group-title="Filme fixos" tvg-name="Minha Fama de Mau " tvg-logo="",MinhaFamadeMau
+https://www.googleapis.com/drive/v3/files/?alt=media&key=AIzaSyCLBaoK0z2PwWbCleg9pbR4UkfbtMNZ_7s
+
+#EXTINF:-1 group-title="Filme fixos" tvg-name="Coracao Valente " tvg-logo="",Coracao Valente
+https://www.googleapis.com/drive/v3/files/?alt=media&key=AIzaSyCLBaoK0z2PwWbCleg9pbR4UkfbtMNZ_7s
+
+#EXTINF:-1 group-title="Shows" tvg-name="Banda Calypso " tvg-logo="",Banda Calypso
+https://www.googleapis.com/drive/v3/files/1w6gwkcB8mT461MADE5RneZwBN7v2hboY?alt=media&key=AIzaSyCLBaoK0z2PwWbCleg9pbR4UkfbtMNZ_7s
 
 
 
 
-
-#EXTINF:-1 group-title="Filmes Demanda" tvg-name="Especial de Natal prg" tvg-logo="",EspecialdeNatalprg
+#EXTINF:-1 group-title="Filmes Demanda" tvg-name="Especial de Natal " tvg-logo="",EspecialdeNatal
 https://www1415.o0-3.com/token=lXcKKfTtUAXoesctpJr7zg/1584155534/177.200.0.0/94/f/35/897000804b37cdcf1426bed3240e335f-480p.mp4
 
-#EXTINF:-1 group-title="Filmes Demanda" tvg-name="sonic prg" tvg-logo="",sonicprg
+#EXTINF:-1 group-title="Filmes Demanda" tvg-name="sonic " tvg-logo="",sonic
 https://www579.o0-2.com/token=0uUZndK_ZMZmTw6tjur4pw/1584155773/177.200.0.0/86/5/d9/3ecd21b1e506ce05364462c63156bd95-480p.mp4
