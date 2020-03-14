@@ -281,29 +281,6 @@ http://serv1.videovox.pw/eduardo2183/eduardo2183/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Filme Sob Demanda" tvg-name="MinhaMãeeumapeça3 " tvg-logo="",MinhaMãeemapeça3
-https://s-delivery15.mxdcontent.net/v/d687cba29bf66892c1c204fdcd50ec60.mp4?s=2FyKSiIm0sf4LGhm36aSAg&e=1584086431
-
-#EXTINF:-1 group-title="Filme Sob Demanda" tvg-name="oautodacompadecida " tvg-logo="",oautodacompadecida
-https://cdn.netcine.info/html/content/conteudolb4/filmes2019/OAUTODACOMPARECIDA-BAIXO.mp4?token=xxo8qfKaEc_NOF2Q8mUjDg&expires=1584079304&ip=177.200.113.195
-
-#EXTINF:-1 group-title="Filme Sob Demanda" tvg-name="devoltaparaofuturo1 " tvg-logo="",devoltaparaofuturo1
-https://cdn.netcine.info/html/content/httpdelivery-auth024846/filmes2018/DEVOLTAPARAOFUTURODUB-BAIXO.mp4?token=cd2AUVG2feWN2PqwJOX2Cw&expires=1583992811
-
-#EXTINF:-1 group-title="Filme Sob Demanda" tvg-name="devoltaparaofuturo2 " tvg-logo="",devoltaparaofuturo2
-https://cdn.netcine.info/html/content/httpdelivery-auth024846/filmes2018/DEVOLTAPARAOFUTURO2DUB-BAIXO.mp4?token=YXsVQGI-rn74ZEIqw-IitA&expires=1583992967
-
-#EXTINF:-1 group-title="Filme Sob Demanda" tvg-name="devoltaparaofuturo3 " tvg-logo="",devoltaparaofuturo3
-https://cdn.netcine.info/html/content/httpdelivery-auth024846/filmes2018/DEVOLTAPARAOFUTURO3DUB-BAIXO.mp4?token=2kh-igQDkxMwcDohZSciGA&expires=1583992847
-
-#EXTINF:-1 group-title="Filme Sob Demanda" tvg-name="avesderapina " tvg-logo="",avesderapina
-https://redirector.googlevideo.com/videoplayback?expire=1584145659&ei=2whsXqqhFJ-E6dsP7NiHuA0&ip=94.130.57.103&id=acebed833cd34b34&itag=22&source=picasa&begin=0&requiressl=yes&mh=F7&mm=30&mn=sn-4g5edned&ms=nxu&mv=m&mvi=0&pl=23&sc=yes&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=6040.647&lmt=1584061546721761&mt=1584138379&sparams=expire,ei,ip,id,itag,source,requiressl,susc,app,mime,cnr,dur,lmt&sig=ADKhkGMwRQIgQwLZ8PkscmU39QHlgSB_8SSAJTPu9_aZX1K9lkxtkJYCIQC6nyRU7j8-7HydsbtDOfNTqz8WCk34XdBeUlR0yG1Zdg==&lsparams=mh,mm,mn,ms,mv,mvi,pl,sc&lsig=ABSNjpQwRQIgIBylm-8VRtdUWJNhFeX9upQA7LYSyqQ6GkeEkxWfiSkCIQDuGdiPkOgICWuafEQ2i6TjLO2ibi4jGwz4tM8l--wDZQ==
-
-#EXTINF:-1 group-title="Filme Sob Demanda" tvg-name="avesderapina2aopc " tvg-logo="",avesderapina2aopc
-https://r1---sn-bg07dnle.googlevideo.com/videoplayback?expire=1584145659&ei=2whsXqqhFJ-E6dsP7NiHuA0&ip=94.130.57.103&id=acebed833cd34b34&itag=22&source=picasa&begin=0&requiressl=yes&sc=yes&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=6040.647&lmt=1584061546721761&sparams=expire,ei,ip,id,itag,source,requiressl,susc,app,mime,cnr,dur,lmt&sig=ADKhkGMwRQIgQwLZ8PkscmU39QHlgSB_8SSAJTPu9_aZX1K9lkxtkJYCIQC6nyRU7j8-7HydsbtDOfNTqz8WCk34XdBeUlR0yG1Zdg==&cms_redirect=yes&mh=F7&mip=177.200.113.195&mm=30&mn=sn-bg07dnle&ms=nxu&mt=1584140481&mv=m&mvi=0&pl=24&lsparams=mh,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=ABSNjpQwRgIhANBRYQCL6dTECD38KaQLn5xMLid-BS6KemnpWuY_Tp_8AiEAxzhXs4UAoJ9FCGMaZVc-GmkM7bOs0Rpq2pIQx_-Zg2g%3D
-
-
-
 #EXTINF:-1 group-title="Filme fixos" tvg-name="Corrente do bem " tvg-logo="",CorrenteDoBem
 https://videos.files.wordpress.com/KOhDo3TN/a-corrente-do-bem_fmt1.ogv?_=1
 
@@ -316,9 +293,19 @@ https://blogdosampaiodotcom.files.wordpress.com/2015/03/gc3aanio-indomc3a1vel-19
 #EXTINF:-1 group-title="Filme fixos" tvg-name="De volta para o futuro1 " tvg-logo="",DeVoltaParaOFuturo1
 https://www.googleapis.com/drive/v3/files/1CVH-GAxjurXY2_PqvEoufgL0MXk73e6l?alt=media&key=AIzaSyCLBaoK0z2PwWbCleg9pbR4UkfbtMNZ_7s
 
+#EXTINF:-1 group-title="Filme fixos" tvg-name="De volta para o futuro2 " tvg-logo="",DeVoltaParaOFuturo2
+https://www.googleapis.com/drive/v3/files/1c0bP1VhP_kVYV8aLsSUwosef_HGYCHJx?alt=media&key=AIzaSyCLBaoK0z2PwWbCleg9pbR4UkfbtMNZ_7s
 
-#EXTINF:-1 group-title="Filme teste" tvg-name="Especial de Natal prg" tvg-logo="",EspecialdeNatalprg
+#EXTINF:-1 group-title="Filme fixos" tvg-name="De volta para o futuro3 " tvg-logo="",DeVoltaParaOFuturo3
+https://www.googleapis.com/drive/v3/files/1_zxzblhnUM9iWE4gJCp-ueDJ1uiZj6av?alt=media&key=AIzaSyCLBaoK0z2PwWbCleg9pbR4UkfbtMNZ_7s
+
+
+
+
+
+
+#EXTINF:-1 group-title="Filmes Demanda" tvg-name="Especial de Natal prg" tvg-logo="",EspecialdeNatalprg
 https://www1415.o0-3.com/token=lXcKKfTtUAXoesctpJr7zg/1584155534/177.200.0.0/94/f/35/897000804b37cdcf1426bed3240e335f-480p.mp4
 
-#EXTINF:-1 group-title="Filme teste" tvg-name="sonic prg" tvg-logo="",sonicprg
+#EXTINF:-1 group-title="Filmes Demanda" tvg-name="sonic prg" tvg-logo="",sonicprg
 https://www579.o0-2.com/token=0uUZndK_ZMZmTw6tjur4pw/1584155773/177.200.0.0/86/5/d9/3ecd21b1e506ce05364462c63156bd95-480p.mp4
