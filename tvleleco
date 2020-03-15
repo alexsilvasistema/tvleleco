@@ -328,13 +328,70 @@ https://www.googleapis.com/drive/v3/files/16M7_qLEL65M93S9qEyaUc87wZjU25hdh?alt=
 
 
 
-
 #EXTINF:-1 group-title="Shows" tvg-name="Banda Calypso " tvg-logo="",BandaCalypso
-https://r5---sn-bg0ezn7y.googlevideo.com/videoplayback?expire=1584224893&ei=XT5tXqDMGLCB-LAPmc21wAs&ip=177.200.114.18&id=bd27364b48bcefd6&itag=15&source=picasa&begin=0&requiressl=yes&sc=yes&susc=ph&app=fife&mime=video/mp4&dur=0.000&lmt=1584217405803193&cpn=QsN2z71IvQDf-bmA&c=WEB_EMBEDDED_PLAYER&cver=20200312&sparams=expire,ei,ip,id,itag,source,requiressl,susc,app,mime,dur,lmt&sig=ADKhkGMwRQIgLQJfLGoE3fC_z4x5P6k_8glNM5mulxjevXUzOfG1VB4CIQDe050VZUC-jwfeKZu-hmqtk12taFo8JWGankt1B_UGVg==&redirect_counter=1&cm2rm=sn-bg0dr76&req_id=67f48458bb2436e2&cms_redirect=yes&mh=h-&mm=34&mn=sn-bg0ezn7y&ms=ltu&mt=1584217645&mv=u&mvi=4&pl=24&lsparams=mh,mm,mn,ms,mv,mvi,pl,sc&lsig=ABSNjpQwRgIhAOi5rgwr4GIKsfgttA04y7Zlkfu_AK3k2kmdY52vNnugAiEA3XaO5q2a8qfhh53_deBkcsf6cf1ojjcllEqlBTi0nQg%3D
+https://www.googleapis.com/drive/v3/files/1w6gwkcB8mT461MADE5RneZwBN7v2hboY?alt=media&key=AIzaSyB0uihpdoyNdGD4VCXmgeW-AZc9RAGQ4VU
 
 
-#EXTINF:-1 group-title="Filmes Demanda" tvg-name="Especial de Natal " tvg-logo="",EspecialdeNatal
-https://www1415.o0-3.com/token=lXcKKfTtUAXoesctpJr7zg/1584155534/177.200.0.0/94/f/35/897000804b37cdcf1426bed3240e335f-480p.mp4
+#EXTINF:-1 group-title="Canais Especiais 24h",Discovery1
+http://lb.kstream.org/aovivo/SD_DISCOVERY/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 group-title="Canais Especiais 24h",DiscoveryHD
+http://lb.kstream.org/aovivo/HD_DISCOVERY/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 group-title="Canais Especiais 24h",Discovery2
+http://lb.kstream.org/aovivo/HD_DISCOVERY_ALTER/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
 
-#EXTINF:-1 group-title="Filmes Demanda" tvg-name="sonic " tvg-logo="",sonic
-https://www579.o0-2.com/token=0uUZndK_ZMZmTw6tjur4pw/1584155773/177.200.0.0/86/5/d9/3ecd21b1e506ce05364462c63156bd95-480p.mp4
+#EXTINF:-1 group-title="Canais Especiais 24h",Combate1
+http://lb.kstream.org/aovivo/SD_COMBATE/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 group-title="Canais Especiais 24h",CombateHD
+http://lb.kstream.org/aovivo/HD_COMBATE/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 group-title="Canais Especiais 24h",Combate2
+http://lb.kstream.org/aovivo/HD_COMBATE_ALTER/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+
+#EXTINF:-1 group-title="Canais Especiais 24h",GloboTVBAHIA
+http://lb.kstream.org/aovivo/SD_GLOBO_TV_BAHIA/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+
+#EXTINF:-1 group-title="Canais Especiais 24h",RecordBAHIA
+http://lb.kstream.org/aovivo/HD_RECORD_BA/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+
+
+#EXTINF:-1 group-title="Canais Especiais 24h",Premiere2
+http://lb.kstream.org/aovivo/SD_PFC_2/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 group-title="Canais Especiais 24h",Premiere2HD
+http://lb.kstream.org/aovivo/HD_PFC_2/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 group-title="Canais Especiais 24h",Premiere2SD
+http://lb.kstream.org/aovivo/HD_PFC_2_ALTER/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 group-title="Canais Especiais 24h",Premiere3
+http://lb.kstream.org/aovivo/SD_PFC_3/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 group-title="Canais Especiais 24h",Premiere3HD
+http://lb.kstream.org/aovivo/HD_PFC_3/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 group-title="Canais Especiais 24h",Premiere3SD
+http://lb.kstream.org/aovivo/HD_PFC_3_ALTER/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 group-title="Canais Especiais 24h",Premiere4
+http://lb.kstream.org/aovivo/SD_PFC_4/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 group-title="Canais Especiais 24h",Premiere4HD
+http://lb.kstream.org/aovivo/HD_PFC_4/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 group-title="Canais Especiais 24h",Premiere4SD
+http://lb.kstream.org/aovivo/HD_PFC_4_ALTER/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 group-title="Canais Especiais 24h",Premiere5
+http://lb.kstream.org/aovivo/SD_PFC_5/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 group-title="Canais Especiais 24h",Premiere5HD
+http://lb.kstream.org/aovivo/HD_PFC_5/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 group-title="Canais Especiais 24h",Premiere5SD
+http://lb.kstream.org/aovivo/HD_PFC_5_ALTER/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 group-title="Canais Especiais 24h",Premiere6
+http://lb.kstream.org/aovivo/SD_PFC_6/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 group-title="Canais Especiais 24h",Premiere6HD
+http://lb.kstream.org/aovivo/HD_PFC_6/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 group-title="Canais Especiais 24h",Premiere6SD
+http://lb.kstream.org/aovivo/HD_PFC_6_ALTER/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 group-title="Canais Especiais 24h",Premiere7
+http://lb.kstream.org/aovivo/SD_PFC_7/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 group-title="Canais Especiais 24h",Premiere7HD
+http://lb.kstream.org/aovivo/HD_PFC_7/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 group-title="Canais Especiais 24h",Premiere7SD
+http://lb.kstream.org/aovivo/HD_PFC_7_ALTER/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1 group-title="Canais Especiais 24h",Premiere8
+http://lb.kstream.org/aovivo/SD_PFC_8/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+
+
+
+
