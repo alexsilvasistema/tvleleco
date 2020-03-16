@@ -171,10 +171,10 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.
 http://stmv6.conectastm.com/antonioflavio9466/antonioflavio9466/playlist.m3u8?wowzasessionid=1108698460
 
 #EXTINF:-1 group-title="Aberta" tvg-name="GloboSP " tvg-logo="",GloboSP
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_5762f0670dd9d9261ce831c7698352f61946699b/playlist.m3u8
+http://proxyts.canais.info:8084/hls1/bobosp.m3u8
 
-#EXTINF:-1 group-title="Aberta" tvg-name="GloboSP2 " tvg-logo="",GloboSP2
-https://cerbot.kastream.biz/edge/veref41adf600cc33b7ee4cd14777ef4965/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNi8yMDIwIDI6NDc6MjMgQU0maGFzaF92YWx1ZT1tQXh1ZHJZT25MdVZwdXNSVUdQL2RBPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:-1 group-title="Aberta" tvg-name="GloboRJ " tvg-logo="",GloboRJ
+http://proxyts.canais.vip:8084/hls1/boborj.m3u8
 
 #EXTINF:-1 group-title="Aberta" tvg-name="tvverdescamposSAT " tvg-logo="",tvverdescamposSAT
 https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
@@ -336,4 +336,20 @@ https://www.googleapis.com/drive/v3/files/16M7_qLEL65M93S9qEyaUc87wZjU25hdh?alt=
 #EXTINF:-1 group-title="Shows" tvg-name="Banda Calypso " tvg-logo="",BandaCalypso
 https://www.googleapis.com/drive/v3/files/1w6gwkcB8mT461MADE5RneZwBN7v2hboY?alt=media&key=AIzaSyB0uihpdoyNdGD4VCXmgeW-AZc9RAGQ4VU
 
+
+
+#EXTINF:-1 group-title="Testes" tvg-name="SPORTV1 " tvg-logo="",SPORTV1
+http://cerbot.kastream.biz:8081/edge/vrb73bc4850c6bdbae7e8012a8aef49dda/chunks.m3u8?nimblesessionid=403741&wmsAuthSign=c2VydmVyX3RpbWU9My8xNi8yMDIwIDk6MTU6MjIgUE0maGFzaF92YWx1ZT1KU3FqOGlmcWZ6VDJMZGhSTjdqNS9nPT0mdmFsaWRtaW51dGVzPTEyMA==
+
+#EXTINF:-1 group-title="Testes" tvg-name="Globo " tvg-logo="",Globo
+https://cerbot.kastream.biz/edge/veref41adf600cc33b7ee4cd14777ef4965/chunks.m3u8?nimblesessionid=403174&wmsAuthSign=c2VydmVyX3RpbWU9My8xNi8yMDIwIDk6MDA6NDEgUE0maGFzaF92YWx1ZT0wbi82R2ZQakpmek4wY2s0dXdVQlJRPT0mdmFsaWRtaW51dGVzPTEyMA==
+
+#EXTINF:-1 group-title="Testes" tvg-name="TNT " tvg-logo="",TNT
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tnt_9109c85a_7115cd159abbb1f86e9b156faf9b9c341425bf93/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES Testes",O AMOR E CEGO
+https://s1.formulaeemagrecimento.top/stream/1080/279ed2bddb17c2384cbe467756c9afe4/
+
+#EXTINF:-1 group-title="FILMES Testes",VINGADORES GUERRA INFINITA
+https://s4.formulaeemagrecimento.top/stream/1080/13324d2c35fdd92af57c54420758947f/
 
