@@ -5,6 +5,18 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1149121645_b216000_sleng.m3u
 #EXTINF:-1 group-title="Aberta" tvg-name="Sbt2" tvg-logo="",Sbt2
 https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist.m3u8
 
+#EXTINF:-1 group-title="Aberta" tvg-name="SBT3 " tvg-logo="",Sbt3
+http://proxyts.canais.vip:8084/hls1/sbt.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="SBTGO " tvg-logo="",SBTGO
+https://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/chunklist_w1903704781_b1000000.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="SBTPIAUI " tvg-logo="",SBTPIAUI
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="SBTINTERIORSP " tvg-logo="",SBTINTERIORSP
+https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist.m3u8
+
 #EXTINF:-1 group-title="Aberta" tvg-name="Foradoar" tvg-logo="",Foradoar
 https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoar/chunklist.m3u8
 
@@ -158,14 +170,8 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.
 #EXTINF:-1 group-title="Aberta" tvg-name="TVNATAL " tvg-logo="",TVNATAL
 http://stmv6.conectastm.com/antonioflavio9466/antonioflavio9466/playlist.m3u8?wowzasessionid=1108698460
 
-#EXTINF:-1 group-title="Aberta" tvg-name="GloboSP1 " tvg-logo="",GloboSP1
-https://cerbot.kastream.biz/edge/veref41adf600cc33b7ee4cd14777ef4965/chunks.m3u8?nimblesessionid=190560&wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIwIDEwOjEzOjUwIFBNJmhhc2hfdmFsdWU9YkRyNkdpYmZsUW1zbUhvR241TTI1Zz09JnZhbGlkbWludXRlcz0xMjA=
-
 #EXTINF:-1 group-title="Aberta" tvg-name="GloboSP " tvg-logo="",GloboSP
 http://proxyts.canais.info:8084/hls1/bobosp.m3u8
-
-#EXTINF:-1 group-title="Aberta" tvg-name="GloboSP2 " tvg-logo="",GloboSP2
-http://cerbot.kastream.biz:8081/edge/veref41adf600cc33b7ee4cd14777ef4965/chunks.m3u8?nimblesessionid=190762&wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIwIDEwOjIwOjQ3IFBNJmhhc2hfdmFsdWU9bzJxSmN2cUROK01RY2M1Y3pPN2pqQT09JnZhbGlkbWludXRlcz0xMjA=
 
 #EXTINF:-1 group-title="Aberta" tvg-name="GloboRJ " tvg-logo="",GloboRJ
 http://proxyts.canais.vip:8084/hls1/boborj.m3u8
@@ -200,28 +206,13 @@ https://stmv1.srvstm.com/tvcadm/tvcadm/playlist.m3u8?wowzasessionid=120310324
 #EXTINF:-1 group-title="Aberta" tvg-name="TVBRASIL " tvg-logo="",TVBRASIL
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w2130077699.m3u8
 
-#EXTINF:-1 group-title="Aberta" tvg-name="SBTGO " tvg-logo="",SBTGO
-https://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/chunklist_w1903704781_b1000000.m3u8
-
-#EXTINF:-1 group-title="Aberta" tvg-name="SBT2 " tvg-logo="",SBT2
-http://proxyts.canais.vip:8084/hls1/sbt.m3u8
-
-#EXTINF:-1 group-title="Aberta" tvg-name="SBTPIAUI " tvg-logo="",SBTPIAUI
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
-
-#EXTINF:-1 group-title="Aberta" tvg-name="SBTINTERIORSP " tvg-logo="",SBTINTERIORSP
-https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist.m3u8
-
 #EXTINF:-1 group-title="Aberta" tvg-name="FISHTV " tvg-logo="",FISHTV
 http://proxyts.canais.info:8084/hls1/fishtv.m3u8
 
 #EXTINF:-1 group-title="Aberta" tvg-name="BAND " tvg-logo="",BAND
 https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
 
-#EXTINF:-1 group-title="Aberta" tvg-name="BAND2 " tvg-logo="",BAND2
-https://r1---sn-bg0eznek.c.2mdn.net/videoplayback/id/d812b94d63c79eca/itag/347/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3724180939/sparams/acao,ctier,expire,id,ip,ipbits,itag,mip,mm,mn,ms,mv,mvi,pl,source/signature/189291573940B5F277251DDE8DC0CCACEA23C07F.77102F113A097F4422572570C4D4101249B9394B/key/cms1/cms_redirect/yes/mip/177.200.113.195/mm/42/mn/sn-bg0eznek/ms/onc/mt/1583867721/mv/u/mvi/0/pl/24/file/file.mp4https://r1---sn-bg0eznek.c.2mdn.net/videoplayback/id/d812b94d63c79eca/itag/347/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3724180939/sparams/acao,ctier,expire,id,ip,ipbits,itag,mip,mm,mn,ms,mv,mvi,pl,source/signature/189291573940B5F277251DDE8DC0CCACEA23C07F.77102F113A097F4422572570C4D4101249B9394B/key/cms1/cms_redirect/yes/mip/177.200.113.195/mm/42/mn/sn-bg0eznek/ms/onc/mt/1583867721/mv/u/mvi/0/pl/24/file/file.mp4
-
-#EXTINF:-1 group-title="Aberta" tvg-name="BAND3 " tvg-logo="",BAND3
+#EXTINF:-1 group-title="Aberta" tvg-name="BAND3 " tvg-logo="",BAND2
 http://proxyts.canais.info:8084/hls1/band.m3u8
 
 #EXTINF:-1 group-title="Aberta" tvg-name="FUTURA " tvg-logo="",FUTURA
@@ -253,6 +244,20 @@ http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
 
 #EXTINF:-1 group-title="Aberta" tvg-name="REDETV " tvg-logo="",REDETV
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="RECORD TV BAHIA " tvg-logo="",RECORD TV BAHIA
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="TV GAZETA " tvg-logo="",TV GAZETA
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="CNN BRASIL " tvg-logo="",CNN BRASIL
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+
+#EXTINF:-1 group-title="Aberta" tvg-name="sbt bahia aratu " tvg-logo="",sbt bahia aratu
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
+
+
 
 
 
@@ -330,68 +335,5 @@ https://www.googleapis.com/drive/v3/files/16M7_qLEL65M93S9qEyaUc87wZjU25hdh?alt=
 
 #EXTINF:-1 group-title="Shows" tvg-name="Banda Calypso " tvg-logo="",BandaCalypso
 https://www.googleapis.com/drive/v3/files/1w6gwkcB8mT461MADE5RneZwBN7v2hboY?alt=media&key=AIzaSyB0uihpdoyNdGD4VCXmgeW-AZc9RAGQ4VU
-
-
-#EXTINF:-1 group-title="Canais Especiais 24h",Discovery1
-http://lb.kstream.org/aovivo/SD_DISCOVERY/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 group-title="Canais Especiais 24h",DiscoveryHD
-http://lb.kstream.org/aovivo/HD_DISCOVERY/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 group-title="Canais Especiais 24h",Discovery2
-http://lb.kstream.org/aovivo/HD_DISCOVERY_ALTER/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-
-#EXTINF:-1 group-title="Canais Especiais 24h",Combate1
-http://lb.kstream.org/aovivo/SD_COMBATE/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 group-title="Canais Especiais 24h",CombateHD
-http://lb.kstream.org/aovivo/HD_COMBATE/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 group-title="Canais Especiais 24h",Combate2
-http://lb.kstream.org/aovivo/HD_COMBATE_ALTER/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-
-#EXTINF:-1 group-title="Canais Especiais 24h",GloboTVBAHIA
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_BAHIA/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-
-#EXTINF:-1 group-title="Canais Especiais 24h",RecordBAHIA
-http://lb.kstream.org/aovivo/HD_RECORD_BA/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-
-
-#EXTINF:-1 group-title="Canais Especiais 24h",Premiere2
-http://lb.kstream.org/aovivo/SD_PFC_2/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 group-title="Canais Especiais 24h",Premiere2HD
-http://lb.kstream.org/aovivo/HD_PFC_2/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 group-title="Canais Especiais 24h",Premiere2SD
-http://lb.kstream.org/aovivo/HD_PFC_2_ALTER/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 group-title="Canais Especiais 24h",Premiere3
-http://lb.kstream.org/aovivo/SD_PFC_3/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 group-title="Canais Especiais 24h",Premiere3HD
-http://lb.kstream.org/aovivo/HD_PFC_3/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 group-title="Canais Especiais 24h",Premiere3SD
-http://lb.kstream.org/aovivo/HD_PFC_3_ALTER/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 group-title="Canais Especiais 24h",Premiere4
-http://lb.kstream.org/aovivo/SD_PFC_4/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 group-title="Canais Especiais 24h",Premiere4HD
-http://lb.kstream.org/aovivo/HD_PFC_4/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 group-title="Canais Especiais 24h",Premiere4SD
-http://lb.kstream.org/aovivo/HD_PFC_4_ALTER/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 group-title="Canais Especiais 24h",Premiere5
-http://lb.kstream.org/aovivo/SD_PFC_5/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 group-title="Canais Especiais 24h",Premiere5HD
-http://lb.kstream.org/aovivo/HD_PFC_5/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 group-title="Canais Especiais 24h",Premiere5SD
-http://lb.kstream.org/aovivo/HD_PFC_5_ALTER/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 group-title="Canais Especiais 24h",Premiere6
-http://lb.kstream.org/aovivo/SD_PFC_6/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 group-title="Canais Especiais 24h",Premiere6HD
-http://lb.kstream.org/aovivo/HD_PFC_6/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 group-title="Canais Especiais 24h",Premiere6SD
-http://lb.kstream.org/aovivo/HD_PFC_6_ALTER/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 group-title="Canais Especiais 24h",Premiere7
-http://lb.kstream.org/aovivo/SD_PFC_7/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 group-title="Canais Especiais 24h",Premiere7HD
-http://lb.kstream.org/aovivo/HD_PFC_7/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 group-title="Canais Especiais 24h",Premiere7SD
-http://lb.kstream.org/aovivo/HD_PFC_7_ALTER/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-#EXTINF:-1 group-title="Canais Especiais 24h",Premiere8
-http://lb.kstream.org/aovivo/SD_PFC_8/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
-
-
 
 
