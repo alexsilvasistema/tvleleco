@@ -346,26 +346,36 @@ http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/6543
 
 #EXTINF:-1 group-title="Expansão",Canal Combate
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/6585
+#EXTINF:-1 group-title="Expansão",Canal Combate 1
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2076
+#EXTINF:-1 group-title="Expansão",Canal Combate 2
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2075
+#EXTINF:-1 group-title="Expansão",Canal Combate 3
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1291
+#EXTINF:-1 group-title="Expansão",Canal Combate 4
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1186
 
-#EXTINF:-1 group-title="Expansão",Faroeste 24h
+
+
+#EXTINF:-1 group-title="Expansão",24h Faroeste
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11651
 
-#EXTINF:-1 group-title="Expansão",Comedia 24h
+#EXTINF:-1 group-title="Expansão",24h Comedia
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11625
 
-#EXTINF:-1 group-title="Expansão",Ação 24h
+#EXTINF:-1 group-title="Expansão",24h Ação
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11622
 
-#EXTINF:-1 group-title="Expansão",DC comics 24h
+#EXTINF:-1 group-title="Expansão",24h DC comics
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11717
 
-#EXTINF:-1 group-title="Expansão",Fantasia 24h
+#EXTINF:-1 group-title="Expansão",24h Fantasia
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11627
 
-#EXTINF:-1 group-title="Expansão",Drama 24h
+#EXTINF:-1 group-title="Expansão",24h Drama
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11626
 
-#EXTINF:-1 group-title="Expansão",Animação 24h
+#EXTINF:-1 group-title="Expansão",24h Animação
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11716
 
 #EXTINF:-1 group-title="Expansão",Discovery channel 2
@@ -405,15 +415,66 @@ http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1345
 #EXTINF:-1 group-title="Expansão",Nickelodeon 1
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1153
 
-#EXTINF:-1 group-title="Expansão",Familia dinossauro 24h
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11587
-#EXTINF:-1 group-title="Expansão",Eu a patroa e as crianças 24h
+#EXTINF:-1 group-title="Expansão",24h Eu a patroa e as crianças
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11588
 
-#EXTINF:-1 group-title="Expansão",Os trapalhoes 24h
+#EXTINF:-1 group-title="Expansão",24h Os trapalhoes
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11593
 
+#EXTINF:-1 group-title="Expansão",Band Sports
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2060
+#EXTINF:-1 group-title="Expansão",Band Sports
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2059
 
+#EXTINF:-1 group-title="Expansão",Fox Sports 1 opção 1
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2122
+#EXTINF:-1 group-title="Expansão",Fox Sports 1 opção 2
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2121
 
+#EXTINF:-1 group-title="Expansão",Fox Sports 2 opção 1
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2124
+#EXTINF:-1 group-title="Expansão",Fox Sports 2 opção 2
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2123
 
+#EXTINF:-1 group-title="Expansão",Espn opção 1
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2105
+#EXTINF:-1 group-title="Expansão",Espn opção 2
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2104
+
+#EXTINF:-1 group-title="Expansão",Megapix
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2163
+
+#EXTINF:-1 group-title="Expansão",Studio Universal
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2221
+
+#EXTINF:-1 group-title="Expansão",SyFy
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2214
+
+#EXTINF:-1 group-title="Expansão",HBO
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2139
+
+#EXTINF:-1 group-title="Expansão",AXN
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2053
+
+#EXTINF:-1 group-title="Expansão",TNT
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2241
+
+#EXTINF:-1 group-title="Expansão",CINEMAX
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2073
+
+#EXTINF:-1 group-title="Expansão",FOX
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2113
+
+#EXTINF:-1 group-title="Expansão",SONY
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2068
+
+#EXTINF:-1 group-title="Expansão",SPORTV
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/6570
+#EXTINF:-1 group-title="Expansão",SPORTV3
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/6603
+#EXTINF:-1 group-title="Expansão",SPORTV2
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/6602
+
+#EXTINF:-1 group-title="Expansão",NAT GEO WILD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/6606
 
