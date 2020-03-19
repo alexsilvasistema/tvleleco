@@ -257,33 +257,26 @@ https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 #EXTINF:-1 group-title="Aberta" tvg-name="sbt bahia aratu " tvg-logo="",sbt bahia aratu
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
 
-
-
-
-
-#EXTINF:-1 group-title="Esportes" tvg-name="ALLSPORTS " tvg-logo="",ALLSPORTS
+#EXTINF:-1 group-title="Aberta" tvg-name="ALLSPORTS " tvg-logo="",ALLSPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
-#EXTINF:-1 group-title="Esportes" tvg-name="REALMADRITV " tvg-logo="",REALMADRITV
+#EXTINF:-1 group-title="Aberta" tvg-name="REALMADRITV " tvg-logo="",REALMADRITV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
 
-#EXTINF:-1 group-title="Esportes" tvg-name="ViaSATsporte " tvg-logo="",ViaSATsporte
+#EXTINF:-1 group-title="Aberta" tvg-name="ViaSATsporte " tvg-logo="",ViaSATsporte
 http://persik.by/stream/2944/263250/10249.m3u8
 
-#EXTINF:-1 group-title="Esportes" tvg-name="100automotoTV " tvg-logo="",100automotoTV
+#EXTINF:-1 group-title="Aberta" tvg-name="100automotoTV " tvg-logo="",100automotoTV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
-#EXTINF:-1 group-title="Esportes" tvg-name="REALMADRITV2 " tvg-logo="",REALMADRITV2
+#EXTINF:-1 group-title="Aberta" tvg-name="REALMADRITV2 " tvg-logo="",REALMADRITV2
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
 
-
-
-#EXTINF:-1 group-title="Diversos" tvg-name="filmeedesenho " tvg-logo="",filmeedesenho
+#EXTINF:-1 group-title="Aberta" tvg-name="filmeedesenho " tvg-logo="",filmeedesenho
 https://5b7f3c45ab7c2.streamlock.net/8002/8002/chunklist.m3u8
 
-#EXTINF:-1 group-title="Diversos" tvg-name="diversosceara " tvg-logo="",diversosceara
+#EXTINF:-1 group-title="Aberta" tvg-name="diversosceara " tvg-logo="",diversosceara
 http://serv1.videovox.pw/eduardo2183/eduardo2183/playlist.m3u8
-
 
 
 #EXTINF:-1 group-title="Filme fixos" tvg-name="Corrente do bem " tvg-logo="",CorrenteDoBem
@@ -339,21 +332,6 @@ https://www.googleapis.com/drive/v3/files/1w6gwkcB8mT461MADE5RneZwBN7v2hboY?alt=
 
 #EXTINF:-1 group-title="Filme Sob Demanda",O amor e cego
 https://s1.formulaeemagrecimento.top/stream/1080/279ed2bddb17c2384cbe467756c9afe4/
-
-
-#EXTINF:-1 group-title="Expansão",Discovery channel
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/6543
-
-#EXTINF:-1 group-title="Expansão",Canal Combate
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/6585
-#EXTINF:-1 group-title="Expansão",Canal Combate 1
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2076
-#EXTINF:-1 group-title="Expansão",Canal Combate 2
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2075
-#EXTINF:-1 group-title="Expansão",Canal Combate 3
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1291
-#EXTINF:-1 group-title="Expansão",Canal Combate 4
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1186
 
 
 
@@ -421,60 +399,113 @@ http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11588
 #EXTINF:-1 group-title="Expansão",24h Os trapalhoes
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11593
 
-#EXTINF:-1 group-title="Expansão",Band Sports
+#EXTINF:-1 group-title="Expansão",24H CDZ 12 CASAS
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11456
+#EXTINF:-1 group-title="Expansão",24H CDZ SANTUARIO
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11457
+#EXTINF:-1 group-title="Expansão",24H CDZ NETFLIX
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/12315
+
+
+#EXTINF:-1 group-title="Expansão",GLOBO TV BAHIA OPÇAO 1
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1953
+#EXTINF:-1 group-title="Expansão",GLOBO TV BAHIA OPÇAO 2
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1952
+
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes HD" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="Premiere",Premiere Clubes HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2199
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes.png" group-title="Premiere",Premiere Clubes
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2198
+#EXTINF:-1 tvg-id="" tvg-name="PFC" tvg-logo="http://printv.esy.es/server/PFC%20Interativo.png" group-title="Premiere",PFC
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1605
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 HD" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Premiere",Premiere 2 HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2187
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Premiere",Premiere 2
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2186
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 HD" tvg-logo="http://printv.esy.es/server/Premiere%203.png" group-title="Premiere",Premiere 3 HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2189
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3" tvg-logo="http://printv.esy.es/server/Premiere%203.png" group-title="Premiere",Premiere 3
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2188
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 HD" tvg-logo="http://printv.esy.es/server/Premiere%204.png" group-title="Premiere",Premiere 4 HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2191
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4" tvg-logo="http://printv.esy.es/server/Premiere%204.png" group-title="Premiere",Premiere 4
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2190
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 HD" tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="Premiere",Premiere 5 HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2193
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5" tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="Premiere",Premiere 5
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2192
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="http://printv.esy.es/server/Premiere%206.png" group-title="Premiere",Premiere 6 HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2195
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="http://printv.esy.es/server/Premiere%206.png" group-title="Premiere",Premiere 6
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2194
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD" tvg-logo="http://printv.esy.es/server/Premiere%207.png" group-title="Premiere",Premiere 7 HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2197
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="http://printv.esy.es/server/Premiere%207.png" group-title="Premiere",Premiere 7
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2196
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8" tvg-logo="http://printv.esy.es/server/Premiere%208.png" group-title="Premiere",Premiere 8
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1162
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 Alternativo" tvg-logo="http://printv.esy.es/server/Premiere%208.png" group-title="Premiere",Premiere 8 Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/7948
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 9" tvg-logo="http://printv.esy.es/server/Premiere%209.png" group-title="Premiere",Premiere 9
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/7947
+
+#EXTINF:-1 tvg-id="SporTV" tvg-name="Sportv HD" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="Esportes",Sportv HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2038
+#EXTINF:-1 tvg-id="SporTV" tvg-name="Sportv" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="Esportes",Sportv
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2218
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="Sportv 2 HD" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="Esportes",Sportv 2 HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2036
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="Sportv 2" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="Esportes",Sportv 2
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2219
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="Sportv 3 HD" tvg-logo="http://printv.esy.es/server/SporTV%203.png" group-title="Esportes",Sportv 3 HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2037
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="Sportv 3" tvg-logo="http://printv.esy.es/server/SporTV%203.png" group-title="Esportes",Sportv 3
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2220
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports HD" tvg-logo="http://printv.esy.es/server/Fox%20Sports%20HD.png" group-title="Esportes",Fox Sports HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2122
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports" tvg-logo="http://printv.esy.es/server/Fox%20Sports.png" group-title="Esportes",Fox Sports
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2121
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="Fox Sports 2 HD" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202%20HD.png" group-title="Esportes",Fox Sports 2 HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2124
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="Fox Sports 2" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202.png" group-title="Esportes",Fox Sports 2
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2123
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="Espn Brasil HD" tvg-logo="http://printv.esy.es/server/ESPN%20Brasil%20HD.png" group-title="Esportes",Espn Brasil HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2105
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="Espn Brasil" tvg-logo="http://printv.esy.es/server/ESPN%20Brasil.png" group-title="Esportes",Espn Brasil
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2104
+#EXTINF:-1 tvg-id="ESPN" tvg-name="Espn HD" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="Esportes",Espn HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2108
+#EXTINF:-1 tvg-id="ESPN" tvg-name="Espn" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="Esportes",Espn
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2101
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="Espn 2 HD" tvg-logo="http://printv.esy.es/server/ESPN%202.png" group-title="Esportes",Espn 2 HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2103
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="Espn 2" tvg-logo="http://printv.esy.es/server/ESPN%202.png" group-title="Esportes",Espn 2
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2102
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="Espn Extra HD" tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png" group-title="Esportes",Espn Extra HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2107
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="Espn Extra" tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png" group-title="Esportes",Espn Extra
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2106
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Plus Alternativo HD" tvg-logo="http://printv.esy.es/server/ESPN%2B%20HD.png" group-title="Esportes",ESPN Plus Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1312
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Plus Alternativo" tvg-logo="http://printv.esy.es/server/ESPN%2B.png" group-title="Esportes",ESPN Plus Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1131
+#EXTINF:-1 tvg-id="" tvg-name="EI Plus HD" tvg-logo="https://i.postimg.cc/zfDnk9XN/Esporte-Interativo-2.png" group-title="Esportes",EI Plus HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2300
+#EXTINF:-1 tvg-id="" tvg-name="EI Plus" tvg-logo="https://i.postimg.cc/zfDnk9XN/Esporte-Interativo-2.png" group-title="Esportes",EI Plus
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2301
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate HD" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",Combate HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2076
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",Combate
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2075
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate Alternativo HD" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",Combate Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1291
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate Alternativo" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",Combate Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1186
+#EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports HD" tvg-logo="http://printv.esy.es/server/Band%20Sports%20HD.png" group-title="Esportes",Band Sports HD
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2060
-#EXTINF:-1 group-title="Expansão",Band Sports
+#EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports" tvg-logo="http://printv.esy.es/server/Band%20Sports.png" group-title="Esportes",Band Sports
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2059
 
-#EXTINF:-1 group-title="Expansão",Fox Sports 1 opção 1
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2122
-#EXTINF:-1 group-title="Expansão",Fox Sports 1 opção 2
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2121
 
-#EXTINF:-1 group-title="Expansão",Fox Sports 2 opção 1
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2124
-#EXTINF:-1 group-title="Expansão",Fox Sports 2 opção 2
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2123
 
-#EXTINF:-1 group-title="Expansão",Espn opção 1
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2105
-#EXTINF:-1 group-title="Expansão",Espn opção 2
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2104
-
-#EXTINF:-1 group-title="Expansão",Megapix
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2163
-
-#EXTINF:-1 group-title="Expansão",Studio Universal
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2221
-
-#EXTINF:-1 group-title="Expansão",SyFy
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2214
-
-#EXTINF:-1 group-title="Expansão",HBO
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2139
-
-#EXTINF:-1 group-title="Expansão",AXN
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2053
-
-#EXTINF:-1 group-title="Expansão",TNT
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2241
-
-#EXTINF:-1 group-title="Expansão",CINEMAX
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2073
-
-#EXTINF:-1 group-title="Expansão",FOX
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2113
-
-#EXTINF:-1 group-title="Expansão",SONY
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2068
-
-#EXTINF:-1 group-title="Expansão",SPORTV
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/6570
-#EXTINF:-1 group-title="Expansão",SPORTV3
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/6603
-#EXTINF:-1 group-title="Expansão",SPORTV2
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/6602
-
-#EXTINF:-1 group-title="Expansão",NAT GEO WILD
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/6606
 
