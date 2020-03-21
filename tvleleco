@@ -1,0 +1,239 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="Globo RJ FHD" tvg-logo="http://printv.esy.es/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1943
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="Globo RJ HD" tvg-logo="http://printv.esy.es/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1942
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="Globo RJ" tvg-logo="http://printv.esy.es/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1941
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo RJ Alternativo HD" tvg-logo="http://printv.esy.es/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2617
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="Globo RJ Alternativo" tvg-logo="http://printv.esy.es/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2618
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP UHD" tvg-logo="http://printv.esy.es/server/Globo%20São%20Paulo.png" group-title="Canais Globo",Globo SP UHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2334
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP FHD" tvg-logo="http://printv.esy.es/server/Globo%20São%20Paulo.png" group-title="Canais Globo",Globo SP FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1949
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="http://printv.esy.es/server/Globo%20São%20Paulo.png" group-title="Canais Globo",Globo SP HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1948
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="http://printv.esy.es/server/Globo%20São%20Paulo.png" group-title="Canais Globo",Globo SP
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1947
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP Alternativo HD" tvg-logo="http://printv.esy.es/server/Globo%20S%C3%A3o%20Paulo.png" group-title="Canais Globo",Globo SP Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2619
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP Alternativo" tvg-logo="http://printv.esy.es/server/Globo%20S%C3%A3o%20Paulo.png" group-title="Canais Globo",Globo SP Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2620
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="Globo MG FHD" tvg-logo="http://printv.esy.es/server/Globo%20Minas.png" group-title="Canais Globo",Globo MG FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1981
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="Globo MG HD" tvg-logo="http://printv.esy.es/server/Globo%20Minas.png" group-title="Canais Globo",Globo MG HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1933
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="Globo MG" tvg-logo="http://printv.esy.es/server/Globo%20Minas.png" group-title="Canais Globo",Globo MG
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1932
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba FHD" tvg-logo="http://printv.esy.es/server/RPC%20TV%20Curitiba.png" group-title="Canais Globo",Globo RPC Curitiba FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1946
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba HD²" tvg-logo="http://printv.esy.es/server/RPC%20TV%20Curitiba.png" group-title="Canais Globo",Globo RPC Curitiba HD²
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1945
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba" tvg-logo="http://printv.esy.es/server/RPC%20TV%20Curitiba.png" group-title="Canais Globo",Globo RPC Curitiba
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1944
+#EXTINF:-1 tvg-id="Globo BrasÃ­lia" tvg-name="Globo Brasilia FHD" tvg-logo="http://printv.esy.es/server/Globo%20Bras%C3%ADlia.png" group-title="Canais Globo",Globo Brasilia FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1979
+#EXTINF:-1 tvg-id="Globo BrasÃ­lia" tvg-name="Globo Brasilia HD" tvg-logo="http://printv.esy.es/server/Globo%20Bras%C3%ADlia.png" group-title="Canais Globo",Globo Brasilia HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1924
+#EXTINF:-1 tvg-id="Globo BrasÃ­lia" tvg-name="Globo Brasilia" tvg-logo="http://printv.esy.es/server/Globo%20Bras%C3%ADlia.png" group-title="Canais Globo",Globo Brasilia
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2034
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="Globo Nordeste FHD" tvg-logo="http://printv.esy.es/server/Globo%20Nordeste.png" group-title="Canais Globo",Globo Nordeste FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1982
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="Globo Nordeste HD" tvg-logo="http://printv.esy.es/server/Globo%20Nordeste.png" group-title="Canais Globo",Globo Nordeste HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1935
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="Globo Nordeste" tvg-logo="http://printv.esy.es/server/Globo%20Nordeste.png" group-title="Canais Globo",Globo Nordeste
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1934
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes Mares Fortaleza" tvg-logo="http://printv.esy.es/server/TV%20Verdes%20Mares.png" group-title="Canais Globo",Globo TV Verdes Mares Fortaleza
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1962
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Vanguarda S. J. Dos Campos" tvg-logo="http://printv.esy.es/server/TV%20Vanguarda.png" group-title="Canais Globo",Globo TV Vanguarda S. J. Dos Campos
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1961
+#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Tribuna Santos" tvg-logo="http://printv.esy.es/server/TV%20Tribuna.png" group-title="Canais Globo",Globo Tv Tribuna Santos
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1960
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Sorocaba" tvg-logo="http://printv.esy.es/server/TV%20Tem%20Bauru.png" group-title="Canais Globo",Globo TV Tem Sorocaba
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1957
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM S. J. Rio Preto FHD" tvg-logo="http://printv.esy.es/server/TV%20Tem%20Bauru.png" group-title="Canais Globo",Globo TV TEM S. J. Rio Preto FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1993
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem S. J. do Rio Preto HD" tvg-logo="http://printv.esy.es/server/TV%20Tem%20Bauru.png" group-title="Canais Globo",Globo TV Tem S. J. do Rio Preto HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1958
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM S. J. do Rio Preto" tvg-logo="http://printv.esy.es/server/TV%20Tem%20Bauru.png" group-title="Canais Globo",Globo TV TEM S. J. do Rio Preto
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1959
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Bauru" tvg-logo="http://printv.esy.es/server/TV%20Tem%20Bauru.png" group-title="Canais Globo",Globo TV Tem Bauru
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1956
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Sergipe FHD" tvg-logo="http://printv.esy.es/server/TV%20Sergipe.png" group-title="Canais Globo",Globo TV Sergipe FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1977
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Sergipe HD" tvg-logo="http://printv.esy.es/server/TV%20Sergipe.png" group-title="Canais Globo",Globo TV Sergipe HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1978
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Sergipe" tvg-logo="http://printv.esy.es/server/TV%20Sergipe.png" group-title="Canais Globo",Globo TV Sergipe
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1976
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Santa Cruz FHD" tvg-logo="http://printv.esy.es/server/TV%20Santa%20Cruz.png" group-title="Canais Globo",Globo TV Santa Cruz FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2030
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Santa Cruz HD" tvg-logo="http://printv.esy.es/server/TV%20Santa%20Cruz.png" group-title="Canais Globo",Globo TV Santa Cruz HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2031
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Santa Cruz" tvg-logo="http://printv.esy.es/server/TV%20Santa%20Cruz.png" group-title="Canais Globo",Globo TV Santa Cruz
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2032
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Rio Sul FHD" tvg-logo="http://printv.esy.es/server/TV%20Rio%20Sul.png" group-title="Canais Globo",Globo TV Rio Sul FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2027
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Rio Sul HD" tvg-logo="http://printv.esy.es/server/TV%20Rio%20Sul.png" group-title="Canais Globo",Globo TV Rio Sul HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2028
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Rio Sul" tvg-logo="http://printv.esy.es/server/TV%20Rio%20Sul.png" group-title="Canais Globo",Globo TV Rio Sul
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2029
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena Campo Grande FHD" tvg-logo="http://printv.esy.es/server/TV%20Morena.png" group-title="Canais Globo",Globo TV Morena Campo Grande FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1990
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena Campo Grande HD" tvg-logo="http://printv.esy.es/server/TV%20Morena.png" group-title="Canais Globo",Globo TV Morena Campo Grande HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1991
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena Campo Grande" tvg-logo="http://printv.esy.es/server/TV%20Morena.png" group-title="Canais Globo",Globo TV Morena Campo Grande
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1992
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante SÃ£o Luis FHD" tvg-logo="http://printv.esy.es/server/TV%20Mirante.png" group-title="Canais Globo",Globo TV Mirante SÃ£o Luis FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1987
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante SÃ£o Luis HD" tvg-logo="http://printv.esy.es/server/TV%20Mirante.png" group-title="Canais Globo",Globo TV Mirante SÃ£o Luis HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1988
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante SÃ£o Luis" tvg-logo="http://printv.esy.es/server/TV%20Mirante.png" group-title="Canais Globo",Globo TV Mirante SÃ£o Luis
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1989
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Liberal BelÃ©m" tvg-logo="http://printv.esy.es/server/TV%20Liberal.png" group-title="Canais Globo",Globo TV Liberal BelÃ©m
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1955
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta VitÃ³ria FHD" tvg-logo="https://i.postimg.cc/FKtn17LD/TV-Gazeta-Sul.png" group-title="Canais Globo",Globo TV Gazeta VitÃ³ria FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1974
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta VitÃ³ria HD" tvg-logo="https://i.postimg.cc/FKtn17LD/TV-Gazeta-Sul.png" group-title="Canais Globo",Globo TV Gazeta VitÃ³ria HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1975
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta VitÃ³ria" tvg-logo="https://i.postimg.cc/FKtn17LD/TV-Gazeta-Sul.png" group-title="Canais Globo",Globo TV Gazeta VitÃ³ria
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1973
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Sul ES FHD" tvg-logo="http://printv.esy.es/server/TV%20Gazeta%20Sul.png" group-title="Canais Globo",Globo TV Gazeta Sul ES FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1997
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Sul ES HD" tvg-logo="http://printv.esy.es/server/TV%20Gazeta%20Sul.png" group-title="Canais Globo",Globo TV Gazeta Sul ES HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1998
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Alagoas FHD" tvg-logo="http://printv.esy.es/server/TV%20Gazeta%20Alagoas.png" group-title="Canais Globo",Globo TV Gazeta Alagoas FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1995
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Alagoas HD" tvg-logo="http://printv.esy.es/server/TV%20Gazeta%20Alagoas.png" group-title="Canais Globo",Globo TV Gazeta Alagoas HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1996
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Alagoas" tvg-logo="http://printv.esy.es/server/TV%20Gazeta%20Alagoas.png" group-title="Canais Globo",Globo TV Gazeta Alagoas
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1994
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Clube Teresina FHD" tvg-logo="http://printv.esy.es/server/TV%20Clube.png" group-title="Canais Globo",Globo TV Clube Teresina FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1971
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Clube Teresina HD" tvg-logo="http://printv.esy.es/server/TV%20Clube.png" group-title="Canais Globo",Globo TV Clube Teresina HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1972
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Clube Teresina" tvg-logo="http://printv.esy.es/server/TV%20Clube.png" group-title="Canais Globo",Globo TV Clube Teresina
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1970
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Cabo Branco FHD" tvg-logo="http://printv.esy.es/server/Globo.png" group-title="Canais Globo",Globo TV Cabo Branco FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2024
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Cabo Branco HD" tvg-logo="http://printv.esy.es/server/Globo.png" group-title="Canais Globo",Globo TV Cabo Branco HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2025
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Cabo Branco" tvg-logo="http://printv.esy.es/server/Globo.png" group-title="Canais Globo",Globo TV Cabo Branco
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2026
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV C. AmÃ©rica CuiabÃ¡" tvg-logo="http://printv.esy.es/server/TV%20Centro%20AmÃ©rica.png" group-title="Canais Globo",Globo TV C. AmÃ©rica CuiabÃ¡
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1954
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia FHD" tvg-logo="http://printv.esy.es/server/TV%20Bahia.png" group-title="Canais Globo",Globo TV Bahia FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1986
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia HD" tvg-logo="http://printv.esy.es/server/TV%20Bahia.png" group-title="Canais Globo",Globo TV Bahia HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1953
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia" tvg-logo="http://printv.esy.es/server/TV%20Bahia.png" group-title="Canais Globo",Globo TV Bahia
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1952
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera FHD" tvg-logo="http://printv.esy.es/server/TV%20Anhanguera.png" group-title="Canais Globo",Globo TV Anhanguera FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1985
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera HD" tvg-logo="http://printv.esy.es/server/TV%20Anhanguera.png" group-title="Canais Globo",Globo TV Anhanguera HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1951
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera" tvg-logo="http://printv.esy.es/server/TV%20Anhanguera.png" group-title="Canais Globo",Globo TV Anhanguera
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1950
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Foz do IguaÃ§u FHD" tvg-logo="http://printv.esy.es/server/RPC%20TV%20Foz%20do%20IguaÃ§u.png" group-title="Canais Globo",Globo RPC Foz do IguaÃ§u FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1968
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Foz do IguaÃ§u HD" tvg-logo="http://printv.esy.es/server/RPC%20TV%20Foz%20do%20IguaÃ§u.png" group-title="Canais Globo",Globo RPC Foz do IguaÃ§u HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1969
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Foz do IguaÃ§u" tvg-logo="http://printv.esy.es/server/RPC%20TV%20Foz%20do%20IguaÃ§u.png" group-title="Canais Globo",Globo RPC Foz do IguaÃ§u
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1967
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rede AM. MANAUS" tvg-logo="http://printv.esy.es/server/Rede%20AmazÃ´nica.png" group-title="Canais Globo",Globo Rede AM. MANAUS
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1940
+#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS POA FHD" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Globo",Globo RBS POA FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1984
+#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV POA HD" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Globo",Globo RBS TV POA HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1939
+#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV POA" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Globo",Globo RBS TV POA
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1938
+#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV Pelotas FHD" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Globo",Globo RBS TV Pelotas FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2021
+#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV Pelotas HD" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Globo",Globo RBS TV Pelotas HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2022
+#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV Pelotas" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Globo",Globo RBS TV Pelotas
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2023
+#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV Caxias do Sul FHD" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Globo",Globo RBS TV Caxias do Sul FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2015
+#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV Caxias do Sul HD" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Globo",Globo RBS TV Caxias do Sul HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2016
+#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV Caxias do Sul" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Globo",Globo RBS TV Caxias do Sul
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2017
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Joinville FHD" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV Joinville FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2018
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Joinville HD" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV Joinville HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2019
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Joinville" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV Joinville
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2020
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV FlorianÃ³polis FHD" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV FlorianÃ³polis FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1983
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV FlorianÃ³polis HD" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV FlorianÃ³polis HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1937
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV FlorianÃ³polis" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV FlorianÃ³polis
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1936
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV ChapecÃ³ FHD" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV ChapecÃ³ FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1964
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV ChapecÃ³ HD" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV ChapecÃ³ HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1965
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV ChapecÃ³" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV ChapecÃ³
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1966
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Blumenau FHD" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV Blumenau FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2012
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Blumenau HD" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV Blumenau HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2013
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Blumenal" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV Blumenal
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2014
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Serra Mar FHD" tvg-logo="http://printv.esy.es/server/Inter%20TV.png" group-title="Canais Globo",Globo Inter TV Serra Mar FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2009
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Serra Mar HD" tvg-logo="http://printv.esy.es/server/Inter%20TV.png" group-title="Canais Globo",Globo Inter TV Serra Mar HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2010
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Serra Mar" tvg-logo="http://printv.esy.es/server/Inter%20TV.png" group-title="Canais Globo",Globo Inter TV Serra Mar
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2011
+#EXTINF:-1 tvg-id="" tvg-name="Globo INTER TV Natal" tvg-logo="http://printv.esy.es/server/Inter%20TV.png" group-title="Canais Globo",Globo INTER TV Natal
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1931
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Grande Minas FHD" tvg-logo="http://printv.esy.es/server/Inter%20TV.png" group-title="Canais Globo",Globo Inter TV Grande Minas FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2006
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Grande Minas HD" tvg-logo="http://printv.esy.es/server/Inter%20TV.png" group-title="Canais Globo",Globo Inter TV Grande Minas HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2007
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Grande Minas" tvg-logo="http://printv.esy.es/server/Inter%20TV.png" group-title="Canais Globo",Globo Inter TV Grande Minas
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2008
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV dos Vales FHD" tvg-logo="http://printv.esy.es/server/Globo.png" group-title="Canais Globo",Globo Inter TV dos Vales FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2003
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV dos Vales HD" tvg-logo="http://printv.esy.es/server/Globo.png" group-title="Canais Globo",Globo Inter TV dos Vales HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2004
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV dos Vales" tvg-logo="http://printv.esy.es/server/Globo.png" group-title="Canais Globo",Globo Inter TV dos Vales
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2005
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="Globo Inter TV Alto Litoral FHD" tvg-logo="http://printv.esy.es/server/Globo.png" group-title="Canais Globo",Globo Inter TV Alto Litoral FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2000
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="Globo Inter TV Alto Litoral HD" tvg-logo="http://printv.esy.es/server/Globo.png" group-title="Canais Globo",Globo Inter TV Alto Litoral HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2001
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="Globo Inter TV Alto Litoral" tvg-logo="http://printv.esy.es/server/Globo.png" group-title="Canais Globo",Globo Inter TV Alto Litoral
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2002
+#EXTINF:-1 tvg-id="EPTV Campinas" tvg-name="Globo EPTV SÃ£o Carlos" tvg-logo="http://printv.esy.es/server/EPTV.png" group-title="Canais Globo",Globo EPTV SÃ£o Carlos
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1930
+#EXTINF:-1 tvg-id="Globo EPTV Ribeirao Preto" tvg-name="Globo EPTV RibeirÃ£o Preto FHD" tvg-logo="http://printv.esy.es/server/EPTV%20RibeirÃ£o%20Preto.png" group-title="Canais Globo",Globo EPTV RibeirÃ£o Preto FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1999
+#EXTINF:-1 tvg-id="Globo EPTV Ribeirao Preto" tvg-name="Globo EPTV RibeirÃ£o Preto HD" tvg-logo="http://printv.esy.es/server/EPTV%20RibeirÃ£o%20Preto.png" group-title="Canais Globo",Globo EPTV RibeirÃ£o Preto HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1928
+#EXTINF:-1 tvg-id="Globo EPTV Ribeirao Preto" tvg-name="Globo EPTV RibeirÃ£o Preto" tvg-logo="http://printv.esy.es/server/EPTV%20RibeirÃ£o%20Preto.png" group-title="Canais Globo",Globo EPTV RibeirÃ£o Preto
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1929
+#EXTINF:-1 tvg-id="EPTV Campinas" tvg-name="Globo EPTV Campinas FHD" tvg-logo="http://printv.esy.es/server/EPTV%20Campinas.png" group-title="Canais Globo",Globo EPTV Campinas FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1980
+#EXTINF:-1 tvg-id="EPTV Campinas" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://printv.esy.es/server/EPTV%20Campinas.png" group-title="Canais Globo",Globo EPTV Campinas HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1927
+#EXTINF:-1 tvg-id="EPTV Campinas" tvg-name="Globo EPTV Campinas" tvg-logo="http://printv.esy.es/server/EPTV%20Campinas.png" group-title="Canais Globo",Globo EPTV Campinas
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1926
+#EXTINF:-1 tvg-id="EPTV Campinas" tvg-name="Globo EPTV Araraquara" tvg-logo="http://printv.esy.es/server/EPTV.png" group-title="Canais Globo",Globo EPTV Araraquara
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1925
+#EXTINF:-1 tvg-id="" tvg-name="Globo Portugal HD" tvg-logo="http://printv.esy.es/server/Globo%20Portugal.png" group-title="Canais Globo",Globo Portugal HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2434
+#EXTINF:-1 tvg-id="" tvg-name="Globo Portugal" tvg-logo="http://printv.esy.es/server/Globo%20Portugal.png" group-title="Canais Globo",Globo Portugal
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2435
+#EXTINF:-1 tvg-id="Globo Internacional" tvg-name="Globo Internacional" tvg-logo="http://printv.esy.es/server/Globo%20Internacional.png" group-title="Canais Globo",Globo Internacional
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1963
+#EXTINF:-1 tvg-id="GLOBONOW" tvg-name="Globo Now HD" tvg-logo="http://printv.esy.es/server/Globo%20Now.png" group-title="Canais Globo",Globo Now HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2622
+#EXTINF:-1 tvg-id="" tvg-name="Globo Now" tvg-logo="http://printv.esy.es/server/Globo%20Now.png" group-title="Canais Globo",Globo Now
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2433
