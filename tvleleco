@@ -1,0 +1,396 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="Globo RJ" tvg-logo="http://printv.esy.es/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1941
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="Globo RJ Alternativo" tvg-logo="http://printv.esy.es/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2618
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="http://printv.esy.es/server/Globo%20São%20Paulo.png" group-title="Canais Globo",Globo SP
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1947
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP Alternativo" tvg-logo="http://printv.esy.es/server/Globo%20S%C3%A3o%20Paulo.png" group-title="Canais Globo",Globo SP Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2620
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="Globo MG" tvg-logo="http://printv.esy.es/server/Globo%20Minas.png" group-title="Canais Globo",Globo MG
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1932
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="Globo Nordeste HD" tvg-logo="http://printv.esy.es/server/Globo%20Nordeste.png" group-title="Canais Globo",Globo Nordeste HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1935
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="Globo Nordeste" tvg-logo="http://printv.esy.es/server/Globo%20Nordeste.png" group-title="Canais Globo",Globo Nordeste
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1934
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes Mares Fortaleza" tvg-logo="http://printv.esy.es/server/TV%20Verdes%20Mares.png" group-title="Canais Globo",Globo TV Verdes Mares Fortaleza
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1962
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Rio Sul" tvg-logo="http://printv.esy.es/server/TV%20Rio%20Sul.png" group-title="Canais Globo",Globo TV Rio Sul
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2029
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia" tvg-logo="http://printv.esy.es/server/TV%20Bahia.png" group-title="Canais Globo",Globo TV Bahia
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1952
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Joinville" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV Joinville
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2020
+#EXTINF:-1 tvg-id="Record SP" tvg-name="RecordTV SP" tvg-logo="http://printv.esy.es/server/Record.png" group-title="Canais Record TV",RecordTV SP
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1899
+#EXTINF:-1 tvg-id="Record RJ" tvg-name="RecordTV RJ" tvg-logo="http://printv.esy.es/server/Record%20Rio.png" group-title="Canais Record TV",RecordTV RJ
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2275
+#EXTINF:-1 tvg-id="Record BA" tvg-name="RecordTV BA HD" tvg-logo="http://printv.esy.es/server/Record%20Itapoan.png" group-title="Canais Record TV",RecordTV BA HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2281
+#EXTINF:-1 tvg-id="Record BA" tvg-name="RecordTV BA" tvg-logo="http://printv.esy.es/server/Record%20Itapoan.png" group-title="Canais Record TV",RecordTV BA
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2282
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://printv.esy.es/server/SBT%20HD.png" group-title="Canais Abertos",SBT HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2212
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="Canais Abertos",SBT
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2211
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT Alternativo" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="Canais Abertos",SBT Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1218
+#EXTINF:-1 tvg-id="Band" tvg-name="Band SP HD" tvg-logo="http://printv.esy.es/server/Band%20HD.png" group-title="Canais Abertos",Band SP HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2056
+#EXTINF:-1 tvg-id="Band" tvg-name="Band SP" tvg-logo="http://printv.esy.es/server/Band.png" group-title="Canais Abertos",Band SP
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2055
+#EXTINF:-1 tvg-id="Band" tvg-name="Band TV Alternativo" tvg-logo="http://printv.esy.es/server/Band.png" group-title="Canais Abertos",Band TV Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1179
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV!" tvg-logo="http://printv.esy.es/server/Rede%20TV%21.png" group-title="Canais Abertos",Rede TV!
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2208
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV Alternativo HD" tvg-logo="http://printv.esy.es/server/Rede%20TV%21%20HD.png" group-title="Canais Abertos",Rede TV Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1323
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV Alternativo" tvg-logo="http://printv.esy.es/server/Rede%20TV%21.png" group-title="Canais Abertos",Rede TV Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1168
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil Alternativo HD" tvg-logo="http://printv.esy.es/server/Canal%20Brasil.png" group-title="Canais Abertos",Canal Brasil Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1331
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil Alternativo SD" tvg-logo="http://printv.esy.es/server/Canal%20Brasil.png" group-title="Canais Abertos",Canal Brasil Alternativo SD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1123
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura" tvg-logo="http://printv.esy.es/server/Futura.png" group-title="Canais Abertos",Futura
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2125
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura Alternativo" tvg-logo="http://printv.esy.es/server/Futura.png" group-title="Canais Abertos",Futura Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1196
+#EXTINF:-1 tvg-id="Terra Viva" tvg-name="Terra Viva" tvg-logo="http://printv.esy.es/server/Terra%20Viva.png" group-title="Canais Abertos",Terra Viva
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2238
+#EXTINF:-1 tvg-id="" tvg-name="TV Senado" tvg-logo="http://printv.esy.es/server/TV%20Senado.png" group-title="Canais Abertos",TV Senado
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2246
+#EXTINF:-1 tvg-id="" tvg-name="TV JustiÃ§a" tvg-logo="http://printv.esy.es/server/TV%20JustiÃ§a.png" group-title="Canais Abertos",TV JustiÃ§a
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2247
+#EXTINF:-1 tvg-id="TV Escola" tvg-name="TV Escola" tvg-logo="http://printv.esy.es/server/TV%20Escola.png" group-title="Canais Abertos",TV Escola
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2251
+#EXTINF:-1 tvg-id="TV Gazeta" tvg-name="TV Gazeta SP HD" tvg-logo="http://printv.esy.es/server/Gazeta.png" group-title="Canais Abertos",TV Gazeta SP HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2252
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News HD" tvg-logo="http://printv.esy.es/server/Globo%20News%20HD.png" group-title="Noticias",Globo News HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2130
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News" tvg-logo="http://printv.esy.es/server/Globo%20News.png" group-title="Noticias",Globo News
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2129
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News Alternativo HD" tvg-logo="http://printv.esy.es/server/Globo%20News%20HD.png" group-title="Noticias",Globo News Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1341
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News Alternativo" tvg-logo="http://printv.esy.es/server/Globo%20News.png" group-title="Noticias",Globo News Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1138
+#EXTINF:-1 tvg-id="Band News" tvg-name="Band News" tvg-logo="http://printv.esy.es/server/Band%20News.png" group-title="Noticias",Band News
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2057
+#EXTINF:-1 tvg-id="Band News" tvg-name="Band News Alternativo" tvg-logo="http://printv.esy.es/server/Band%20News.png" group-title="Noticias",Band News Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1121
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News FHD" tvg-logo="http://printv.esy.es/server/Record%20News.png" group-title="Noticias",Record News FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1861
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="http://printv.esy.es/server/Record%20News.png" group-title="Noticias",Record News
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2204
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News Alternativo" tvg-logo="http://printv.esy.es/server/Record%20News.png" group-title="Noticias",Record News Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1166
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate HD" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",Combate HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2076
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",Combate
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2075
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate Alternativo HD" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",Combate Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1291
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate Alternativo" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",Combate Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1186
+#EXTINF:-1 tvg-id="" tvg-name="Ação 24Hs" tvg-logo="http://printv.esy.es/server/filmes24/acao.png" group-title="Filmes 24Hs",Ação 24Hs
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11622
+#EXTINF:-1 tvg-id="" tvg-name="Comédia 24Hs" tvg-logo="http://printv.esy.es/server/filmes24/comedia.png" group-title="Filmes 24Hs",Comédia 24Hs
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11625
+#EXTINF:-1 tvg-id="" tvg-name="Drama 24Hs" tvg-logo="http://printv.esy.es/server/filmes24/drama.png" group-title="Filmes 24Hs",Drama 24Hs
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11626
+#EXTINF:-1 tvg-id="" tvg-name="Fantasia 24Hs" tvg-logo="http://printv.esy.es/server/filmes24/fantasia.png" group-title="Filmes 24Hs",Fantasia 24Hs
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11627
+#EXTINF:-1 tvg-id="" tvg-name="Ficção 24Hs" tvg-logo="http://printv.esy.es/server/filmes24/ficcao.png" group-title="Filmes 24Hs",Ficção 24Hs
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11628
+#EXTINF:-1 tvg-id="" tvg-name="Faroeste 24Hs" tvg-logo="http://printv.esy.es/server/filmes24/faroeste.png" group-title="Filmes 24Hs",Faroeste 24Hs
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11651
+#EXTINF:-1 tvg-id="" tvg-name="Religiosos 24Hs" tvg-logo="" group-title="Filmes 24Hs",Religiosos 24Hs
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11679
+#EXTINF:-1 tvg-id="" tvg-name="Animação 24Hs" tvg-logo="" group-title="Filmes 24Hs",Animação 24Hs
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11716
+#EXTINF:-1 tvg-id="" tvg-name="DC Comics 24Hs" tvg-logo="" group-title="Filmes 24Hs",DC Comics 24Hs
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11717
+#EXTINF:-1 tvg-id="" tvg-name="Suspense 24Hs" tvg-logo="http://printv.esy.es/server/filmes24/suspense.png" group-title="Filmes 24Hs",Suspense 24Hs
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/12313
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel HD" tvg-logo="http://printv.esy.es/server/Discovery%20Channel%20HD.png" group-title="Documentarios",Discovery Channel HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2082
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://printv.esy.es/server/Discovery%20Channel.png" group-title="Documentarios",Discovery Channel
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2081
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel Alternativo HD" tvg-logo="http://printv.esy.es/server/Discovery%20Channel%20HD.png" group-title="Documentarios",Discovery Channel Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1328
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel Alternativo" tvg-logo="http://printv.esy.es/server/Discovery%20Channel.png" group-title="Documentarios",Discovery Channel Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1126
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo HD" tvg-logo="http://printv.esy.es/server/Discovery%20Turbo%20HD.png" group-title="Documentarios",Discovery Turbo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2093
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://printv.esy.es/server/Discovery%20Turbo.png" group-title="Documentarios",Discovery Turbo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2092
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo Alternativo HD" tvg-logo="http://printv.esy.es/server/Discovery%20Turbo%20HD.png" group-title="Documentarios",Discovery Turbo Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1292
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo Alternativo" tvg-logo="http://printv.esy.es/server/Discovery%20Turbo.png" group-title="Documentarios",Discovery Turbo Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1129
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home&Health HD" tvg-logo="http://printv.esy.es/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="Documentarios",Discovery Home&Health HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2086
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home&Health" tvg-logo="http://printv.esy.es/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="Documentarios",Discovery Home&Health
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2085
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home & Health Alternativo" tvg-logo="http://printv.esy.es/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="Documentarios",Discovery Home & Health Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1127
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization HD" tvg-logo="http://printv.esy.es/server/Discovery%20Civilization.png" group-title="Documentarios",Discovery Civilization HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2084
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="http://printv.esy.es/server/Discovery%20Civilization.png" group-title="Documentarios",Discovery Civilization
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2083
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization Alternativo HD" tvg-logo="http://printv.esy.es/server/Discovery%20Civilization.png" group-title="Documentarios",Discovery Civilization Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1333
+#EXTINF:-1 tvg-id="InvestigaÃ§Ã£o Discovery" tvg-name="Investigation Discovery HD" tvg-logo="http://printv.esy.es/server/Investigation%20Discovery%20HD.png" group-title="Documentarios",Investigation Discovery HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2152
+#EXTINF:-1 tvg-id="InvestigaÃ§Ã£o Discovery" tvg-name="Investigation Discovery" tvg-logo="http://printv.esy.es/server/Investigation%20Discovery.png" group-title="Documentarios",Investigation Discovery
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2151
+#EXTINF:-1 tvg-id="Globo Internacional" tvg-name="Investigação Discovery Alternativo" tvg-logo="http://printv.esy.es/server/Investigation%20Discovery.png" group-title="Documentarios",Investigação Discovery Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1200
+#EXTINF:-1 tvg-id="Globo Internacional" tvg-name="Investigation Discovery Alternativo HD" tvg-logo="http://printv.esy.es/server/Investigation%20Discovery%20HD.png" group-title="Documentarios",Investigation Discovery Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1320
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="http://printv.esy.es/server/Discovery%20World.png" group-title="Documentarios",Discovery World
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2094
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World Alternativo HD" tvg-logo="http://printv.esy.es/server/Discovery%20World%20HD.png" group-title="Documentarios",Discovery World Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1309
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater HD" tvg-logo="http://printv.esy.es/server/Discovery%20Theater%20HD.png" group-title="Documentarios",Discovery Theater HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2091
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater" tvg-logo="http://printv.esy.es/server/Discovery%20Theater.png" group-title="Documentarios",Discovery Theater
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2090
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater Alternativo HD" tvg-logo="http://printv.esy.es/server/Discovery%20Theater%20HD.png" group-title="Documentarios",Discovery Theater Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1286
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="http://printv.esy.es/server/Discovery%20Science.png" group-title="Documentarios",Discovery Science
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2089
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science Alternativo HD" tvg-logo="http://printv.esy.es/server/Discovery%20Science%20HD.png" group-title="Documentarios",Discovery Science Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1335
+#EXTINF:-1 tvg-id="History" tvg-name="History HD" tvg-logo="http://printv.esy.es/server/The%20History%20Channel%20HD.png" group-title="Documentarios",History HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2150
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="http://printv.esy.es/server/The%20History%20Channel.png" group-title="Documentarios",History
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2149
+#EXTINF:-1 tvg-id="History" tvg-name="History Alternativo HD" tvg-logo="http://printv.esy.es/server/The%20History%20Channel%20HD.png" group-title="Documentarios",History Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1272
+#EXTINF:-1 tvg-id="History" tvg-name="History Alternativo" tvg-logo="http://printv.esy.es/server/The%20History%20Channel.png" group-title="Documentarios",History Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1145
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 HD" tvg-logo="http://printv.esy.es/server/H2%20HD.png" group-title="Documentarios",H2 HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2138
+#EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="http://printv.esy.es/server/H2.png" group-title="Documentarios",H2
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2137
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 Alternativo HD" tvg-logo="http://printv.esy.es/server/H2%20HD.png" group-title="Documentarios",H2 Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1316
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 Alternativo" tvg-logo="http://printv.esy.es/server/H2.png" group-title="Documentarios",H2 Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1144
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="Nat Geo Wild" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Wild.png" group-title="Documentarios",Nat Geo Wild
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2176
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="Nat Geo HD" tvg-logo="http://printv.esy.es/server/National%20Geographic%20Channel%20HD.png" group-title="Documentarios",Nat Geo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2172
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="Nat Geo" tvg-logo="http://printv.esy.es/server/National%20Geographic.png" group-title="Documentarios",Nat Geo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2171
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="Nat Geo Alternativo" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Wild%20HD.png" group-title="Documentarios",Nat Geo Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1298
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="Nat Geo Alternativo" tvg-logo="http://printv.esy.es/server/National%20Geographic.png" group-title="Documentarios",Nat Geo Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1207
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="Nat Geo Wild HD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Wild%20HD.png" group-title="Documentarios",Nat Geo Wild HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2175
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild Alternativo HD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Wild%20HD.png" group-title="Documentarios",NatGeo Wild Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1299
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="Nat Geo Wild Alternativo" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Wild.png" group-title="Documentarios",Nat Geo Wild Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1209
+#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel HD" tvg-logo="http://printv.esy.es/server/Smithsonian%20Channel.png" group-title="Documentarios",Smithsonian Channel HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2289
+#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="http://printv.esy.es/server/Smithsonian%20Channel.png" group-title="Documentarios",Smithsonian Channel
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2290
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida HD" tvg-logo="http://printv.esy.es/server/Rede%20Vida.png" group-title="Religiosos",Rede Vida HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2273
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-logo="http://printv.esy.es/server/Rede%20Vida.png" group-title="Religiosos",Rede Vida
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2210
+
+#EXTINF:-1 tvg-id="" tvg-name="Cavalerios do Zodiaco - Lost Canvas" tvg-logo="https://imgur.com/KUnCy3g.jpg" group-title="Desenhos 24Hs",Cavalerios do Zodiaco - Lost Canvas
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/12317
+#EXTINF:-1 tvg-id="" tvg-name="Digmon Adventure Parte 1" tvg-logo="https://imgur.com/L63QLeN.jpg" group-title="Desenhos 24Hs",Digmon Adventure Parte 1
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/12316
+#EXTINF:-1 tvg-id="" tvg-name="Cacavaleiros do Zodiaco - Netflix" tvg-logo="https://imgur.com/wJABm21.jpg" group-title="Desenhos 24Hs",Cacavaleiros do Zodiaco - Netflix
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/12315
+#EXTINF:-1 tvg-id="" tvg-name="Sailor Moon" tvg-logo="https://imgur.com/undefined.jpg" group-title="Desenhos 24Hs",Sailor Moon
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/12314
+#EXTINF:-1 tvg-id="" tvg-name="As Tartarugas Ninja" tvg-logo="https://imgur.com/undefined.jpg" group-title="Desenhos 24Hs",As Tartarugas Ninja
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11828
+#EXTINF:-1 tvg-id="" tvg-name="Os Roni" tvg-logo="https://imgur.com/uhNNzzs.jpg" group-title="Programas de TV 24hs",Os Roni
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11827
+#EXTINF:-1 tvg-id="" tvg-name="Desenhos Biblicos" tvg-logo="https://imgur.com/pRWVTrB.jpg" group-title="Desenhos 24Hs",Desenhos Biblicos
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11826
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Naruto Shippuden Parte 1" tvg-logo="https://imgur.com/ne0FIGz.jpg" group-title="Desenhos 24Hs",[24h] Naruto Shippuden Parte 1
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11825
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Naruto Shippuden Parte 2" tvg-logo="https://imgur.com/ne0FIGz.jpg" group-title="Desenhos 24Hs",[24h] Naruto Shippuden Parte 2
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11824
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Guardiões da Galáxias" tvg-logo="https://imgur.com/S75GmEj.jpg" group-title="Desenhos 24Hs",[24H] Guardiões da Galáxias
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11823
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Carmen SanDiego Netflix" tvg-logo="https://imgur.com/dLafeEM.jpg" group-title="Desenhos 24Hs",[24H] Carmen SanDiego Netflix
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11822
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Du, Dudu e Edu" tvg-logo="https://imgur.com/hvV48Io.jpg" group-title="Desenhos 24Hs",[24H] Du, Dudu e Edu
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11817
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Capitão Planeta" tvg-logo="https://imgur.com/K0X8RQ6.jpg" group-title="Desenhos 24Hs",[24H] Capitão Planeta
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11821
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Homens de Preto" tvg-logo="https://imgur.com/1FM00MQ.jpg" group-title="Desenhos 24Hs",[24H] Homens de Preto
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11820
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Clássico Parte 2" tvg-logo="https://imgur.com/sBsCaiZ.jpg" group-title="Desenhos 24Hs",[24H] Dragon Ball Clássico Parte 2
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11819
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Clássico Parte 1" tvg-logo="https://imgur.com/sBsCaiZ.jpg" group-title="Desenhos 24Hs",[24H] Dragon Ball Clássico Parte 1
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11818
+#EXTINF:-1 tvg-id="" tvg-name="[24H] De Volta pro Futuro" tvg-logo="https://imgur.com/Urghy0P.jpg" group-title="Desenhos 24Hs",[24H] De Volta pro Futuro
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11816
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Vaca e o Frango" tvg-logo="https://imgur.com/HaW86Y7.jpg" group-title="Canais Globo",[24H] A Vaca e o Frango
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11815
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Mortal Kombat" tvg-logo="https://imgur.com/0pZWhAh.jpg" group-title="Desenhos 24Hs",[24H] Mortal Kombat
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11814
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Carmem SanDiego Clássico" tvg-logo="https://imgur.com/ZVrPenj.jpg" group-title="Desenhos 24Hs",[24H] Carmem SanDiego Clássico
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11813
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Pequena Sereia" tvg-logo="https://imgur.com/BMqQwBQ.jpg" group-title="Desenhos 24Hs",[24H] A Pequena Sereia
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11812
+#EXTINF:-1 tvg-id="Record SP" tvg-name="RecordTV Campinas FHD" tvg-logo="http://printv.esy.es/server/Record%20HD.png" group-title="Canais Record TV",RecordTV Campinas FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/7965
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Baby Looney Tunes" tvg-logo="https://http2.mlstatic.com/dvd-baby-looney-tunes-volume-1-D_NQ_NP_17376-MLB20136802070_072014-F.jpg" group-title="Desenhos 24Hs",[24H] Baby Looney Tunes
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11449
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Ben 10 Classics" tvg-logo="https://www.idwpublishing.com/wp-content/uploads/2014/12/CN_Ben10_ClassicsVol4_FRONTCOV.jpg" group-title="Desenhos 24Hs",[24H] Ben 10 Classics
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11450
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Big Mouth" tvg-logo="https://cdn-static.sidereel.com/tv_shows/68323/giant_2x/big_mouth_netflix.jpg" group-title="Desenhos 24Hs",[24H] Big Mouth
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11451
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bibo Pai Bobi Filho" tvg-logo="https://http2.mlstatic.com/coleco-desenhos-bibo-pai-e-bob-filho-3-dvds-D_NQ_NP_730411-MLB20530800447_122015-F.jpg" group-title="Desenhos 24Hs",[24H] Bibo Pai Bobi Filho
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11453
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros dos Zodiaco Saga Doze Casas" tvg-logo="http://2.bp.blogspot.com/_qEug-TDsyOI/S4yXtJeneDI/AAAAAAAAAEM/7xQI1oi1Bk8/s320/DVD+Box+-+Brasileiro+-+Os+Cavaleiros+do+Zod%C3%ADaco+Pac+04.jpg" group-title="Desenhos 24Hs",[24H] Cavaleiros dos Zodiaco Saga Doze Casas
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11456
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco" tvg-logo="https://media.fstatic.com/SKbK8y46xyxyM6WjmFCcKO4UIlk=/fit-in/290x478/smart/media/movies/covers/2014/11/os-cavaleiros-do-zodiaco-saga-1-santuario_t25294_1.jpg" group-title="Desenhos 24Hs",[24H] Cavaleiros do Zodiaco
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11457
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball" tvg-logo="https://1.bp.blogspot.com/-bGtjCourogk/W7Zo2QMWFmI/AAAAAAAAdHw/cYwp6tMm26k-gKLh3IPWfzK9kqUYdfHXwCLcBGAs/s1600/Screenshot_3.jpg" group-title="Desenhos 24Hs",[24H] Dragon Ball
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11464
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Doug" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/6111oLYCK-L._SY445_.jpg" group-title="Desenhos 24Hs",[24H] Doug
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11465
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Denis O Pimentinha" tvg-logo="http://statics.livrariacultura.net.br/products/capas_lg/935/3204935.jpg" group-title="Desenhos 24Hs",[24H] Denis O Pimentinha
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11468
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Turma do Pateta" tvg-logo="https://http2.mlstatic.com/a-turma-do-pateta-goof-troop-1-temporada-D_NQ_NP_942909-MLB29237372779_012019-F.jpg" group-title="Desenhos 24Hs",[24H] Turma do Pateta
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11470
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Tom e Jerry" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e6/Tom%26JerryTales.jpg/250px-Tom%26JerryTales.jpg" group-title="Desenhos 24Hs",[24H] Tom e Jerry
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11471
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Thundercats" tvg-logo="https://2.bp.blogspot.com/-c9yLiRaXyOU/Vyz8JBLe16I/AAAAAAAAEvo/Vjji0b8oTAcyGwqS2dE9PigDW02lDZvwQCLcB/s1600/ThunderCats_poster.jpg" group-title="Desenhos 24Hs",[24H] Thundercats
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11473
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Amigos" tvg-logo="http://3.bp.blogspot.com/-tUsEfv_sP3k/TzHJRAQrqdI/AAAAAAAAJl8/ixA61crfEQM/s640/super_amigos_worlds_greatest.jpg" group-title="Desenhos 24Hs",[24H] Super Amigos
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11476
+#EXTINF:-1 tvg-id="" tvg-name="[24H] South Park" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGE2YWUzMDItNTg2Ny00NTUzLTlmZGYtNWMyNzVjMjQ3MThkXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR0,0,182,268_AL_.jpg" group-title="Desenhos 24Hs",[24H] South Park
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11478
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Peppa Pig" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDUyODQ0NjAtYTZjMS00MzBjLWI1ZjYtMzBhYzgyYzdjMTE4XkEyXkFqcGdeQXVyMzU5OTE2NTI@._V1_.jpg" group-title="Desenhos 24Hs",[24H] Peppa Pig
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11484
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O Mundo de Bita" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8725v4jMwzJOUwb9HvgfYHRAmnmu_rTCfXVrRWII00IMKxM5n&s" group-title="Desenhos 24Hs",[24H] O Mundo de Bita
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11489
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O Maskara" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d5/O_mascara_desenho.jpg/200px-O_mascara_desenho.jpg" group-title="Desenhos 24Hs",[24H] O Maskara
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11490
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O Incrivel Mundo de Gumball" tvg-logo="http://cdn62.paninicloud.com/repository/Brasil/Collectibles/images/editoriali/002971PAA_0.jpg" group-title="Desenhos 24Hs",[24H] O Incrivel Mundo de Gumball
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11492
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Naruto" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d2/Naruto_vol._01.jpg" group-title="Desenhos 24Hs",[24H] Naruto
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11494
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Mortal Kombat" tvg-logo="https://animezeira.com/wp-content/uploads/2019/09/image-15.png" group-title="Desenhos 24Hs",[24H] Mortal Kombat
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11495
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Mickey e Donald" tvg-logo="https://media.fstatic.com/VGz7F-kJ1tHqGij5L1HNNTm_k_k=/fit-in/290x478/smart/media/movies/covers/2011/04/d2dafeb0d4501a3c93419f9c004af3c7.jpg" group-title="Desenhos 24Hs",[24H] Mickey e Donald
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11496
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Masha e o Urso" tvg-logo="https://media.fstatic.com/PlMpaP6ESXrfX8u134A6EWj_mow=/fit-in/290x478/smart/media/movies/covers/2017/12/s592.jpg" group-title="Desenhos 24Hs",[24H] Masha e o Urso
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11497
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Jonny Quest" tvg-logo="https://www.animeserie.com/product_images/f/356/jonny_quest__21566_zoom.jpg" group-title="Desenhos 24Hs",[24H] Jonny Quest
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11499
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Iron Man" tvg-logo="https://media.fstatic.com/dvGCaHmhZLU6HHlGcHwGdp0ip5Y=/fit-in/290x478/smart/media/movies/covers/2009/12/invincible_iron_man_dvd.jpg" group-title="Desenhos 24Hs",[24H] Iron Man
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11500
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Homens de Preto" tvg-logo="http://tuneldotempodesenhos.com.br/arquivos_loja/18044/Fotos/thumbs3/produto_Foto1_4478140.jpg" group-title="Desenhos 24Hs",[24H] Homens de Preto
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11501
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Guardioes da Galaxia" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/57/GuardiansGalaxyPosterXD.png/250px-GuardiansGalaxyPosterXD.png" group-title="Desenhos 24Hs",[24H] Guardioes da Galaxia
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11502
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Gato Felix" tvg-logo="https://amusicalpatos.com.br/wp-content/uploads/2017/09/O-GATO-FELIX-DVD-FT.jpg" group-title="Desenhos 24Hs",[24H] Gato Felix
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11503
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Galinha Pintadinha" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDktEhMaiA60t1DAdXBAsWBy4CykY7UFJLXLOHoF0b7u62pK30&s" group-title="Desenhos 24Hs",[24H] Galinha Pintadinha
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11504
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Formiga Atomica" tvg-logo="https://www.animeserie.com/product_images/q/576/A_Formiga_At%F4mica__43265_zoom.png" group-title="Desenhos 24Hs",[24H] A Formiga Atomica
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11506
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Pantera Cor de Rosa" tvg-logo="https://capas-c.ewmix.com/7439.jpg" group-title="Desenhos 24Hs",[24H] A Pantera Cor de Rosa
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11507
+#EXTINF:-1 tvg-id="" tvg-name="[24H] As Meninas Super Poderosas" tvg-logo="https://media.fstatic.com/Hz0Etk22HyiqYxVq_2EZRdjn23k=/fit-in/290x478/smart/media/movies/covers/2018/08/MV5BODdmZmFlMGUtZWE5NC00NmU5LTg3NzItOTNjNDc4ZTc2YzI1XkEyXkFqcGdeQX_j9nsGsO.jpg" group-title="Desenhos 24Hs",[24H] As Meninas Super Poderosas
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11508
+#EXTINF:-1 tvg-id="" tvg-name="[24H] As Aventuras de Jackie Chan" tvg-logo="https://media.fstatic.com/XC0COApitHa1fRkhTnQlB9GCdVc=/fit-in/290x478/smart/media/movies/covers/2010/07/f1ab14b3c3125ccdd001bae4e3aedaa0.jpg" group-title="Desenhos 24Hs",[24H] As Aventuras de Jackie Chan
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11509
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Mickey e seus Amigos" tvg-logo="https://bumerangbrinquedos.vteximg.com.br/arquivos/ids/174951/MICKEY-M.jpg?v=636756494581070000" group-title="Desenhos 24Hs",[24H] Mickey e seus Amigos
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11521
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Corrida Maluca" tvg-logo="https://media.fstatic.com/AJWsfQPi_h-T_X4-VNLsQw4JzRs=/fit-in/290x478/smart/media/movies/covers/2010/11/64ebb6cf41cb9deca17f122f10607b86.jpg" group-title="Desenhos 24Hs",[24H] Corrida Maluca
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11522
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Coragem o Cao Covarde" tvg-logo="https://media.fstatic.com/82nFeQAuHxVGLaFS6lnyCETWCfs=/fit-in/290x478/smart/media/movies/covers/2017/01/CourageTheCowardlyDog_S4.jpg" group-title="Desenhos 24Hs",[24H] Coragem o Cao Covarde
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11523
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Coelho Ricochete e Blau Blau" tvg-logo="https://i.pinimg.com/474x/cc/c6/06/ccc606f836e88470ff06d456874ea054.jpg" group-title="Desenhos 24Hs",[24H] Coelho Ricochete e Blau Blau
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11524
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Z" tvg-logo="https://i.pinimg.com/originals/62/d1/07/62d107a4857a8a1045fd91c4c0a6d3ed.jpg" group-title="Desenhos 24Hs",[24H] Dragon Ball Z
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11525
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Super" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="Desenhos 24Hs",[24H] Dragon Ball Super
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11526
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dora A Aventureira" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51WPQc80AML._SX258_BO1,204,203,200_.jpg" group-title="Desenhos 24Hs",[24H] Dora A Aventureira
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11529
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81XWfzzdgkL._SY445_.jpg" group-title="Desenhos 24Hs",[24H] Digimon
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11530
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Uma Familia da Pesada" tvg-logo="https://lacraiatorrent.com/capas/uma-familia-da-pesada-family-guy-18-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Desenhos 24Hs",[24H] Uma Familia da Pesada
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11532
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Tico e Teco" tvg-logo="https://i.imgur.com/tYKHBVb.jpg" group-title="Desenhos 24Hs",[24H] Tico e Teco
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11535
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Futurama" tvg-logo="https://media.fstatic.com/MWsx05UCqls9zddFATf7pe2tm7I=/fit-in/290x478/smart/media/movies/covers/2012/02/f0d4523baca55a1d4cd815fee1bcdbbd.jpg" group-title="Desenhos 24Hs",[24H] Futurama
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11568
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Familia Dinossauro " tvg-logo="https://4.bp.blogspot.com/-ieGwIm83MLU/WteNMmKfkUI/AAAAAAAAJqQ/zdC9rUFt2j0BGeT88GeBPU2GMNGbDrieACLcBGAs/s1600/dvd-a-familia-dinossauro-coleco-completa-65-ep-dublados-D_NQ_NP_820259-MLB26103634522_092017-F.jpg" group-title="Programas de TV 24hs",[24H] Familia Dinossauro 
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11587
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Eu a Patroa e as Criancas " tvg-logo="https://media.fstatic.com/oFEztrm1LBqZzT1M0aLCRBaNqyw=/fit-in/290x478/smart/media/movies/covers/2014/09/eu-a-patroa-e-as-criancas-1a-temporada_t15203_2.jpg" group-title="Programas de TV 24hs",[24H] Eu a Patroa e as Criancas 
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11588
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Icarly " tvg-logo="https://media.fstatic.com/hByb03dtvTk5C4prw6KIaMA-wTI=/fit-in/290x478/smart/media/movies/covers/2012/02/f5bee17d50b160bae26ef4baf1323d5f.jpg" group-title="Programas de TV 24hs",[24H] Icarly 
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11589
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Jaspion " tvg-logo="http://www.spacetrek66.com.br/imagem/index/2336011/G/jaspion_d_1.jpg" group-title="Programas de TV 24hs",[24H] Jaspion 
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11590
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Kenan e Kel" tvg-logo="https://i.pinimg.com/originals/9b/e4/b9/9be4b9731b428481844708967fc80abb.jpg" group-title="Programas de TV 24hs",[24H] Kenan e Kel
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11591
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Vai Que Cola " tvg-logo="https://s2.glbimg.com/EIDe3kl55gEAkDOtNAP96GedHSA=/362x536/https://s2.glbimg.com/gwSm9-wGzCSptjA8Va2I_SnNeOE=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2019/K/S/fjBU5jT8W6y8a1jFXfCg/2018-225-midia-kit-series-multishow-vai-que-cola-poster.jpg" group-title="Programas de TV 24hs",[24H] Vai Que Cola 
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11592
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Trapalhoes" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Trapalhoes.jpg/250px-Trapalhoes.jpg" group-title="Programas de TV 24hs",[24H] Os Trapalhoes
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11593
+#EXTINF:-1 tvg-id="" tvg-name="[24H] The Big Bang Theory" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2FmZTY5YTktOWRlYy00NmIyLWE0ZmQtZDg2YjlmMzczZDZiXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_.jpg" group-title="Programas de TV 24hs",[24H] The Big Bang Theory
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11594
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Um Maluco no Pedaco" tvg-logo="https://media.fstatic.com/8KOqv8DhJMU9mDJPpMbe_j5LzjA=/fit-in/290x478/smart/media/movies/covers/2011/10/fab165e11eeb5fcc4912b604ff559465.jpg" group-title="Programas de TV 24hs",[24H] Um Maluco no Pedaco
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11596
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves S01" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51-YR1Ka9ZL._SY445_.jpg" group-title="Programas de TV 24hs",[24H] Chaves S01
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11597
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves S02" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51-YR1Ka9ZL._SY445_.jpg" group-title="Programas de TV 24hs",[24H] Chaves S02
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11598
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves S03" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51-YR1Ka9ZL._SY445_.jpg" group-title="Programas de TV 24hs",[24H] Chaves S03
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11599
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves S04" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51-YR1Ka9ZL._SY445_.jpg" group-title="Programas de TV 24hs",[24H] Chaves S04
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11600
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves S05" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51-YR1Ka9ZL._SY445_.jpg" group-title="Programas de TV 24hs",[24H] Chaves S05
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11601
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves S06" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51-YR1Ka9ZL._SY445_.jpg" group-title="Programas de TV 24hs",[24H] Chaves S06
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11602
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves S07" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51-YR1Ka9ZL._SY445_.jpg" group-title="Programas de TV 24hs",[24H] Chaves S07
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11603
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chapolin S01" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/517vDa3kSEL._SY445_.jpg" group-title="Programas de TV 24hs",[24H] Chapolin S01
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11604
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chapolin S02" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/517vDa3kSEL._SY445_.jpg" group-title="Programas de TV 24hs",[24H] Chapolin S02
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11605
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chapolin S03" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/517vDa3kSEL._SY445_.jpg" group-title="Programas de TV 24hs",[24H] Chapolin S03
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11606
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chapolin S04" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/517vDa3kSEL._SY445_.jpg" group-title="Programas de TV 24hs",[24H] Chapolin S04
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11607
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chapolin S05" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/517vDa3kSEL._SY445_.jpg" group-title="Programas de TV 24hs",[24H] Chapolin S05
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11608
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chapolin S06" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/517vDa3kSEL._SY445_.jpg" group-title="Programas de TV 24hs",[24H] Chapolin S06
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11609
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chapolin S07" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/517vDa3kSEL._SY445_.jpg" group-title="Programas de TV 24hs",[24H] Chapolin S07
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11610
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Drake e Josh S01 e 01" tvg-logo="https://dg31sz3gwrwan.cloudfront.net/poster/79357/1141066-4-optimized.jpg" group-title="Programas de TV 24hs",[24H] Drake e Josh S01 e 01
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11611
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Drake e Josh S02 e 01" tvg-logo="https://dg31sz3gwrwan.cloudfront.net/poster/79357/1141066-4-optimized.jpg" group-title="Programas de TV 24hs",[24H] Drake e Josh S02 e 01
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11612
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Drake e Josh S03 e 01" tvg-logo="https://dg31sz3gwrwan.cloudfront.net/poster/79357/1141066-4-optimized.jpg" group-title="Programas de TV 24hs",[24H] Drake e Josh S03 e 01
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11613
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Drake e Josh S04 e 01" tvg-logo="https://dg31sz3gwrwan.cloudfront.net/poster/79357/1141066-4-optimized.jpg" group-title="Programas de TV 24hs",[24H] Drake e Josh S04 e 01
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11614
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Cris S01 e S02" tvg-logo="https://fotos.ewmix.com/9298/cx146404.jpg" group-title="Programas de TV 24hs",[24H] Todo Mundo Odeia o Cris S01 e S02
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11615
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Cris S03 e S04" tvg-logo="https://fotos.ewmix.com/9298/cx146404.jpg" group-title="Programas de TV 24hs",[24H] Todo Mundo Odeia o Cris S03 e S04
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11616
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Tres e Demais S01 " tvg-logo="https://m.media-amazon.com/images/M/MV5BN2VhZjA4ZGMtMTM0ZC00MTIyLWFjMzMtOWI4Y2JjN2IyNmYyXkEyXkFqcGdeQXVyNjc4NTExMTk@._V1_UY268_CR0,0,182,268_AL_.jpg" group-title="Programas de TV 24hs",[24H] Tres e Demais S01 
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11620
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Tres e Demais S02" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2VhZjA4ZGMtMTM0ZC00MTIyLWFjMzMtOWI4Y2JjN2IyNmYyXkEyXkFqcGdeQXVyNjc4NTExMTk@._V1_UY268_CR0,0,182,268_AL_.jpg" group-title="Programas de TV 24hs",[24H] Tres e Demais S02
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/11621
