@@ -1009,6 +1009,144 @@ http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2622
 #EXTINF:-1 tvg-id="" tvg-name="Globo Now" tvg-logo="http://printv.esy.es/server/Globo%20Now.png" group-title="Canais Globo",Globo Now
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2433
 
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD" tvg-logo="http://printv.esy.es/server/AXN%20HD.png" group-title="Filmes & Series",AXN FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1810
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://printv.esy.es/server/AXN%20HD.png" group-title="Filmes & Series",AXN HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2054
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://printv.esy.es/server/AXN.png" group-title="Filmes & Series",AXN
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2053
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN Alternativo HD" tvg-logo="http://printv.esy.es/server/AXN%20HD.png" group-title="Filmes & Series",AXN Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1308
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN Alternativo" tvg-logo="http://printv.esy.es/server/AXN.png" group-title="Filmes & Series",AXN Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1119
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD" tvg-logo="http://printv.esy.es/server/AMC%20HD.png" group-title="Filmes & Series",AMC FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1807
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://printv.esy.es/server/AMC%20HD.png" group-title="Filmes & Series",AMC HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2048
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://printv.esy.es/server/AMC.png" group-title="Filmes & Series",AMC
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2047
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC Alternativo HD" tvg-logo="http://printv.esy.es/server/AMC%20HD.png" group-title="Filmes & Series",AMC Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1329
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC Alternativo" tvg-logo="http://printv.esy.es/server/AMC.png" group-title="Filmes & Series",AMC Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1176
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life FHD" tvg-logo="http://printv.esy.es/server/Fox%20Life%20HD.png" group-title="Filmes & Series",Fox Life FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1831
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" tvg-logo="http://printv.esy.es/server/Fox%20Life.png" group-title="Filmes & Series",Fox Life
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2115
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life Alternativo" tvg-logo="http://printv.esy.es/server/Fox%20Life.png" group-title="Filmes & Series",Fox Life Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1134
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="Fox Premium 1 FHD" tvg-logo="http://printv.esy.es/server/Fox%20Premium%201.png" group-title="Filmes & Series",Fox Premium 1 FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1832
+#EXTINF:-1 tvg-id="FoxPremium2" tvg-name="Fox Premium 2 HD" tvg-logo="http://printv.esy.es/server/Fox%20Premium%202.png" group-title="Filmes & Series",Fox Premium 2 HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2120
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="Fox Premium 1" tvg-logo="http://printv.esy.es/server/Fox%20Premium%201.png" group-title="Filmes & Series",Fox Premium 1
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2117
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="Fox Premium 1 HD" tvg-logo="http://printv.esy.es/server/Fox%20Premium%201.png" group-title="Filmes & Series",Fox Premium 1 HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2118
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="Fox Premium 1 Alternativo HD" tvg-logo="http://printv.esy.es/server/Fox%20Premium%201.png" group-title="Filmes & Series",Fox Premium 1 Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1269
+#EXTINF:-1 tvg-id="FoxPremium2" tvg-name="Fox Premium 2 FHD" tvg-logo="http://printv.esy.es/server/Fox%20Premium%202.png" group-title="Filmes & Series",Fox Premium 2 FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1833
+#EXTINF:-1 tvg-id="FoxPremium2" tvg-name="Fox Premium 2 Alternativo HD" tvg-logo="http://printv.esy.es/server/Fox%20Premium%202.png" group-title="Filmes & Series",Fox Premium 2 Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1270
+#EXTINF:-1 tvg-id="FoxPremium2" tvg-name="Fox Premium 2" tvg-logo="http://printv.esy.es/server/Fox%20Premium%202.png" group-title="Filmes & Series",Fox Premium 2
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2119
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD" tvg-logo="http://printv.esy.es/server/TNT%20HD.png" group-title="Filmes & Series",TNT FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1868
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://printv.esy.es/server/TNT%20HD.png" group-title="Filmes & Series",TNT HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2242
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://printv.esy.es/server/TNT.png" group-title="Filmes & Series",TNT
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2241
+#EXTINF:-1 tvg-id="" tvg-name="TNT Alternativo HD" tvg-logo="http://printv.esy.es/server/TNT%20HD.png" group-title="Filmes & Series",TNT Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1283
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT Alternativo" tvg-logo="http://printv.esy.es/server/TNT.png" group-title="Filmes & Series",TNT Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1234
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SÃ©ries FHD" tvg-logo="http://printv.esy.es/server/TNT%20SÃ©ries%20HD.png" group-title="Filmes & Series",TNT SÃ©ries FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1869
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series HD" tvg-logo="http://printv.esy.es/server/TNT%20SÃ©ries%20HD.png" group-title="Filmes & Series",TNT Series HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2244
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="http://printv.esy.es/server/TNT%20SÃ©ries.png" group-title="Filmes & Series",TNT Series
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2243
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series Alternativo HD" tvg-logo="http://printv.esy.es/server/TNT%20SÃ©ries%20HD.png" group-title="Filmes & Series",TNT Series Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1305
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series Alternativo" tvg-logo="http://printv.esy.es/server/TNT%20SÃ©ries.png" group-title="Filmes & Series",TNT Series Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1235
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax FHD" tvg-logo="http://printv.esy.es/server/Cinemax.png" group-title="Filmes & Series",Cinemax FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1816
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax HD" tvg-logo="http://printv.esy.es/server/Cinemax.png" group-title="Filmes & Series",Cinemax HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2074
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="http://printv.esy.es/server/Cinemax.png" group-title="Filmes & Series",Cinemax
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2073
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax Alternativo" tvg-logo="http://printv.esy.es/server/Cinemax.png" group-title="Filmes & Series",Cinemax Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1185
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS FHD" tvg-logo="http://printv.esy.es/server/TBS%20HD.png" group-title="Filmes & Series",TBS FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1865
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="http://printv.esy.es/server/TBS%20HD.png" group-title="Filmes & Series",TBS HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2224
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://printv.esy.es/server/TBS%20HD.png" group-title="Filmes & Series",TBS
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2223
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS Alternativo HD" tvg-logo="http://printv.esy.es/server/TBS%20HD.png" group-title="Filmes & Series",TBS Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1304
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS Alternativo" tvg-logo="http://printv.esy.es/server/TBS%20HD.png" group-title="Filmes & Series",TBS Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1224
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel FHD" tvg-logo="http://printv.esy.es/server/Warner%20Channel%20HD.png" group-title="Filmes & Series",Warner Channel FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1874
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel HD" tvg-logo="http://printv.esy.es/server/Warner%20Channel%20HD.png" group-title="Filmes & Series",Warner Channel HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2265
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="http://printv.esy.es/server/Warner%20Channel.png" group-title="Filmes & Series",Warner Channel
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2264
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel Alternativo HD" tvg-logo="http://printv.esy.es/server/Warner%20Channel%20HD.png" group-title="Filmes & Series",Warner Channel Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1284
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel Alternativo" tvg-logo="http://printv.esy.es/server/Warner%20Channel.png" group-title="Filmes & Series",Warner Channel Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1244
+#EXTINF:-1 tvg-id="Space" tvg-name="Space FHD" tvg-logo="http://printv.esy.es/server/Space%20HD.png" group-title="Filmes & Series",Space FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1862
+#EXTINF:-1 tvg-id="Space" tvg-name="Space HD" tvg-logo="http://printv.esy.es/server/Space%20HD.png" group-title="Filmes & Series",Space HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2217
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="http://printv.esy.es/server/Space.png" group-title="Filmes & Series",Space
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2216
+#EXTINF:-1 tvg-id="Space" tvg-name="Space Alternativo HD" tvg-logo="http://printv.esy.es/server/Space%20HD.png" group-title="Filmes & Series",Space Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1287
+#EXTINF:-1 tvg-id="Space" tvg-name="Space Alternativo" tvg-logo="http://printv.esy.es/server/Space.png" group-title="Filmes & Series",Space Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1220
+#EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount Channel FHD" tvg-logo="http://printv.esy.es/server/Paramount%20Channel.png" group-title="Filmes & Series",Paramount Channel FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1859
+#EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount Channel HD" tvg-logo="http://printv.esy.es/server/Paramount%20Channel.png" group-title="Filmes & Series",Paramount Channel HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2185
+#EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount Channel" tvg-logo="http://printv.esy.es/server/Paramount%20Channel.png" group-title="Filmes & Series",Paramount Channel
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2184
+#EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount Alternativo HD" tvg-logo="http://printv.esy.es/server/Paramount%20Channel.png" group-title="Filmes & Series",Paramount Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1300
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox FHD" tvg-logo="http://printv.esy.es/server/Fox.png" group-title="Filmes & Series",Fox FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1885
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox HD" tvg-logo="http://printv.esy.es/server/Fox.png" group-title="Filmes & Series",Fox HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2114
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="http://printv.esy.es/server/Fox.png" group-title="Filmes & Series",Fox
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2113
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX Alternativo HD" tvg-logo="http://printv.esy.es/server/Fox%20HD.png" group-title="Filmes & Series",FOX Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1313
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox Alternativo" tvg-logo="http://printv.esy.es/server/Fox.png" group-title="Filmes & Series",Fox Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1133
+#EXTINF:-1 tvg-id="FX" tvg-name="FX FHD" tvg-logo="http://printv.esy.es/server/FX%20HD.png" group-title="Filmes & Series",FX FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1835
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://printv.esy.es/server/FX%20HD.png" group-title="Filmes & Series",FX HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2128
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://printv.esy.es/server/FX.png" group-title="Filmes & Series",FX
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2127
+#EXTINF:-1 tvg-id="FX" tvg-name="FX Alternativo HD" tvg-logo="http://printv.esy.es/server/FX%20HD.png" group-title="Filmes & Series",FX Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1315
+#EXTINF:-1 tvg-id="FX" tvg-name="Fx Alternativo" tvg-logo="http://printv.esy.es/server/FX.png" group-title="Filmes & Series",Fx Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1137
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony Channel FHD" tvg-logo="http://printv.esy.es/server/Sony%20Channel.png" group-title="Filmes & Series",Sony Channel FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1814
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony Channel HD" tvg-logo="http://printv.esy.es/server/Sony%20Channel.png" group-title="Filmes & Series",Sony Channel HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2069
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony Channel" tvg-logo="http://printv.esy.es/server/Sony%20Channel.png" group-title="Filmes & Series",Sony Channel
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2068
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony Channel Alternativo HD" tvg-logo="http://printv.esy.es/server/Sony%20Channel.png" group-title="Filmes & Series",Sony Channel Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1325
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony Channel Alternativo" tvg-logo="http://printv.esy.es/server/Sony%20Channel.png" group-title="Filmes & Series",Sony Channel Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1172
 
 
 
