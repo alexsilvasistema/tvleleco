@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Globo RJ" tvg-name="Globo RJ" tvg-logo="http://printv.esy.es/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1941
-#EXTINF:-1 tvg-id="Globo RJ" tvg-name="Globo RJ Alternativo" tvg-logo="http://printv.esy.es/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ Alternativo
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2618
-#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="http://printv.esy.es/server/Globo%20São%20Paulo.png" group-title="Canais Globo",Globo SP
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1947
-#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP Alternativo" tvg-logo="http://printv.esy.es/server/Globo%20S%C3%A3o%20Paulo.png" group-title="Canais Globo",Globo SP Alternativo
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2620
-#EXTINF:-1 tvg-id="Globo Minas" tvg-name="Globo MG" tvg-logo="http://printv.esy.es/server/Globo%20Minas.png" group-title="Canais Globo",Globo MG
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1932
-#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="Globo Nordeste HD" tvg-logo="http://printv.esy.es/server/Globo%20Nordeste.png" group-title="Canais Globo",Globo Nordeste HD
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1935
-#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="Globo Nordeste" tvg-logo="http://printv.esy.es/server/Globo%20Nordeste.png" group-title="Canais Globo",Globo Nordeste
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1934
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes Mares Fortaleza" tvg-logo="http://printv.esy.es/server/TV%20Verdes%20Mares.png" group-title="Canais Globo",Globo TV Verdes Mares Fortaleza
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1962
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Rio Sul" tvg-logo="http://printv.esy.es/server/TV%20Rio%20Sul.png" group-title="Canais Globo",Globo TV Rio Sul
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2029
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia" tvg-logo="http://printv.esy.es/server/TV%20Bahia.png" group-title="Canais Globo",Globo TV Bahia
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1952
-#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Joinville" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV Joinville
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2020
 #EXTINF:-1 tvg-id="Record SP" tvg-name="RecordTV SP" tvg-logo="http://printv.esy.es/server/Record.png" group-title="Canais Record TV",RecordTV SP
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1899
 #EXTINF:-1 tvg-id="Record RJ" tvg-name="RecordTV RJ" tvg-logo="http://printv.esy.es/server/Record%20Rio.png" group-title="Canais Record TV",RecordTV RJ
@@ -496,6 +474,543 @@ http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2059
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1289
 #EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports Alternativo" tvg-logo="http://printv.esy.es/server/Band%20Sports.png" group-title="Esportes",Band Sports Alternativo
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1180
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Cartoon Network FHD" tvg-logo="http://printv.esy.es/server/Cartoon%20Network%20HD.png" group-title="Infantil",Cartoon Network FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1815
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Netowork HD" tvg-logo="http://printv.esy.es/server/Cartoon%20Network%20HD.png" group-title="Infantil",Cartoon Netowork HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2072
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Cartoon Netowork" tvg-logo="http://printv.esy.es/server/Cartoon%20Network.png" group-title="Infantil",Cartoon Netowork
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2071
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Cartoon Network Alternativo HD" tvg-logo="http://printv.esy.es/server/Cartoon%20Network%20HD.png" group-title="Infantil",Cartoon Network Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1332
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network Alternativo" tvg-logo="http://printv.esy.es/server/Cartoon%20Network.png" group-title="Infantil",Cartoon Network Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1124
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids FHD" tvg-logo="http://printv.esy.es/server/Discovery%20Kids%20HD.png" group-title="Infantil",Discovery Kids FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1821
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids HD" tvg-logo="http://printv.esy.es/server/Discovery%20Kids%20HD.png" group-title="Infantil",Discovery Kids HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2088
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="http://printv.esy.es/server/Discovery%20Kids.png" group-title="Infantil",Discovery Kids
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2087
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids Alternativo HD" tvg-logo="http://printv.esy.es/server/Discovery%20Kids%20HD.png" group-title="Infantil",Discovery Kids Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1334
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids Alternativo" tvg-logo="http://printv.esy.es/server/Discovery%20Kids.png" group-title="Infantil",Discovery Kids Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1128
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel FHD" tvg-logo="http://printv.esy.es/server/Disney%20Channel%20HD.png" group-title="Infantil",Disney Channel FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1882
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel HD" tvg-logo="http://printv.esy.es/server/Disney%20Channel%20HD.png" group-title="Infantil",Disney Channel HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2096
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://printv.esy.es/server/Disney%20Channel.png" group-title="Infantil",Disney Channel
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2095
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel Alternativo HD" tvg-logo="http://printv.esy.es/server/Disney%20Channel%20HD.png" group-title="Infantil",Disney Channel Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1336
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel Alternativo" tvg-logo="http://printv.esy.es/server/Disney%20Channel.png" group-title="Infantil",Disney Channel Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1189
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Jr FHD" tvg-logo="http://printv.esy.es/server/Disney%20JÃºnior%20HD.png" group-title="Infantil",Disney Jr FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1876
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Jr HD" tvg-logo="http://printv.esy.es/server/Disney%20JÃºnior%20HD.png" group-title="Infantil",Disney Jr HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2268
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Jr" tvg-logo="http://printv.esy.es/server/Disney%20Jr..png" group-title="Infantil",Disney Jr
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2097
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Jr Alternativo" tvg-logo="http://printv.esy.es/server/Disney%20Jr..png" group-title="Infantil",Disney Jr Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1190
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="" group-title="Infantil",Disney XD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2098
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD Alternativo" tvg-logo="" group-title="Infantil",Disney XD Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1191
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang  FHD" tvg-logo="http://printv.esy.es/server/Boomerang%20HD.png" group-title="Infantil",Boomerang  FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1813
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang HD" tvg-logo="http://printv.esy.es/server/Boomerang%20HD.png" group-title="Infantil",Boomerang HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2065
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://printv.esy.es/server/Boomerang.png" group-title="Infantil",Boomerang
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2064
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang Alternativo HD" tvg-logo="http://printv.esy.es/server/Boomerang%20HD.png" group-title="Infantil",Boomerang Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1330
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang Alternativo" tvg-logo="http://printv.esy.es/server/Boomerang.png" group-title="Infantil",Boomerang Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1182
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon FHD" tvg-logo="http://printv.esy.es/server/Nickelodeon.png" group-title="Infantil",Nickelodeon FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1857
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon HD" tvg-logo="http://printv.esy.es/server/Nickelodeon.png" group-title="Infantil",Nickelodeon HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2181
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="http://printv.esy.es/server/Nickelodeon.png" group-title="Infantil",Nickelodeon
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2180
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon Alternativo HD" tvg-logo="http://printv.esy.es/server/Nickelodeon.png" group-title="Infantil",Nickelodeon Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1345
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon Alternativo" tvg-logo="http://printv.esy.es/server/Nickelodeon.png" group-title="Infantil",Nickelodeon Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1153
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr FHD" tvg-logo="http://printv.esy.es/server/Nick%20Jr.%20HD.png" group-title="Infantil",Nick Jr FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1856
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr HD" tvg-logo="http://printv.esy.es/server/Nick%20Jr.%20HD.png" group-title="Infantil",Nick Jr HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2179
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="http://printv.esy.es/server/Nick%20Jr..png" group-title="Infantil",Nick Jr
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2178
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick JR Alternativo HD" tvg-logo="http://printv.esy.es/server/Nick%20Jr.%20HD.png" group-title="Infantil",Nick JR Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1346
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr Alternativo" tvg-logo="http://printv.esy.es/server/Nick%20Jr..png" group-title="Infantil",Nick Jr Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1211
+#EXTINF:-1 tvg-id="Gloobinho" tvg-name="Gloobinho FHD" tvg-logo="http://printv.esy.es/server/Gloobinho.png" group-title="Infantil",Gloobinho FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1836
+#EXTINF:-1 tvg-id="Gloobinho" tvg-name="Gloobinho HD" tvg-logo="http://printv.esy.es/server/Gloobinho.png" group-title="Infantil",Gloobinho HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2133
+#EXTINF:-1 tvg-id="Gloobinho" tvg-name="Gloobinho" tvg-logo="http://printv.esy.es/server/Gloobinho.png" group-title="Infantil",Gloobinho
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2134
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob FHD" tvg-logo="http://printv.esy.es/server/Gloob.png" group-title="Infantil",Gloob FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1889
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob HD" tvg-logo="http://printv.esy.es/server/Gloob.png" group-title="Infantil",Gloob HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2132
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="http://printv.esy.es/server/Gloob.png" group-title="Infantil",Gloob
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2131
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob Alternativo HD" tvg-logo="http://printv.esy.es/server/Gloob.png" group-title="Infantil",Gloob Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1342
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob Alternativo" tvg-logo="http://printv.esy.es/server/Gloob.png" group-title="Infantil",Gloob Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1139
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="Nat Geo Kids FHD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Kids.png" group-title="Infantil",Nat Geo Kids FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1854
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="Nat Geo Kids HD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Kids.png" group-title="Infantil",Nat Geo Kids HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2174
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="Nat Geo Kids" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Kids.png" group-title="Infantil",Nat Geo Kids
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2173
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="Nat Geo Kids Alternativo HD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Kids.png" group-title="Infantil",Nat Geo Kids Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1344
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="Nat Geo Kids Alternativo" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Kids.png" group-title="Infantil",Nat Geo Kids Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1208
+#EXTINF:-1 tvg-id="TV RÃ¡-Tim-Bum" tvg-name="TV Ra Tim Bum FHD" tvg-logo="http://printv.esy.es/server/TV%20RÃ¡%20Tim%20Bum.png" group-title="Infantil",TV Ra Tim Bum FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1871
+#EXTINF:-1 tvg-id="TV RÃ¡-Tim-Bum" tvg-name="TV Ra Tim Bum HD" tvg-logo="http://printv.esy.es/server/TV%20RÃ¡%20Tim%20Bum.png" group-title="Infantil",TV Ra Tim Bum HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2254
+#EXTINF:-1 tvg-id="TV RÃ¡-Tim-Bum" tvg-name="TV Ra Tim Bum" tvg-logo="http://printv.esy.es/server/TV%20RÃ¡%20Tim%20Bum.png" group-title="Infantil",TV Ra Tim Bum
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2253
+#EXTINF:-1 tvg-id="Globo Internacional" tvg-name="TV Ra Tim Bum Alternativo" tvg-logo="http://printv.esy.es/server/TV%20RÃ¡%20Tim%20Bum.png" group-title="Infantil",TV Ra Tim Bum Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1215
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://printv.esy.es/server/Tooncast.png" group-title="Infantil",Tooncast
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2245
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast Alternativo" tvg-logo="http://printv.esy.es/server/Tooncast.png" group-title="Infantil",Tooncast Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1236
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="Baby TV Alternativo" tvg-logo="http://printv.esy.es/server/Baby%20TV.png" group-title="Infantil",Baby TV Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1120
+#EXTINF:-1 tvg-id="" tvg-name="Zoomoo" tvg-logo="http://printv.esy.es/server/ZooMoo.png" group-title="Infantil",Zoomoo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2293
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo Alternativo" tvg-logo="http://printv.esy.es/server/ZooMoo.png" group-title="Infantil",ZooMoo Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1246
+
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow FHD" tvg-logo="http://printv.esy.es/server/Multishow%20HD.png" group-title="Variedades & Musicas",Multishow FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1851
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow HD" tvg-logo="http://printv.esy.es/server/Multishow%20HD.png" group-title="Variedades & Musicas",Multishow HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2168
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow" tvg-logo="http://printv.esy.es/server/Multishow.png" group-title="Variedades & Musicas",Multishow
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2167
+#EXTINF:-1 tvg-id="" tvg-name="Multishow Alternativo HD" tvg-logo="http://printv.esy.es/server/Multishow%20HD.png" group-title="Variedades & Musicas",Multishow Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1297
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow Alternativo" tvg-logo="http://printv.esy.es/server/Multishow.png" group-title="Variedades & Musicas",Multishow Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1206
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva FHD" tvg-logo="http://printv.esy.es/server/Viva%20HD.png" group-title="Variedades & Musicas",Viva FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1906
+#EXTINF:-1 tvg-id="" tvg-name="Viva HD" tvg-logo="http://printv.esy.es/server/Viva%20HD.png" group-title="Variedades & Musicas",Viva HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2263
+#EXTINF:-1 tvg-id="" tvg-name="Viva" tvg-logo="http://printv.esy.es/server/Viva.png" group-title="Variedades & Musicas",Viva
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2262
+#EXTINF:-1 tvg-id="" tvg-name="Viva Alternativo HD" tvg-logo="http://printv.esy.es/server/Viva%20HD.png" group-title="Variedades & Musicas",Viva Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1306
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva Alternativo" tvg-logo="http://printv.esy.es/server/Viva.png" group-title="Variedades & Musicas",Viva Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1243
+#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat FHD" tvg-logo="http://printv.esy.es/server/Globosat%20HD.png" group-title="Variedades & Musicas",Mais Globosat FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1907
+#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat HD" tvg-logo="http://printv.esy.es/server/Globosat%20HD.png" group-title="Variedades & Musicas",Mais Globosat HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2156
+#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat" tvg-logo="http://printv.esy.es/server/Globosat.png" group-title="Variedades & Musicas",Mais Globosat
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2155
+#EXTINF:-1 tvg-id="" tvg-name="Mais GloboSat Alternativo HD" tvg-logo="http://printv.esy.es/server/Globosat%20HD.png" group-title="Variedades & Musicas",Mais GloboSat Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1343
+#EXTINF:-1 tvg-id="" tvg-name="Mais GloboSat Alternativo" tvg-logo="http://printv.esy.es/server/Globosat.png" group-title="Variedades & Musicas",Mais GloboSat Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1148
+#EXTINF:-1 tvg-id="" tvg-name="GNT FHD" tvg-logo="http://printv.esy.es/server/GNT%20HD.png" group-title="Variedades & Musicas",GNT FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1837
+#EXTINF:-1 tvg-id="" tvg-name="GNT HD" tvg-logo="http://printv.esy.es/server/GNT%20HD.png" group-title="Variedades & Musicas",GNT HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2136
+#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="http://printv.esy.es/server/GNT.png" group-title="Variedades & Musicas",GNT
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2135
+#EXTINF:-1 tvg-id="" tvg-name="GNT Alternativo HD" tvg-logo="http://printv.esy.es/server/GNT%20HD.png" group-title="Variedades & Musicas",GNT Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1296
+#EXTINF:-1 tvg-id="" tvg-name="GNT Alternativo" tvg-logo="http://printv.esy.es/server/GNT.png" group-title="Variedades & Musicas",GNT Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1197
+#EXTINF:-1 tvg-id="" tvg-name="OFF FHD" tvg-logo="http://printv.esy.es/server/Canal%20Off.png" group-title="Variedades & Musicas",OFF FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1858
+#EXTINF:-1 tvg-id="" tvg-name="OFF HD" tvg-logo="http://printv.esy.es/server/Canal%20Off.png" group-title="Variedades & Musicas",OFF HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2183
+#EXTINF:-1 tvg-id="" tvg-name="OFF" tvg-logo="http://printv.esy.es/server/Canal%20Off.png" group-title="Variedades & Musicas",OFF
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2182
+#EXTINF:-1 tvg-id="" tvg-name="OFF Alternativo HD" tvg-logo="http://printv.esy.es/server/Canal%20Off.png" group-title="Variedades & Musicas",OFF Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1322
+#EXTINF:-1 tvg-id="" tvg-name="Off Alternativo" tvg-logo="http://printv.esy.es/server/Canal%20Off.png" group-title="Variedades & Musicas",Off Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1154
+#EXTINF:-1 tvg-id="" tvg-name="Bis FHD" tvg-logo="http://printv.esy.es/server/Bis.png" group-title="Variedades & Musicas",Bis FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1879
+#EXTINF:-1 tvg-id="" tvg-name="Bis HD" tvg-logo="http://printv.esy.es/server/Bis.png" group-title="Variedades & Musicas",Bis HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2062
+#EXTINF:-1 tvg-id="" tvg-name="Bis" tvg-logo="http://printv.esy.es/server/Bis.png" group-title="Variedades & Musicas",Bis
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2061
+#EXTINF:-1 tvg-id="" tvg-name="BIS Alternativo HD" tvg-logo="http://printv.esy.es/server/Bis.png" group-title="Variedades & Musicas",BIS Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1290
+#EXTINF:-1 tvg-id="BIS" tvg-name="Bis Alternativo" tvg-logo="http://printv.esy.es/server/Bis.png" group-title="Variedades & Musicas",Bis Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1122
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime FHD" tvg-logo="http://printv.esy.es/server/Lifetime.png" group-title="Variedades & Musicas",Lifetime FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1844
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD" tvg-logo="http://printv.esy.es/server/Lifetime.png" group-title="Variedades & Musicas",Lifetime HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2154
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="http://printv.esy.es/server/Lifetime.png" group-title="Variedades & Musicas",Lifetime
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2153
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime Alternativo HD" tvg-logo="http://printv.esy.es/server/Lifetime.png" group-title="Variedades & Musicas",Lifetime Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1263
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime Alternativo" tvg-logo="http://printv.esy.es/server/Lifetime.png" group-title="Variedades & Musicas",Lifetime Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1147
+#EXTINF:-1 tvg-id="" tvg-name="TLC FHD" tvg-logo="http://printv.esy.es/server/TLC%20HD.png" group-title="Variedades & Musicas",TLC FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1867
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="http://printv.esy.es/server/TLC%20HD.png" group-title="Variedades & Musicas",TLC HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2240
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://printv.esy.es/server/TLC.png" group-title="Variedades & Musicas",TLC
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2239
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC Alternativo HD" tvg-logo="http://printv.esy.es/server/TLC%20HD.png" group-title="Variedades & Musicas",TLC Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1348
+#EXTINF:-1 tvg-id="" tvg-name="TLC Alternativo" tvg-logo="http://printv.esy.es/server/TLC.png" group-title="Variedades & Musicas",TLC Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1233
+#EXTINF:-1 tvg-id="" tvg-name="A&E FHD" tvg-logo="http://printv.esy.es/server/A%26E%20HD.png" group-title="Variedades & Musicas",A&E FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1806
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="http://printv.esy.es/server/A%26E%20HD.png" group-title="Variedades & Musicas",A&E HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2046
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://printv.esy.es/server/A%26E.png" group-title="Variedades & Musicas",A&E
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2045
+#EXTINF:-1 tvg-id="" tvg-name="A&E Alternativo HD" tvg-logo="http://printv.esy.es/server/A%26E%20HD.png" group-title="Variedades & Musicas",A&E Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1307
+#EXTINF:-1 tvg-id="" tvg-name="A&E Alternativo" tvg-logo="http://printv.esy.es/server/A%26E.png" group-title="Variedades & Musicas",A&E Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1175
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central FHD" tvg-logo="http://printv.esy.es/server/Comedy%20Central%20HD.png" group-title="Variedades & Musicas",Comedy Central FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1817
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="http://printv.esy.es/server/Comedy%20Central%20HD.png" group-title="Variedades & Musicas",Comedy Central HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2078
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="http://printv.esy.es/server/Comedy%20Central.png" group-title="Variedades & Musicas",Comedy Central
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2077
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central Alternativo" tvg-logo="http://printv.esy.es/server/Comedy%20Central.png" group-title="Variedades & Musicas",Comedy Central Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1187
+#EXTINF:-1 tvg-id="" tvg-name="MTV FHD" tvg-logo="http://printv.esy.es/server/MTV%20HD.png" group-title="Variedades & Musicas",MTV FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1849
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="http://printv.esy.es/server/MTV%20HD.png" group-title="Variedades & Musicas",MTV HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2166
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="http://printv.esy.es/server/MTV.png" group-title="Variedades & Musicas",MTV
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2165
+#EXTINF:-1 tvg-id="" tvg-name="MTV Alternativo" tvg-logo="http://printv.esy.es/server/MTV.png" group-title="Variedades & Musicas",MTV Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1150
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live FHD" tvg-logo="http://printv.esy.es/server/MTV%20Live%20HD.png" group-title="Variedades & Musicas",MTV Live FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1850
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD" tvg-logo="http://printv.esy.es/server/MTV%20Live%20HD.png" group-title="Variedades & Musicas",MTV Live HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2270
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live" tvg-logo="http://printv.esy.es/server/MTV%20Live.png" group-title="Variedades & Musicas",MTV Live
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2269
+#EXTINF:-1 tvg-id="" tvg-name="VH1 FHD" tvg-logo="http://printv.esy.es/server/VH1%20HD.png" group-title="Variedades & Musicas",VH1 FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1873
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="http://printv.esy.es/server/VH1%20HD.png" group-title="Variedades & Musicas",VH1 HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2260
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="http://printv.esy.es/server/VH1.png" group-title="Variedades & Musicas",VH1
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2259
+#EXTINF:-1 tvg-id="" tvg-name="VH1 alternativo" tvg-logo="http://printv.esy.es/server/VH1.png" group-title="Variedades & Musicas",VH1 alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1242
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Mega Hits" tvg-logo="http://printv.esy.es/server/VH1%20Mega%20Hits.png" group-title="Variedades & Musicas",VH1 Mega Hits
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2261
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brasil FHD" tvg-logo="http://printv.esy.es/server/Music%20Box%20Brazil%20HD.png" group-title="Variedades & Musicas",Music Box Brasil FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1852
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brasil HD" tvg-logo="http://printv.esy.es/server/Music%20Box%20Brazil%20HD.png" group-title="Variedades & Musicas",Music Box Brasil HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2170
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brasil" tvg-logo="http://printv.esy.es/server/Music%20Box%20Brazil.png" group-title="Variedades & Musicas",Music Box Brasil
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2169
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brasil Alternativo" tvg-logo="http://printv.esy.es/server/Music%20Box%20Brazil.png" group-title="Variedades & Musicas",Music Box Brasil Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1151
+#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brasil FHD" tvg-logo="http://printv.esy.es/server/Prime%20Box%20Brazil%20HD.png" group-title="Variedades & Musicas",Prime Box Brasil FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1860
+#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brasil HD" tvg-logo="http://printv.esy.es/server/Prime%20Box%20Brazil%20HD.png" group-title="Variedades & Musicas",Prime Box Brasil HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2201
+#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brasil" tvg-logo="http://printv.esy.es/server/Prime%20Box%20Brazil.png" group-title="Variedades & Musicas",Prime Box Brasil
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2200
+#EXTINF:-1 tvg-id="" tvg-name="PrimeBox Brasil Alternativo" tvg-logo="http://printv.esy.es/server/Prime%20Box%20Brazil.png" group-title="Variedades & Musicas",PrimeBox Brasil Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1164
+#EXTINF:-1 tvg-id="" tvg-name="Curta! FHD" tvg-logo="http://printv.esy.es/server/Curta%21.png" group-title="Variedades & Musicas",Curta! FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1818
+#EXTINF:-1 tvg-id="" tvg-name="Curta! HD" tvg-logo="http://printv.esy.es/server/Curta%21.png" group-title="Variedades & Musicas",Curta! HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2080
+#EXTINF:-1 tvg-id="" tvg-name="Curta!" tvg-logo="http://printv.esy.es/server/Curta%21.png" group-title="Variedades & Musicas",Curta!
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2079
+#EXTINF:-1 tvg-id="" tvg-name="Curta! Alterntativo" tvg-logo="http://printv.esy.es/server/Curta%21.png" group-title="Variedades & Musicas",Curta! Alterntativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1188
+#EXTINF:-1 tvg-id="" tvg-name="Arte 1 FHD" tvg-logo="http://printv.esy.es/server/Arte1.png" group-title="Variedades & Musicas",Arte 1 FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1809
+#EXTINF:-1 tvg-id="" tvg-name="Arte 1 HD" tvg-logo="http://printv.esy.es/server/Arte1.png" group-title="Variedades & Musicas",Arte 1 HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2052
+#EXTINF:-1 tvg-id="" tvg-name="Arte 1" tvg-logo="http://printv.esy.es/server/Arte1.png" group-title="Variedades & Musicas",Arte 1
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2051
+#EXTINF:-1 tvg-id="" tvg-name="Arte 1 Alternativo" tvg-logo="http://printv.esy.es/server/Arte1.png" group-title="Variedades & Musicas",Arte 1 Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1118
+#EXTINF:-1 tvg-id="" tvg-name="Trutv FHD" tvg-logo="http://printv.esy.es/server/Tru%20TV%20HD.png" group-title="Variedades & Musicas",Trutv FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1870
+#EXTINF:-1 tvg-id="" tvg-name="TruTV HD" tvg-logo="http://printv.esy.es/server/Tru%20TV%20HD.png" group-title="Variedades & Musicas",TruTV HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2256
+#EXTINF:-1 tvg-id="" tvg-name="TruTV" tvg-logo="http://printv.esy.es/server/Tru%20TV.png" group-title="Variedades & Musicas",TruTV
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2255
+#EXTINF:-1 tvg-id="" tvg-name="TruTV Alternativo" tvg-logo="http://printv.esy.es/server/Tru%20TV.png" group-title="Variedades & Musicas",TruTV Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1237
+#EXTINF:-1 tvg-id="" tvg-name="iSat" tvg-logo="http://printv.esy.es/server/ISat.png" group-title="Variedades & Musicas",iSat
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1201
+#EXTINF:-1 tvg-id="" tvg-name="Food Network FHD" tvg-logo="http://printv.esy.es/server/Food%20Network%20HD.png" group-title="Variedades & Musicas",Food Network FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1830
+#EXTINF:-1 tvg-id="" tvg-name="Food Network HD" tvg-logo="http://printv.esy.es/server/Food%20Network%20HD.png" group-title="Variedades & Musicas",Food Network HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2112
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="http://printv.esy.es/server/Food%20Network.png" group-title="Variedades & Musicas",Food Network
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2111
+#EXTINF:-1 tvg-id="" tvg-name="Food Network Alternativo" tvg-logo="http://printv.esy.es/server/Food%20Network.png" group-title="Variedades & Musicas",Food Network Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1132
+#EXTINF:-1 tvg-id="" tvg-name="E! FHD" tvg-logo="http://printv.esy.es/server/E%21%20Entertainment%20HD.png" group-title="Variedades & Musicas",E! FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1826
+#EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="http://printv.esy.es/server/E%21%20Entertainment%20HD.png" group-title="Variedades & Musicas",E! HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2100
+#EXTINF:-1 tvg-id="" tvg-name="E! Alternativo HD" tvg-logo="http://printv.esy.es/server/E%21%20Entertainment%20HD.png" group-title="Variedades & Musicas",E! Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1338
+
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="Globo RJ FHD" tvg-logo="http://printv.esy.es/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1943
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="Globo RJ HD" tvg-logo="http://printv.esy.es/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1942
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="Globo RJ" tvg-logo="http://printv.esy.es/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1941
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo RJ Alternativo HD" tvg-logo="http://printv.esy.es/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2617
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="Globo RJ Alternativo" tvg-logo="http://printv.esy.es/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2618
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP UHD" tvg-logo="http://printv.esy.es/server/Globo%20São%20Paulo.png" group-title="Canais Globo",Globo SP UHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2334
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP FHD" tvg-logo="http://printv.esy.es/server/Globo%20São%20Paulo.png" group-title="Canais Globo",Globo SP FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1949
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="http://printv.esy.es/server/Globo%20São%20Paulo.png" group-title="Canais Globo",Globo SP HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1948
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="http://printv.esy.es/server/Globo%20São%20Paulo.png" group-title="Canais Globo",Globo SP
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1947
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP Alternativo HD" tvg-logo="http://printv.esy.es/server/Globo%20S%C3%A3o%20Paulo.png" group-title="Canais Globo",Globo SP Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2619
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP Alternativo" tvg-logo="http://printv.esy.es/server/Globo%20S%C3%A3o%20Paulo.png" group-title="Canais Globo",Globo SP Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2620
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="Globo MG FHD" tvg-logo="http://printv.esy.es/server/Globo%20Minas.png" group-title="Canais Globo",Globo MG FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1981
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="Globo MG HD" tvg-logo="http://printv.esy.es/server/Globo%20Minas.png" group-title="Canais Globo",Globo MG HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1933
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="Globo MG" tvg-logo="http://printv.esy.es/server/Globo%20Minas.png" group-title="Canais Globo",Globo MG
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1932
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba FHD" tvg-logo="http://printv.esy.es/server/RPC%20TV%20Curitiba.png" group-title="Canais Globo",Globo RPC Curitiba FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1946
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba HD²" tvg-logo="http://printv.esy.es/server/RPC%20TV%20Curitiba.png" group-title="Canais Globo",Globo RPC Curitiba HD²
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1945
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba" tvg-logo="http://printv.esy.es/server/RPC%20TV%20Curitiba.png" group-title="Canais Globo",Globo RPC Curitiba
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1944
+#EXTINF:-1 tvg-id="Globo BrasÃ­lia" tvg-name="Globo Brasilia FHD" tvg-logo="http://printv.esy.es/server/Globo%20Bras%C3%ADlia.png" group-title="Canais Globo",Globo Brasilia FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1979
+#EXTINF:-1 tvg-id="Globo BrasÃ­lia" tvg-name="Globo Brasilia HD" tvg-logo="http://printv.esy.es/server/Globo%20Bras%C3%ADlia.png" group-title="Canais Globo",Globo Brasilia HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1924
+#EXTINF:-1 tvg-id="Globo BrasÃ­lia" tvg-name="Globo Brasilia" tvg-logo="http://printv.esy.es/server/Globo%20Bras%C3%ADlia.png" group-title="Canais Globo",Globo Brasilia
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2034
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="Globo Nordeste FHD" tvg-logo="http://printv.esy.es/server/Globo%20Nordeste.png" group-title="Canais Globo",Globo Nordeste FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1982
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="Globo Nordeste HD" tvg-logo="http://printv.esy.es/server/Globo%20Nordeste.png" group-title="Canais Globo",Globo Nordeste HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1935
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="Globo Nordeste" tvg-logo="http://printv.esy.es/server/Globo%20Nordeste.png" group-title="Canais Globo",Globo Nordeste
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1934
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes Mares Fortaleza" tvg-logo="http://printv.esy.es/server/TV%20Verdes%20Mares.png" group-title="Canais Globo",Globo TV Verdes Mares Fortaleza
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1962
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Vanguarda S. J. Dos Campos" tvg-logo="http://printv.esy.es/server/TV%20Vanguarda.png" group-title="Canais Globo",Globo TV Vanguarda S. J. Dos Campos
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1961
+#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Tribuna Santos" tvg-logo="http://printv.esy.es/server/TV%20Tribuna.png" group-title="Canais Globo",Globo Tv Tribuna Santos
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1960
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Sorocaba" tvg-logo="http://printv.esy.es/server/TV%20Tem%20Bauru.png" group-title="Canais Globo",Globo TV Tem Sorocaba
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1957
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM S. J. Rio Preto FHD" tvg-logo="http://printv.esy.es/server/TV%20Tem%20Bauru.png" group-title="Canais Globo",Globo TV TEM S. J. Rio Preto FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1993
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem S. J. do Rio Preto HD" tvg-logo="http://printv.esy.es/server/TV%20Tem%20Bauru.png" group-title="Canais Globo",Globo TV Tem S. J. do Rio Preto HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1958
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM S. J. do Rio Preto" tvg-logo="http://printv.esy.es/server/TV%20Tem%20Bauru.png" group-title="Canais Globo",Globo TV TEM S. J. do Rio Preto
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1959
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Bauru" tvg-logo="http://printv.esy.es/server/TV%20Tem%20Bauru.png" group-title="Canais Globo",Globo TV Tem Bauru
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1956
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Sergipe FHD" tvg-logo="http://printv.esy.es/server/TV%20Sergipe.png" group-title="Canais Globo",Globo TV Sergipe FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1977
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Sergipe HD" tvg-logo="http://printv.esy.es/server/TV%20Sergipe.png" group-title="Canais Globo",Globo TV Sergipe HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1978
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Sergipe" tvg-logo="http://printv.esy.es/server/TV%20Sergipe.png" group-title="Canais Globo",Globo TV Sergipe
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1976
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Santa Cruz FHD" tvg-logo="http://printv.esy.es/server/TV%20Santa%20Cruz.png" group-title="Canais Globo",Globo TV Santa Cruz FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2030
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Santa Cruz HD" tvg-logo="http://printv.esy.es/server/TV%20Santa%20Cruz.png" group-title="Canais Globo",Globo TV Santa Cruz HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2031
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Santa Cruz" tvg-logo="http://printv.esy.es/server/TV%20Santa%20Cruz.png" group-title="Canais Globo",Globo TV Santa Cruz
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2032
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Rio Sul FHD" tvg-logo="http://printv.esy.es/server/TV%20Rio%20Sul.png" group-title="Canais Globo",Globo TV Rio Sul FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2027
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Rio Sul HD" tvg-logo="http://printv.esy.es/server/TV%20Rio%20Sul.png" group-title="Canais Globo",Globo TV Rio Sul HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2028
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Rio Sul" tvg-logo="http://printv.esy.es/server/TV%20Rio%20Sul.png" group-title="Canais Globo",Globo TV Rio Sul
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2029
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena Campo Grande FHD" tvg-logo="http://printv.esy.es/server/TV%20Morena.png" group-title="Canais Globo",Globo TV Morena Campo Grande FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1990
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena Campo Grande HD" tvg-logo="http://printv.esy.es/server/TV%20Morena.png" group-title="Canais Globo",Globo TV Morena Campo Grande HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1991
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena Campo Grande" tvg-logo="http://printv.esy.es/server/TV%20Morena.png" group-title="Canais Globo",Globo TV Morena Campo Grande
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1992
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante SÃ£o Luis FHD" tvg-logo="http://printv.esy.es/server/TV%20Mirante.png" group-title="Canais Globo",Globo TV Mirante SÃ£o Luis FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1987
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante SÃ£o Luis HD" tvg-logo="http://printv.esy.es/server/TV%20Mirante.png" group-title="Canais Globo",Globo TV Mirante SÃ£o Luis HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1988
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante SÃ£o Luis" tvg-logo="http://printv.esy.es/server/TV%20Mirante.png" group-title="Canais Globo",Globo TV Mirante SÃ£o Luis
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1989
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Liberal BelÃ©m" tvg-logo="http://printv.esy.es/server/TV%20Liberal.png" group-title="Canais Globo",Globo TV Liberal BelÃ©m
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1955
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta VitÃ³ria FHD" tvg-logo="https://i.postimg.cc/FKtn17LD/TV-Gazeta-Sul.png" group-title="Canais Globo",Globo TV Gazeta VitÃ³ria FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1974
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta VitÃ³ria HD" tvg-logo="https://i.postimg.cc/FKtn17LD/TV-Gazeta-Sul.png" group-title="Canais Globo",Globo TV Gazeta VitÃ³ria HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1975
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta VitÃ³ria" tvg-logo="https://i.postimg.cc/FKtn17LD/TV-Gazeta-Sul.png" group-title="Canais Globo",Globo TV Gazeta VitÃ³ria
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1973
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Sul ES FHD" tvg-logo="http://printv.esy.es/server/TV%20Gazeta%20Sul.png" group-title="Canais Globo",Globo TV Gazeta Sul ES FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1997
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Sul ES HD" tvg-logo="http://printv.esy.es/server/TV%20Gazeta%20Sul.png" group-title="Canais Globo",Globo TV Gazeta Sul ES HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1998
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Alagoas FHD" tvg-logo="http://printv.esy.es/server/TV%20Gazeta%20Alagoas.png" group-title="Canais Globo",Globo TV Gazeta Alagoas FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1995
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Alagoas HD" tvg-logo="http://printv.esy.es/server/TV%20Gazeta%20Alagoas.png" group-title="Canais Globo",Globo TV Gazeta Alagoas HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1996
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Alagoas" tvg-logo="http://printv.esy.es/server/TV%20Gazeta%20Alagoas.png" group-title="Canais Globo",Globo TV Gazeta Alagoas
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1994
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Clube Teresina FHD" tvg-logo="http://printv.esy.es/server/TV%20Clube.png" group-title="Canais Globo",Globo TV Clube Teresina FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1971
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Clube Teresina HD" tvg-logo="http://printv.esy.es/server/TV%20Clube.png" group-title="Canais Globo",Globo TV Clube Teresina HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1972
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Clube Teresina" tvg-logo="http://printv.esy.es/server/TV%20Clube.png" group-title="Canais Globo",Globo TV Clube Teresina
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1970
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Cabo Branco FHD" tvg-logo="http://printv.esy.es/server/Globo.png" group-title="Canais Globo",Globo TV Cabo Branco FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2024
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Cabo Branco HD" tvg-logo="http://printv.esy.es/server/Globo.png" group-title="Canais Globo",Globo TV Cabo Branco HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2025
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Cabo Branco" tvg-logo="http://printv.esy.es/server/Globo.png" group-title="Canais Globo",Globo TV Cabo Branco
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2026
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV C. AmÃ©rica CuiabÃ¡" tvg-logo="http://printv.esy.es/server/TV%20Centro%20AmÃ©rica.png" group-title="Canais Globo",Globo TV C. AmÃ©rica CuiabÃ¡
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1954
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia FHD" tvg-logo="http://printv.esy.es/server/TV%20Bahia.png" group-title="Canais Globo",Globo TV Bahia FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1986
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia HD" tvg-logo="http://printv.esy.es/server/TV%20Bahia.png" group-title="Canais Globo",Globo TV Bahia HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1953
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia" tvg-logo="http://printv.esy.es/server/TV%20Bahia.png" group-title="Canais Globo",Globo TV Bahia
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1952
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera FHD" tvg-logo="http://printv.esy.es/server/TV%20Anhanguera.png" group-title="Canais Globo",Globo TV Anhanguera FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1985
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera HD" tvg-logo="http://printv.esy.es/server/TV%20Anhanguera.png" group-title="Canais Globo",Globo TV Anhanguera HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1951
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera" tvg-logo="http://printv.esy.es/server/TV%20Anhanguera.png" group-title="Canais Globo",Globo TV Anhanguera
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1950
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Foz do IguaÃ§u FHD" tvg-logo="http://printv.esy.es/server/RPC%20TV%20Foz%20do%20IguaÃ§u.png" group-title="Canais Globo",Globo RPC Foz do IguaÃ§u FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1968
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Foz do IguaÃ§u HD" tvg-logo="http://printv.esy.es/server/RPC%20TV%20Foz%20do%20IguaÃ§u.png" group-title="Canais Globo",Globo RPC Foz do IguaÃ§u HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1969
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Foz do IguaÃ§u" tvg-logo="http://printv.esy.es/server/RPC%20TV%20Foz%20do%20IguaÃ§u.png" group-title="Canais Globo",Globo RPC Foz do IguaÃ§u
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1967
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rede AM. MANAUS" tvg-logo="http://printv.esy.es/server/Rede%20AmazÃ´nica.png" group-title="Canais Globo",Globo Rede AM. MANAUS
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1940
+#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS POA FHD" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Globo",Globo RBS POA FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1984
+#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV POA HD" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Globo",Globo RBS TV POA HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1939
+#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV POA" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Globo",Globo RBS TV POA
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1938
+#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV Pelotas FHD" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Globo",Globo RBS TV Pelotas FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2021
+#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV Pelotas HD" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Globo",Globo RBS TV Pelotas HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2022
+#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV Pelotas" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Globo",Globo RBS TV Pelotas
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2023
+#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV Caxias do Sul FHD" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Globo",Globo RBS TV Caxias do Sul FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2015
+#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV Caxias do Sul HD" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Globo",Globo RBS TV Caxias do Sul HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2016
+#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV Caxias do Sul" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Globo",Globo RBS TV Caxias do Sul
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2017
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Joinville FHD" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV Joinville FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2018
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Joinville HD" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV Joinville HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2019
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Joinville" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV Joinville
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2020
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV FlorianÃ³polis FHD" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV FlorianÃ³polis FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1983
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV FlorianÃ³polis HD" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV FlorianÃ³polis HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1937
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV FlorianÃ³polis" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV FlorianÃ³polis
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1936
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV ChapecÃ³ FHD" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV ChapecÃ³ FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1964
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV ChapecÃ³ HD" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV ChapecÃ³ HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1965
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV ChapecÃ³" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV ChapecÃ³
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1966
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Blumenau FHD" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV Blumenau FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2012
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Blumenau HD" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV Blumenau HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2013
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Blumenal" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV Blumenal
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2014
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Serra Mar FHD" tvg-logo="http://printv.esy.es/server/Inter%20TV.png" group-title="Canais Globo",Globo Inter TV Serra Mar FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2009
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Serra Mar HD" tvg-logo="http://printv.esy.es/server/Inter%20TV.png" group-title="Canais Globo",Globo Inter TV Serra Mar HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2010
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Serra Mar" tvg-logo="http://printv.esy.es/server/Inter%20TV.png" group-title="Canais Globo",Globo Inter TV Serra Mar
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2011
+#EXTINF:-1 tvg-id="" tvg-name="Globo INTER TV Natal" tvg-logo="http://printv.esy.es/server/Inter%20TV.png" group-title="Canais Globo",Globo INTER TV Natal
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1931
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Grande Minas FHD" tvg-logo="http://printv.esy.es/server/Inter%20TV.png" group-title="Canais Globo",Globo Inter TV Grande Minas FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2006
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Grande Minas HD" tvg-logo="http://printv.esy.es/server/Inter%20TV.png" group-title="Canais Globo",Globo Inter TV Grande Minas HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2007
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Grande Minas" tvg-logo="http://printv.esy.es/server/Inter%20TV.png" group-title="Canais Globo",Globo Inter TV Grande Minas
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2008
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV dos Vales FHD" tvg-logo="http://printv.esy.es/server/Globo.png" group-title="Canais Globo",Globo Inter TV dos Vales FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2003
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV dos Vales HD" tvg-logo="http://printv.esy.es/server/Globo.png" group-title="Canais Globo",Globo Inter TV dos Vales HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2004
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV dos Vales" tvg-logo="http://printv.esy.es/server/Globo.png" group-title="Canais Globo",Globo Inter TV dos Vales
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2005
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="Globo Inter TV Alto Litoral FHD" tvg-logo="http://printv.esy.es/server/Globo.png" group-title="Canais Globo",Globo Inter TV Alto Litoral FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2000
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="Globo Inter TV Alto Litoral HD" tvg-logo="http://printv.esy.es/server/Globo.png" group-title="Canais Globo",Globo Inter TV Alto Litoral HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2001
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="Globo Inter TV Alto Litoral" tvg-logo="http://printv.esy.es/server/Globo.png" group-title="Canais Globo",Globo Inter TV Alto Litoral
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2002
+#EXTINF:-1 tvg-id="EPTV Campinas" tvg-name="Globo EPTV SÃ£o Carlos" tvg-logo="http://printv.esy.es/server/EPTV.png" group-title="Canais Globo",Globo EPTV SÃ£o Carlos
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1930
+#EXTINF:-1 tvg-id="Globo EPTV Ribeirao Preto" tvg-name="Globo EPTV RibeirÃ£o Preto FHD" tvg-logo="http://printv.esy.es/server/EPTV%20RibeirÃ£o%20Preto.png" group-title="Canais Globo",Globo EPTV RibeirÃ£o Preto FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1999
+#EXTINF:-1 tvg-id="Globo EPTV Ribeirao Preto" tvg-name="Globo EPTV RibeirÃ£o Preto HD" tvg-logo="http://printv.esy.es/server/EPTV%20RibeirÃ£o%20Preto.png" group-title="Canais Globo",Globo EPTV RibeirÃ£o Preto HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1928
+#EXTINF:-1 tvg-id="Globo EPTV Ribeirao Preto" tvg-name="Globo EPTV RibeirÃ£o Preto" tvg-logo="http://printv.esy.es/server/EPTV%20RibeirÃ£o%20Preto.png" group-title="Canais Globo",Globo EPTV RibeirÃ£o Preto
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1929
+#EXTINF:-1 tvg-id="EPTV Campinas" tvg-name="Globo EPTV Campinas FHD" tvg-logo="http://printv.esy.es/server/EPTV%20Campinas.png" group-title="Canais Globo",Globo EPTV Campinas FHD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1980
+#EXTINF:-1 tvg-id="EPTV Campinas" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://printv.esy.es/server/EPTV%20Campinas.png" group-title="Canais Globo",Globo EPTV Campinas HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1927
+#EXTINF:-1 tvg-id="EPTV Campinas" tvg-name="Globo EPTV Campinas" tvg-logo="http://printv.esy.es/server/EPTV%20Campinas.png" group-title="Canais Globo",Globo EPTV Campinas
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1926
+#EXTINF:-1 tvg-id="EPTV Campinas" tvg-name="Globo EPTV Araraquara" tvg-logo="http://printv.esy.es/server/EPTV.png" group-title="Canais Globo",Globo EPTV Araraquara
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1925
+#EXTINF:-1 tvg-id="" tvg-name="Globo Portugal HD" tvg-logo="http://printv.esy.es/server/Globo%20Portugal.png" group-title="Canais Globo",Globo Portugal HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2434
+#EXTINF:-1 tvg-id="" tvg-name="Globo Portugal" tvg-logo="http://printv.esy.es/server/Globo%20Portugal.png" group-title="Canais Globo",Globo Portugal
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2435
+#EXTINF:-1 tvg-id="Globo Internacional" tvg-name="Globo Internacional" tvg-logo="http://printv.esy.es/server/Globo%20Internacional.png" group-title="Canais Globo",Globo Internacional
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1963
+#EXTINF:-1 tvg-id="GLOBONOW" tvg-name="Globo Now HD" tvg-logo="http://printv.esy.es/server/Globo%20Now.png" group-title="Canais Globo",Globo Now HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2622
+#EXTINF:-1 tvg-id="" tvg-name="Globo Now" tvg-logo="http://printv.esy.es/server/Globo%20Now.png" group-title="Canais Globo",Globo Now
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2433
+
+
+
 
 
 
