@@ -1319,8 +1319,72 @@ http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1265
 #EXTINF:-1 tvg-id="Max Prime" tvg-name="Max Prime Alternativo" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="Rede HBO & MAX",Max Prime Alternativo
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1203
 
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio anos 70
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Anos 70
 http://192.99.150.31:8241/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Anos 80
+http://192.99.150.31:8697/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Anos 90 
+http://192.99.150.31:8056/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Anos 2000 
+http://6d9a.webradio.upx.net.br:9940/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Axé 
+http://192.99.150.31:8305/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Brega 
+http://192.99.150.31:9007/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Eletrônica 
+http://192.99.150.31:9095/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Forró 
+http://192.99.150.31:9019/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Funk 
+http://192.99.150.31:9089/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Gospel 
+http://192.99.150.31:9101/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Hip Hop 
+http://192.99.150.31:8721/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio HISTORINHA INFANTIL 
+http://192.99.150.31:8371/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Kids 
+http://192.99.150.31:9431/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Jazz 
+http://192.99.150.31:8042/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio MPB 
+http://192.99.150.31:8775/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Rap Nacional 
+http://192.99.150.31:8377/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Reggae 
+http://192.99.150.31:8715/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Rock Clássico 
+http://192.99.150.31:9125/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Românticas 
+http://192.99.150.31:8962/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Sertanejo 
+http://192.99.150.31:9485/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Sertanejo Universitário 
+http://192.99.150.31:9191/stream?
+
+
+
+
 
 #EXTINF:-1 type="video" tvg-id="The 100 T01E01" tvg-logo="http://listaccess.me:8080/images/fjJAcCmeSRQIpFttRX6NGdjnTIh_small.jpg" group-title="Serie: The 100",The 100 T01E01
 http://lb.kstream.org/vod/serie/The_100/classic_2068.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
@@ -1490,3 +1554,106 @@ http://lb.kstream.org/vod/serie/The_100/S06E11_the_100.mp4/video.m3u8?token=a110
 http://lb.kstream.org/vod/serie/The_100/S06E12_the_100.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
 #EXTINF:-1 type="video" tvg-id="The 100 T06E13" tvg-logo="http://listaccess.me:8880/images/fjJAcCmeSRQIpFttRX6NGdjnTIh_small.jpg" group-title="Serie: The 100",The 100 T06E13
 http://lb.kstream.org/vod/serie/The_100/S06E13_the_100.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T01E01" tvg-logo="http://listaccess.me:8080/images/2d0ESa56OesIFAOAl8ZZi0mHlxC_small.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T01E01
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/classic_5932.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T01E02" tvg-logo="http://listaccess.me:8080/images/2d0ESa56OesIFAOAl8ZZi0mHlxC_small.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T01E02
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/classic_5933.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T01E03" tvg-logo="http://listaccess.me:8080/images/2d0ESa56OesIFAOAl8ZZi0mHlxC_small.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T01E03
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/classic_5934.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T01E04" tvg-logo="http://listaccess.me:8080/images/2d0ESa56OesIFAOAl8ZZi0mHlxC_small.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T01E04
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/classic_5935.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T01E05" tvg-logo="http://listaccess.me:8080/images/2d0ESa56OesIFAOAl8ZZi0mHlxC_small.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T01E05
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/classic_5936.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T01E06" tvg-logo="http://listaccess.me:8080/images/2d0ESa56OesIFAOAl8ZZi0mHlxC_small.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T01E06
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/classic_5937.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T01E07" tvg-logo="http://listaccess.me:8080/images/2d0ESa56OesIFAOAl8ZZi0mHlxC_small.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T01E07
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/classic_5938.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T01E08" tvg-logo="http://listaccess.me:8080/images/2d0ESa56OesIFAOAl8ZZi0mHlxC_small.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T01E08
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/classic_5939.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T01E09" tvg-logo="http://listaccess.me:8080/images/2d0ESa56OesIFAOAl8ZZi0mHlxC_small.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T01E09
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/classic_5940.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T01E10" tvg-logo="http://listaccess.me:8080/images/2d0ESa56OesIFAOAl8ZZi0mHlxC_small.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T01E10
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/classic_5941.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T01E11" tvg-logo="http://listaccess.me:8080/images/2d0ESa56OesIFAOAl8ZZi0mHlxC_small.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T01E11
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/classic_5942.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T01E12" tvg-logo="http://listaccess.me:8080/images/2d0ESa56OesIFAOAl8ZZi0mHlxC_small.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T01E12
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/classic_5943.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T01E13" tvg-logo="http://listaccess.me:8080/images/2d0ESa56OesIFAOAl8ZZi0mHlxC_small.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T01E13
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/classic_5944.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T02E01" tvg-logo="http://listaccess.me:8080/images/2d0ESa56OesIFAOAl8ZZi0mHlxC_small.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T02E01
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/classic_5945.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T02E02" tvg-logo="http://listaccess.me:8080/images/2d0ESa56OesIFAOAl8ZZi0mHlxC_small.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T02E02
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/classic_5946.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T02E03" tvg-logo="http://listaccess.me:8080/images/2d0ESa56OesIFAOAl8ZZi0mHlxC_small.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T02E03
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/classic_5947.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T02E04" tvg-logo="http://listaccess.me:8080/images/2d0ESa56OesIFAOAl8ZZi0mHlxC_small.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T02E04
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/classic_5948.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T02E05" tvg-logo="http://listaccess.me:8080/images/2d0ESa56OesIFAOAl8ZZi0mHlxC_small.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T02E05
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/classic_5949.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T02E06" tvg-logo="http://listaccess.me:8080/images/2d0ESa56OesIFAOAl8ZZi0mHlxC_small.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T02E06
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/classic_5950.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T02E07" tvg-logo="http://listaccess.me:8080/images/2d0ESa56OesIFAOAl8ZZi0mHlxC_small.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T02E07
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/classic_5951.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T02E08" tvg-logo="http://listaccess.me:8080/images/2d0ESa56OesIFAOAl8ZZi0mHlxC_small.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T02E08
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/classic_5952.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T02E09" tvg-logo="http://listaccess.me:8080/images/2d0ESa56OesIFAOAl8ZZi0mHlxC_small.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T02E09
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/classic_5953.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T03E01" tvg-logo="https://i.ibb.co/KyBWtDp/poster-da-parte-3-de-la-casa-de-papel-da-netflix-1562103312161-v2-1080x1350.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T03E01
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/g5_65299_mixed.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T03E02" tvg-logo="https://i.ibb.co/KyBWtDp/poster-da-parte-3-de-la-casa-de-papel-da-netflix-1562103312161-v2-1080x1350.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T03E02
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/g5_65300_mixed_out.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T03E03" tvg-logo="https://i.ibb.co/KyBWtDp/poster-da-parte-3-de-la-casa-de-papel-da-netflix-1562103312161-v2-1080x1350.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T03E03
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/g5_65301_mixed_out.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T03E04" tvg-logo="https://i.ibb.co/KyBWtDp/poster-da-parte-3-de-la-casa-de-papel-da-netflix-1562103312161-v2-1080x1350.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T03E04
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/g5_65302_mixed_out.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T03E05" tvg-logo="https://i.ibb.co/KyBWtDp/poster-da-parte-3-de-la-casa-de-papel-da-netflix-1562103312161-v2-1080x1350.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T03E05
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/g5_65303_mixed_out.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T03E06" tvg-logo="https://i.ibb.co/KyBWtDp/poster-da-parte-3-de-la-casa-de-papel-da-netflix-1562103312161-v2-1080x1350.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T03E06
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/g5_65304_mixed_out.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T03E07" tvg-logo="https://i.ibb.co/KyBWtDp/poster-da-parte-3-de-la-casa-de-papel-da-netflix-1562103312161-v2-1080x1350.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T03E07
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/g5_65305_mixed_out.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T03E08" tvg-logo="https://i.ibb.co/KyBWtDp/poster-da-parte-3-de-la-casa-de-papel-da-netflix-1562103312161-v2-1080x1350.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T03E08
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/g5_65306_mixed_out.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T03E09" tvg-logo="https://i.ibb.co/KyBWtDp/poster-da-parte-3-de-la-casa-de-papel-da-netflix-1562103312161-v2-1080x1350.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T03E09
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/Lcdp_neymar_S03E06.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T03E10" tvg-logo="https://i.ibb.co/KyBWtDp/poster-da-parte-3-de-la-casa-de-papel-da-netflix-1562103312161-v2-1080x1350.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T03E10
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/Lcdp_neymar_S03E08.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T04E01" tvg-logo="https://i.ibb.co/hsNf6K6/LCDP-S04.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T04E01
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/LCDP_S04E01.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T04E02" tvg-logo="https://i.ibb.co/hsNf6K6/LCDP-S04.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T04E02
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/LCDP_S04E02.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T04E03" tvg-logo="https://i.ibb.co/hsNf6K6/LCDP-S04.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T04E03
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/LCDP_S04E03.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T04E04" tvg-logo="https://i.ibb.co/hsNf6K6/LCDP-S04.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T04E04
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/LCDP_S04E04.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T04E05" tvg-logo="https://i.ibb.co/hsNf6K6/LCDP-S04.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T04E05
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/LCDP_S04E05.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T04E06" tvg-logo="https://i.ibb.co/hsNf6K6/LCDP-S04.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T04E06
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/LCDP_S04E06.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T04E07" tvg-logo="https://i.ibb.co/hsNf6K6/LCDP-S04.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T04E07
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/LCDP_S04E07.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="video" tvg-id="La Casa de Papel T04E08" tvg-logo="https://i.ibb.co/hsNf6K6/LCDP-S04.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T04E08
+http://lb.kstream.org/vod/serie/La_Casa_de_Papel/LCDP_S04E08.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+
+#EXTINF:-1 type="stream" tvg-id="BBB: Chuveiro" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB: Chuveiro
+http://lb.kstream.org/aovivo/HD_BBB_CHUVEIRO/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="stream" tvg-id="BBB: Confessionario" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB: Confessionario
+http://lb.kstream.org/aovivo/HD_BBB_CONFESSIONARIO/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="stream" tvg-id="BBB: Cozinha VIP" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB: Cozinha VIP
+http://lb.kstream.org/aovivo/HD_BBB_COZINHA_VIP/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="stream" tvg-id="BBB: Cozinha Xepa" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB: Cozinha Xepa
+http://lb.kstream.org/aovivo/HD_BBB_COZINHA_CAMAROTE/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="stream" tvg-id="BBB: Piscina" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB: Piscina
+http://lb.kstream.org/aovivo/HD_BBB_PISCINA/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="stream" tvg-id="BBB: Principal" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB: Principal
+http://lb.kstream.org/aovivo/HD_BBB/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="stream" tvg-id="BBB: Principal 2" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB: Principal 2
+http://lb.kstream.org/aovivo/HD_BBB_2/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="stream" tvg-id="BBB: Quarto Ceu" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB: Quarto Ceu
+http://lb.kstream.org/aovivo/HD_BBB_QUARTO_CEU/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="stream" tvg-id="BBB: Quarto Vila" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB: Quarto Vila
+http://lb.kstream.org/aovivo/HD_BBB_QUARTO_VILA/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+#EXTINF:-1 type="stream" tvg-id="BBB: Sala de Estar" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB: Sala de Estar
+http://lb.kstream.org/aovivo/HD_BBB_SALA_ESTAR/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
+
