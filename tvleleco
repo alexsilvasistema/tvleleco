@@ -1319,52 +1319,5 @@ http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1265
 #EXTINF:-1 tvg-id="Max Prime" tvg-name="Max Prime Alternativo" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="Rede HBO & MAX",Max Prime Alternativo
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1203
 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 70 http://192.99.150.31:8241/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 80 http://192.99.150.31:8697/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 90 http://192.99.150.31:8056/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 2000 http://6d9a.webradio.upx.net.br:9940/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Axé http://192.99.150.31:8305/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Brega http://192.99.150.31:9007/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Eletrônica http://192.99.150.31:9095/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Forró http://192.99.150.31:9019/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Funk http://192.99.150.31:9089/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Gospel http://192.99.150.31:9101/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Hip Hop http://192.99.150.31:8721/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",HISTORINHA INFANTIL http://192.99.150.31:8371/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Kids http://192.99.150.31:9431/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Jazz http://192.99.150.31:8042/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",MPB http://192.99.150.31:8775/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Rap Nacional http://192.99.150.31:8377/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Reggae http://192.99.150.31:8715/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Rock Clássico http://192.99.150.31:9125/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Românticas http://192.99.150.31:8962/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Sertanejo http://192.99.150.31:9485/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Sertanejo Universitário http://192.99.150.31:9191/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", STUDIO DO AMOR http://192.99.150.31:8962/stream?
-
-
-
-
-
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio anos 70
+http://192.99.150.31:8241/stream?
