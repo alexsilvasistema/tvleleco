@@ -1593,3 +1593,70 @@ http://lb.kstream.org/vod/serie/La_Casa_de_Papel/LCDP_S04E07.mp4/video.m3u8?toke
 #EXTINF:-1 type="video" tvg-id="La Casa de Papel T04E08" tvg-logo="https://i.ibb.co/hsNf6K6/LCDP-S04.jpg" group-title="Serie: La Casa de Papel",La Casa de Papel T04E08
 http://lb.kstream.org/vod/serie/La_Casa_de_Papel/LCDP_S04E08.mp4/video.m3u8?token=a1105c8ad4572306ec7ad20fba4b5fbe
 
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes HD" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="Premiere",Premiere Clubes HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2199
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes.png" group-title="Premiere",Premiere Clubes
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2198
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes Alternativo HD" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="Premiere",Premiere Clubes Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1277
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes Alternativo" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes.png" group-title="Premiere",Premiere Clubes Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1163
+#EXTINF:-1 tvg-id="" tvg-name="PFC" tvg-logo="http://printv.esy.es/server/PFC%20Interativo.png" group-title="Premiere",PFC
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1605
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 HD" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Premiere",Premiere 2 HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2187
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Premiere",Premiere 2
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2186
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 Alternativo HD" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Premiere",Premiere 2 Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1273
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 Alternativo" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Premiere",Premiere 2 Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1157
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 HD" tvg-logo="http://printv.esy.es/server/Premiere%203.png" group-title="Premiere",Premiere 3 HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2189
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3" tvg-logo="http://printv.esy.es/server/Premiere%203.png" group-title="Premiere",Premiere 3
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2188
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 Alternativo HD" tvg-logo="http://printv.esy.es/server/Premiere%203.png" group-title="Premiere",Premiere 3 Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1274
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 Alternativo" tvg-logo="http://printv.esy.es/server/Premiere%203.png" group-title="Premiere",Premiere 3 Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1158
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 HD" tvg-logo="http://printv.esy.es/server/Premiere%204.png" group-title="Premiere",Premiere 4 HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2191
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4" tvg-logo="http://printv.esy.es/server/Premiere%204.png" group-title="Premiere",Premiere 4
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2190
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 Alternativo HD" tvg-logo="http://printv.esy.es/server/Premiere%204.png" group-title="Premiere",Premiere 4 Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1275
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 Alternativo" tvg-logo="http://printv.esy.es/server/Premiere%204.png" group-title="Premiere",Premiere 4 Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1214
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 HD" tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="Premiere",Premiere 5 HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2193
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5" tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="Premiere",Premiere 5
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2192
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 Alternativo HD" tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="Premiere",Premiere 5 Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1276
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 Alternativo" tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="Premiere",Premiere 5 Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1159
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="http://printv.esy.es/server/Premiere%206.png" group-title="Premiere",Premiere 6 HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2195
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="http://printv.esy.es/server/Premiere%206.png" group-title="Premiere",Premiere 6
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2194
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 Alternativo HD" tvg-logo="http://printv.esy.es/server/Premiere%206.png" group-title="Premiere",Premiere 6 Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/7945
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 Alternativo" tvg-logo="http://printv.esy.es/server/Premiere%206.png" group-title="Premiere",Premiere 6 Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1160
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD" tvg-logo="http://printv.esy.es/server/Premiere%207.png" group-title="Premiere",Premiere 7 HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2197
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="http://printv.esy.es/server/Premiere%207.png" group-title="Premiere",Premiere 7
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2196
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 Alternativo HD" tvg-logo="http://printv.esy.es/server/Premiere%207.png" group-title="Premiere",Premiere 7 Alternativo HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/7946
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 Alternativo" tvg-logo="http://printv.esy.es/server/Premiere%207.png" group-title="Premiere",Premiere 7 Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1161
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8" tvg-logo="http://printv.esy.es/server/Premiere%208.png" group-title="Premiere",Premiere 8
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/1162
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 Alternativo" tvg-logo="http://printv.esy.es/server/Premiere%208.png" group-title="Premiere",Premiere 8 Alternativo
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/7948
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 9" tvg-logo="http://printv.esy.es/server/Premiere%209.png" group-title="Premiere",Premiere 9
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/7947
+
+
+
