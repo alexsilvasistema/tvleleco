@@ -206,50 +206,8 @@ http://eyplay.io:80/NAA7k2/ncRLaa/25
 http://eyplay.io:80/NAA7k2/ncRLaa/77
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgcombate" group-title="Esportes",Combate SD
 http://eyplay.io:80/NAA7k2/ncRLaa/78
-#EXTINF:0 tvg-logo="https://tinyurl.com/thgcopacatarinense" group-title="Esportes",Copa Catarinense 1 HD
-http://eyplay.io:80/NAA7k2/ncRLaa/82
-#EXTINF:0 tvg-logo="https://tinyurl.com/thgcopacatarinense" group-title="Esportes",Copa Catarinense 1 SD
-http://eyplay.io:80/NAA7k2/ncRLaa/83
-#EXTINF:0 tvg-logo="https://tinyurl.com/thgcopacatarinense" group-title="Esportes",Copa Catarinense 2 HD
-http://eyplay.io:80/NAA7k2/ncRLaa/84
-#EXTINF:0 tvg-logo="https://tinyurl.com/thgcopacatarinense" group-title="Esportes",Copa Catarinense 2 SD
-http://eyplay.io:80/NAA7k2/ncRLaa/85
-#EXTINF:0 tvg-logo="https://tinyurl.com/thgcopanordeste" group-title="Esportes",Copa do Nordeste 1 HD
-http://eyplay.io:80/NAA7k2/ncRLaa/86
-#EXTINF:0 tvg-logo="https://tinyurl.com/thgcopanordeste" group-title="Esportes",Copa do Nordeste 1 SD
-http://eyplay.io:80/NAA7k2/ncRLaa/87
-#EXTINF:0 tvg-logo="https://tinyurl.com/thgcopanordeste" group-title="Esportes",Copa do Nordeste 2 HD
-http://eyplay.io:80/NAA7k2/ncRLaa/88
-#EXTINF:0 tvg-logo="https://tinyurl.com/thgcopanordeste" group-title="Esportes",Copa do Nordeste 2 SD
-http://eyplay.io:80/NAA7k2/ncRLaa/89
-#EXTINF:0 tvg-logo="http://iv.pe/276" group-title="Esportes",Copa Libertadores HD
-http://eyplay.io:80/NAA7k2/ncRLaa/14074
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgdazn1" group-title="Esportes",DAZN 1 HD
 http://eyplay.io:80/NAA7k2/ncRLaa/94
-#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Esportes",Ei Plus 1 HD
-http://eyplay.io:80/NAA7k2/ncRLaa/131
-#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Esportes",Ei Plus 1 SD
-http://eyplay.io:80/NAA7k2/ncRLaa/132
-#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Esportes",Ei Plus 2 HD
-http://eyplay.io:80/NAA7k2/ncRLaa/133
-#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Esportes",Ei Plus 2 SD
-http://eyplay.io:80/NAA7k2/ncRLaa/134
-#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Esportes",Ei Plus 3 HD
-http://eyplay.io:80/NAA7k2/ncRLaa/135
-#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Esportes",Ei Plus 3 SD
-http://eyplay.io:80/NAA7k2/ncRLaa/136
-#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Esportes",Ei Plus 4 HD
-http://eyplay.io:80/NAA7k2/ncRLaa/137
-#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Esportes",Ei Plus 4 SD
-http://eyplay.io:80/NAA7k2/ncRLaa/138
-#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Esportes",Ei Plus 5 HD
-http://eyplay.io:80/NAA7k2/ncRLaa/139
-#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Esportes",Ei Plus 5 SD
-http://eyplay.io:80/NAA7k2/ncRLaa/140
-#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Esportes",Ei Plus 6 HD
-http://eyplay.io:80/NAA7k2/ncRLaa/142
-#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Esportes",Ei Plus 6 SD
-http://eyplay.io:80/NAA7k2/ncRLaa/141
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgespn" group-title="Esportes",ESPN HD
 http://eyplay.io:80/NAA7k2/ncRLaa/153
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgespn" group-title="Esportes",ESPN SD
@@ -288,8 +246,6 @@ http://eyplay.io:80/NAA7k2/ncRLaa/394
 http://eyplay.io:80/NAA7k2/ncRLaa/396
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgsportv3" group-title="Esportes",SporTV 3 SD
 http://eyplay.io:80/NAA7k2/ncRLaa/397
-
-
 
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgboomerang1" group-title="Infantil",Boomerang HD
 http://eyplay.io:80/NAA7k2/ncRLaa/52
