@@ -1,74 +1,1615 @@
 #EXTM3U
-#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",Em Manutenção
-http://192.99.150.31:8241/stream?
-
-
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Anos 70
-http://192.99.150.31:8241/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Anos 80
-http://192.99.150.31:8697/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Anos 90 
-http://192.99.150.31:8056/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Anos 2000 
-http://6d9a.webradio.upx.net.br:9940/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Axé 
-http://192.99.150.31:8305/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Brega 
-http://192.99.150.31:9007/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Eletrônica 
-http://192.99.150.31:9095/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Forró 
-http://192.99.150.31:9019/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Funk 
-http://192.99.150.31:9089/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Gospel 
-http://192.99.150.31:9101/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Hip Hop 
-http://192.99.150.31:8721/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio HISTORINHA INFANTIL 
-http://192.99.150.31:8371/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Kids 
-http://192.99.150.31:9431/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Jazz 
-http://192.99.150.31:8042/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio MPB 
-http://192.99.150.31:8775/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Rap Nacional 
-http://192.99.150.31:8377/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Reggae 
-http://192.99.150.31:8715/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Rock Clássico 
-http://192.99.150.31:9125/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Românticas 
-http://192.99.150.31:8962/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Sertanejo 
-http://192.99.150.31:9485/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Sertanejo Universitário 
-http://192.99.150.31:9191/stream?
-
-#EXTINF:-1 group-title="Aberta" tvg-name="GloboSP " tvg-logo="",GloboSP
-http://proxyts.canais.info:8084/hls1/bobosp.m3u8
-
-#EXTINF:-1 group-title="Aberta" tvg-name="GloboRJ " tvg-logo="",GloboRJ
-http://proxyts.canais.vip:8084/hls1/boborj.m3u8
-#EXTINF:-1 group-title="Aberta" tvg-name="REDETVSP " tvg-logo="",REDETVSP
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
-
-#EXTINF:-1 group-title="Aberta" tvg-name="REDETV " tvg-logo="",REDETV
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
-
-#EXTINF:-1 group-title="Aberta" tvg-name="RECORD TV BAHIA " tvg-logo="",RECORD TV BAHIA
-https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
-
-#EXTINF:-1 group-title="Aberta" tvg-name="TV GAZETA " tvg-logo="",TV GAZETA
-http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
-#EXTINF:-1 group-title="Aberta" tvg-name="Sbt Pernambuco" tvg-logo="",Sbt
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1149121645_b216000_sleng.m3u8
-
-#EXTINF:-1 group-title="Aberta" tvg-name="Sbt2" tvg-logo="",Sbt2
-https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist.m3u8
-#EXTINF:-1 group-title="Aberta" tvg-name="BAND " tvg-logo="",BAND
-https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
-
-#EXTINF:-1 group-title="Aberta" tvg-name="BAND3 " tvg-logo="",BAND2
-http://proxyts.canais.info:8084/hls1/band.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgband" group-title="[CANAIS ABERTOS]",Band FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/17
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgband" group-title="[CANAIS ABERTOS]",Band HD
+http://eyplay.io:80/NAA7k2/ncRLaa/18
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgband" group-title="[CANAIS ABERTOS]",Band SD
+http://eyplay.io:80/NAA7k2/ncRLaa/19
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgboavntd" group-title="[CANAIS ABERTOS]",Boa Vontade TV SD 
+http://eyplay.io:80/NAA7k2/ncRLaa/14063
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgboi" group-title="[CANAIS ABERTOS]",Canal do Boi SD
+http://eyplay.io:80/NAA7k2/ncRLaa/59
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcnv" group-title="[CANAIS ABERTOS]",Cancao Nova SD
+http://eyplay.io:80/NAA7k2/ncRLaa/14064
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgrecord" group-title="[CANAIS ABERTOS]",RecordTV Bahia HD
+http://eyplay.io:80/NAA7k2/ncRLaa/367
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgrecord" group-title="[CANAIS ABERTOS]",RecordTV Belem SD
+http://eyplay.io:80/NAA7k2/ncRLaa/368
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgrecord" group-title="[CANAIS ABERTOS]",RecordTV Brasilia HD
+http://eyplay.io:80/NAA7k2/ncRLaa/369
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgrecord" group-title="[CANAIS ABERTOS]",RecordTV FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/370
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgrecord" group-title="[CANAIS ABERTOS]",RecordTV Goias SD
+http://eyplay.io:80/NAA7k2/ncRLaa/371
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgrecord" group-title="[CANAIS ABERTOS]",RecordTV HD
+http://eyplay.io:80/NAA7k2/ncRLaa/372
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgrecord" group-title="[CANAIS ABERTOS]",RecordTV Minas HD
+http://eyplay.io:80/NAA7k2/ncRLaa/373
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgrecord" group-title="[CANAIS ABERTOS]",RecordTV Minas SD
+http://eyplay.io:80/NAA7k2/ncRLaa/374
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgrecord" group-title="[CANAIS ABERTOS]",RecordTV Rio HD
+http://eyplay.io:80/NAA7k2/ncRLaa/375
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgrecord" group-title="[CANAIS ABERTOS]",RecordTV RS HD
+http://eyplay.io:80/NAA7k2/ncRLaa/376
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgrecord" group-title="[CANAIS ABERTOS]",RecordTV RS SD
+http://eyplay.io:80/NAA7k2/ncRLaa/377
+#EXTINF:0 tvg-logo="" group-title="[CANAIS ABERTOS]",Rede Gospel FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/14068
+#EXTINF:0 tvg-logo="" group-title="[CANAIS ABERTOS]",Rede Gospel HD
+http://eyplay.io:80/NAA7k2/ncRLaa/14067
+#EXTINF:0 tvg-logo="" group-title="[CANAIS ABERTOS]",Rede Gospel SD
+http://eyplay.io:80/NAA7k2/ncRLaa/14069
+#EXTINF:0 tvg-id="Rede Super" tvg-logo="https://tinyurl.com/thgsuper" group-title="[CANAIS ABERTOS]",Rede Super FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/378
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgredevida" group-title="[CANAIS ABERTOS]",Rede Vida HD
+http://eyplay.io:80/NAA7k2/ncRLaa/14066
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgredetv" group-title="[CANAIS ABERTOS]",RedeTV FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/379
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgredetv" group-title="[CANAIS ABERTOS]",RedeTV HD
+http://eyplay.io:80/NAA7k2/ncRLaa/380
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgredetv" group-title="[CANAIS ABERTOS]",RedeTV SD
+http://eyplay.io:80/NAA7k2/ncRLaa/381
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgrit" group-title="[CANAIS ABERTOS]",RiT TV SD
+http://eyplay.io:80/NAA7k2/ncRLaa/14070
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsbt" group-title="[CANAIS ABERTOS]",SBT Alterosa MG HD
+http://eyplay.io:80/NAA7k2/ncRLaa/13904
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsbt" group-title="[CANAIS ABERTOS]",SBT FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/382
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsbt" group-title="[CANAIS ABERTOS]",SBT HD
+http://eyplay.io:80/NAA7k2/ncRLaa/383
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsbt" group-title="[CANAIS ABERTOS]",SBT SD
+http://eyplay.io:80/NAA7k2/ncRLaa/384
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgaparecida" group-title="[CANAIS ABERTOS]",TV Aparecida SD
+http://eyplay.io:80/NAA7k2/ncRLaa/14065
+#EXTINF:0 tvg-id="Gazeta" tvg-logo="https://tinyurl.com/thggazeta" group-title="[CANAIS ABERTOS]",TV Gazeta FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/446
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgnvtemp" group-title="[CANAIS ABERTOS]",TV Novo Tempo FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/14071
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgnvtemp" group-title="[CANAIS ABERTOS]",TV Novo Tempo HD
+http://eyplay.io:80/NAA7k2/ncRLaa/14072
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgnvtemp" group-title="[CANAIS ABERTOS]",TV Novo Tempo SD
+http://eyplay.io:80/NAA7k2/ncRLaa/14073
+#EXTINF:0 tvg-logo="https://tinyurl.com/thganimal" group-title="[CANAIS DOCUMENTÁRIOS",Animal Planet FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/5
+#EXTINF:0 tvg-logo="https://tinyurl.com/thganimal" group-title="[CANAIS DOCUMENTÁRIOS",Animal Planet HD
+http://eyplay.io:80/NAA7k2/ncRLaa/6
+#EXTINF:0 tvg-logo="https://tinyurl.com/thganimal" group-title="[CANAIS DOCUMENTÁRIOS",Animal Planet SD
+http://eyplay.io:80/NAA7k2/ncRLaa/7
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgarte1" group-title="[CANAIS DOCUMENTÁRIOS",Arte 1 FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/8
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgarte1" group-title="[CANAIS DOCUMENTÁRIOS",Arte 1 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/9
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgarte1" group-title="[CANAIS DOCUMENTÁRIOS",Arte 1 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/10
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcurta" group-title="[CANAIS DOCUMENTÁRIOS",Curta FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/90
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcurta" group-title="[CANAIS DOCUMENTÁRIOS",Curta HD
+http://eyplay.io:80/NAA7k2/ncRLaa/91
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcurta" group-title="[CANAIS DOCUMENTÁRIOS",Curta SD
+http://eyplay.io:80/NAA7k2/ncRLaa/92
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdiscovery" group-title="[CANAIS DOCUMENTÁRIOS",Discovery Channel FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/95
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdiscovery" group-title="[CANAIS DOCUMENTÁRIOS",Discovery Channel HD
+http://eyplay.io:80/NAA7k2/ncRLaa/96
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdiscovery" group-title="[CANAIS DOCUMENTÁRIOS",Discovery Channel SD
+http://eyplay.io:80/NAA7k2/ncRLaa/97
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsci" group-title="[CANAIS DOCUMENTÁRIOS",Discovery Science FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/107
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsci" group-title="[CANAIS DOCUMENTÁRIOS",Discovery Science HD
+http://eyplay.io:80/NAA7k2/ncRLaa/108
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsci" group-title="[CANAIS DOCUMENTÁRIOS",Discovery Science SD
+http://eyplay.io:80/NAA7k2/ncRLaa/109
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtheater" group-title="[CANAIS DOCUMENTÁRIOS",Discovery Theater FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/110
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtheater" group-title="[CANAIS DOCUMENTÁRIOS",Discovery Theater HD
+http://eyplay.io:80/NAA7k2/ncRLaa/111
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtheater" group-title="[CANAIS DOCUMENTÁRIOS",Discovery Theater SD
+http://eyplay.io:80/NAA7k2/ncRLaa/112
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdiscoverywrld" group-title="[CANAIS DOCUMENTÁRIOS",Discovery World FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/116
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdiscoverywrld" group-title="[CANAIS DOCUMENTÁRIOS",Discovery World HD
+http://eyplay.io:80/NAA7k2/ncRLaa/117
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdiscoverywrld" group-title="[CANAIS DOCUMENTÁRIOS",Discovery World SD
+http://eyplay.io:80/NAA7k2/ncRLaa/118
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghgtv" group-title="[CANAIS DOCUMENTÁRIOS",HGTV FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/98
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghgtv" group-title="[CANAIS DOCUMENTÁRIOS",HGTV HD
+http://eyplay.io:80/NAA7k2/ncRLaa/99
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghgtv" group-title="[CANAIS DOCUMENTÁRIOS",HGTV SD
+http://eyplay.io:80/NAA7k2/ncRLaa/100
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghistorychannel" group-title="[CANAIS DOCUMENTÁRIOS",History 1 FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/288
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghistorychannel" group-title="[CANAIS DOCUMENTÁRIOS",History 1 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/289
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghistorychannel" group-title="[CANAIS DOCUMENTÁRIOS",History 1 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/290
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghist2" group-title="[CANAIS DOCUMENTÁRIOS",History 2 FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/261
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghist2" group-title="[CANAIS DOCUMENTÁRIOS",History 2 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/262
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghist2" group-title="[CANAIS DOCUMENTÁRIOS",History 2 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/263
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb7hcb42" group-title="[CANAIS DOCUMENTÁRIOS",Love Nature FHD
+http://eyplay.io:80/NAA7k2/ncRLaa/2551
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgnatgeowild" group-title="[CANAIS DOCUMENTÁRIOS",Natgeo Wild FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/321
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgnatgeowild" group-title="[CANAIS DOCUMENTÁRIOS",Natgeo Wild HD
+http://eyplay.io:80/NAA7k2/ncRLaa/322
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgnatgeowild" group-title="[CANAIS DOCUMENTÁRIOS",Natgeo Wild SD
+http://eyplay.io:80/NAA7k2/ncRLaa/323
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgnatgeo" group-title="[CANAIS DOCUMENTÁRIOS",National Geographic FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/315
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgnatgeo" group-title="[CANAIS DOCUMENTÁRIOS",National Geographic HD
+http://eyplay.io:80/NAA7k2/ncRLaa/316
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgnatgeo" group-title="[CANAIS DOCUMENTÁRIOS",National Geographic SD
+http://eyplay.io:80/NAA7k2/ncRLaa/320
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtrutv" group-title="[CANAIS DOCUMENTÁRIOS",Tru TV FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/443
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtrutv" group-title="[CANAIS DOCUMENTÁRIOS",Tru TV HD
+http://eyplay.io:80/NAA7k2/ncRLaa/444
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtrutv" group-title="[CANAIS DOCUMENTÁRIOS",Tru TV SD
+http://eyplay.io:80/NAA7k2/ncRLaa/445
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgbansports" group-title="[CANAIS ESPORTES]",BandSports FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/23
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgbansports" group-title="[CANAIS ESPORTES]",BandSports HD
+http://eyplay.io:80/NAA7k2/ncRLaa/24
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgbansports" group-title="[CANAIS ESPORTES]",BandSports SD
+http://eyplay.io:80/NAA7k2/ncRLaa/25
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcombate" group-title="[CANAIS ESPORTES]",Combate FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/76
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcombate" group-title="[CANAIS ESPORTES]",Combate HD
+http://eyplay.io:80/NAA7k2/ncRLaa/77
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcombate" group-title="[CANAIS ESPORTES]",Combate SD
+http://eyplay.io:80/NAA7k2/ncRLaa/78
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcopacatarinense" group-title="[CANAIS ESPORTES]",Copa Catarinense 1 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/82
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcopacatarinense" group-title="[CANAIS ESPORTES]",Copa Catarinense 1 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/83
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcopacatarinense" group-title="[CANAIS ESPORTES]",Copa Catarinense 2 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/84
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcopacatarinense" group-title="[CANAIS ESPORTES]",Copa Catarinense 2 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/85
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcopanordeste" group-title="[CANAIS ESPORTES]",Copa do Nordeste 1 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/86
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcopanordeste" group-title="[CANAIS ESPORTES]",Copa do Nordeste 1 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/87
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcopanordeste" group-title="[CANAIS ESPORTES]",Copa do Nordeste 2 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/88
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcopanordeste" group-title="[CANAIS ESPORTES]",Copa do Nordeste 2 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/89
+#EXTINF:0 tvg-logo="http://iv.pe/276" group-title="[CANAIS ESPORTES]",Copa Libertadores HD
+http://eyplay.io:80/NAA7k2/ncRLaa/14074
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdazn1" group-title="[CANAIS ESPORTES]",DAZN 1 FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/93
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdazn1" group-title="[CANAIS ESPORTES]",DAZN 1 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/94
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="[CANAIS ESPORTES]",Ei Plus 1 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/131
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="[CANAIS ESPORTES]",Ei Plus 1 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/132
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="[CANAIS ESPORTES]",Ei Plus 2 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/133
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="[CANAIS ESPORTES]",Ei Plus 2 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/134
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="[CANAIS ESPORTES]",Ei Plus 3 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/135
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="[CANAIS ESPORTES]",Ei Plus 3 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/136
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="[CANAIS ESPORTES]",Ei Plus 4 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/137
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="[CANAIS ESPORTES]",Ei Plus 4 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/138
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="[CANAIS ESPORTES]",Ei Plus 5 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/139
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="[CANAIS ESPORTES]",Ei Plus 5 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/140
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="[CANAIS ESPORTES]",Ei Plus 6 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/142
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="[CANAIS ESPORTES]",Ei Plus 6 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/141
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgespn" group-title="[CANAIS ESPORTES]",ESPN FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/152
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgespn" group-title="[CANAIS ESPORTES]",ESPN HD
+http://eyplay.io:80/NAA7k2/ncRLaa/153
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgespn" group-title="[CANAIS ESPORTES]",ESPN SD
+http://eyplay.io:80/NAA7k2/ncRLaa/154
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgespn2" group-title="[CANAIS ESPORTES]",ESPN 2 FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/144
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgespn2" group-title="[CANAIS ESPORTES]",ESPN 2 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/145
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgespn2" group-title="[CANAIS ESPORTES]",ESPN 2 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/146
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgespnbrasil" group-title="[CANAIS ESPORTES]",ESPN Brasil FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/147
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgespnbrasil" group-title="[CANAIS ESPORTES]",ESPN Brasil HD
+http://eyplay.io:80/NAA7k2/ncRLaa/148
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgespnbrasil" group-title="[CANAIS ESPORTES]",ESPN Brasil SD
+http://eyplay.io:80/NAA7k2/ncRLaa/149
+#EXTINF:0 tvg-logo="https://tinyurl.com/espnextra" group-title="[CANAIS ESPORTES]",ESPN Extra HD
+http://eyplay.io:80/NAA7k2/ncRLaa/150
+#EXTINF:0 tvg-logo="https://tinyurl.com/espnextra" group-title="[CANAIS ESPORTES]",ESPN Extra SD
+http://eyplay.io:80/NAA7k2/ncRLaa/151
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfoxsports" group-title="[CANAIS ESPORTES]",Fox Sports FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/179
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfoxsports" group-title="[CANAIS ESPORTES]",Fox Sports HD
+http://eyplay.io:80/NAA7k2/ncRLaa/180
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfoxsports" group-title="[CANAIS ESPORTES]",Fox Sports SD
+http://eyplay.io:80/NAA7k2/ncRLaa/181
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfoxsports2" group-title="[CANAIS ESPORTES]",Fox Sports 2 FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/176
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfoxsports2" group-title="[CANAIS ESPORTES]",Fox Sports 2 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/177
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfoxsports2" group-title="[CANAIS ESPORTES]",Fox Sports 2 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/17
+#EXTINF:0 tvg-logo="" group-title="[CANAIS ESPORTES]",Real Madrid SD
+http://eyplay.io:80/NAA7k2/ncRLaa/363
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgamc" group-title="[CANAIS FILMES E SÉRIES]",AMC FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/474
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgamc" group-title="[CANAIS FILMES E SÉRIES]",AMC HD
+http://eyplay.io:80/NAA7k2/ncRLaa/475
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgamc" group-title="[CANAIS FILMES E SÉRIES]",AMC SD
+http://eyplay.io:80/NAA7k2/ncRLaa/476
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgaxn" group-title="[CANAIS FILMES E SÉRIES]",AXN FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/11
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgaxn" group-title="[CANAIS FILMES E SÉRIES]",AXN HD
+http://eyplay.io:80/NAA7k2/ncRLaa/12
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgaxn" group-title="[CANAIS FILMES E SÉRIES]",AXN SD
+http://eyplay.io:80/NAA7k2/ncRLaa/13
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcanalbrasil" group-title="[CANAIS FILMES E SÉRIES]",Canal Brasil FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/56
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcanalbrasil" group-title="[CANAIS FILMES E SÉRIES]",Canal Brasil HD
+http://eyplay.io:80/NAA7k2/ncRLaa/57
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcanalbrasil" group-title="[CANAIS FILMES E SÉRIES]",Canal Brasil SD
+http://eyplay.io:80/NAA7k2/ncRLaa/58
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcinemax" group-title="[CANAIS FILMES E SÉRIES]",Cinemax FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/67
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcinemax" group-title="[CANAIS FILMES E SÉRIES]",Cinemax HD
+http://eyplay.io:80/NAA7k2/ncRLaa/68
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcinemax" group-title="[CANAIS FILMES E SÉRIES]",Cinemax SD
+http://eyplay.io:80/NAA7k2/ncRLaa/69
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfox" group-title="[CANAIS FILMES E SÉRIES]",Fox FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/161
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfox" group-title="[CANAIS FILMES E SÉRIES]",Fox HD
+http://eyplay.io:80/NAA7k2/ncRLaa/162
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfox" group-title="[CANAIS FILMES E SÉRIES]",Fox SD
+http://eyplay.io:80/NAA7k2/ncRLaa/175
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfoxpremium1" group-title="[CANAIS FILMES E SÉRIES]",Fox Premium 1 FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/169
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfoxpremium1" group-title="[CANAIS FILMES E SÉRIES]",Fox Premium 1 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/170
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfoxpremium1" group-title="[CANAIS FILMES E SÉRIES]",Fox Premium 1 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/171
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfoxpremium2" group-title="[CANAIS FILMES E SÉRIES]",Fox Premium 2 FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/172
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfoxpremium2" group-title="[CANAIS FILMES E SÉRIES]",Fox Premium 2 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/173
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfoxpremium2" group-title="[CANAIS FILMES E SÉRIES]",Fox Premium 2 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/174
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgmegapix" group-title="[CANAIS FILMES E SÉRIES]",Megapix FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/303
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgmegapix" group-title="[CANAIS FILMES E SÉRIES]",Megapix HD
+http://eyplay.io:80/NAA7k2/ncRLaa/304
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgmegapix" group-title="[CANAIS FILMES E SÉRIES]",Megapix SD
+http://eyplay.io:80/NAA7k2/ncRLaa/305
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgparamount" group-title="[CANAIS FILMES E SÉRIES]",Paramount Channel FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/333
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgparamount" group-title="[CANAIS FILMES E SÉRIES]",Paramount Channel HD
+http://eyplay.io:80/NAA7k2/ncRLaa/334
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgparamount" group-title="[CANAIS FILMES E SÉRIES]",Paramount Channel SD
+http://eyplay.io:80/NAA7k2/ncRLaa/335
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsony" group-title="[CANAIS FILMES E SÉRIES]",Sony FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/386
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsony" group-title="[CANAIS FILMES E SÉRIES]",Sony HD
+http://eyplay.io:80/NAA7k2/ncRLaa/387
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsony" group-title="[CANAIS FILMES E SÉRIES]",Sony SD
+http://eyplay.io:80/NAA7k2/ncRLaa/388
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgspace" group-title="[CANAIS FILMES E SÉRIES]",Space FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/389
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgspace" group-title="[CANAIS FILMES E SÉRIES]",Space HD
+http://eyplay.io:80/NAA7k2/ncRLaa/390
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgspace" group-title="[CANAIS FILMES E SÉRIES]",Space SD
+http://eyplay.io:80/NAA7k2/ncRLaa/391
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgstudiouniversal" group-title="[CANAIS FILMES E SÉRIES]",Studio Universal FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/401
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgstudiouniversal" group-title="[CANAIS FILMES E SÉRIES]",Studio Universal HD
+http://eyplay.io:80/NAA7k2/ncRLaa/402
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgstudiouniversal" group-title="[CANAIS FILMES E SÉRIES]",Studio Universal SD
+http://eyplay.io:80/NAA7k2/ncRLaa/403
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsyfy" group-title="[CANAIS FILMES E SÉRIES]",Syfy FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/404
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsyfy" group-title="[CANAIS FILMES E SÉRIES]",Syfy HD
+http://eyplay.io:80/NAA7k2/ncRLaa/405
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsyfy" group-title="[CANAIS FILMES E SÉRIES]",Syfy SD
+http://eyplay.io:80/NAA7k2/ncRLaa/406
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtbs" group-title="[CANAIS FILMES E SÉRIES]",TBS FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/407
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtbs" group-title="[CANAIS FILMES E SÉRIES]",TBS HD
+http://eyplay.io:80/NAA7k2/ncRLaa/408
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtbs" group-title="[CANAIS FILMES E SÉRIES]",TBS SD
+http://eyplay.io:80/NAA7k2/ncRLaa/409
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtcm" group-title="[CANAIS FILMES E SÉRIES]",TCM FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/410
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtcm" group-title="[CANAIS FILMES E SÉRIES]",TCM HD
+http://eyplay.io:80/NAA7k2/ncRLaa/411
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtcm" group-title="[CANAIS FILMES E SÉRIES]",TCM SD
+http://eyplay.io:80/NAA7k2/ncRLaa/412
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtnt" group-title="[CANAIS FILMES E SÉRIES]",TNT FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/434
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtnt" group-title="[CANAIS FILMES E SÉRIES]",TNT HD
+http://eyplay.io:80/NAA7k2/ncRLaa/435
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtnt" group-title="[CANAIS FILMES E SÉRIES]",TNT SD
+http://eyplay.io:80/NAA7k2/ncRLaa/436
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtntseries" group-title="[CANAIS FILMES E SÉRIES]",TNT Series FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/437
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtntseries" group-title="[CANAIS FILMES E SÉRIES]",TNT Series HD
+http://eyplay.io:80/NAA7k2/ncRLaa/438
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtntseries" group-title="[CANAIS FILMES E SÉRIES]",TNT Series SD
+http://eyplay.io:80/NAA7k2/ncRLaa/439
+#EXTINF:0 tvg-logo="https://tinyurl.com/thguniversal" group-title="[CANAIS FILMES E SÉRIES]",Universal Channel FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/452
+#EXTINF:0 tvg-logo="https://tinyurl.com/thguniversal" group-title="[CANAIS FILMES E SÉRIES]",Universal Channel HD
+http://eyplay.io:80/NAA7k2/ncRLaa/453
+#EXTINF:0 tvg-logo="https://tinyurl.com/thguniversal" group-title="[CANAIS FILMES E SÉRIES]",Universal Channel SD
+http://eyplay.io:80/NAA7k2/ncRLaa/454
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgwarnerchannel" group-title="[CANAIS FILMES E SÉRIES]",Warner Channel FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/461
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgwarnerchannel" group-title="[CANAIS FILMES E SÉRIES]",Warner Channel HD
+http://eyplay.io:80/NAA7k2/ncRLaa/462
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgwarnerchannel" group-title="[CANAIS FILMES E SÉRIES]",Warner Channel SD
+http://eyplay.io:80/NAA7k2/ncRLaa/463
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo Brasilia HD
+http://eyplay.io:80/NAA7k2/ncRLaa/185
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo Brasilia SD
+http://eyplay.io:80/NAA7k2/ncRLaa/186
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo EPTV Campinas FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/189
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo EPTV Campinas HD
+http://eyplay.io:80/NAA7k2/ncRLaa/190
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo EPTV Campinas SD
+http://eyplay.io:80/NAA7k2/ncRLaa/191
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo EPTV Ribeirao Preto SD
+http://eyplay.io:80/NAA7k2/ncRLaa/192
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo EPTV Sul de Minas FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/193
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo EPTV Sul de Minas HD
+http://eyplay.io:80/NAA7k2/ncRLaa/194
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo Inter TV Cabugi SD
+http://eyplay.io:80/NAA7k2/ncRLaa/195
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo Inter TV dos Vales FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/196
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo Inter TV Grande Minas FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/197
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo Inter TV Grande Minas HD
+http://eyplay.io:80/NAA7k2/ncRLaa/198
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo Minas FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/199
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo Minas HD
+http://eyplay.io:80/NAA7k2/ncRLaa/200
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo Minas SD
+http://eyplay.io:80/NAA7k2/ncRLaa/201
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo Nordeste FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/205
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo Nordeste HD
+http://eyplay.io:80/NAA7k2/ncRLaa/206
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo Nordeste SD
+http://eyplay.io:80/NAA7k2/ncRLaa/207
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo NSC Florianopolis FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/208
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo NSC Florianopolis HD
+http://eyplay.io:80/NAA7k2/ncRLaa/209
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo NSC Florianopolis SD
+http://eyplay.io:80/NAA7k2/ncRLaa/210
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo NSC TV Blumenau FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/211
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo RBS TV Porto Alegre SD
+http://eyplay.io:80/NAA7k2/ncRLaa/214
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo Rede Amazonica SD
+http://eyplay.io:80/NAA7k2/ncRLaa/215
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo RJ FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/216
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo RJ HD
+http://eyplay.io:80/NAA7k2/ncRLaa/217
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo RPC Curitiba SD
+http://eyplay.io:80/NAA7k2/ncRLaa/221
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo RPC Paranavaí FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/218
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo RPC Paranavaí HD
+http://eyplay.io:80/NAA7k2/ncRLaa/219
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo RPC Paranavaí SD
+http://eyplay.io:80/NAA7k2/ncRLaa/220
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo SP FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/222
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo SP HD
+http://eyplay.io:80/NAA7k2/ncRLaa/223
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo SP SD
+http://eyplay.io:80/NAA7k2/ncRLaa/224
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo TV Anhanguera FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/225
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo TV Anhanguera HD
+http://eyplay.io:80/NAA7k2/ncRLaa/226
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo TV Anhanguera SD
+http://eyplay.io:80/NAA7k2/ncRLaa/227
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo TV Bahia FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/228
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo TV Bahia HD
+http://eyplay.io:80/NAA7k2/ncRLaa/229
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo TV Bahia SD
+http://eyplay.io:80/NAA7k2/ncRLaa/230
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo TV Centro America FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/187
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo TV Centro America HD
+http://eyplay.io:80/NAA7k2/ncRLaa/188
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo TV Diario FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/234
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo TV Diario HD
+http://eyplay.io:80/NAA7k2/ncRLaa/235
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo TV Gazeta Alagoas FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/236
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo TV Liberal Belem FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/231
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo TV Liberal Belem HD
+http://eyplay.io:80/NAA7k2/ncRLaa/232
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo TV Liberal Belem SD
+http://eyplay.io:80/NAA7k2/ncRLaa/233
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo TV Mirante FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/238
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo TV Mirante HD
+http://eyplay.io:80/NAA7k2/ncRLaa/239
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo TV Mirante SD
+http://eyplay.io:80/NAA7k2/ncRLaa/240
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo TV Morena FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/241
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo TV Morena HD
+http://eyplay.io:80/NAA7k2/ncRLaa/242
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo TV Morena SD
+http://eyplay.io:80/NAA7k2/ncRLaa/243
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo TV Santa Cruz FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/450
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo TV Sergipe FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/244
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo TV TEM Bauru SD
+http://eyplay.io:80/NAA7k2/ncRLaa/245
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo TV TEM Sorocaba SD
+http://eyplay.io:80/NAA7k2/ncRLaa/246
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo TV Tribuna Santos SD
+http://eyplay.io:80/NAA7k2/ncRLaa/247
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo TV Vanguarda S.J.C SD
+http://eyplay.io:80/NAA7k2/ncRLaa/248
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo TV Verdes Mares FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/249
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo TV Verdes Mares HD
+http://eyplay.io:80/NAA7k2/ncRLaa/250
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="[CANAIS GLOBO]",Globo TV Verdes Mares SD
+http://eyplay.io:80/NAA7k2/ncRLaa/251
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghbo" group-title="[CANAIS HBO]",HBO FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/270
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghbo" group-title="[CANAIS HBO]",HBO HD
+http://eyplay.io:80/NAA7k2/ncRLaa/271
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghbo" group-title="[CANAIS HBO]",HBO SD
+http://eyplay.io:80/NAA7k2/ncRLaa/281
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghbo2" group-title="[CANAIS HBO]",HBO 2 FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/264
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghbo2" group-title="[CANAIS HBO]",HBO 2 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/265
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghbo2" group-title="[CANAIS HBO]",HBO 2 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/266
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghbofamily" group-title="[CANAIS HBO]",HBO Family FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/267
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghbofamily" group-title="[CANAIS HBO]",HBO Family HD
+http://eyplay.io:80/NAA7k2/ncRLaa/268
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghbofamily" group-title="[CANAIS HBO]",HBO Family SD
+http://eyplay.io:80/NAA7k2/ncRLaa/269
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgmundi" group-title="[CANAIS HBO]",HBO Mundi FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/272
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgmundi" group-title="[CANAIS HBO]",HBO Mundi HD
+http://eyplay.io:80/NAA7k2/ncRLaa/273
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgmundi" group-title="[CANAIS HBO]",HBO Mundi SD
+http://eyplay.io:80/NAA7k2/ncRLaa/274
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghboplus" group-title="[CANAIS HBO]",HBO Plus FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/275
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghboplus" group-title="[CANAIS HBO]",HBO Plus HD
+http://eyplay.io:80/NAA7k2/ncRLaa/276
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghboplus" group-title="[CANAIS HBO]",HBO Plus SD
+http://eyplay.io:80/NAA7k2/ncRLaa/277
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghbopop" group-title="[CANAIS HBO]",HBO Pop FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/278
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghbopop" group-title="[CANAIS HBO]",HBO Pop HD
+http://eyplay.io:80/NAA7k2/ncRLaa/279
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghbopop" group-title="[CANAIS HBO]",HBO Pop SD
+http://eyplay.io:80/NAA7k2/ncRLaa/280
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghbosignature" group-title="[CANAIS HBO]",HBO Signature FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/282
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghbosignature" group-title="[CANAIS HBO]",HBO Signature HD
+http://eyplay.io:80/NAA7k2/ncRLaa/283
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghbosignature" group-title="[CANAIS HBO]",HBO Signature SD
+http://eyplay.io:80/NAA7k2/ncRLaa/284
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghboextreme" group-title="[CANAIS HBO]",HBO Xtreme FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/285
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghboextreme" group-title="[CANAIS HBO]",HBO Xtreme HD
+http://eyplay.io:80/NAA7k2/ncRLaa/286
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghboextreme" group-title="[CANAIS HBO]",HBO Xtreme SD
+http://eyplay.io:80/NAA7k2/ncRLaa/287
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgbabytv" group-title="[CANAIS INFANTIS]",BabyTV FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/14
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgbabytv" group-title="[CANAIS INFANTIS]",BabyTV HD
+http://eyplay.io:80/NAA7k2/ncRLaa/15
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgbabytv" group-title="[CANAIS INFANTIS]",BabyTV SD
+http://eyplay.io:80/NAA7k2/ncRLaa/16
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgboomerang1" group-title="[CANAIS INFANTIS]",Boomerang FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/51
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgboomerang1" group-title="[CANAIS INFANTIS]",Boomerang HD
+http://eyplay.io:80/NAA7k2/ncRLaa/52
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgboomerang1" group-title="[CANAIS INFANTIS]",Boomerang SD
+http://eyplay.io:80/NAA7k2/ncRLaa/53
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcartoonnetwork" group-title="[CANAIS INFANTIS]",Cartoon Network FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/60
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcartoonnetwork" group-title="[CANAIS INFANTIS]",Cartoon Network HD
+http://eyplay.io:80/NAA7k2/ncRLaa/61
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcartoonnetwork" group-title="[CANAIS INFANTIS]",Cartoon Network SD
+http://eyplay.io:80/NAA7k2/ncRLaa/62
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdiscoverykids" group-title="[CANAIS INFANTIS]",Discovery Kids FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/104
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdiscoverykids" group-title="[CANAIS INFANTIS]",Discovery Kids HD
+http://eyplay.io:80/NAA7k2/ncRLaa/105
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdiscoverykids" group-title="[CANAIS INFANTIS]",Discovery Kids SD
+http://eyplay.io:80/NAA7k2/ncRLaa/106
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdisneychannel" group-title="[CANAIS INFANTIS]",Disney Channel FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/119
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdisneychannel" group-title="[CANAIS INFANTIS]",Disney Channel HD
+http://eyplay.io:80/NAA7k2/ncRLaa/120
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdisneychannel" group-title="[CANAIS INFANTIS]",Disney Channel SD
+http://eyplay.io:80/NAA7k2/ncRLaa/121
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdisneyjr" group-title="[CANAIS INFANTIS]",Disney Jr FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/122
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdisneyjr" group-title="[CANAIS INFANTIS]",Disney Jr HD
+http://eyplay.io:80/NAA7k2/ncRLaa/123
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdisneyjr" group-title="[CANAIS INFANTIS]",Disney Jr SD
+http://eyplay.io:80/NAA7k2/ncRLaa/124
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdisneyxd" group-title="[CANAIS INFANTIS]",Disney XD FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/125
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdisneyxd" group-title="[CANAIS INFANTIS]",Disney XD HD
+http://eyplay.io:80/NAA7k2/ncRLaa/126
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdisneyxd" group-title="[CANAIS INFANTIS]",Disney XD SD
+http://eyplay.io:80/NAA7k2/ncRLaa/127
+#EXTINF:0 tvg-logo="https://tinyurl.com/thggloob" group-title="[CANAIS INFANTIS]",Gloob FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/252
+#EXTINF:0 tvg-logo="https://tinyurl.com/thggloob" group-title="[CANAIS INFANTIS]",Gloob HD
+http://eyplay.io:80/NAA7k2/ncRLaa/253
+#EXTINF:0 tvg-logo="https://tinyurl.com/thggloob" group-title="[CANAIS INFANTIS]",Gloob SD
+http://eyplay.io:80/NAA7k2/ncRLaa/254
+#EXTINF:0 tvg-logo="https://tinyurl.com/thggloobinho" group-title="[CANAIS INFANTIS]",Gloobinho FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/255
+#EXTINF:0 tvg-logo="https://tinyurl.com/thggloobinho" group-title="[CANAIS INFANTIS]",Gloobinho HD
+http://eyplay.io:80/NAA7k2/ncRLaa/256
+#EXTINF:0 tvg-logo="https://tinyurl.com/thggloobinho" group-title="[CANAIS INFANTIS]",Gloobinho SD
+http://eyplay.io:80/NAA7k2/ncRLaa/257
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgnatgeokids" group-title="[CANAIS INFANTIS]",Natgeo Kids FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/317
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgnatgeokids" group-title="[CANAIS INFANTIS]",Natgeo Kids HD
+http://eyplay.io:80/NAA7k2/ncRLaa/318
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgnatgeokids" group-title="[CANAIS INFANTIS]",Natgeo Kids SD
+http://eyplay.io:80/NAA7k2/ncRLaa/319
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgnickjr" group-title="[CANAIS INFANTIS]",Nick Jr FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/324
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgnickjr" group-title="[CANAIS INFANTIS]",Nick Jr HD
+http://eyplay.io:80/NAA7k2/ncRLaa/325
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgnickjr" group-title="[CANAIS INFANTIS]",Nick Jr SD
+http://eyplay.io:80/NAA7k2/ncRLaa/326
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgnicklodeon" group-title="[CANAIS INFANTIS]",Nickelodeon FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/328
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgnicklodeon" group-title="[CANAIS INFANTIS]",Nickelodeon HD
+http://eyplay.io:80/NAA7k2/ncRLaa/329
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgnicklodeon" group-title="[CANAIS INFANTIS]",Nickelodeon SD
+http://eyplay.io:80/NAA7k2/ncRLaa/327
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtooncast" group-title="[CANAIS INFANTIS]",Tooncast FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/440
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtooncast" group-title="[CANAIS INFANTIS]",Tooncast HD
+http://eyplay.io:80/NAA7k2/ncRLaa/441
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtooncast" group-title="[CANAIS INFANTIS]",Tooncast SD
+http://eyplay.io:80/NAA7k2/ncRLaa/442
+#EXTINF:0 tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" group-title="[CANAIS INFANTIS]",TV Ra Tim Bum FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/447
+#EXTINF:0 tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" group-title="[CANAIS INFANTIS]",TV Ra Tim Bum HD
+http://eyplay.io:80/NAA7k2/ncRLaa/448
+#EXTINF:0 tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" group-title="[CANAIS INFANTIS]",TV Ra Tim Bum SD
+http://eyplay.io:80/NAA7k2/ncRLaa/449
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgbandnews" group-title="[CANAIS NOTÍCIAS]",BandNews FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/20
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgbandnews" group-title="[CANAIS NOTÍCIAS]",BandNews HD
+http://eyplay.io:80/NAA7k2/ncRLaa/21
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgbandnews" group-title="[CANAIS NOTÍCIAS]",BandNews SD
+http://eyplay.io:80/NAA7k2/ncRLaa/22
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcnnbr" group-title="[CANAIS NOTÍCIAS]",CNN Brasil FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/14076
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcnnbr" group-title="[CANAIS NOTÍCIAS]",CNN Brasil HD
+http://eyplay.io:80/NAA7k2/ncRLaa/14075
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcnnespanhol" group-title="[CANAIS NOTÍCIAS]",CNN Espanhol FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/70
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcnnespanhol" group-title="[CANAIS NOTÍCIAS]",CNN Espanhol HD
+http://eyplay.io:80/NAA7k2/ncRLaa/71
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcnnespanhol" group-title="[CANAIS NOTÍCIAS]",CNN Espanhol SD
+http://eyplay.io:80/NAA7k2/ncRLaa/72
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcnnespanhol" group-title="[CANAIS NOTÍCIAS]",CNN Internacional FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/73
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcnnespanhol" group-title="[CANAIS NOTÍCIAS]",CNN Internacional HD
+http://eyplay.io:80/NAA7k2/ncRLaa/74
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcnnespanhol" group-title="[CANAIS NOTÍCIAS]",CNN Internacional SD
+http://eyplay.io:80/NAA7k2/ncRLaa/75
+#EXTINF:0 tvg-logo="http://s.eyplay.io/logos/canais/foxnews.png" group-title="[CANAIS NOTÍCIAS]",Fox News FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/166
+#EXTINF:0 tvg-logo="http://s.eyplay.io/logos/canais/foxnews.png" group-title="[CANAIS NOTÍCIAS]",Fox News HD
+http://eyplay.io:80/NAA7k2/ncRLaa/167
+#EXTINF:0 tvg-logo="http://s.eyplay.io/logos/canais/foxnews.png" group-title="[CANAIS NOTÍCIAS]",Fox News SD
+http://eyplay.io:80/NAA7k2/ncRLaa/168
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobonews" group-title="[CANAIS NOTÍCIAS]",Globo News FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/202
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobonews" group-title="[CANAIS NOTÍCIAS]",Globo News HD
+http://eyplay.io:80/NAA7k2/ncRLaa/203
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobonews" group-title="[CANAIS NOTÍCIAS]",Globo News SD
+http://eyplay.io:80/NAA7k2/ncRLaa/204
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgrecordnews" group-title="[CANAIS NOTÍCIAS]",Record News FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/364
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgrecordnews" group-title="[CANAIS NOTÍCIAS]",Record News HD
+http://eyplay.io:80/NAA7k2/ncRLaa/365
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgrecordnews" group-title="[CANAIS NOTÍCIAS]",Record News SD
+http://eyplay.io:80/NAA7k2/ncRLaa/366
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="[CANAIS PREMIERE]",Premiere Clubes FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/357
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="[CANAIS PREMIERE]",Premiere Clubes HD
+http://eyplay.io:80/NAA7k2/ncRLaa/358
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="[CANAIS PREMIERE]",Premiere Clubes SD
+http://eyplay.io:80/NAA7k2/ncRLaa/359
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="[CANAIS PREMIERE]",Premiere 2 FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/339
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="[CANAIS PREMIERE]",Premiere 2 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/340
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="[CANAIS PREMIERE]",Premiere 2 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/341
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="[CANAIS PREMIERE]",Premiere 3 FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/342
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="[CANAIS PREMIERE]",Premiere 3 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/343
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="[CANAIS PREMIERE]",Premiere 3 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/344
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="[CANAIS PREMIERE]",Premiere 4 FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/345
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="[CANAIS PREMIERE]",Premiere 4 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/346
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="[CANAIS PREMIERE]",Premiere 4 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/347
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="[CANAIS PREMIERE]",Premiere 5 FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/348
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="[CANAIS PREMIERE]",Premiere 5 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/349
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="[CANAIS PREMIERE]",Premiere 5 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/350
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="[CANAIS PREMIERE]",Premiere 6 FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/351
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="[CANAIS PREMIERE]",Premiere 6 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/352
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="[CANAIS PREMIERE]",Premiere 6 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/353
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="[CANAIS PREMIERE]",Premiere 7 FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/354
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="[CANAIS PREMIERE]",Premiere 7 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/355
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="[CANAIS PREMIERE]",Premiere 7 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/356
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsportv" group-title="[CANAIS SPORTV]",SporTV FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/398
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsportv" group-title="[CANAIS SPORTV]",SporTV HD
+http://eyplay.io:80/NAA7k2/ncRLaa/399
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsportv" group-title="[CANAIS SPORTV]",SporTV SD
+http://eyplay.io:80/NAA7k2/ncRLaa/400
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsportv2" group-title="[CANAIS SPORTV]",SporTV 2 FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/392
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsportv2" group-title="[CANAIS SPORTV]",SporTV 2 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/393
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsportv2" group-title="[CANAIS SPORTV]",SporTV 2 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/394
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsportv3" group-title="[CANAIS SPORTV]",SporTV 3 FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/395
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsportv3" group-title="[CANAIS SPORTV]",SporTV 3 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/396
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsportv3" group-title="[CANAIS SPORTV]",SporTV 3 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/397
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgaee" group-title="[CANAIS VARIEDADES]",A&E FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/2
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgaee" group-title="[CANAIS VARIEDADES]",A&E HD
+http://eyplay.io:80/NAA7k2/ncRLaa/3
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgaee" group-title="[CANAIS VARIEDADES]",A&E SD
+http://eyplay.io:80/NAA7k2/ncRLaa/4
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgbis" group-title="[CANAIS VARIEDADES]",BIS FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/48
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgbis" group-title="[CANAIS VARIEDADES]",BIS HD
+http://eyplay.io:80/NAA7k2/ncRLaa/49
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgbis" group-title="[CANAIS VARIEDADES]",BIS SD
+http://eyplay.io:80/NAA7k2/ncRLaa/50
+#EXTINF:0 tvg-logo="http://s.eyplay.io/logos/canais/4fun.png" group-title="[CANAIS VARIEDADES]",Canal 4 Fun HD
+http://eyplay.io:80/NAA7k2/ncRLaa/54
+#EXTINF:0 tvg-logo="http://s.eyplay.io/logos/canais/cheftv.png" group-title="[CANAIS VARIEDADES]",Chef TV FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/63
+#EXTINF:0 tvg-logo="http://s.eyplay.io/logos/canais/cheftv.png" group-title="[CANAIS VARIEDADES]",Chef TV HD
+http://eyplay.io:80/NAA7k2/ncRLaa/64
+#EXTINF:0 tvg-logo="http://s.eyplay.io/logos/canais/cheftv.png" group-title="[CANAIS VARIEDADES]",Chef TV SD
+http://eyplay.io:80/NAA7k2/ncRLaa/65
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcomedycentral" group-title="[CANAIS VARIEDADES]",Comedy Central FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/79
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcomedycentral" group-title="[CANAIS VARIEDADES]",Comedy Central HD
+http://eyplay.io:80/NAA7k2/ncRLaa/80
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcomedycentral" group-title="[CANAIS VARIEDADES]",Comedy Central SD
+http://eyplay.io:80/NAA7k2/ncRLaa/81
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdiscoveryheh" group-title="[CANAIS VARIEDADES]",Discovery Home & Health FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/101
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdiscoveryheh" group-title="[CANAIS VARIEDADES]",Discovery Home & Health HD
+http://eyplay.io:80/NAA7k2/ncRLaa/102
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdiscoveryheh" group-title="[CANAIS VARIEDADES]",Discovery Home & Health SD
+http://eyplay.io:80/NAA7k2/ncRLaa/103
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgid" group-title="[CANAIS VARIEDADES]",Discovery ID FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/294
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgid" group-title="[CANAIS VARIEDADES]",Discovery ID HD
+http://eyplay.io:80/NAA7k2/ncRLaa/295
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgid" group-title="[CANAIS VARIEDADES]",Discovery ID SD
+http://eyplay.io:80/NAA7k2/ncRLaa/296
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdiscoveryturbo" group-title="[CANAIS VARIEDADES]",Discovery Turbo FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/113
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdiscoveryturbo" group-title="[CANAIS VARIEDADES]",Discovery Turbo HD
+http://eyplay.io:80/NAA7k2/ncRLaa/114
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdiscoveryturbo" group-title="[CANAIS VARIEDADES]",Discovery Turbo SD
+http://eyplay.io:80/NAA7k2/ncRLaa/115
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgentre" group-title="[CANAIS VARIEDADES]",E! FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/128
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgentre" group-title="[CANAIS VARIEDADES]",E! SD
+http://eyplay.io:80/NAA7k2/ncRLaa/130
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgentre" group-title="[CANAIS VARIEDADES]",E! HD
+http://eyplay.io:80/NAA7k2/ncRLaa/129
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfish" group-title="[CANAIS VARIEDADES]",Fish TV FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/155
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfish" group-title="[CANAIS VARIEDADES]",Fish TV HD
+http://eyplay.io:80/NAA7k2/ncRLaa/156
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfish" group-title="[CANAIS VARIEDADES]",Fish TV SD
+http://eyplay.io:80/NAA7k2/ncRLaa/157
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfood" group-title="[CANAIS VARIEDADES]",Food Network FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/158
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfood" group-title="[CANAIS VARIEDADES]",Food Network HD
+http://eyplay.io:80/NAA7k2/ncRLaa/159
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfood" group-title="[CANAIS VARIEDADES]",Food Network SD
+http://eyplay.io:80/NAA7k2/ncRLaa/160
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfoxlife" group-title="[CANAIS VARIEDADES]",Fox Life FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/163
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfoxlife" group-title="[CANAIS VARIEDADES]",Fox Life HD
+http://eyplay.io:80/NAA7k2/ncRLaa/164
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfoxlife" group-title="[CANAIS VARIEDADES]",Fox Life SD
+http://eyplay.io:80/NAA7k2/ncRLaa/165
+#EXTINF:0 tvg-logo="https://tinyurl.com/thggnt" group-title="[CANAIS VARIEDADES]",GNT FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/258
+#EXTINF:0 tvg-logo="https://tinyurl.com/thggnt" group-title="[CANAIS VARIEDADES]",GNT HD
+http://eyplay.io:80/NAA7k2/ncRLaa/259
+#EXTINF:0 tvg-logo="https://tinyurl.com/thggnt" group-title="[CANAIS VARIEDADES]",GNT SD
+http://eyplay.io:80/NAA7k2/ncRLaa/260
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgisat" group-title="[CANAIS VARIEDADES]",i Sat FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/291
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgisat" group-title="[CANAIS VARIEDADES]",i Sat HD
+http://eyplay.io:80/NAA7k2/ncRLaa/292
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgisat" group-title="[CANAIS VARIEDADES]",i Sat SD
+http://eyplay.io:80/NAA7k2/ncRLaa/293
+#EXTINF:0 tvg-logo="https://tinyurl.com/thglifetime" group-title="[CANAIS VARIEDADES]",Lifetime FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/297
+#EXTINF:0 tvg-logo="https://tinyurl.com/thglifetime" group-title="[CANAIS VARIEDADES]",Lifetime HD
+http://eyplay.io:80/NAA7k2/ncRLaa/298
+#EXTINF:0 tvg-logo="https://tinyurl.com/thglifetime" group-title="[CANAIS VARIEDADES]",Lifetime SD
+http://eyplay.io:80/NAA7k2/ncRLaa/299
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobosat" group-title="[CANAIS VARIEDADES]",Mais Globosat FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/300
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobosat" group-title="[CANAIS VARIEDADES]",Mais Globosat HD
+http://eyplay.io:80/NAA7k2/ncRLaa/301
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobosat" group-title="[CANAIS VARIEDADES]",Mais Globosat SD
+http://eyplay.io:80/NAA7k2/ncRLaa/302
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgmtv" group-title="[CANAIS VARIEDADES]",MTV FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/306
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgmtv" group-title="[CANAIS VARIEDADES]",MTV HD
+http://eyplay.io:80/NAA7k2/ncRLaa/307
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgmtv" group-title="[CANAIS VARIEDADES]",MTV SD
+http://eyplay.io:80/NAA7k2/ncRLaa/308
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgmultishow" group-title="[CANAIS VARIEDADES]",Multishow FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/309
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgmultishow" group-title="[CANAIS VARIEDADES]",Multishow HD
+http://eyplay.io:80/NAA7k2/ncRLaa/310
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgmultishow" group-title="[CANAIS VARIEDADES]",Multishow SD
+http://eyplay.io:80/NAA7k2/ncRLaa/311
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgmusicprimebox" group-title="[CANAIS VARIEDADES]",Music Box Brasil FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/312
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgmusicprimebox" group-title="[CANAIS VARIEDADES]",Music Box Brasil HD
+http://eyplay.io:80/NAA7k2/ncRLaa/313
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgmusicprimebox" group-title="[CANAIS VARIEDADES]",Music Box Brasil SD
+http://eyplay.io:80/NAA7k2/ncRLaa/314
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgoff" group-title="[CANAIS VARIEDADES]",OFF FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/330
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgoff" group-title="[CANAIS VARIEDADES]",OFF HD
+http://eyplay.io:80/NAA7k2/ncRLaa/331
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgoff" group-title="[CANAIS VARIEDADES]",OFF SD
+http://eyplay.io:80/NAA7k2/ncRLaa/332
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgplaytv" group-title="[CANAIS VARIEDADES]",Play TV FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/336
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgplaytv" group-title="[CANAIS VARIEDADES]",Play TV HD
+http://eyplay.io:80/NAA7k2/ncRLaa/337
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgplaytv" group-title="[CANAIS VARIEDADES]",Play TV SD
+http://eyplay.io:80/NAA7k2/ncRLaa/338
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgprimebox1" group-title="[CANAIS VARIEDADES]",Prime Box Brasil FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/360
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgprimebox1" group-title="[CANAIS VARIEDADES]",Prime Box Brasil HD
+http://eyplay.io:80/NAA7k2/ncRLaa/361
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgprimebox1" group-title="[CANAIS VARIEDADES]",Prime Box Brasil SD
+http://eyplay.io:80/NAA7k2/ncRLaa/362
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgshoptime" group-title="[CANAIS VARIEDADES]",Shoptime FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/385
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtlc1" group-title="[CANAIS VARIEDADES]",TLC FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/431
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtlc1" group-title="[CANAIS VARIEDADES]",TLC HD
+http://eyplay.io:80/NAA7k2/ncRLaa/432
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtlc1" group-title="[CANAIS VARIEDADES]",TLC SD
+http://eyplay.io:80/NAA7k2/ncRLaa/433
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9tweayy" group-title="[CANAIS VARIEDADES]",TV5 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/451
+#EXTINF:0 tvg-logo="http://s.eyplay.io/logos/canais/vh1.png" group-title="[CANAIS VARIEDADES]",VH1 FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/477
+#EXTINF:0 tvg-logo="http://s.eyplay.io/logos/canais/vh1.png" group-title="[CANAIS VARIEDADES]",VH1 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/14077
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgvh1" group-title="[CANAIS VARIEDADES]",VH1 Mega Hits FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/455
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgvh1" group-title="[CANAIS VARIEDADES]",VH1 Mega Hits HD
+http://eyplay.io:80/NAA7k2/ncRLaa/456
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgvh1" group-title="[CANAIS VARIEDADES]",VH1 Mega Hits SD
+http://eyplay.io:80/NAA7k2/ncRLaa/457
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgviva" group-title="[CANAIS VARIEDADES]",Viva FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/458
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgviva" group-title="[CANAIS VARIEDADES]",Viva HD
+http://eyplay.io:80/NAA7k2/ncRLaa/459
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgviva" group-title="[CANAIS VARIEDADES]",Viva SD
+http://eyplay.io:80/NAA7k2/ncRLaa/460
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgwoohoo" group-title="[CANAIS VARIEDADES]",Woohoo FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/464
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgplayboy1" group-title="[CANAIS ADULTOS]",XXX: Playboy FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/465
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgplayboy1" group-title="[CANAIS ADULTOS]",XXX: Playboy HD
+http://eyplay.io:80/NAA7k2/ncRLaa/466
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgplayboy1" group-title="[CANAIS ADULTOS]",XXX: Playboy SD
+http://eyplay.io:80/NAA7k2/ncRLaa/467
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsexprive" group-title="[CANAIS ADULTOS]",XXX: Sex Prive FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/468
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsexprive" group-title="[CANAIS ADULTOS]",XXX: Sex Prive HD
+http://eyplay.io:80/NAA7k2/ncRLaa/469
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsexprive" group-title="[CANAIS ADULTOS]",XXX: Sex Prive SD
+http://eyplay.io:80/NAA7k2/ncRLaa/470
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsexyhot" group-title="[CANAIS ADULTOS]",XXX: Sexy Hot FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/471
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsexyhot" group-title="[CANAIS ADULTOS]",XXX: Sexy Hot HD
+http://eyplay.io:80/NAA7k2/ncRLaa/472
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsexyhot" group-title="[CANAIS ADULTOS]",XXX: Sexy Hot SD
+http://eyplay.io:80/NAA7k2/ncRLaa/473
+#EXTINF:0 tvg-logo="http://iv.pe/W2q" group-title="[CANAIS 24H]",101 DALMATAS
+http://eyplay.io:80/NAA7k2/ncRLaa/478
+#EXTINF:0 tvg-logo="http://iv.pe/Oym" group-title="[CANAIS 24H]",3 PALAVRINHAS
+http://eyplay.io:80/NAA7k2/ncRLaa/480
+#EXTINF:0 tvg-logo="http://iv.pe/Gkw" group-title="[CANAIS 24H]",A BRUXINHA SABRINA
+http://eyplay.io:80/NAA7k2/ncRLaa/481
+#EXTINF:0 tvg-logo="http://iv.pe/gMc" group-title="[CANAIS 24H]",A CEGONHA PERNA FINA
+http://eyplay.io:80/NAA7k2/ncRLaa/482
+#EXTINF:0 tvg-logo="http://iv.pe/rpW" group-title="[CANAIS 24H]",A COBRINHA AZUL
+http://eyplay.io:80/NAA7k2/ncRLaa/483
+#EXTINF:0 tvg-logo="http://iv.pe/JEs" group-title="[CANAIS 24H]",A ESCOLINHA DO PROFESSOR RAIMUNDO
+http://eyplay.io:80/NAA7k2/ncRLaa/484
+#EXTINF:0 tvg-logo="http://iv.pe/WLj" group-title="[CANAIS 24H]",A FAMILIA ADDAMS 1992
+http://eyplay.io:80/NAA7k2/ncRLaa/485
+#EXTINF:0 tvg-logo="http://iv.pe/VpD" group-title="[CANAIS 24H]",A FAMILIA DRACULA
+http://eyplay.io:80/NAA7k2/ncRLaa/486
+#EXTINF:0 tvg-logo="http://iv.pe/oXz" group-title="[CANAIS 24H]",A FAMILIA DRACULA
+http://eyplay.io:80/NAA7k2/ncRLaa/487
+#EXTINF:0 tvg-logo="http://iv.pe/oxJ" group-title="[CANAIS 24H]",A FAMÍLIA DINOSSAURO
+http://eyplay.io:80/NAA7k2/ncRLaa/488
+#EXTINF:0 tvg-logo="http://iv.pe/xQy" group-title="[CANAIS 24H]",A FEITICEIRA FACEIRA
+http://eyplay.io:80/NAA7k2/ncRLaa/490
+#EXTINF:0 tvg-logo="http://iv.pe/rmg" group-title="[CANAIS 24H]",A FORMIGA ATÔMICA
+http://eyplay.io:80/NAA7k2/ncRLaa/491
+#EXTINF:0 tvg-logo="http://iv.pe/ct4" group-title="[CANAIS 24H]",A MANSÃO FOSTER PARA AMIGOS IMAGINÁRIOS
+http://eyplay.io:80/NAA7k2/ncRLaa/492
+#EXTINF:0 tvg-logo="http://iv.pe/8fr" group-title="[CANAIS 24H]",A MUMIA
+http://eyplay.io:80/NAA7k2/ncRLaa/493
+#EXTINF:0 tvg-logo="http://iv.pe/rgL" group-title="[CANAIS 24H]",A NOSSA TURMA
+http://eyplay.io:80/NAA7k2/ncRLaa/494
+#EXTINF:0 tvg-logo="http://iv.pe/dBZ" group-title="[CANAIS 24H]",A PANTERA COR DE ROSA
+http://eyplay.io:80/NAA7k2/ncRLaa/495
+#EXTINF:0 tvg-logo="http://iv.pe/yfa" group-title="[CANAIS 24H]",A PEQUENA SEREIA
+http://eyplay.io:80/NAA7k2/ncRLaa/496
+#EXTINF:0 tvg-logo="http://iv.pe/PLZ" group-title="[CANAIS 24H]",A PEQUENA SEREIA
+http://eyplay.io:80/NAA7k2/ncRLaa/497
+#EXTINF:0 tvg-logo="http://iv.pe/b9e" group-title="[CANAIS 24H]",A TURMA DE CHARLIE BROWN E SNOOPY
+http://eyplay.io:80/NAA7k2/ncRLaa/498
+#EXTINF:0 tvg-logo="http://iv.pe/DFd" group-title="[CANAIS 24H]",A VACA E O FRANGO
+http://eyplay.io:80/NAA7k2/ncRLaa/500
+#EXTINF:0 tvg-logo="http://iv.pe/u8R" group-title="[CANAIS 24H]",A VIDA MODERNA DE ROCKO
+http://eyplay.io:80/NAA7k2/ncRLaa/501
+#EXTINF:0 tvg-logo="http://iv.pe/nnb" group-title="[CANAIS 24H]",ACAMPAMENTO LAKEBOTTOM
+http://eyplay.io:80/NAA7k2/ncRLaa/502
+#EXTINF:0 tvg-logo="http://iv.pe/Dkk" group-title="[CANAIS 24H]",ALADDIN DESENHO ANIMADO
+http://eyplay.io:80/NAA7k2/ncRLaa/503
+#EXTINF:0 tvg-logo="http://iv.pe/25A" group-title="[CANAIS 24H]",ANDY PANDA
+http://eyplay.io:80/NAA7k2/ncRLaa/504
+#EXTINF:0 tvg-logo="http://iv.pe/Y6A" group-title="[CANAIS 24H]",ANIMANIACS
+http://eyplay.io:80/NAA7k2/ncRLaa/505
+#EXTINF:0 tvg-logo="http://iv.pe/YOR" group-title="[CANAIS 24H]",ARQUIVO CÃOFIDENCIAL
+http://eyplay.io:80/NAA7k2/ncRLaa/506
+#EXTINF:0 tvg-logo="http://iv.pe/zsb" group-title="[CANAIS 24H]",AS AVENTURAS DE JACKIE CHAN
+http://eyplay.io:80/NAA7k2/ncRLaa/507
+#EXTINF:0 tvg-logo="http://iv.pe/WYd" group-title="[CANAIS 24H]",AS AVENTURAS DE TINTIM
+http://eyplay.io:80/NAA7k2/ncRLaa/508
+#EXTINF:0 tvg-logo="http://iv.pe/UXr" group-title="[CANAIS 24H]",AS MENINAS SUPERPODEROSAS
+http://eyplay.io:80/NAA7k2/ncRLaa/510
+#EXTINF:0 tvg-logo="http://iv.pe/6ig" group-title="[CANAIS 24H]",AS MUMIAS VIVAS
+http://eyplay.io:80/NAA7k2/ncRLaa/511
+#EXTINF:0 tvg-logo="http://iv.pe/yci" group-title="[CANAIS 24H]",AS TARTARUGAS NINJAS
+http://eyplay.io:80/NAA7k2/ncRLaa/512
+#EXTINF:0 tvg-logo="http://iv.pe/yfQ" group-title="[CANAIS 24H]",AS TRAPALHADAS DE FLAPJACK
+http://eyplay.io:80/NAA7k2/ncRLaa/513
+#EXTINF:0 tvg-logo="http://iv.pe/7dO" group-title="[CANAIS 24H]",AS TRIGÊMIAS
+http://eyplay.io:80/NAA7k2/ncRLaa/514
+#EXTINF:0 tvg-logo="http://iv.pe/Sbk" group-title="[CANAIS 24H]",AVATAR ANIME COMPLETO
+http://eyplay.io:80/NAA7k2/ncRLaa/515
+#EXTINF:0 tvg-logo="http://iv.pe/q0F" group-title="[CANAIS 24H]",BABY LOONEY TOONES
+http://eyplay.io:80/NAA7k2/ncRLaa/516
+#EXTINF:0 tvg-logo="http://iv.pe/K0W" group-title="[CANAIS 24H]",BACKYARDIGANS
+http://eyplay.io:80/NAA7k2/ncRLaa/517
+#EXTINF:0 tvg-logo="http://iv.pe/XZX" group-title="[CANAIS 24H]",BAKUGAN
+http://eyplay.io:80/NAA7k2/ncRLaa/518
+#EXTINF:0 tvg-logo="http://iv.pe/fgp" group-title="[CANAIS 24H]",BEN 10 2006 - 2008
+http://eyplay.io:80/NAA7k2/ncRLaa/525
+#EXTINF:0 tvg-logo="http://iv.pe/Se7" group-title="[CANAIS 24H]",BEN 10 FORCA ALIENIGENA 2008 - 2010
+http://eyplay.io:80/NAA7k2/ncRLaa/526
+#EXTINF:0 tvg-logo="http://iv.pe/fRG" group-title="[CANAIS 24H]",BEN 10 OMNIVERSE 2012 - 2014
+http://eyplay.io:80/NAA7k2/ncRLaa/527
+#EXTINF:0 tvg-logo="http://iv.pe/kAS" group-title="[CANAIS 24H]",BEN 10 SUPREMACIA ALIENIGENA 2010 - 2012
+http://eyplay.io:80/NAA7k2/ncRLaa/528
+#EXTINF:0 tvg-logo="http://iv.pe/ZgD" group-title="[CANAIS 24H]",BEYBLADE G REVOLUTION 2003
+http://eyplay.io:80/NAA7k2/ncRLaa/530
+#EXTINF:0 tvg-logo="http://iv.pe/Npo" group-title="[CANAIS 24H]",BEYBLADE METAL FUSION 2010
+http://eyplay.io:80/NAA7k2/ncRLaa/531
+#EXTINF:0 tvg-logo="http://iv.pe/Ir2" group-title="[CANAIS 24H]",BEYBLADE V FORCE
+http://eyplay.io:80/NAA7k2/ncRLaa/532
+#EXTINF:0 tvg-logo="http://iv.pe/hkX" group-title="[CANAIS 24H]",BIBO PAI E BOB FILHO
+http://eyplay.io:80/NAA7k2/ncRLaa/533
+#EXTINF:0 tvg-logo="http://iv.pe/u2i" group-title="[CANAIS 24H]",BICUDO
+http://eyplay.io:80/NAA7k2/ncRLaa/534
+#EXTINF:0 tvg-logo="http://iv.pe/NKM" group-title="[CANAIS 24H]",BOB ESPONJA T01
+http://eyplay.io:80/NAA7k2/ncRLaa/535
+#EXTINF:0 tvg-logo="http://iv.pe/WL4" group-title="[CANAIS 24H]",BOB ESPONJA T02
+http://eyplay.io:80/NAA7k2/ncRLaa/536
+#EXTINF:0 tvg-logo="http://iv.pe/lYX" group-title="[CANAIS 24H]",BOB ESPONJA T03
+http://eyplay.io:80/NAA7k2/ncRLaa/537
+#EXTINF:0 tvg-logo="http://iv.pe/Esx" group-title="[CANAIS 24H]",BOB ESPONJA T04
+http://eyplay.io:80/NAA7k2/ncRLaa/538
+#EXTINF:0 tvg-logo="http://iv.pe/eR6" group-title="[CANAIS 24H]",BOB ESPONJA T06
+http://eyplay.io:80/NAA7k2/ncRLaa/540
+#EXTINF:0 tvg-logo="http://iv.pe/8mV" group-title="[CANAIS 24H]",BOB ESPONJA T07
+http://eyplay.io:80/NAA7k2/ncRLaa/541
+#EXTINF:0 tvg-logo="http://iv.pe/qzG" group-title="[CANAIS 24H]",BOB ESPONJA T08
+http://eyplay.io:80/NAA7k2/ncRLaa/542
+#EXTINF:0 tvg-logo="http://iv.pe/Z9a" group-title="[CANAIS 24H]",BOB ESPONJA T09
+http://eyplay.io:80/NAA7k2/ncRLaa/543
+#EXTINF:0 tvg-logo="http://iv.pe/6tk" group-title="[CANAIS 24H]",BOB ESPONJA T10
+http://eyplay.io:80/NAA7k2/ncRLaa/544
+#EXTINF:0 tvg-logo="http://iv.pe/hXv" group-title="[CANAIS 24H]",BUZZ LIGHTYEAR DO COMANDO
+http://eyplay.io:80/NAA7k2/ncRLaa/551
+#EXTINF:0 tvg-logo="http://iv.pe/MZY" group-title="[CANAIS 24H]",CADILLACS E DINOSSAUROS
+http://eyplay.io:80/NAA7k2/ncRLaa/552
+#EXTINF:0 tvg-logo="http://iv.pe/XRp" group-title="[CANAIS 24H]",CAEZINHOS DO CANIL
+http://eyplay.io:80/NAA7k2/ncRLaa/553
+#EXTINF:0 tvg-logo="http://iv.pe/zGs" group-title="[CANAIS 24H]",CAMPEOES DO SENDOKAI
+http://eyplay.io:80/NAA7k2/ncRLaa/554
+#EXTINF:0 tvg-logo="http://iv.pe/SUS" group-title="[CANAIS 24H]",CAPITAO PLANETA
+http://eyplay.io:80/NAA7k2/ncRLaa/555
+#EXTINF:0 tvg-logo="http://iv.pe/amw" group-title="[CANAIS 24H]",CARMEN SANDIEGO
+http://eyplay.io:80/NAA7k2/ncRLaa/556
+#EXTINF:0 tvg-logo="http://iv.pe/4C5" group-title="[CANAIS 24H]",CASTELO RA TIM BUM
+http://eyplay.io:80/NAA7k2/ncRLaa/557
+#EXTINF:0 tvg-logo="http://iv.pe/cZj" group-title="[CANAIS 24H]",CAVERNA DO DRAGÃO
+http://eyplay.io:80/NAA7k2/ncRLaa/558
+#EXTINF:0 tvg-logo="http://iv.pe/11W" group-title="[CANAIS 24H]",CHAVES CLASSICO EXTRA
+http://eyplay.io:80/NAA7k2/ncRLaa/560
+#EXTINF:0 tvg-logo="http://iv.pe/iAa" group-title="[CANAIS 24H]",CHAVES CLÁSSICO T01
+http://eyplay.io:80/NAA7k2/ncRLaa/561
+#EXTINF:0 tvg-logo="http://iv.pe/OdH" group-title="[CANAIS 24H]",CHAVES CLÁSSICO T02
+http://eyplay.io:80/NAA7k2/ncRLaa/562
+#EXTINF:0 tvg-logo="http://iv.pe/rAe" group-title="[CANAIS 24H]",CHAVES CLÁSSICO T03
+http://eyplay.io:80/NAA7k2/ncRLaa/563
+#EXTINF:0 tvg-logo="http://iv.pe/P1G" group-title="[CANAIS 24H]",CHAVES CLÁSSICO T04
+http://eyplay.io:80/NAA7k2/ncRLaa/564
+#EXTINF:0 tvg-logo="http://iv.pe/qbn" group-title="[CANAIS 24H]",CHAVES CLÁSSICO T05
+http://eyplay.io:80/NAA7k2/ncRLaa/565
+#EXTINF:0 tvg-logo="http://iv.pe/Dye" group-title="[CANAIS 24H]",CHAVES CLÁSSICO T06
+http://eyplay.io:80/NAA7k2/ncRLaa/566
+#EXTINF:0 tvg-logo="http://iv.pe/57D" group-title="[CANAIS 24H]",CHOWDER
+http://eyplay.io:80/NAA7k2/ncRLaa/567
+#EXTINF:0 tvg-logo="http://iv.pe/8n7" group-title="[CANAIS 24H]",CLARENCIO O OTIMISTA
+http://eyplay.io:80/NAA7k2/ncRLaa/568
+#EXTINF:0 tvg-logo="http://iv.pe/Epd" group-title="[CANAIS 24H]",CLUBE DOS CARROS
+http://eyplay.io:80/NAA7k2/ncRLaa/570
+#EXTINF:0 tvg-logo="http://iv.pe/pa5" group-title="[CANAIS 24H]",COELHO RICOCHETE
+http://eyplay.io:80/NAA7k2/ncRLaa/571
+#EXTINF:0 tvg-logo="http://iv.pe/veL" group-title="[CANAIS 24H]",COLECAO BOB ZOOM
+http://eyplay.io:80/NAA7k2/ncRLaa/572
+#EXTINF:0 tvg-logo="http://iv.pe/u1Z" group-title="[CANAIS 24H]",CONTOS DA CRYPTA ANIMACAO
+http://eyplay.io:80/NAA7k2/ncRLaa/573
+#EXTINF:0 tvg-logo="http://iv.pe/vSX" group-title="[CANAIS 24H]",CORAGEM O CAO COVARDE
+http://eyplay.io:80/NAA7k2/ncRLaa/574
+#EXTINF:0 tvg-logo="http://iv.pe/Zti" group-title="[CANAIS 24H]",CORRIDA ESPACIAL
+http://eyplay.io:80/NAA7k2/ncRLaa/575
+#EXTINF:0 tvg-logo="http://iv.pe/6fm" group-title="[CANAIS 24H]",CORRIDA MALUCA
+http://eyplay.io:80/NAA7k2/ncRLaa/576
+#EXTINF:0 tvg-logo="http://iv.pe/nYT" group-title="[CANAIS 24H]",CYBERCHASE A CORRIDA DO ESPACO
+http://eyplay.io:80/NAA7k2/ncRLaa/577
+#EXTINF:0 tvg-logo="http://iv.pe/oLh" group-title="[CANAIS 24H]",DANNY PHANTOM 2004 - 2007
+http://eyplay.io:80/NAA7k2/ncRLaa/578
+#EXTINF:0 tvg-logo="http://iv.pe/sRx" group-title="[CANAIS 24H]",De Ferias Com Ex T02
+http://eyplay.io:80/NAA7k2/ncRLaa/580
+#EXTINF:0 tvg-logo="http://iv.pe/i9q" group-title="[CANAIS 24H]",De Ferias Com Ex T03
+http://eyplay.io:80/NAA7k2/ncRLaa/581
+#EXTINF:0 tvg-logo="http://iv.pe/zCp" group-title="[CANAIS 24H]",DE VOLTA PARA O FUTURO
+http://eyplay.io:80/NAA7k2/ncRLaa/582
+#EXTINF:0 tvg-logo="http://iv.pe/H2U" group-title="[CANAIS 24H]",DEBY E LOID
+http://eyplay.io:80/NAA7k2/ncRLaa/583
+#EXTINF:0 tvg-logo="http://iv.pe/IaZ" group-title="[CANAIS 24H]",DENIS O PIMENTINHA
+http://eyplay.io:80/NAA7k2/ncRLaa/584
+#EXTINF:0 tvg-logo="http://iv.pe/TG1" group-title="[CANAIS 24H]",DICK VIGARISTA E MUTTLEY - MAQUINAS VOADORAS
+http://eyplay.io:80/NAA7k2/ncRLaa/585
+#EXTINF:0 tvg-logo="http://iv.pe/n1l" group-title="[CANAIS 24H]",DINOSSAURO REI
+http://eyplay.io:80/NAA7k2/ncRLaa/592
+#EXTINF:0 tvg-logo="http://iv.pe/vDF" group-title="[CANAIS 24H]",DON DRACULA
+http://eyplay.io:80/NAA7k2/ncRLaa/605
+#EXTINF:0 tvg-logo="http://iv.pe/lkJ" group-title="[CANAIS 24H]",DORA A AVENTUREIRA
+http://eyplay.io:80/NAA7k2/ncRLaa/606
+#EXTINF:0 tvg-logo="http://iv.pe/Slf" group-title="[CANAIS 24H]",DOUG
+http://eyplay.io:80/NAA7k2/ncRLaa/607
+#EXTINF:0 tvg-logo="http://iv.pe/h9f" group-title="[CANAIS 24H]",DR CALCA DIMENSIONAL
+http://eyplay.io:80/NAA7k2/ncRLaa/608
+#EXTINF:0 tvg-logo="http://iv.pe/dwx" group-title="[CANAIS 24H]",DRAKE AND JOSH
+http://eyplay.io:80/NAA7k2/ncRLaa/622
+#EXTINF:0 tvg-logo="http://iv.pe/7x7" group-title="[CANAIS 24H]",DUCK TALES
+http://eyplay.io:80/NAA7k2/ncRLaa/623
+#EXTINF:0 tvg-logo="http://iv.pe/0rr" group-title="[CANAIS 24H]",DUDLEY DO RIGHT
+http://eyplay.io:80/NAA7k2/ncRLaa/624
+#EXTINF:0 tvg-logo="http://iv.pe/jNr" group-title="[CANAIS 24H]",DUELO XIAOLIN
+http://eyplay.io:80/NAA7k2/ncRLaa/625
+#EXTINF:0 tvg-logo="http://iv.pe/vem" group-title="[CANAIS 24H]",E O LOBO
+http://eyplay.io:80/NAA7k2/ncRLaa/626
+#EXTINF:0 tvg-logo="http://iv.pe/eFU" group-title="[CANAIS 24H]",EEK! THE CAT
+http://eyplay.io:80/NAA7k2/ncRLaa/627
+#EXTINF:0 tvg-logo="http://iv.pe/jNu" group-title="[CANAIS 24H]",EL CHAPO T01
+http://eyplay.io:80/NAA7k2/ncRLaa/628
+#EXTINF:0 tvg-logo="http://iv.pe/Fxh" group-title="[CANAIS 24H]",EL CHAPO T03
+http://eyplay.io:80/NAA7k2/ncRLaa/630
+#EXTINF:0 tvg-logo="http://iv.pe/BfT" group-title="[CANAIS 24H]",ESQUADRAO DO TEMPO
+http://eyplay.io:80/NAA7k2/ncRLaa/631
+#EXTINF:0 tvg-logo="http://iv.pe/p21" group-title="[CANAIS 24H]",ESQUADRAO ESPECIAL WINSPECTOR
+http://eyplay.io:80/NAA7k2/ncRLaa/632
+#EXTINF:0 tvg-logo="http://iv.pe/aut" group-title="[CANAIS 24H]",ESQUADRAO MARTE 2
+http://eyplay.io:80/NAA7k2/ncRLaa/633
+#EXTINF:0 tvg-logo="http://iv.pe/1Kk" group-title="[CANAIS 24H]",ESQUILO SEM GRILO
+http://eyplay.io:80/NAA7k2/ncRLaa/634
+#EXTINF:0 tvg-logo="http://iv.pe/7Fj" group-title="[CANAIS 24H]",EU A PATROA E AS CRIANCAS T02
+http://eyplay.io:80/NAA7k2/ncRLaa/635
+#EXTINF:0 tvg-logo="http://iv.pe/LxP" group-title="[CANAIS 24H]",EU A PATROA E AS CRIANCAS T03
+http://eyplay.io:80/NAA7k2/ncRLaa/636
+#EXTINF:0 tvg-logo="http://iv.pe/zkl" group-title="[CANAIS 24H]",EU A PATROA E AS CRIANCAS T04
+http://eyplay.io:80/NAA7k2/ncRLaa/637
+#EXTINF:0 tvg-logo="http://iv.pe/8QT" group-title="[CANAIS 24H]",EU A PATROA E AS CRIANCAS T05
+http://eyplay.io:80/NAA7k2/ncRLaa/638
+#EXTINF:0 tvg-logo="http://iv.pe/KYD" group-title="[CANAIS 24H]",EU SOU O MAXIMO
+http://eyplay.io:80/NAA7k2/ncRLaa/640
+#EXTINF:0 tvg-logo="http://iv.pe/Pw5" group-title="[CANAIS 24H]",FABULAS DA DISNEY
+http://eyplay.io:80/NAA7k2/ncRLaa/641
+#EXTINF:0 tvg-logo="http://iv.pe/ZoH" group-title="[CANAIS 24H]",FAISCA E FUMACA
+http://eyplay.io:80/NAA7k2/ncRLaa/642
+#EXTINF:0 tvg-logo="http://iv.pe/pSv" group-title="[CANAIS 24H]",FALCAO AZUL E O BIONICAO
+http://eyplay.io:80/NAA7k2/ncRLaa/643
+#EXTINF:0 tvg-logo="http://iv.pe/ztc" group-title="[CANAIS 24H]",FANTASMINHA LEGAL
+http://eyplay.io:80/NAA7k2/ncRLaa/644
+#EXTINF:0 tvg-logo="http://iv.pe/bFr" group-title="[CANAIS 24H]",FANTASMINO O FANTASMA GALOPANTE
+http://eyplay.io:80/NAA7k2/ncRLaa/645
+#EXTINF:0 tvg-logo="http://iv.pe/ipb" group-title="[CANAIS 24H]",FLY O PEQUENO GUERREIRO
+http://eyplay.io:80/NAA7k2/ncRLaa/646
+#EXTINF:0 tvg-logo="http://iv.pe/Qrv" group-title="[CANAIS 24H]",FRANKENSTEIN JUNIOR
+http://eyplay.io:80/NAA7k2/ncRLaa/647
+#EXTINF:0 tvg-logo="http://iv.pe/TDB" group-title="[CANAIS 24H]",FREAKAZOID
+http://eyplay.io:80/NAA7k2/ncRLaa/648
+#EXTINF:0 tvg-logo="http://iv.pe/Hl7" group-title="[CANAIS 24H]",GALINHA PINTADINHA
+http://eyplay.io:80/NAA7k2/ncRLaa/660
+#EXTINF:0 tvg-logo="http://iv.pe/q1W" group-title="[CANAIS 24H]",GASPARZINHO E AMIGOS
+http://eyplay.io:80/NAA7k2/ncRLaa/668
+#EXTINF:0 tvg-logo="http://iv.pe/Ex7" group-title="[CANAIS 24H]",GO DIEGO GO
+http://eyplay.io:80/NAA7k2/ncRLaa/670
+#EXTINF:0 tvg-logo="http://iv.pe/Mk7" group-title="[CANAIS 24H]",GUERREIRAS MAGICAS DE RAYEARTH
+http://eyplay.io:80/NAA7k2/ncRLaa/671
+#EXTINF:0 tvg-logo="http://iv.pe/BSV" group-title="[CANAIS 24H]",GUNDAM WING
+http://eyplay.io:80/NAA7k2/ncRLaa/672
+#EXTINF:0 tvg-logo="http://iv.pe/51P" group-title="[CANAIS 24H]",HAMTARO
+http://eyplay.io:80/NAA7k2/ncRLaa/673
+#EXTINF:0 tvg-logo="http://iv.pe/MRc" group-title="[CANAIS 24H]",HELLO KITTY
+http://eyplay.io:80/NAA7k2/ncRLaa/674
+#EXTINF:0 tvg-logo="http://iv.pe/cCp" group-title="[CANAIS 24H]",HEY ARNOLD T01
+http://eyplay.io:80/NAA7k2/ncRLaa/675
+#EXTINF:0 tvg-logo="http://iv.pe/zJX" group-title="[CANAIS 24H]",HEY ARNOLD T02
+http://eyplay.io:80/NAA7k2/ncRLaa/676
+#EXTINF:0 tvg-logo="http://iv.pe/J0E" group-title="[CANAIS 24H]",HEY ARNOLD T03
+http://eyplay.io:80/NAA7k2/ncRLaa/677
+#EXTINF:0 tvg-logo="http://iv.pe/pfJ" group-title="[CANAIS 24H]",HEY ARNOLD T05
+http://eyplay.io:80/NAA7k2/ncRLaa/678
+#EXTINF:0 tvg-logo="http://iv.pe/lsZ" group-title="[CANAIS 24H]",HISTÓRIAS ANIMADAS DO NOVO TESTAMENTO
+http://eyplay.io:80/NAA7k2/ncRLaa/680
+#EXTINF:0 tvg-logo="http://iv.pe/pIs" group-title="[CANAIS 24H]",HISTÓRIAS ANIMADAS DO VELHO TESTAMENTO
+http://eyplay.io:80/NAA7k2/ncRLaa/681
+#EXTINF:0 tvg-logo="http://iv.pe/HFb" group-title="[CANAIS 24H]",HOMEM ARANHA ACAO SEM LIMITES
+http://eyplay.io:80/NAA7k2/ncRLaa/682
+#EXTINF:0 tvg-logo="http://iv.pe/uRl" group-title="[CANAIS 24H]",HOMEM PASSARO
+http://eyplay.io:80/NAA7k2/ncRLaa/683
+#EXTINF:0 tvg-logo="http://iv.pe/1bU" group-title="[CANAIS 24H]",HOT WHEELS BATTLE FORCE 5
+http://eyplay.io:80/NAA7k2/ncRLaa/684
+#EXTINF:0 tvg-logo="http://iv.pe/659" group-title="[CANAIS 24H]",ICARLY T01
+http://eyplay.io:80/NAA7k2/ncRLaa/685
+#EXTINF:0 tvg-logo="http://iv.pe/qxa" group-title="[CANAIS 24H]",iCarly T02
+http://eyplay.io:80/NAA7k2/ncRLaa/686
+#EXTINF:0 tvg-logo="http://iv.pe/ZI2" group-title="[CANAIS 24H]",iCarly T03
+http://eyplay.io:80/NAA7k2/ncRLaa/687
+#EXTINF:0 tvg-logo="http://iv.pe/N8V" group-title="[CANAIS 24H]",iCarly T04
+http://eyplay.io:80/NAA7k2/ncRLaa/688
+#EXTINF:0 tvg-logo="http://iv.pe/3Q9" group-title="[CANAIS 24H]",iCarly T06
+http://eyplay.io:80/NAA7k2/ncRLaa/690
+#EXTINF:0 tvg-logo="http://iv.pe/XFo" group-title="[CANAIS 24H]",iCarly T07
+http://eyplay.io:80/NAA7k2/ncRLaa/691
+#EXTINF:0 tvg-logo="http://iv.pe/fgD" group-title="[CANAIS 24H]",ILHA DOS DESAFIOS
+http://eyplay.io:80/NAA7k2/ncRLaa/692
+#EXTINF:0 tvg-logo="http://iv.pe/9UR" group-title="[CANAIS 24H]",INVASOR ZIM
+http://eyplay.io:80/NAA7k2/ncRLaa/693
+#EXTINF:0 tvg-logo="http://iv.pe/Np9" group-title="[CANAIS 24H]",IRMAO DO JOREL
+http://eyplay.io:80/NAA7k2/ncRLaa/694
+#EXTINF:0 tvg-logo="http://iv.pe/A2l" group-title="[CANAIS 24H]",JAMBO E RUIVAO
+http://eyplay.io:80/NAA7k2/ncRLaa/695
+#EXTINF:0 tvg-logo="http://iv.pe/yq9" group-title="[CANAIS 24H]",JASPION
+http://eyplay.io:80/NAA7k2/ncRLaa/696
+#EXTINF:0 tvg-logo="http://iv.pe/n2x" group-title="[CANAIS 24H]",JOHNNY BRAVO
+http://eyplay.io:80/NAA7k2/ncRLaa/697
+#EXTINF:0 tvg-logo="http://iv.pe/4qj" group-title="[CANAIS 24H]",JONNY QUEST
+http://eyplay.io:80/NAA7k2/ncRLaa/698
+#EXTINF:0 tvg-logo="http://iv.pe/dAI" group-title="[CANAIS 24H]",JUBEI CHAN THE NINJA GIRL
+http://eyplay.io:80/NAA7k2/ncRLaa/700
+#EXTINF:0 tvg-logo="http://iv.pe/vZf" group-title="[CANAIS 24H]",KENAN E KELL
+http://eyplay.io:80/NAA7k2/ncRLaa/701
+#EXTINF:0 tvg-logo="http://iv.pe/8Y6" group-title="[CANAIS 24H]",KIM POSSIBLE
+http://eyplay.io:80/NAA7k2/ncRLaa/702
+#EXTINF:0 tvg-logo="http://iv.pe/7hI" group-title="[CANAIS 24H]",KND A TURMA DO BAIRRO
+http://eyplay.io:80/NAA7k2/ncRLaa/703
+#EXTINF:0 tvg-logo="http://iv.pe/B6a" group-title="[CANAIS 24H]",Largados e Pelados A Tribo T01
+http://eyplay.io:80/NAA7k2/ncRLaa/704
+#EXTINF:0 tvg-logo="http://iv.pe/et9" group-title="[CANAIS 24H]",Largados e Pelados A Tribo T02
+http://eyplay.io:80/NAA7k2/ncRLaa/705
+#EXTINF:0 tvg-logo="http://iv.pe/lGq" group-title="[CANAIS 24H]",Largados e Pelados A Tribo T03
+http://eyplay.io:80/NAA7k2/ncRLaa/706
+#EXTINF:0 tvg-logo="http://iv.pe/Tb9" group-title="[CANAIS 24H]",LARVAS
+http://eyplay.io:80/NAA7k2/ncRLaa/707
+#EXTINF:0 tvg-logo="http://iv.pe/01h" group-title="[CANAIS 24H]",LAZY TOWN
+http://eyplay.io:80/NAA7k2/ncRLaa/708
+#EXTINF:0 tvg-logo="http://iv.pe/fhf" group-title="[CANAIS 24H]",LIPPY E HARDY
+http://eyplay.io:80/NAA7k2/ncRLaa/710
+#EXTINF:0 tvg-logo="http://iv.pe/cnA" group-title="[CANAIS 24H]",LORDE GATO E A TURMA DO ABOBRINHA
+http://eyplay.io:80/NAA7k2/ncRLaa/711
+#EXTINF:0 tvg-logo="http://iv.pe/9S6" group-title="[CANAIS 24H]",LULUZINHA
+http://eyplay.io:80/NAA7k2/ncRLaa/712
+#EXTINF:0 tvg-logo="http://iv.pe/fce" group-title="[CANAIS 24H]",MADELINE
+http://eyplay.io:80/NAA7k2/ncRLaa/713
+#EXTINF:0 tvg-logo="http://iv.pe/ktB" group-title="[CANAIS 24H]",MAGUILA O GORILA
+http://eyplay.io:80/NAA7k2/ncRLaa/714
+#EXTINF:0 tvg-logo="http://iv.pe/OQK" group-title="[CANAIS 24H]",MANDA CHUVA
+http://eyplay.io:80/NAA7k2/ncRLaa/715
+#EXTINF:0 tvg-logo="http://iv.pe/Ufc" group-title="[CANAIS 24H]",MANUAL DO NED
+http://eyplay.io:80/NAA7k2/ncRLaa/716
+#EXTINF:0 tvg-logo="http://iv.pe/Ab7" group-title="[CANAIS 24H]",MARCELINO PAO E VINHO
+http://eyplay.io:80/NAA7k2/ncRLaa/717
+#EXTINF:0 tvg-logo="http://iv.pe/MAh" group-title="[CANAIS 24H]",MARTIN MYSTERY
+http://eyplay.io:80/NAA7k2/ncRLaa/718
+#EXTINF:0 tvg-logo="http://iv.pe/GpD" group-title="[CANAIS 24H]",MECANIMAIS
+http://eyplay.io:80/NAA7k2/ncRLaa/720
+#EXTINF:0 tvg-logo="http://iv.pe/6D5" group-title="[CANAIS 24H]",MEDABOTS
+http://eyplay.io:80/NAA7k2/ncRLaa/721
+#EXTINF:0 tvg-logo="http://iv.pe/20m" group-title="[CANAIS 24H]",MEGAMAN
+http://eyplay.io:80/NAA7k2/ncRLaa/722
+#EXTINF:0 tvg-logo="http://iv.pe/Nzk" group-title="[CANAIS 24H]",MEGAS XR
+http://eyplay.io:80/NAA7k2/ncRLaa/723
+#EXTINF:0 tvg-logo="http://iv.pe/93Z" group-title="[CANAIS 24H]",MEU MELHOR AMIGO DA ESCOLA E UM MACACO
+http://eyplay.io:80/NAA7k2/ncRLaa/724
+#EXTINF:0 tvg-logo="http://iv.pe/MZz" group-title="[CANAIS 24H]",MIB HOMENS DE PRETO
+http://eyplay.io:80/NAA7k2/ncRLaa/725
+#EXTINF:0 tvg-logo="http://iv.pe/4rN" group-title="[CANAIS 24H]",MISSION HILL
+http://eyplay.io:80/NAA7k2/ncRLaa/726
+#EXTINF:0 tvg-logo="http://iv.pe/qWZ" group-title="[CANAIS 24H]",MOBY DICK
+http://eyplay.io:80/NAA7k2/ncRLaa/727
+#EXTINF:0 tvg-logo="http://iv.pe/C5C" group-title="[CANAIS 24H]",MORANGUINHO CLASSICO
+http://eyplay.io:80/NAA7k2/ncRLaa/728
+#EXTINF:0 tvg-logo="http://iv.pe/c3b" group-title="[CANAIS 24H]",MOSQUITO MOSQUETE E MOSCARDO
+http://eyplay.io:80/NAA7k2/ncRLaa/730
+#EXTINF:0 tvg-logo="http://iv.pe/I7v" group-title="[CANAIS 24H]",MR. BEAN
+http://eyplay.io:80/NAA7k2/ncRLaa/731
+#EXTINF:0 tvg-logo="http://iv.pe/WFu" group-title="[CANAIS 24H]",MUCHA LUCHA
+http://eyplay.io:80/NAA7k2/ncRLaa/732
+#EXTINF:0 tvg-logo="http://iv.pe/yPq" group-title="[CANAIS 24H]",MUSCULO TOTAL
+http://eyplay.io:80/NAA7k2/ncRLaa/733
+#EXTINF:0 tvg-logo="http://iv.pe/GZr" group-title="[CANAIS 24H]",MUTANTE REX 2010 - 2013
+http://eyplay.io:80/NAA7k2/ncRLaa/734
+#EXTINF:0 tvg-logo="http://iv.pe/elM" group-title="[CANAIS 24H]",NARCOS T01
+http://eyplay.io:80/NAA7k2/ncRLaa/735
+#EXTINF:0 tvg-logo="http://iv.pe/YWS" group-title="[CANAIS 24H]",NARCOS T02
+http://eyplay.io:80/NAA7k2/ncRLaa/736
+#EXTINF:0 tvg-logo="http://iv.pe/1l0" group-title="[CANAIS 24H]",NARUTO CLASSICO T01
+http://eyplay.io:80/NAA7k2/ncRLaa/737
+#EXTINF:0 tvg-logo="http://iv.pe/eah" group-title="[CANAIS 24H]",NARUTO CLASSICO T02
+http://eyplay.io:80/NAA7k2/ncRLaa/738
+#EXTINF:0 tvg-logo="http://iv.pe/bOQ" group-title="[CANAIS 24H]",NARUTO CLASSICO T04
+http://eyplay.io:80/NAA7k2/ncRLaa/740
+#EXTINF:0 tvg-logo="http://iv.pe/zhG" group-title="[CANAIS 24H]",NARUTO CLASSICO T05
+http://eyplay.io:80/NAA7k2/ncRLaa/741
+#EXTINF:0 tvg-logo="http://iv.pe/j8p" group-title="[CANAIS 24H]",NARUTO CLASSICO T06
+http://eyplay.io:80/NAA7k2/ncRLaa/742
+#EXTINF:0 tvg-logo="http://iv.pe/xbY" group-title="[CANAIS 24H]",NARUTO CLASSICO T07
+http://eyplay.io:80/NAA7k2/ncRLaa/743
+#EXTINF:0 tvg-logo="http://iv.pe/d5J" group-title="[CANAIS 24H]",NARUTO CLASSICO T08
+http://eyplay.io:80/NAA7k2/ncRLaa/744
+#EXTINF:0 tvg-logo="http://iv.pe/I1Q" group-title="[CANAIS 24H]",NARUTO CLASSICO T09
+http://eyplay.io:80/NAA7k2/ncRLaa/745
+#EXTINF:0 tvg-logo="http://iv.pe/5qH" group-title="[CANAIS 24H]",NOVO BANANA DE PIJAMAS
+http://eyplay.io:80/NAA7k2/ncRLaa/746
+#EXTINF:0 tvg-logo="http://iv.pe/dqi" group-title="[CANAIS 24H]",O ACAMPAMENTO DE LAZLO
+http://eyplay.io:80/NAA7k2/ncRLaa/747
+#EXTINF:0 tvg-logo="http://iv.pe/fSl" group-title="[CANAIS 24H]",O CHAPOLIN COLORADO
+http://eyplay.io:80/NAA7k2/ncRLaa/748
+#EXTINF:0 tvg-logo="http://iv.pe/vY3" group-title="[CANAIS 24H]",O GATO DE BOTAS
+http://eyplay.io:80/NAA7k2/ncRLaa/750
+#EXTINF:0 tvg-logo="http://iv.pe/Xdv" group-title="[CANAIS 24H]",O INSPETOR
+http://eyplay.io:80/NAA7k2/ncRLaa/751
+#EXTINF:0 tvg-logo="http://iv.pe/tWQ" group-title="[CANAIS 24H]",O MASKARA 1995 - SERIA ANIMADA
+http://eyplay.io:80/NAA7k2/ncRLaa/752
+#EXTINF:0 tvg-logo="http://iv.pe/YdU" group-title="[CANAIS 24H]",O MUNDO DE BITA
+http://eyplay.io:80/NAA7k2/ncRLaa/753
+#EXTINF:0 tvg-logo="http://iv.pe/Hmv" group-title="[CANAIS 24H]",O ONIBUS MAGICO
+http://eyplay.io:80/NAA7k2/ncRLaa/754
+#EXTINF:0 tvg-logo="http://iv.pe/ma1" group-title="[CANAIS 24H]",O PEQUENO PRINCIPE
+http://eyplay.io:80/NAA7k2/ncRLaa/755
+#EXTINF:0 tvg-logo="http://iv.pe/SMw" group-title="[CANAIS 24H]",O PEQUENO SCOOBY DOO
+http://eyplay.io:80/NAA7k2/ncRLaa/756
+#EXTINF:0 tvg-logo="http://iv.pe/aWB" group-title="[CANAIS 24H]",O PEQUENO URSO 1995
+http://eyplay.io:80/NAA7k2/ncRLaa/757
+#EXTINF:0 tvg-logo="http://iv.pe/IBd" group-title="[CANAIS 24H]",O QUE HA DE NOVO SCOOBY DOO
+http://eyplay.io:80/NAA7k2/ncRLaa/758
+#EXTINF:0 tvg-logo="http://iv.pe/dOu" group-title="[CANAIS 24H]",O SHOW DA LUNA
+http://eyplay.io:80/NAA7k2/ncRLaa/760
+#EXTINF:0 tvg-logo="http://iv.pe/DRM" group-title="[CANAIS 24H]",O SHOW DO NOVO PICA-PAU
+http://eyplay.io:80/NAA7k2/ncRLaa/761
+#EXTINF:0 tvg-logo="http://iv.pe/vQz" group-title="[CANAIS 24H]",O SHOW DO ZE COLMEIA
+http://eyplay.io:80/NAA7k2/ncRLaa/762
+#EXTINF:0 tvg-logo="http://iv.pe/cwR" group-title="[CANAIS 24H]",O XODO DA VOVO
+http://eyplay.io:80/NAA7k2/ncRLaa/763
+#EXTINF:0 tvg-logo="http://iv.pe/6nM" group-title="[CANAIS 24H]",OS ANIMAIS DO BOSQUE DOS VINTENS
+http://eyplay.io:80/NAA7k2/ncRLaa/764
+#EXTINF:0 tvg-logo="http://iv.pe/MvL" group-title="[CANAIS 24H]",OS CASTORES PIRADOS
+http://eyplay.io:80/NAA7k2/ncRLaa/765
+#EXTINF:0 tvg-logo="http://iv.pe/N2f" group-title="[CANAIS 24H]",OS CAVALEIROS DOS ZODIACOS COMPLETO
+http://eyplay.io:80/NAA7k2/ncRLaa/766
+#EXTINF:0 tvg-logo="http://iv.pe/3We" group-title="[CANAIS 24H]",OS CAVALEIROS DOS ZODIACOS SAGA DE ASGARD
+http://eyplay.io:80/NAA7k2/ncRLaa/767
+#EXTINF:0 tvg-logo="http://iv.pe/7nd" group-title="[CANAIS 24H]",OS CAVALEIROS DOS ZODIACOS SAGA DE HADES
+http://eyplay.io:80/NAA7k2/ncRLaa/768
+#EXTINF:0 tvg-logo="http://iv.pe/c3R" group-title="[CANAIS 24H]",OS CAVALEIROS DOS ZODIACOS SAGA DO SANTUARIO
+http://eyplay.io:80/NAA7k2/ncRLaa/770
+#EXTINF:0 tvg-logo="http://iv.pe/zb6" group-title="[CANAIS 24H]",OS FLINTSTONES T01
+http://eyplay.io:80/NAA7k2/ncRLaa/771
+#EXTINF:0 tvg-logo="http://iv.pe/RvY" group-title="[CANAIS 24H]",OS FLINTSTONES T02
+http://eyplay.io:80/NAA7k2/ncRLaa/772
+#EXTINF:0 tvg-logo="http://iv.pe/aJd" group-title="[CANAIS 24H]",OS FLINTSTONES T03
+http://eyplay.io:80/NAA7k2/ncRLaa/773
+#EXTINF:0 tvg-logo="http://iv.pe/eaJ" group-title="[CANAIS 24H]",OS FLINTSTONES T04
+http://eyplay.io:80/NAA7k2/ncRLaa/774
+#EXTINF:0 tvg-logo="http://iv.pe/25k" group-title="[CANAIS 24H]",OS FLINTSTONES T05
+http://eyplay.io:80/NAA7k2/ncRLaa/775
+#EXTINF:0 tvg-logo="http://iv.pe/Bmj" group-title="[CANAIS 24H]",OS FLINTSTONES T06
+http://eyplay.io:80/NAA7k2/ncRLaa/776
+#EXTINF:0 tvg-logo="http://iv.pe/tPj" group-title="[CANAIS 24H]",OS GARGULAS
+http://eyplay.io:80/NAA7k2/ncRLaa/777
+#EXTINF:0 tvg-logo="http://iv.pe/RQQ" group-title="[CANAIS 24H]",OS IMPOSSIVEIS
+http://eyplay.io:80/NAA7k2/ncRLaa/778
+#EXTINF:0 tvg-logo="http://iv.pe/XdH" group-title="[CANAIS 24H]",OS JOVENS TITAS 2003 - 2006
+http://eyplay.io:80/NAA7k2/ncRLaa/780
+#EXTINF:0 tvg-logo="http://iv.pe/h9I" group-title="[CANAIS 24H]",OS PINGUINS DE MADAGASCAR
+http://eyplay.io:80/NAA7k2/ncRLaa/781
+#EXTINF:0 tvg-logo="http://iv.pe/TwL" group-title="[CANAIS 24H]",OS SETE MONSTRINHOS
+http://eyplay.io:80/NAA7k2/ncRLaa/782
+#EXTINF:0 tvg-logo="http://iv.pe/2Zc" group-title="[CANAIS 24H]",OS SIMPSONS T01
+http://eyplay.io:80/NAA7k2/ncRLaa/783
+#EXTINF:0 tvg-logo="http://iv.pe/4CO" group-title="[CANAIS 24H]",OS SIMPSONS T02
+http://eyplay.io:80/NAA7k2/ncRLaa/784
+#EXTINF:0 tvg-logo="http://iv.pe/pXu" group-title="[CANAIS 24H]",OS SIMPSONS T03
+http://eyplay.io:80/NAA7k2/ncRLaa/785
+#EXTINF:0 tvg-logo="http://iv.pe/Rv3" group-title="[CANAIS 24H]",OS SIMPSONS T04
+http://eyplay.io:80/NAA7k2/ncRLaa/786
+#EXTINF:0 tvg-logo="http://iv.pe/SZI" group-title="[CANAIS 24H]",OS SIMPSONS T05
+http://eyplay.io:80/NAA7k2/ncRLaa/787
+#EXTINF:0 tvg-logo="http://iv.pe/4nq" group-title="[CANAIS 24H]",OS SIMPSONS T06
+http://eyplay.io:80/NAA7k2/ncRLaa/788
+#EXTINF:0 tvg-logo="http://iv.pe/6oy" group-title="[CANAIS 24H]",OS SIMPSONS T08
+http://eyplay.io:80/NAA7k2/ncRLaa/790
+#EXTINF:0 tvg-logo="http://iv.pe/TpJ" group-title="[CANAIS 24H]",OS SIMPSONS T09
+http://eyplay.io:80/NAA7k2/ncRLaa/791
+#EXTINF:0 tvg-logo="http://iv.pe/cUF" group-title="[CANAIS 24H]",OS SIMPSONS T10
+http://eyplay.io:80/NAA7k2/ncRLaa/792
+#EXTINF:0 tvg-logo="http://iv.pe/yBH" group-title="[CANAIS 24H]",OS SIMPSONS T11
+http://eyplay.io:80/NAA7k2/ncRLaa/793
+#EXTINF:0 tvg-logo="http://iv.pe/tMY" group-title="[CANAIS 24H]",OS SIMPSONS T12
+http://eyplay.io:80/NAA7k2/ncRLaa/794
+#EXTINF:0 tvg-logo="http://iv.pe/7Gg" group-title="[CANAIS 24H]",OS SIMPSONS T13
+http://eyplay.io:80/NAA7k2/ncRLaa/795
+#EXTINF:0 tvg-logo="http://iv.pe/LPs" group-title="[CANAIS 24H]",OS SIMPSONS T14
+http://eyplay.io:80/NAA7k2/ncRLaa/796
+#EXTINF:0 tvg-logo="http://iv.pe/FUN" group-title="[CANAIS 24H]",OS SIMPSONS T15
+http://eyplay.io:80/NAA7k2/ncRLaa/797
+#EXTINF:0 tvg-logo="http://iv.pe/h2J" group-title="[CANAIS 24H]",OS SIMPSONS T16
+http://eyplay.io:80/NAA7k2/ncRLaa/798
+#EXTINF:0 tvg-logo="http://iv.pe/TFL" group-title="[CANAIS 24H]",OS SIMPSONS T18
+http://eyplay.io:80/NAA7k2/ncRLaa/800
+#EXTINF:0 tvg-logo="http://iv.pe/MJl" group-title="[CANAIS 24H]",OS SIMPSONS T19
+http://eyplay.io:80/NAA7k2/ncRLaa/801
+#EXTINF:0 tvg-logo="http://iv.pe/SKZ" group-title="[CANAIS 24H]",OS SIMPSONS T20
+http://eyplay.io:80/NAA7k2/ncRLaa/802
+#EXTINF:0 tvg-logo="http://iv.pe/YYK" group-title="[CANAIS 24H]",OS SIMPSONS T21
+http://eyplay.io:80/NAA7k2/ncRLaa/803
+#EXTINF:0 tvg-logo="http://iv.pe/hhA" group-title="[CANAIS 24H]",OS SIMPSONS T22
+http://eyplay.io:80/NAA7k2/ncRLaa/804
+#EXTINF:0 tvg-logo="http://iv.pe/V7J" group-title="[CANAIS 24H]",OS SIMPSONS T23
+http://eyplay.io:80/NAA7k2/ncRLaa/805
+#EXTINF:0 tvg-logo="http://iv.pe/evz" group-title="[CANAIS 24H]",OS SIMPSONS T24
+http://eyplay.io:80/NAA7k2/ncRLaa/806
+#EXTINF:0 tvg-logo="http://iv.pe/cZP" group-title="[CANAIS 24H]",OS SIMPSONS T25
+http://eyplay.io:80/NAA7k2/ncRLaa/807
+#EXTINF:0 tvg-logo="http://iv.pe/SHX" group-title="[CANAIS 24H]",OS SIMPSONS T26
+http://eyplay.io:80/NAA7k2/ncRLaa/808
+#EXTINF:0 tvg-logo="http://iv.pe/w5w" group-title="[CANAIS 24H]",OS SIMPSONS T28
+http://eyplay.io:80/NAA7k2/ncRLaa/810
+#EXTINF:0 tvg-logo="http://iv.pe/YpC" group-title="[CANAIS 24H]",OS SUPER PATOS
+http://eyplay.io:80/NAA7k2/ncRLaa/811
+#EXTINF:0 tvg-logo="http://iv.pe/ayX" group-title="[CANAIS 24H]",OS TRAPALHOES
+http://eyplay.io:80/NAA7k2/ncRLaa/812
+#EXTINF:0 tvg-logo="http://iv.pe/CRF" group-title="[CANAIS 24H]",OS TRAPALHOES CLASSICO
+http://eyplay.io:80/NAA7k2/ncRLaa/813
+#EXTINF:0 tvg-logo="http://iv.pe/mfL" group-title="[CANAIS 24H]",OS URSINHOS GUMMI
+http://eyplay.io:80/NAA7k2/ncRLaa/814
+#EXTINF:0 tvg-logo="http://iv.pe/BKX" group-title="[CANAIS 24H]",OS VALENTES COWBOYS DE MOO MESA
+http://eyplay.io:80/NAA7k2/ncRLaa/815
+#EXTINF:0 tvg-logo="http://iv.pe/1eJ" group-title="[CANAIS 24H]",OS VIDEOS MAIS INCRIVEIS DO MUNDO
+http://eyplay.io:80/NAA7k2/ncRLaa/816
+#EXTINF:0 tvg-logo="http://iv.pe/MTP" group-title="[CANAIS 24H]",OS VINGADORES
+http://eyplay.io:80/NAA7k2/ncRLaa/817
+#EXTINF:0 tvg-logo="http://iv.pe/39R" group-title="[CANAIS 24H]",OSWALDO
+http://eyplay.io:80/NAA7k2/ncRLaa/818
+#EXTINF:0 tvg-logo="http://iv.pe/kbx" group-title="[CANAIS 24H]",PARTOBA
+http://eyplay.io:80/NAA7k2/ncRLaa/820
+#EXTINF:0 tvg-logo="http://iv.pe/mzy" group-title="[CANAIS 24H]",PATRULHA CANINA T01
+http://eyplay.io:80/NAA7k2/ncRLaa/821
+#EXTINF:0 tvg-logo="http://iv.pe/Lb9" group-title="[CANAIS 24H]",PATRULHA CANINA T02
+http://eyplay.io:80/NAA7k2/ncRLaa/822
+#EXTINF:0 tvg-logo="http://iv.pe/uDn" group-title="[CANAIS 24H]",PATRULHA CANINA T03
+http://eyplay.io:80/NAA7k2/ncRLaa/823
+#EXTINF:0 tvg-logo="http://iv.pe/ZeK" group-title="[CANAIS 24H]",PATRULHA ESTELAR
+http://eyplay.io:80/NAA7k2/ncRLaa/824
+#EXTINF:0 tvg-logo="http://iv.pe/3xF" group-title="[CANAIS 24H]",PEPE LE PEW
+http://eyplay.io:80/NAA7k2/ncRLaa/827
+#EXTINF:0 tvg-logo="http://iv.pe/Gpg" group-title="[CANAIS 24H]",PEPPA PIG
+http://eyplay.io:80/NAA7k2/ncRLaa/828
+#EXTINF:0 tvg-logo="http://iv.pe/HzB" group-title="[CANAIS 24H]",PERDIDOS NO ESPACO
+http://eyplay.io:80/NAA7k2/ncRLaa/830
+#EXTINF:0 tvg-logo="http://iv.pe/Ep5" group-title="[CANAIS 24H]",PERNALONGA E SUA TURMA
+http://eyplay.io:80/NAA7k2/ncRLaa/831
+#EXTINF:0 tvg-logo="http://iv.pe/N6s" group-title="[CANAIS 24H]",PHINEAS E FERB
+http://eyplay.io:80/NAA7k2/ncRLaa/832
+#EXTINF:0 tvg-logo="http://iv.pe/HNy" group-title="[CANAIS 24H]",PICA PAU (WOODY WOODPECKER)
+http://eyplay.io:80/NAA7k2/ncRLaa/833
+#EXTINF:0 tvg-logo="http://iv.pe/y57" group-title="[CANAIS 24H]",PINKY E CEREBRO
+http://eyplay.io:80/NAA7k2/ncRLaa/834
+#EXTINF:0 tvg-logo="http://iv.pe/ldr" group-title="[CANAIS 24H]",PLANET SURVIVAL
+http://eyplay.io:80/NAA7k2/ncRLaa/835
+#EXTINF:0 tvg-logo="http://iv.pe/PXw" group-title="[CANAIS 24H]",POCOYO
+http://eyplay.io:80/NAA7k2/ncRLaa/836
+#EXTINF:0 tvg-logo="http://iv.pe/iBB" group-title="[CANAIS 24H]",POPEYE 75TH ANNIVERSARY
+http://eyplay.io:80/NAA7k2/ncRLaa/850
+#EXTINF:0 tvg-logo="http://iv.pe/rTm" group-title="[CANAIS 24H]",POWER RANGERS MIGHTY MORPHIN 1 TEMPORADA
+http://eyplay.io:80/NAA7k2/ncRLaa/851
+#EXTINF:0 tvg-logo="http://iv.pe/9SW" group-title="[CANAIS 24H]",PROJETO ZETA
+http://eyplay.io:80/NAA7k2/ncRLaa/852
+#EXTINF:0 tvg-logo="http://iv.pe/Fou" group-title="[CANAIS 24H]",RAGNAROK
+http://eyplay.io:80/NAA7k2/ncRLaa/853
+#EXTINF:0 tvg-logo="http://iv.pe/q5J" group-title="[CANAIS 24H]",RECRUTA ZERO
+http://eyplay.io:80/NAA7k2/ncRLaa/854
+#EXTINF:0 tvg-logo="http://iv.pe/ACF" group-title="[CANAIS 24H]",REDAKAI
+http://eyplay.io:80/NAA7k2/ncRLaa/855
+#EXTINF:0 tvg-logo="http://iv.pe/H4C" group-title="[CANAIS 24H]",REN E STIMPY
+http://eyplay.io:80/NAA7k2/ncRLaa/856
+#EXTINF:0 tvg-logo="http://iv.pe/ypo" group-title="[CANAIS 24H]",RIQUINHO
+http://eyplay.io:80/NAA7k2/ncRLaa/857
+#EXTINF:0 tvg-logo="http://iv.pe/yOC" group-title="[CANAIS 24H]",RUGRATS OS ANJINHOS
+http://eyplay.io:80/NAA7k2/ncRLaa/858
+#EXTINF:0 tvg-logo="http://iv.pe/kKc" group-title="[CANAIS 24H]",SAKURA CARD CAPTORS
+http://eyplay.io:80/NAA7k2/ncRLaa/868
+#EXTINF:0 tvg-logo="http://iv.pe/H3W" group-title="[CANAIS 24H]",SAMURAI WARRIORS
+http://eyplay.io:80/NAA7k2/ncRLaa/870
+#EXTINF:0 tvg-logo="http://iv.pe/UfF" group-title="[CANAIS 24H]",SCOOB DOO SHOW
+http://eyplay.io:80/NAA7k2/ncRLaa/871
+#EXTINF:0 tvg-logo="http://iv.pe/PeO" group-title="[CANAIS 24H]",SERIE HERCULES
+http://eyplay.io:80/NAA7k2/ncRLaa/872
+#EXTINF:0 tvg-logo="http://iv.pe/TI4" group-title="[CANAIS 24H]",SITIO DO PICAPAU AMARELO
+http://eyplay.io:80/NAA7k2/ncRLaa/878
+#EXTINF:0 tvg-logo="http://iv.pe/Xv7" group-title="[CANAIS 24H]",SONIC X
+http://eyplay.io:80/NAA7k2/ncRLaa/890
+#EXTINF:0 tvg-logo="http://iv.pe/9rq" group-title="[CANAIS 24H]",SPEED RACER A NOVA GERACAO
+http://eyplay.io:80/NAA7k2/ncRLaa/912
+#EXTINF:0 tvg-logo="http://iv.pe/AKU" group-title="[CANAIS 24H]",SPEED RACER CLASSICO
+http://eyplay.io:80/NAA7k2/ncRLaa/913
+#EXTINF:0 tvg-logo="http://iv.pe/JjF" group-title="[CANAIS 24H]",SUPER AMIGOS
+http://eyplay.io:80/NAA7k2/ncRLaa/914
+#EXTINF:0 tvg-logo="http://iv.pe/SXv" group-title="[CANAIS 24H]",SUPER MARIO BROS 3
+http://eyplay.io:80/NAA7k2/ncRLaa/915
+#EXTINF:0 tvg-logo="http://iv.pe/BgY" group-title="[CANAIS 24H]",SUPERNATURAL T02
+http://eyplay.io:80/NAA7k2/ncRLaa/916
+#EXTINF:0 tvg-logo="http://iv.pe/2iw" group-title="[CANAIS 24H]",Supernatural T02
+http://eyplay.io:80/NAA7k2/ncRLaa/917
+#EXTINF:0 tvg-logo="http://iv.pe/PaW" group-title="[CANAIS 24H]",Supernatural T03
+http://eyplay.io:80/NAA7k2/ncRLaa/918
+#EXTINF:0 tvg-logo="http://iv.pe/r5g" group-title="[CANAIS 24H]",Supernatural T05
+http://eyplay.io:80/NAA7k2/ncRLaa/920
+#EXTINF:0 tvg-logo="http://iv.pe/XLo" group-title="[CANAIS 24H]",Supernatural T06
+http://eyplay.io:80/NAA7k2/ncRLaa/921
+#EXTINF:0 tvg-logo="http://iv.pe/pT7" group-title="[CANAIS 24H]",Supernatural T07
+http://eyplay.io:80/NAA7k2/ncRLaa/922
+#EXTINF:0 tvg-logo="http://iv.pe/X47" group-title="[CANAIS 24H]",Supernatural T08
+http://eyplay.io:80/NAA7k2/ncRLaa/923
+#EXTINF:0 tvg-logo="http://iv.pe/L2g" group-title="[CANAIS 24H]",Supernatural T09
+http://eyplay.io:80/NAA7k2/ncRLaa/924
+#EXTINF:0 tvg-logo="http://iv.pe/fJz" group-title="[CANAIS 24H]",Supernatural T10
+http://eyplay.io:80/NAA7k2/ncRLaa/925
+#EXTINF:0 tvg-logo="http://iv.pe/GeA" group-title="[CANAIS 24H]",Supernatural T11
+http://eyplay.io:80/NAA7k2/ncRLaa/926
+#EXTINF:0 tvg-logo="http://iv.pe/IDm" group-title="[CANAIS 24H]",Supernatural T12
+http://eyplay.io:80/NAA7k2/ncRLaa/927
+#EXTINF:0 tvg-logo="http://iv.pe/UJW" group-title="[CANAIS 24H]",Supernatural T13
+http://eyplay.io:80/NAA7k2/ncRLaa/928
+#EXTINF:0 tvg-logo="http://iv.pe/8VE" group-title="[CANAIS 24H]",TARTARUGA TOUCHE E DUM DUM
+http://eyplay.io:80/NAA7k2/ncRLaa/930
+#EXTINF:0 tvg-logo="http://iv.pe/KGD" group-title="[CANAIS 24H]",TARZAN
+http://eyplay.io:80/NAA7k2/ncRLaa/931
+#EXTINF:0 tvg-logo="http://iv.pe/aG1" group-title="[CANAIS 24H]",TARZAN O REI DA SELVA
+http://eyplay.io:80/NAA7k2/ncRLaa/932
+#EXTINF:0 tvg-logo="http://iv.pe/cCz" group-title="[CANAIS 24H]",TAZ-MANIA
+http://eyplay.io:80/NAA7k2/ncRLaa/933
+#EXTINF:0 tvg-logo="http://iv.pe/Ato" group-title="[CANAIS 24H]",TEAM GALAXY
+http://eyplay.io:80/NAA7k2/ncRLaa/934
+#EXTINF:0 tvg-logo="http://iv.pe/pyD" group-title="[CANAIS 24H]",TELETUBBIES CLASSICO
+http://eyplay.io:80/NAA7k2/ncRLaa/935
+#EXTINF:0 tvg-logo="http://iv.pe/C3s" group-title="[CANAIS 24H]",TELETUBBIES NOVO
+http://eyplay.io:80/NAA7k2/ncRLaa/936
+#EXTINF:0 tvg-logo="http://iv.pe/l04" group-title="[CANAIS 24H]",TELETUBBIES STOP MOTION
+http://eyplay.io:80/NAA7k2/ncRLaa/937
+#EXTINF:0 tvg-logo="http://iv.pe/zTx" group-title="[CANAIS 24H]",The Big Bang Theory T01
+http://eyplay.io:80/NAA7k2/ncRLaa/938
+#EXTINF:0 tvg-logo="http://iv.pe/Jp9" group-title="[CANAIS 24H]",The Big Bang Theory T03
+http://eyplay.io:80/NAA7k2/ncRLaa/940
+#EXTINF:0 tvg-logo="http://iv.pe/CWd" group-title="[CANAIS 24H]",The Big Bang Theory T04
+http://eyplay.io:80/NAA7k2/ncRLaa/941
+#EXTINF:0 tvg-logo="http://iv.pe/Vhp" group-title="[CANAIS 24H]",The Big Bang Theory T05
+http://eyplay.io:80/NAA7k2/ncRLaa/942
+#EXTINF:0 tvg-logo="http://iv.pe/BAH" group-title="[CANAIS 24H]",The Big Bang Theory T06
+http://eyplay.io:80/NAA7k2/ncRLaa/943
+#EXTINF:0 tvg-logo="http://iv.pe/4AY" group-title="[CANAIS 24H]",The Big Bang Theory T07
+http://eyplay.io:80/NAA7k2/ncRLaa/944
+#EXTINF:0 tvg-logo="http://iv.pe/buP" group-title="[CANAIS 24H]",The Big Bang Theory T08
+http://eyplay.io:80/NAA7k2/ncRLaa/945
+#EXTINF:0 tvg-logo="http://iv.pe/wjV" group-title="[CANAIS 24H]",The Big Bang Theory T09
+http://eyplay.io:80/NAA7k2/ncRLaa/946
+#EXTINF:0 tvg-logo="http://iv.pe/P4e" group-title="[CANAIS 24H]",The Big Bang Theory T10
+http://eyplay.io:80/NAA7k2/ncRLaa/947
+#EXTINF:0 tvg-logo="http://iv.pe/tjm" group-title="[CANAIS 24H]",The Big Bang Theory T11
+http://eyplay.io:80/NAA7k2/ncRLaa/948
+#EXTINF:0 tvg-logo="http://iv.pe/Ge3" group-title="[CANAIS 24H]",THE OBLONGS
+http://eyplay.io:80/NAA7k2/ncRLaa/950
+#EXTINF:0 tvg-logo="http://iv.pe/Tca" group-title="[CANAIS 24H]",THOMAS E SEUS AMIGOS
+http://eyplay.io:80/NAA7k2/ncRLaa/951
+#EXTINF:0 tvg-logo="http://iv.pe/cFF" group-title="[CANAIS 24H]",THUNDERCATS
+http://eyplay.io:80/NAA7k2/ncRLaa/952
+#EXTINF:0 tvg-logo="http://iv.pe/pnM" group-title="[CANAIS 24H]",TIMAO E PUMBA
+http://eyplay.io:80/NAA7k2/ncRLaa/953
+#EXTINF:0 tvg-logo="http://iv.pe/3KF" group-title="[CANAIS 24H]",TITA SIMBIONICO
+http://eyplay.io:80/NAA7k2/ncRLaa/954
+#EXTINF:0 tvg-logo="http://iv.pe/Q5G" group-title="[CANAIS 24H]",TITIO AVO
+http://eyplay.io:80/NAA7k2/ncRLaa/955
+#EXTINF:0 tvg-logo="http://iv.pe/8g9" group-title="[CANAIS 24H]",TODO MUNDO ODEIA O CHRIS T01
+http://eyplay.io:80/NAA7k2/ncRLaa/956
+#EXTINF:0 tvg-logo="http://iv.pe/RQg" group-title="[CANAIS 24H]",TODO MUNDO ODEIA O CHRIS T02
+http://eyplay.io:80/NAA7k2/ncRLaa/957
+#EXTINF:0 tvg-logo="http://iv.pe/B4j" group-title="[CANAIS 24H]",TODO MUNDO ODEIA O CHRIS T03
+http://eyplay.io:80/NAA7k2/ncRLaa/958
+#EXTINF:0 tvg-logo="http://iv.pe/aWn" group-title="[CANAIS 24H]",TOM & JERRY
+http://eyplay.io:80/NAA7k2/ncRLaa/960
+#EXTINF:0 tvg-logo="http://iv.pe/xBR" group-title="[CANAIS 24H]",TOURADAS
+http://eyplay.io:80/NAA7k2/ncRLaa/961
+#EXTINF:0 tvg-logo="http://iv.pe/uMK" group-title="[CANAIS 24H]",TRES ESPIAS DEMAIS T01
+http://eyplay.io:80/NAA7k2/ncRLaa/962
+#EXTINF:0 tvg-logo="http://iv.pe/U6N" group-title="[CANAIS 24H]",TRES ESPIAS DEMAIS T02
+http://eyplay.io:80/NAA7k2/ncRLaa/963
+#EXTINF:0 tvg-logo="http://iv.pe/LXV" group-title="[CANAIS 24H]",TRES ESPIAS DEMAIS T03
+http://eyplay.io:80/NAA7k2/ncRLaa/964
+#EXTINF:0 tvg-logo="http://iv.pe/0ve" group-title="[CANAIS 24H]",TRES ESPIAS DEMAIS T04
+http://eyplay.io:80/NAA7k2/ncRLaa/965
+#EXTINF:0 tvg-logo="http://iv.pe/tb6" group-title="[CANAIS 24H]",TRES ESPIAS DEMAIS T05
+http://eyplay.io:80/NAA7k2/ncRLaa/966
+#EXTINF:0 tvg-logo="http://iv.pe/QMo" group-title="[CANAIS 24H]",TUNEL DO TEMPO
+http://eyplay.io:80/NAA7k2/ncRLaa/967
+#EXTINF:0 tvg-logo="http://iv.pe/nPV" group-title="[CANAIS 24H]",TUTUBARAO
+http://eyplay.io:80/NAA7k2/ncRLaa/968
+#EXTINF:0 tvg-logo="http://iv.pe/MUT" group-title="[CANAIS 24H]",UM MALUCO NO PEDACO T01
+http://eyplay.io:80/NAA7k2/ncRLaa/970
+#EXTINF:0 tvg-logo="http://iv.pe/oIu" group-title="[CANAIS 24H]",UM MALUCO NO PEDACO T02
+http://eyplay.io:80/NAA7k2/ncRLaa/971
+#EXTINF:0 tvg-logo="http://iv.pe/vXz" group-title="[CANAIS 24H]",UM MALUCO NO PEDACO T03
+http://eyplay.io:80/NAA7k2/ncRLaa/972
+#EXTINF:0 tvg-logo="http://iv.pe/SDH" group-title="[CANAIS 24H]",UM MALUCO NO PEDACO T04
+http://eyplay.io:80/NAA7k2/ncRLaa/973
+#EXTINF:0 tvg-logo="http://iv.pe/xYY" group-title="[CANAIS 24H]",UM MALUCO NO PEDACO T05
+http://eyplay.io:80/NAA7k2/ncRLaa/974
+#EXTINF:0 tvg-logo="http://iv.pe/NRm" group-title="[CANAIS 24H]",UM MALUCO NO PEDACO T06
+http://eyplay.io:80/NAA7k2/ncRLaa/975
+#EXTINF:0 tvg-logo="http://iv.pe/cnb" group-title="[CANAIS 24H]",URSINHOS CARINHOSOS
+http://eyplay.io:80/NAA7k2/ncRLaa/976
+#EXTINF:0 tvg-logo="http://iv.pe/ggD" group-title="[CANAIS 24H]",VALE DOS DINOSSAUROS
+http://eyplay.io:80/NAA7k2/ncRLaa/977
+#EXTINF:0 tvg-logo="http://iv.pe/sSw" group-title="[CANAIS 24H]",WALLY GATOR
+http://eyplay.io:80/NAA7k2/ncRLaa/978
+#EXTINF:0 tvg-logo="http://iv.pe/phA" group-title="[CANAIS 24H]",ZATCH BELL
+http://eyplay.io:80/NAA7k2/ncRLaa/987
+#EXTINF:0 tvg-logo="http://iv.pe/TQ2" group-title="[CANAIS 24H]",ZE BUSCAPE
+http://eyplay.io:80/NAA7k2/ncRLaa/988
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7jkbj6e" group-title="[FILMES AÇÃO]",Bem Vindo à Selva - 2013
+http://eyplay.io:80/movie/NAA7k2/ncRLaa/14903.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/wrmsk4p" group-title="[FILMES AÇÃO]",Black Water: Na Escuridão do Oceano - 2018
+http://eyplay.io:80/movie/NAA7k2/ncRLaa/16987.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y79er4u5" group-title="[FILMES AÇÃO]",Creed 1 - Nascido para Lutar - 2015
+http://eyplay.io:80/movie/NAA7k2/ncRLaa/16289.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybtverlr" group-title="[FILMES AÇÃO]",Kickboxer 1 - O Desafio do Dragão - 1989
+http://eyplay.io:80/movie/NAA7k2/ncRLaa/15058.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9kqa22r" group-title="[FILMES AÇÃO]",Kickboxer 7 - A Retaliação - 2018
+http://eyplay.io:80/movie/NAA7k2/ncRLaa/15064.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yawqh38w" group-title="[FILMES AÇÃO]",Momento Crítico - 1996
+http://eyplay.io:80/movie/NAA7k2/ncRLaa/15113.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7nd36wc" group-title="[FILMES AÇÃO]",Morte Súbita - 2007
+http://eyplay.io:80/movie/NAA7k2/ncRLaa/15117.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8kbd3pg" group-title="[FILMES AÇÃO]",O Alvo - 1993
+http://eyplay.io:80/movie/NAA7k2/ncRLaa/15130.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd4f5p7r" group-title="[FILMES AÇÃO]",O Grande Dragão Branco 2 - 1996
+http://eyplay.io:80/movie/NAA7k2/ncRLaa/15160.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ychanc4z" group-title="[FILMES AÇÃO]",O Justiceiro: Estrada do Caos - 2014
+http://eyplay.io:80/movie/NAA7k2/ncRLaa/15171.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9mqzjt5" group-title="[FILMES AÇÃO]",Os Mercenários 2 - 2012
+http://eyplay.io:80/movie/NAA7k2/ncRLaa/15200.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8pq9yk7" group-title="[FILMES AÇÃO]",Os Mercenários 3 - 2014
+http://eyplay.io:80/movie/NAA7k2/ncRLaa/15201.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8249ohw" group-title="[FILMES AÇÃO]",Risco Máximo - 1996
+http://eyplay.io:80/movie/NAA7k2/ncRLaa/15251.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ya9tzto9" group-title="[FILMES AÇÃO]",Soldado Universal 2 - 1998
+http://eyplay.io:80/movie/NAA7k2/ncRLaa/15285.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7zezcrw" group-title="[FILMES AÇÃO]",Soldado Universal 3 - Regeneração - 2009
+http://eyplay.io:80/movie/NAA7k2/ncRLaa/15286.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybod7qfx" group-title="[FILMES AÇÃO]",Soldado Universal 4 - Juízo Final - 2012
+http://eyplay.io:80/movie/NAA7k2/ncRLaa/15287.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb7zok97" group-title="[FILMES AÇÃO]",Um Ninja da Pesada - 1997
+http://eyplay.io:80/movie/NAA7k2/ncRLaa/15318.mp4
