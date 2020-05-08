@@ -1,4 +1,1145 @@
 #EXTM3U
-#EXTINF:-1 group-title="Aberta" tvg-name="Sbt Pernambuco" tvg-logo="",Sbt
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1149121645_b216000_sleng.m3u8
 
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Anos 70
+http://192.99.150.31:8241/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Anos 80
+http://192.99.150.31:8697/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Anos 90 
+http://192.99.150.31:8056/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Anos 2000 
+http://6d9a.webradio.upx.net.br:9940/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Axé 
+http://192.99.150.31:8305/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Brega 
+http://192.99.150.31:9007/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Eletrônica 
+http://192.99.150.31:9095/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Forró 
+http://192.99.150.31:9019/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Funk 
+http://192.99.150.31:9089/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Gospel 
+http://192.99.150.31:9101/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Hip Hop 
+http://192.99.150.31:8721/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio HISTORINHA INFANTIL 
+http://192.99.150.31:8371/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Kids 
+http://192.99.150.31:9431/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Jazz 
+http://192.99.150.31:8042/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio MPB 
+http://192.99.150.31:8775/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Rap Nacional 
+http://192.99.150.31:8377/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Reggae 
+http://192.99.150.31:8715/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Rock Clássico 
+http://192.99.150.31:9125/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Românticas 
+http://192.99.150.31:8962/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Sertanejo 
+http://192.99.150.31:9485/stream?
+
+#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Sertanejo Universitário 
+http://192.99.150.31:9191/stream?
+
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgband" group-title="Aberta",Band SD
+http://eyplay.io:80/NAA7k2/ncRLaa/19
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcnv" group-title="Aberta",Cancao Nova SD
+http://eyplay.io:80/NAA7k2/ncRLaa/14064
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgrecord" group-title="Aberta",RecordTV Bahia HD
+http://eyplay.io:80/NAA7k2/ncRLaa/367
+#EXTINF:0 tvg-logo="" group-title="Aberta",Rede Gospel SD
+http://eyplay.io:80/NAA7k2/ncRLaa/14069
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgredevida" group-title="Aberta",Rede Vida HD
+http://eyplay.io:80/NAA7k2/ncRLaa/14066
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgredetv" group-title="Aberta",RedeTV HD
+http://eyplay.io:80/NAA7k2/ncRLaa/380
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgredetv" group-title="Aberta",RedeTV SD
+http://eyplay.io:80/NAA7k2/ncRLaa/381
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgrit" group-title="Aberta",RiT TV SD
+http://eyplay.io:80/NAA7k2/ncRLaa/14070
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsbt" group-title="Aberta",SBT HD
+http://eyplay.io:80/NAA7k2/ncRLaa/383
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsbt" group-title="Aberta",SBT SD
+http://eyplay.io:80/NAA7k2/ncRLaa/384
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgaparecida" group-title="Aberta",TV Aparecida SD
+http://eyplay.io:80/NAA7k2/ncRLaa/14065
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgnvtemp" group-title="Aberta",TV Novo Tempo HD
+http://eyplay.io:80/NAA7k2/ncRLaa/14072
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgnvtemp" group-title="Aberta",TV Novo Tempo SD
+http://eyplay.io:80/NAA7k2/ncRLaa/14073
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="Aberta",Globo Brasilia SD
+http://eyplay.io:80/NAA7k2/ncRLaa/186
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="Aberta",Globo EPTV Campinas SD
+http://eyplay.io:80/NAA7k2/ncRLaa/191
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="Aberta",Globo EPTV Ribeirao Preto SD
+http://eyplay.io:80/NAA7k2/ncRLaa/192
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="Aberta",Globo Inter TV Cabugi SD
+http://eyplay.io:80/NAA7k2/ncRLaa/195
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="Aberta",Globo Minas SD
+http://eyplay.io:80/NAA7k2/ncRLaa/201
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="Aberta",Globo Nordeste HD
+http://eyplay.io:80/NAA7k2/ncRLaa/206
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="Aberta",Globo Nordeste SD
+http://eyplay.io:80/NAA7k2/ncRLaa/207
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="Aberta",Globo NSC Florianopolis SD
+http://eyplay.io:80/NAA7k2/ncRLaa/210
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="Aberta",Globo RBS TV Porto Alegre SD
+http://eyplay.io:80/NAA7k2/ncRLaa/214
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="Aberta",Globo Rede Amazonica SD
+http://eyplay.io:80/NAA7k2/ncRLaa/215
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="Aberta",Globo RJ HD
+http://eyplay.io:80/NAA7k2/ncRLaa/217
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="Aberta",Globo RPC Curitiba SD
+http://eyplay.io:80/NAA7k2/ncRLaa/221
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="Aberta",Globo RPC Paranavaí SD
+http://eyplay.io:80/NAA7k2/ncRLaa/220
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="Aberta",Globo SP HD
+http://eyplay.io:80/NAA7k2/ncRLaa/223
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="Aberta",Globo SP SD
+http://eyplay.io:80/NAA7k2/ncRLaa/224
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="Aberta",Globo TV Anhanguera SD
+http://eyplay.io:80/NAA7k2/ncRLaa/227
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="Aberta",Globo TV Bahia HD
+http://eyplay.io:80/NAA7k2/ncRLaa/229
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="Aberta",Globo TV Bahia SD
+http://eyplay.io:80/NAA7k2/ncRLaa/230
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="Aberta",Globo TV Liberal Belem SD
+http://eyplay.io:80/NAA7k2/ncRLaa/233
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="Aberta",Globo TV Mirante SD
+http://eyplay.io:80/NAA7k2/ncRLaa/240
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="Aberta",Globo TV Morena SD
+http://eyplay.io:80/NAA7k2/ncRLaa/243
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="Aberta",Globo TV TEM Bauru SD
+http://eyplay.io:80/NAA7k2/ncRLaa/245
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="Aberta",Globo TV TEM Sorocaba SD
+http://eyplay.io:80/NAA7k2/ncRLaa/246
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="Aberta",Globo TV Tribuna Santos SD
+http://eyplay.io:80/NAA7k2/ncRLaa/247
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="Aberta",Globo TV Vanguarda S.J.C SD
+http://eyplay.io:80/NAA7k2/ncRLaa/248
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="Aberta",Globo TV Verdes Mares SD
+http://eyplay.io:80/NAA7k2/ncRLaa/251
+
+
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/thganimal" group-title="Documentarios",Animal Planet HD
+http://eyplay.io:80/NAA7k2/ncRLaa/6
+#EXTINF:0 tvg-logo="https://tinyurl.com/thganimal" group-title="Documentarios",Animal Planet SD
+http://eyplay.io:80/NAA7k2/ncRLaa/7
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgarte1" group-title="Documentarios",Arte 1 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/9
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgarte1" group-title="Documentarios",Arte 1 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/10
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcurta" group-title="Documentarios",Curta HD
+http://eyplay.io:80/NAA7k2/ncRLaa/91
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcurta" group-title="Documentarios",Curta SD
+http://eyplay.io:80/NAA7k2/ncRLaa/92
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdiscovery" group-title="Documentarios",Discovery Channel HD
+http://eyplay.io:80/NAA7k2/ncRLaa/96
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdiscovery" group-title="Documentarios",Discovery Channel SD
+http://eyplay.io:80/NAA7k2/ncRLaa/97
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsci" group-title="Documentarios",Discovery Science HD
+http://eyplay.io:80/NAA7k2/ncRLaa/108
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsci" group-title="Documentarios",Discovery Science SD
+http://eyplay.io:80/NAA7k2/ncRLaa/109
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtheater" group-title="Documentarios",Discovery Theater HD
+http://eyplay.io:80/NAA7k2/ncRLaa/111
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtheater" group-title="Documentarios",Discovery Theater SD
+http://eyplay.io:80/NAA7k2/ncRLaa/112
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdiscoverywrld" group-title="Documentarios",Discovery World HD
+http://eyplay.io:80/NAA7k2/ncRLaa/117
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdiscoverywrld" group-title="Documentarios",Discovery World SD
+http://eyplay.io:80/NAA7k2/ncRLaa/118
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghgtv" group-title="Documentarios",HGTV HD
+http://eyplay.io:80/NAA7k2/ncRLaa/99
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghgtv" group-title="Documentarios",HGTV SD
+http://eyplay.io:80/NAA7k2/ncRLaa/100
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghistorychannel" group-title="Documentarios",History 1 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/289
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghistorychannel" group-title="Documentarios",History 1 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/290
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghist2" group-title="Documentarios",History 2 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/262
+#EXTINF:0 tvg-logo="https://tinyurl.com/thghist2" group-title="Documentarios",History 2 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/263
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgnatgeowild" group-title="Documentarios",Natgeo Wild HD
+http://eyplay.io:80/NAA7k2/ncRLaa/322
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgnatgeowild" group-title="Documentarios",Natgeo Wild SD
+http://eyplay.io:80/NAA7k2/ncRLaa/323
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgnatgeo" group-title="Documentarios",National Geographic HD
+http://eyplay.io:80/NAA7k2/ncRLaa/316
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgnatgeo" group-title="Documentarios",National Geographic SD
+http://eyplay.io:80/NAA7k2/ncRLaa/320
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtrutv" group-title="Documentarios",Tru TV HD
+http://eyplay.io:80/NAA7k2/ncRLaa/444
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtrutv" group-title="Documentarios",Tru TV SD
+http://eyplay.io:80/NAA7k2/ncRLaa/445
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgbansports" group-title="Esportes",BandSports HD
+http://eyplay.io:80/NAA7k2/ncRLaa/24
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgbansports" group-title="Esportes",BandSports SD
+http://eyplay.io:80/NAA7k2/ncRLaa/25
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcombate" group-title="Esportes",Combate HD
+http://eyplay.io:80/NAA7k2/ncRLaa/77
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcombate" group-title="Esportes",Combate SD
+http://eyplay.io:80/NAA7k2/ncRLaa/78
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcopacatarinense" group-title="Esportes",Copa Catarinense 1 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/82
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcopacatarinense" group-title="Esportes",Copa Catarinense 1 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/83
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcopacatarinense" group-title="Esportes",Copa Catarinense 2 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/84
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcopacatarinense" group-title="Esportes",Copa Catarinense 2 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/85
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcopanordeste" group-title="Esportes",Copa do Nordeste 1 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/86
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcopanordeste" group-title="Esportes",Copa do Nordeste 1 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/87
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcopanordeste" group-title="Esportes",Copa do Nordeste 2 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/88
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcopanordeste" group-title="Esportes",Copa do Nordeste 2 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/89
+#EXTINF:0 tvg-logo="http://iv.pe/276" group-title="Esportes",Copa Libertadores HD
+http://eyplay.io:80/NAA7k2/ncRLaa/14074
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdazn1" group-title="Esportes",DAZN 1 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/94
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Esportes",Ei Plus 1 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/131
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Esportes",Ei Plus 1 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/132
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Esportes",Ei Plus 2 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/133
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Esportes",Ei Plus 2 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/134
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Esportes",Ei Plus 3 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/135
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Esportes",Ei Plus 3 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/136
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Esportes",Ei Plus 4 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/137
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Esportes",Ei Plus 4 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/138
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Esportes",Ei Plus 5 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/139
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Esportes",Ei Plus 5 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/140
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Esportes",Ei Plus 6 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/142
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Esportes",Ei Plus 6 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/141
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgespn" group-title="Esportes",ESPN HD
+http://eyplay.io:80/NAA7k2/ncRLaa/153
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgespn" group-title="Esportes",ESPN SD
+http://eyplay.io:80/NAA7k2/ncRLaa/154
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgespn2" group-title="Esportes",ESPN 2 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/145
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgespn2" group-title="Esportes",ESPN 2 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/146
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgespnbrasil" group-title="Esportes",ESPN Brasil HD
+http://eyplay.io:80/NAA7k2/ncRLaa/148
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgespnbrasil" group-title="Esportes",ESPN Brasil SD
+http://eyplay.io:80/NAA7k2/ncRLaa/149
+#EXTINF:0 tvg-logo="https://tinyurl.com/espnextra" group-title="Esportes",ESPN Extra HD
+http://eyplay.io:80/NAA7k2/ncRLaa/150
+#EXTINF:0 tvg-logo="https://tinyurl.com/espnextra" group-title="Esportes",ESPN Extra SD
+http://eyplay.io:80/NAA7k2/ncRLaa/151
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfoxsports" group-title="Esportes",Fox Sports HD
+http://eyplay.io:80/NAA7k2/ncRLaa/180
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfoxsports" group-title="Esportes",Fox Sports SD
+http://eyplay.io:80/NAA7k2/ncRLaa/181
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfoxsports2" group-title="Esportes",Fox Sports 2 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/177
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfoxsports2" group-title="Esportes",Fox Sports 2 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/17
+#EXTINF:0 tvg-logo="" group-title="Esportes",Real Madrid SD
+http://eyplay.io:80/NAA7k2/ncRLaa/363
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsportv" group-title="Esportes",SporTV HD
+http://eyplay.io:80/NAA7k2/ncRLaa/399
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsportv" group-title="Esportes",SporTV SD
+http://eyplay.io:80/NAA7k2/ncRLaa/400
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsportv2" group-title="Esportes",SporTV 2 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/393
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsportv2" group-title="Esportes",SporTV 2 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/394
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsportv3" group-title="Esportes",SporTV 3 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/396
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgsportv3" group-title="Esportes",SporTV 3 SD
+http://eyplay.io:80/NAA7k2/ncRLaa/397
+
+
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgboomerang1" group-title="Infantil",Boomerang HD
+http://eyplay.io:80/NAA7k2/ncRLaa/52
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgboomerang1" group-title="Infantil",Boomerang SD
+http://eyplay.io:80/NAA7k2/ncRLaa/53
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcartoonnetwork" group-title="Infantil",Cartoon Network HD
+http://eyplay.io:80/NAA7k2/ncRLaa/61
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcartoonnetwork" group-title="Infantil",Cartoon Network SD
+http://eyplay.io:80/NAA7k2/ncRLaa/62
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdiscoverykids" group-title="Infantil",Discovery Kids HD
+http://eyplay.io:80/NAA7k2/ncRLaa/105
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdiscoverykids" group-title="Infantil",Discovery Kids SD
+http://eyplay.io:80/NAA7k2/ncRLaa/106
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdisneychannel" group-title="Infantil",Disney Channel HD
+http://eyplay.io:80/NAA7k2/ncRLaa/120
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdisneychannel" group-title="Infantil",Disney Channel SD
+http://eyplay.io:80/NAA7k2/ncRLaa/121
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdisneyjr" group-title="Infantil",Disney Jr HD
+http://eyplay.io:80/NAA7k2/ncRLaa/123
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdisneyjr" group-title="Infantil",Disney Jr SD
+http://eyplay.io:80/NAA7k2/ncRLaa/124
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdisneyxd" group-title="Infantil",Disney XD HD
+http://eyplay.io:80/NAA7k2/ncRLaa/126
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdisneyxd" group-title="Infantil",Disney XD SD
+http://eyplay.io:80/NAA7k2/ncRLaa/127
+#EXTINF:0 tvg-logo="https://tinyurl.com/thggloob" group-title="Infantil",Gloob HD
+http://eyplay.io:80/NAA7k2/ncRLaa/253
+#EXTINF:0 tvg-logo="https://tinyurl.com/thggloob" group-title="Infantil",Gloob SD
+http://eyplay.io:80/NAA7k2/ncRLaa/254
+#EXTINF:0 tvg-logo="https://tinyurl.com/thggloobinho" group-title="Infantil",Gloobinho HD
+http://eyplay.io:80/NAA7k2/ncRLaa/256
+#EXTINF:0 tvg-logo="https://tinyurl.com/thggloobinho" group-title="Infantil",Gloobinho SD
+http://eyplay.io:80/NAA7k2/ncRLaa/257
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgnatgeokids" group-title="Infantil",Natgeo Kids HD
+http://eyplay.io:80/NAA7k2/ncRLaa/318
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgnatgeokids" group-title="Infantil",Natgeo Kids SD
+http://eyplay.io:80/NAA7k2/ncRLaa/319
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgnickjr" group-title="Infantil",Nick Jr HD
+http://eyplay.io:80/NAA7k2/ncRLaa/325
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgnickjr" group-title="Infantil",Nick Jr SD
+http://eyplay.io:80/NAA7k2/ncRLaa/326
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgnicklodeon" group-title="Infantil",Nickelodeon HD
+http://eyplay.io:80/NAA7k2/ncRLaa/329
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgnicklodeon" group-title="Infantil",Nickelodeon SD
+http://eyplay.io:80/NAA7k2/ncRLaa/327
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtooncast" group-title="Infantil",Tooncast HD
+http://eyplay.io:80/NAA7k2/ncRLaa/441
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtooncast" group-title="Infantil",Tooncast SD
+http://eyplay.io:80/NAA7k2/ncRLaa/442
+#EXTINF:0 tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" group-title="Infantil",TV Ra Tim Bum HD
+http://eyplay.io:80/NAA7k2/ncRLaa/448
+#EXTINF:0 tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" group-title="Infantil",TV Ra Tim Bum SD
+http://eyplay.io:80/NAA7k2/ncRLaa/449
+
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgaee" group-title="Variedades",A&E HD
+http://eyplay.io:80/NAA7k2/ncRLaa/3
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgaee" group-title="Variedades",A&E SD
+http://eyplay.io:80/NAA7k2/ncRLaa/4
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgbis" group-title="Variedades",BIS HD
+http://eyplay.io:80/NAA7k2/ncRLaa/49
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgbis" group-title="Variedades",BIS SD
+http://eyplay.io:80/NAA7k2/ncRLaa/50
+#EXTINF:0 tvg-logo="http://s.eyplay.io/logos/canais/4fun.png" group-title="Variedades",Canal 4 Fun HD
+http://eyplay.io:80/NAA7k2/ncRLaa/54
+#EXTINF:0 tvg-logo="http://s.eyplay.io/logos/canais/cheftv.png" group-title="Variedades",Chef TV HD
+http://eyplay.io:80/NAA7k2/ncRLaa/64
+#EXTINF:0 tvg-logo="http://s.eyplay.io/logos/canais/cheftv.png" group-title="Variedades",Chef TV SD
+http://eyplay.io:80/NAA7k2/ncRLaa/65
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcomedycentral" group-title="Variedades",Comedy Central HD
+http://eyplay.io:80/NAA7k2/ncRLaa/80
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgcomedycentral" group-title="Variedades",Comedy Central SD
+http://eyplay.io:80/NAA7k2/ncRLaa/81
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdiscoveryheh" group-title="Variedades",Discovery Home & Health HD
+http://eyplay.io:80/NAA7k2/ncRLaa/102
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdiscoveryheh" group-title="Variedades",Discovery Home & Health SD
+http://eyplay.io:80/NAA7k2/ncRLaa/103
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgid" group-title="Variedades",Discovery ID HD
+http://eyplay.io:80/NAA7k2/ncRLaa/295
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgid" group-title="Variedades",Discovery ID SD
+http://eyplay.io:80/NAA7k2/ncRLaa/296
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdiscoveryturbo" group-title="Variedades",Discovery Turbo HD
+http://eyplay.io:80/NAA7k2/ncRLaa/114
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgdiscoveryturbo" group-title="Variedades",Discovery Turbo SD
+http://eyplay.io:80/NAA7k2/ncRLaa/115
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgentre" group-title="Variedades",E! SD
+http://eyplay.io:80/NAA7k2/ncRLaa/130
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgentre" group-title="Variedades",E! HD
+http://eyplay.io:80/NAA7k2/ncRLaa/129
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfish" group-title="Variedades",Fish TV HD
+http://eyplay.io:80/NAA7k2/ncRLaa/156
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfish" group-title="Variedades",Fish TV SD
+http://eyplay.io:80/NAA7k2/ncRLaa/157
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfood" group-title="Variedades",Food Network HD
+http://eyplay.io:80/NAA7k2/ncRLaa/159
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfood" group-title="Variedades",Food Network SD
+http://eyplay.io:80/NAA7k2/ncRLaa/160
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfoxlife" group-title="Variedades",Fox Life HD
+http://eyplay.io:80/NAA7k2/ncRLaa/164
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgfoxlife" group-title="Variedades",Fox Life SD
+http://eyplay.io:80/NAA7k2/ncRLaa/165
+#EXTINF:0 tvg-logo="https://tinyurl.com/thggnt" group-title="Variedades",GNT HD
+http://eyplay.io:80/NAA7k2/ncRLaa/259
+#EXTINF:0 tvg-logo="https://tinyurl.com/thggnt" group-title="Variedades",GNT SD
+http://eyplay.io:80/NAA7k2/ncRLaa/260
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgisat" group-title="Variedades",i Sat HD
+http://eyplay.io:80/NAA7k2/ncRLaa/292
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgisat" group-title="Variedades",i Sat SD
+http://eyplay.io:80/NAA7k2/ncRLaa/293
+#EXTINF:0 tvg-logo="https://tinyurl.com/thglifetime" group-title="Variedades",Lifetime HD
+http://eyplay.io:80/NAA7k2/ncRLaa/298
+#EXTINF:0 tvg-logo="https://tinyurl.com/thglifetime" group-title="Variedades",Lifetime SD
+http://eyplay.io:80/NAA7k2/ncRLaa/299
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobosat" group-title="Variedades",Mais Globosat HD
+http://eyplay.io:80/NAA7k2/ncRLaa/301
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgglobosat" group-title="Variedades",Mais Globosat SD
+http://eyplay.io:80/NAA7k2/ncRLaa/302
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgmtv" group-title="Variedades",MTV HD
+http://eyplay.io:80/NAA7k2/ncRLaa/307
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgmtv" group-title="Variedades",MTV SD
+http://eyplay.io:80/NAA7k2/ncRLaa/308
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgmultishow" group-title="Variedades",Multishow HD
+http://eyplay.io:80/NAA7k2/ncRLaa/310
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgmultishow" group-title="Variedades",Multishow SD
+http://eyplay.io:80/NAA7k2/ncRLaa/311
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgmusicprimebox" group-title="Variedades",Music Box Brasil HD
+http://eyplay.io:80/NAA7k2/ncRLaa/313
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgmusicprimebox" group-title="Variedades",Music Box Brasil SD
+http://eyplay.io:80/NAA7k2/ncRLaa/314
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgoff" group-title="Variedades",OFF HD
+http://eyplay.io:80/NAA7k2/ncRLaa/331
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgoff" group-title="Variedades",OFF SD
+http://eyplay.io:80/NAA7k2/ncRLaa/332
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgplaytv" group-title="Variedades",Play TV HD
+http://eyplay.io:80/NAA7k2/ncRLaa/337
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgplaytv" group-title="Variedades",Play TV SD
+http://eyplay.io:80/NAA7k2/ncRLaa/338
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgprimebox1" group-title="Variedades",Prime Box Brasil HD
+http://eyplay.io:80/NAA7k2/ncRLaa/361
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgprimebox1" group-title="Variedades",Prime Box Brasil SD
+http://eyplay.io:80/NAA7k2/ncRLaa/362
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgshoptime" group-title="Variedades",Shoptime FHD (H265)
+http://eyplay.io:80/NAA7k2/ncRLaa/385
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtlc1" group-title="Variedades",TLC HD
+http://eyplay.io:80/NAA7k2/ncRLaa/432
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgtlc1" group-title="Variedades",TLC SD
+http://eyplay.io:80/NAA7k2/ncRLaa/433
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9tweayy" group-title="Variedades",TV5 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/451
+#EXTINF:0 tvg-logo="http://s.eyplay.io/logos/canais/vh1.png" group-title="Variedades",VH1 HD
+http://eyplay.io:80/NAA7k2/ncRLaa/14077
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgvh1" group-title="Variedades",VH1 Mega Hits HD
+http://eyplay.io:80/NAA7k2/ncRLaa/456
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgvh1" group-title="Variedades",VH1 Mega Hits SD
+http://eyplay.io:80/NAA7k2/ncRLaa/457
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgviva" group-title="Variedades",Viva HD
+http://eyplay.io:80/NAA7k2/ncRLaa/459
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgviva" group-title="Variedades",Viva SD
+http://eyplay.io:80/NAA7k2/ncRLaa/460
+
+
+#EXTINF:0 tvg-logo="http://iv.pe/W2q" group-title="Diversão 24H",101 DALMATAS
+http://eyplay.io:80/NAA7k2/ncRLaa/478
+#EXTINF:0 tvg-logo="http://iv.pe/Oym" group-title="Diversão 24H",3 PALAVRINHAS
+http://eyplay.io:80/NAA7k2/ncRLaa/480
+#EXTINF:0 tvg-logo="http://iv.pe/Gkw" group-title="Diversão 24H",A BRUXINHA SABRINA
+http://eyplay.io:80/NAA7k2/ncRLaa/481
+#EXTINF:0 tvg-logo="http://iv.pe/gMc" group-title="Diversão 24H",A CEGONHA PERNA FINA
+http://eyplay.io:80/NAA7k2/ncRLaa/482
+#EXTINF:0 tvg-logo="http://iv.pe/rpW" group-title="Diversão 24H",A COBRINHA AZUL
+http://eyplay.io:80/NAA7k2/ncRLaa/483
+#EXTINF:0 tvg-logo="http://iv.pe/JEs" group-title="Diversão 24H",A ESCOLINHA DO PROFESSOR RAIMUNDO
+http://eyplay.io:80/NAA7k2/ncRLaa/484
+#EXTINF:0 tvg-logo="http://iv.pe/WLj" group-title="Diversão 24H",A FAMILIA ADDAMS 1992
+http://eyplay.io:80/NAA7k2/ncRLaa/485
+#EXTINF:0 tvg-logo="http://iv.pe/VpD" group-title="Diversão 24H",A FAMILIA DRACULA
+http://eyplay.io:80/NAA7k2/ncRLaa/486
+#EXTINF:0 tvg-logo="http://iv.pe/oXz" group-title="Diversão 24H",A FAMILIA DRACULA
+http://eyplay.io:80/NAA7k2/ncRLaa/487
+#EXTINF:0 tvg-logo="http://iv.pe/oxJ" group-title="Diversão 24H",A FAMÍLIA DINOSSAURO
+http://eyplay.io:80/NAA7k2/ncRLaa/488
+#EXTINF:0 tvg-logo="http://iv.pe/xQy" group-title="Diversão 24H",A FEITICEIRA FACEIRA
+http://eyplay.io:80/NAA7k2/ncRLaa/490
+#EXTINF:0 tvg-logo="http://iv.pe/rmg" group-title="Diversão 24H",A FORMIGA ATÔMICA
+http://eyplay.io:80/NAA7k2/ncRLaa/491
+#EXTINF:0 tvg-logo="http://iv.pe/ct4" group-title="Diversão 24H",A MANSÃO FOSTER PARA AMIGOS IMAGINÁRIOS
+http://eyplay.io:80/NAA7k2/ncRLaa/492
+#EXTINF:0 tvg-logo="http://iv.pe/8fr" group-title="Diversão 24H",A MUMIA
+http://eyplay.io:80/NAA7k2/ncRLaa/493
+#EXTINF:0 tvg-logo="http://iv.pe/rgL" group-title="Diversão 24H",A NOSSA TURMA
+http://eyplay.io:80/NAA7k2/ncRLaa/494
+#EXTINF:0 tvg-logo="http://iv.pe/dBZ" group-title="Diversão 24H",A PANTERA COR DE ROSA
+http://eyplay.io:80/NAA7k2/ncRLaa/495
+#EXTINF:0 tvg-logo="http://iv.pe/yfa" group-title="Diversão 24H",A PEQUENA SEREIA
+http://eyplay.io:80/NAA7k2/ncRLaa/496
+#EXTINF:0 tvg-logo="http://iv.pe/PLZ" group-title="Diversão 24H",A PEQUENA SEREIA
+http://eyplay.io:80/NAA7k2/ncRLaa/497
+#EXTINF:0 tvg-logo="http://iv.pe/b9e" group-title="Diversão 24H",A TURMA DE CHARLIE BROWN E SNOOPY
+http://eyplay.io:80/NAA7k2/ncRLaa/498
+#EXTINF:0 tvg-logo="http://iv.pe/DFd" group-title="Diversão 24H",A VACA E O FRANGO
+http://eyplay.io:80/NAA7k2/ncRLaa/500
+#EXTINF:0 tvg-logo="http://iv.pe/u8R" group-title="Diversão 24H",A VIDA MODERNA DE ROCKO
+http://eyplay.io:80/NAA7k2/ncRLaa/501
+#EXTINF:0 tvg-logo="http://iv.pe/nnb" group-title="Diversão 24H",ACAMPAMENTO LAKEBOTTOM
+http://eyplay.io:80/NAA7k2/ncRLaa/502
+#EXTINF:0 tvg-logo="http://iv.pe/Dkk" group-title="Diversão 24H",ALADDIN DESENHO ANIMADO
+http://eyplay.io:80/NAA7k2/ncRLaa/503
+#EXTINF:0 tvg-logo="http://iv.pe/25A" group-title="Diversão 24H",ANDY PANDA
+http://eyplay.io:80/NAA7k2/ncRLaa/504
+#EXTINF:0 tvg-logo="http://iv.pe/Y6A" group-title="Diversão 24H",ANIMANIACS
+http://eyplay.io:80/NAA7k2/ncRLaa/505
+#EXTINF:0 tvg-logo="http://iv.pe/YOR" group-title="Diversão 24H",ARQUIVO CÃOFIDENCIAL
+http://eyplay.io:80/NAA7k2/ncRLaa/506
+#EXTINF:0 tvg-logo="http://iv.pe/zsb" group-title="Diversão 24H",AS AVENTURAS DE JACKIE CHAN
+http://eyplay.io:80/NAA7k2/ncRLaa/507
+#EXTINF:0 tvg-logo="http://iv.pe/WYd" group-title="Diversão 24H",AS AVENTURAS DE TINTIM
+http://eyplay.io:80/NAA7k2/ncRLaa/508
+#EXTINF:0 tvg-logo="http://iv.pe/UXr" group-title="Diversão 24H",AS MENINAS SUPERPODEROSAS
+http://eyplay.io:80/NAA7k2/ncRLaa/510
+#EXTINF:0 tvg-logo="http://iv.pe/6ig" group-title="Diversão 24H",AS MUMIAS VIVAS
+http://eyplay.io:80/NAA7k2/ncRLaa/511
+#EXTINF:0 tvg-logo="http://iv.pe/yci" group-title="Diversão 24H",AS TARTARUGAS NINJAS
+http://eyplay.io:80/NAA7k2/ncRLaa/512
+#EXTINF:0 tvg-logo="http://iv.pe/yfQ" group-title="Diversão 24H",AS TRAPALHADAS DE FLAPJACK
+http://eyplay.io:80/NAA7k2/ncRLaa/513
+#EXTINF:0 tvg-logo="http://iv.pe/7dO" group-title="Diversão 24H",AS TRIGÊMIAS
+http://eyplay.io:80/NAA7k2/ncRLaa/514
+#EXTINF:0 tvg-logo="http://iv.pe/Sbk" group-title="Diversão 24H",AVATAR ANIME COMPLETO
+http://eyplay.io:80/NAA7k2/ncRLaa/515
+#EXTINF:0 tvg-logo="http://iv.pe/q0F" group-title="Diversão 24H",BABY LOONEY TOONES
+http://eyplay.io:80/NAA7k2/ncRLaa/516
+#EXTINF:0 tvg-logo="http://iv.pe/K0W" group-title="Diversão 24H",BACKYARDIGANS
+http://eyplay.io:80/NAA7k2/ncRLaa/517
+#EXTINF:0 tvg-logo="http://iv.pe/XZX" group-title="Diversão 24H",BAKUGAN
+http://eyplay.io:80/NAA7k2/ncRLaa/518
+#EXTINF:0 tvg-logo="http://iv.pe/fgp" group-title="Diversão 24H",BEN 10 2006 - 2008
+http://eyplay.io:80/NAA7k2/ncRLaa/525
+#EXTINF:0 tvg-logo="http://iv.pe/Se7" group-title="Diversão 24H",BEN 10 FORCA ALIENIGENA 2008 - 2010
+http://eyplay.io:80/NAA7k2/ncRLaa/526
+#EXTINF:0 tvg-logo="http://iv.pe/fRG" group-title="Diversão 24H",BEN 10 OMNIVERSE 2012 - 2014
+http://eyplay.io:80/NAA7k2/ncRLaa/527
+#EXTINF:0 tvg-logo="http://iv.pe/kAS" group-title="Diversão 24H",BEN 10 SUPREMACIA ALIENIGENA 2010 - 2012
+http://eyplay.io:80/NAA7k2/ncRLaa/528
+#EXTINF:0 tvg-logo="http://iv.pe/ZgD" group-title="Diversão 24H",BEYBLADE G REVOLUTION 2003
+http://eyplay.io:80/NAA7k2/ncRLaa/530
+#EXTINF:0 tvg-logo="http://iv.pe/Npo" group-title="Diversão 24H",BEYBLADE METAL FUSION 2010
+http://eyplay.io:80/NAA7k2/ncRLaa/531
+#EXTINF:0 tvg-logo="http://iv.pe/Ir2" group-title="Diversão 24H",BEYBLADE V FORCE
+http://eyplay.io:80/NAA7k2/ncRLaa/532
+#EXTINF:0 tvg-logo="http://iv.pe/hkX" group-title="Diversão 24H",BIBO PAI E BOB FILHO
+http://eyplay.io:80/NAA7k2/ncRLaa/533
+#EXTINF:0 tvg-logo="http://iv.pe/u2i" group-title="Diversão 24H",BICUDO
+http://eyplay.io:80/NAA7k2/ncRLaa/534
+#EXTINF:0 tvg-logo="http://iv.pe/NKM" group-title="Diversão 24H",BOB ESPONJA T01
+http://eyplay.io:80/NAA7k2/ncRLaa/535
+#EXTINF:0 tvg-logo="http://iv.pe/WL4" group-title="Diversão 24H",BOB ESPONJA T02
+http://eyplay.io:80/NAA7k2/ncRLaa/536
+#EXTINF:0 tvg-logo="http://iv.pe/lYX" group-title="Diversão 24H",BOB ESPONJA T03
+http://eyplay.io:80/NAA7k2/ncRLaa/537
+#EXTINF:0 tvg-logo="http://iv.pe/Esx" group-title="Diversão 24H",BOB ESPONJA T04
+http://eyplay.io:80/NAA7k2/ncRLaa/538
+#EXTINF:0 tvg-logo="http://iv.pe/eR6" group-title="Diversão 24H",BOB ESPONJA T06
+http://eyplay.io:80/NAA7k2/ncRLaa/540
+#EXTINF:0 tvg-logo="http://iv.pe/8mV" group-title="Diversão 24H",BOB ESPONJA T07
+http://eyplay.io:80/NAA7k2/ncRLaa/541
+#EXTINF:0 tvg-logo="http://iv.pe/qzG" group-title="Diversão 24H",BOB ESPONJA T08
+http://eyplay.io:80/NAA7k2/ncRLaa/542
+#EXTINF:0 tvg-logo="http://iv.pe/Z9a" group-title="Diversão 24H",BOB ESPONJA T09
+http://eyplay.io:80/NAA7k2/ncRLaa/543
+#EXTINF:0 tvg-logo="http://iv.pe/6tk" group-title="Diversão 24H",BOB ESPONJA T10
+http://eyplay.io:80/NAA7k2/ncRLaa/544
+#EXTINF:0 tvg-logo="http://iv.pe/hXv" group-title="Diversão 24H",BUZZ LIGHTYEAR DO COMANDO
+http://eyplay.io:80/NAA7k2/ncRLaa/551
+#EXTINF:0 tvg-logo="http://iv.pe/MZY" group-title="Diversão 24H",CADILLACS E DINOSSAUROS
+http://eyplay.io:80/NAA7k2/ncRLaa/552
+#EXTINF:0 tvg-logo="http://iv.pe/XRp" group-title="Diversão 24H",CAEZINHOS DO CANIL
+http://eyplay.io:80/NAA7k2/ncRLaa/553
+#EXTINF:0 tvg-logo="http://iv.pe/zGs" group-title="Diversão 24H",CAMPEOES DO SENDOKAI
+http://eyplay.io:80/NAA7k2/ncRLaa/554
+#EXTINF:0 tvg-logo="http://iv.pe/SUS" group-title="Diversão 24H",CAPITAO PLANETA
+http://eyplay.io:80/NAA7k2/ncRLaa/555
+#EXTINF:0 tvg-logo="http://iv.pe/amw" group-title="Diversão 24H",CARMEN SANDIEGO
+http://eyplay.io:80/NAA7k2/ncRLaa/556
+#EXTINF:0 tvg-logo="http://iv.pe/4C5" group-title="Diversão 24H",CASTELO RA TIM BUM
+http://eyplay.io:80/NAA7k2/ncRLaa/557
+#EXTINF:0 tvg-logo="http://iv.pe/cZj" group-title="Diversão 24H",CAVERNA DO DRAGÃO
+http://eyplay.io:80/NAA7k2/ncRLaa/558
+#EXTINF:0 tvg-logo="http://iv.pe/11W" group-title="Diversão 24H",CHAVES CLASSICO EXTRA
+http://eyplay.io:80/NAA7k2/ncRLaa/560
+#EXTINF:0 tvg-logo="http://iv.pe/iAa" group-title="Diversão 24H",CHAVES CLÁSSICO T01
+http://eyplay.io:80/NAA7k2/ncRLaa/561
+#EXTINF:0 tvg-logo="http://iv.pe/OdH" group-title="Diversão 24H",CHAVES CLÁSSICO T02
+http://eyplay.io:80/NAA7k2/ncRLaa/562
+#EXTINF:0 tvg-logo="http://iv.pe/rAe" group-title="Diversão 24H",CHAVES CLÁSSICO T03
+http://eyplay.io:80/NAA7k2/ncRLaa/563
+#EXTINF:0 tvg-logo="http://iv.pe/P1G" group-title="Diversão 24H",CHAVES CLÁSSICO T04
+http://eyplay.io:80/NAA7k2/ncRLaa/564
+#EXTINF:0 tvg-logo="http://iv.pe/qbn" group-title="Diversão 24H",CHAVES CLÁSSICO T05
+http://eyplay.io:80/NAA7k2/ncRLaa/565
+#EXTINF:0 tvg-logo="http://iv.pe/Dye" group-title="Diversão 24H",CHAVES CLÁSSICO T06
+http://eyplay.io:80/NAA7k2/ncRLaa/566
+#EXTINF:0 tvg-logo="http://iv.pe/57D" group-title="Diversão 24H",CHOWDER
+http://eyplay.io:80/NAA7k2/ncRLaa/567
+#EXTINF:0 tvg-logo="http://iv.pe/8n7" group-title="Diversão 24H",CLARENCIO O OTIMISTA
+http://eyplay.io:80/NAA7k2/ncRLaa/568
+#EXTINF:0 tvg-logo="http://iv.pe/Epd" group-title="Diversão 24H",CLUBE DOS CARROS
+http://eyplay.io:80/NAA7k2/ncRLaa/570
+#EXTINF:0 tvg-logo="http://iv.pe/pa5" group-title="Diversão 24H",COELHO RICOCHETE
+http://eyplay.io:80/NAA7k2/ncRLaa/571
+#EXTINF:0 tvg-logo="http://iv.pe/veL" group-title="Diversão 24H",COLECAO BOB ZOOM
+http://eyplay.io:80/NAA7k2/ncRLaa/572
+#EXTINF:0 tvg-logo="http://iv.pe/u1Z" group-title="Diversão 24H",CONTOS DA CRYPTA ANIMACAO
+http://eyplay.io:80/NAA7k2/ncRLaa/573
+#EXTINF:0 tvg-logo="http://iv.pe/vSX" group-title="Diversão 24H",CORAGEM O CAO COVARDE
+http://eyplay.io:80/NAA7k2/ncRLaa/574
+#EXTINF:0 tvg-logo="http://iv.pe/Zti" group-title="Diversão 24H",CORRIDA ESPACIAL
+http://eyplay.io:80/NAA7k2/ncRLaa/575
+#EXTINF:0 tvg-logo="http://iv.pe/6fm" group-title="Diversão 24H",CORRIDA MALUCA
+http://eyplay.io:80/NAA7k2/ncRLaa/576
+#EXTINF:0 tvg-logo="http://iv.pe/nYT" group-title="Diversão 24H",CYBERCHASE A CORRIDA DO ESPACO
+http://eyplay.io:80/NAA7k2/ncRLaa/577
+#EXTINF:0 tvg-logo="http://iv.pe/oLh" group-title="Diversão 24H",DANNY PHANTOM 2004 - 2007
+http://eyplay.io:80/NAA7k2/ncRLaa/578
+#EXTINF:0 tvg-logo="http://iv.pe/sRx" group-title="Diversão 24H",De Ferias Com Ex T02
+http://eyplay.io:80/NAA7k2/ncRLaa/580
+#EXTINF:0 tvg-logo="http://iv.pe/i9q" group-title="Diversão 24H",De Ferias Com Ex T03
+http://eyplay.io:80/NAA7k2/ncRLaa/581
+#EXTINF:0 tvg-logo="http://iv.pe/zCp" group-title="Diversão 24H",DE VOLTA PARA O FUTURO
+http://eyplay.io:80/NAA7k2/ncRLaa/582
+#EXTINF:0 tvg-logo="http://iv.pe/H2U" group-title="Diversão 24H",DEBY E LOID
+http://eyplay.io:80/NAA7k2/ncRLaa/583
+#EXTINF:0 tvg-logo="http://iv.pe/IaZ" group-title="Diversão 24H",DENIS O PIMENTINHA
+http://eyplay.io:80/NAA7k2/ncRLaa/584
+#EXTINF:0 tvg-logo="http://iv.pe/TG1" group-title="Diversão 24H",DICK VIGARISTA E MUTTLEY - MAQUINAS VOADORAS
+http://eyplay.io:80/NAA7k2/ncRLaa/585
+#EXTINF:0 tvg-logo="http://iv.pe/n1l" group-title="Diversão 24H",DINOSSAURO REI
+http://eyplay.io:80/NAA7k2/ncRLaa/592
+#EXTINF:0 tvg-logo="http://iv.pe/vDF" group-title="Diversão 24H",DON DRACULA
+http://eyplay.io:80/NAA7k2/ncRLaa/605
+#EXTINF:0 tvg-logo="http://iv.pe/lkJ" group-title="Diversão 24H",DORA A AVENTUREIRA
+http://eyplay.io:80/NAA7k2/ncRLaa/606
+#EXTINF:0 tvg-logo="http://iv.pe/Slf" group-title="Diversão 24H",DOUG
+http://eyplay.io:80/NAA7k2/ncRLaa/607
+#EXTINF:0 tvg-logo="http://iv.pe/h9f" group-title="Diversão 24H",DR CALCA DIMENSIONAL
+http://eyplay.io:80/NAA7k2/ncRLaa/608
+#EXTINF:0 tvg-logo="http://iv.pe/dwx" group-title="Diversão 24H",DRAKE AND JOSH
+http://eyplay.io:80/NAA7k2/ncRLaa/622
+#EXTINF:0 tvg-logo="http://iv.pe/7x7" group-title="Diversão 24H",DUCK TALES
+http://eyplay.io:80/NAA7k2/ncRLaa/623
+#EXTINF:0 tvg-logo="http://iv.pe/0rr" group-title="Diversão 24H",DUDLEY DO RIGHT
+http://eyplay.io:80/NAA7k2/ncRLaa/624
+#EXTINF:0 tvg-logo="http://iv.pe/jNr" group-title="Diversão 24H",DUELO XIAOLIN
+http://eyplay.io:80/NAA7k2/ncRLaa/625
+#EXTINF:0 tvg-logo="http://iv.pe/vem" group-title="Diversão 24H",E O LOBO
+http://eyplay.io:80/NAA7k2/ncRLaa/626
+#EXTINF:0 tvg-logo="http://iv.pe/eFU" group-title="Diversão 24H",EEK! THE CAT
+http://eyplay.io:80/NAA7k2/ncRLaa/627
+#EXTINF:0 tvg-logo="http://iv.pe/jNu" group-title="Diversão 24H",EL CHAPO T01
+http://eyplay.io:80/NAA7k2/ncRLaa/628
+#EXTINF:0 tvg-logo="http://iv.pe/Fxh" group-title="Diversão 24H",EL CHAPO T03
+http://eyplay.io:80/NAA7k2/ncRLaa/630
+#EXTINF:0 tvg-logo="http://iv.pe/BfT" group-title="Diversão 24H",ESQUADRAO DO TEMPO
+http://eyplay.io:80/NAA7k2/ncRLaa/631
+#EXTINF:0 tvg-logo="http://iv.pe/p21" group-title="Diversão 24H",ESQUADRAO ESPECIAL WINSPECTOR
+http://eyplay.io:80/NAA7k2/ncRLaa/632
+#EXTINF:0 tvg-logo="http://iv.pe/aut" group-title="Diversão 24H",ESQUADRAO MARTE 2
+http://eyplay.io:80/NAA7k2/ncRLaa/633
+#EXTINF:0 tvg-logo="http://iv.pe/1Kk" group-title="Diversão 24H",ESQUILO SEM GRILO
+http://eyplay.io:80/NAA7k2/ncRLaa/634
+#EXTINF:0 tvg-logo="http://iv.pe/7Fj" group-title="Diversão 24H",EU A PATROA E AS CRIANCAS T02
+http://eyplay.io:80/NAA7k2/ncRLaa/635
+#EXTINF:0 tvg-logo="http://iv.pe/LxP" group-title="Diversão 24H",EU A PATROA E AS CRIANCAS T03
+http://eyplay.io:80/NAA7k2/ncRLaa/636
+#EXTINF:0 tvg-logo="http://iv.pe/zkl" group-title="Diversão 24H",EU A PATROA E AS CRIANCAS T04
+http://eyplay.io:80/NAA7k2/ncRLaa/637
+#EXTINF:0 tvg-logo="http://iv.pe/8QT" group-title="Diversão 24H",EU A PATROA E AS CRIANCAS T05
+http://eyplay.io:80/NAA7k2/ncRLaa/638
+#EXTINF:0 tvg-logo="http://iv.pe/KYD" group-title="Diversão 24H",EU SOU O MAXIMO
+http://eyplay.io:80/NAA7k2/ncRLaa/640
+#EXTINF:0 tvg-logo="http://iv.pe/Pw5" group-title="Diversão 24H",FABULAS DA DISNEY
+http://eyplay.io:80/NAA7k2/ncRLaa/641
+#EXTINF:0 tvg-logo="http://iv.pe/ZoH" group-title="Diversão 24H",FAISCA E FUMACA
+http://eyplay.io:80/NAA7k2/ncRLaa/642
+#EXTINF:0 tvg-logo="http://iv.pe/pSv" group-title="Diversão 24H",FALCAO AZUL E O BIONICAO
+http://eyplay.io:80/NAA7k2/ncRLaa/643
+#EXTINF:0 tvg-logo="http://iv.pe/ztc" group-title="Diversão 24H",FANTASMINHA LEGAL
+http://eyplay.io:80/NAA7k2/ncRLaa/644
+#EXTINF:0 tvg-logo="http://iv.pe/bFr" group-title="Diversão 24H",FANTASMINO O FANTASMA GALOPANTE
+http://eyplay.io:80/NAA7k2/ncRLaa/645
+#EXTINF:0 tvg-logo="http://iv.pe/ipb" group-title="Diversão 24H",FLY O PEQUENO GUERREIRO
+http://eyplay.io:80/NAA7k2/ncRLaa/646
+#EXTINF:0 tvg-logo="http://iv.pe/Qrv" group-title="Diversão 24H",FRANKENSTEIN JUNIOR
+http://eyplay.io:80/NAA7k2/ncRLaa/647
+#EXTINF:0 tvg-logo="http://iv.pe/TDB" group-title="Diversão 24H",FREAKAZOID
+http://eyplay.io:80/NAA7k2/ncRLaa/648
+#EXTINF:0 tvg-logo="http://iv.pe/Hl7" group-title="Diversão 24H",GALINHA PINTADINHA
+http://eyplay.io:80/NAA7k2/ncRLaa/660
+#EXTINF:0 tvg-logo="http://iv.pe/q1W" group-title="Diversão 24H",GASPARZINHO E AMIGOS
+http://eyplay.io:80/NAA7k2/ncRLaa/668
+#EXTINF:0 tvg-logo="http://iv.pe/Ex7" group-title="Diversão 24H",GO DIEGO GO
+http://eyplay.io:80/NAA7k2/ncRLaa/670
+#EXTINF:0 tvg-logo="http://iv.pe/Mk7" group-title="Diversão 24H",GUERREIRAS MAGICAS DE RAYEARTH
+http://eyplay.io:80/NAA7k2/ncRLaa/671
+#EXTINF:0 tvg-logo="http://iv.pe/BSV" group-title="Diversão 24H",GUNDAM WING
+http://eyplay.io:80/NAA7k2/ncRLaa/672
+#EXTINF:0 tvg-logo="http://iv.pe/51P" group-title="Diversão 24H",HAMTARO
+http://eyplay.io:80/NAA7k2/ncRLaa/673
+#EXTINF:0 tvg-logo="http://iv.pe/MRc" group-title="Diversão 24H",HELLO KITTY
+http://eyplay.io:80/NAA7k2/ncRLaa/674
+#EXTINF:0 tvg-logo="http://iv.pe/cCp" group-title="Diversão 24H",HEY ARNOLD T01
+http://eyplay.io:80/NAA7k2/ncRLaa/675
+#EXTINF:0 tvg-logo="http://iv.pe/zJX" group-title="Diversão 24H",HEY ARNOLD T02
+http://eyplay.io:80/NAA7k2/ncRLaa/676
+#EXTINF:0 tvg-logo="http://iv.pe/J0E" group-title="Diversão 24H",HEY ARNOLD T03
+http://eyplay.io:80/NAA7k2/ncRLaa/677
+#EXTINF:0 tvg-logo="http://iv.pe/pfJ" group-title="Diversão 24H",HEY ARNOLD T05
+http://eyplay.io:80/NAA7k2/ncRLaa/678
+#EXTINF:0 tvg-logo="http://iv.pe/lsZ" group-title="Diversão 24H",HISTÓRIAS ANIMADAS DO NOVO TESTAMENTO
+http://eyplay.io:80/NAA7k2/ncRLaa/680
+#EXTINF:0 tvg-logo="http://iv.pe/pIs" group-title="Diversão 24H",HISTÓRIAS ANIMADAS DO VELHO TESTAMENTO
+http://eyplay.io:80/NAA7k2/ncRLaa/681
+#EXTINF:0 tvg-logo="http://iv.pe/HFb" group-title="Diversão 24H",HOMEM ARANHA ACAO SEM LIMITES
+http://eyplay.io:80/NAA7k2/ncRLaa/682
+#EXTINF:0 tvg-logo="http://iv.pe/uRl" group-title="Diversão 24H",HOMEM PASSARO
+http://eyplay.io:80/NAA7k2/ncRLaa/683
+#EXTINF:0 tvg-logo="http://iv.pe/1bU" group-title="Diversão 24H",HOT WHEELS BATTLE FORCE 5
+http://eyplay.io:80/NAA7k2/ncRLaa/684
+#EXTINF:0 tvg-logo="http://iv.pe/659" group-title="Diversão 24H",ICARLY T01
+http://eyplay.io:80/NAA7k2/ncRLaa/685
+#EXTINF:0 tvg-logo="http://iv.pe/qxa" group-title="Diversão 24H",iCarly T02
+http://eyplay.io:80/NAA7k2/ncRLaa/686
+#EXTINF:0 tvg-logo="http://iv.pe/ZI2" group-title="Diversão 24H",iCarly T03
+http://eyplay.io:80/NAA7k2/ncRLaa/687
+#EXTINF:0 tvg-logo="http://iv.pe/N8V" group-title="Diversão 24H",iCarly T04
+http://eyplay.io:80/NAA7k2/ncRLaa/688
+#EXTINF:0 tvg-logo="http://iv.pe/3Q9" group-title="Diversão 24H",iCarly T06
+http://eyplay.io:80/NAA7k2/ncRLaa/690
+#EXTINF:0 tvg-logo="http://iv.pe/XFo" group-title="Diversão 24H",iCarly T07
+http://eyplay.io:80/NAA7k2/ncRLaa/691
+#EXTINF:0 tvg-logo="http://iv.pe/fgD" group-title="Diversão 24H",ILHA DOS DESAFIOS
+http://eyplay.io:80/NAA7k2/ncRLaa/692
+#EXTINF:0 tvg-logo="http://iv.pe/9UR" group-title="Diversão 24H",INVASOR ZIM
+http://eyplay.io:80/NAA7k2/ncRLaa/693
+#EXTINF:0 tvg-logo="http://iv.pe/Np9" group-title="Diversão 24H",IRMAO DO JOREL
+http://eyplay.io:80/NAA7k2/ncRLaa/694
+#EXTINF:0 tvg-logo="http://iv.pe/A2l" group-title="Diversão 24H",JAMBO E RUIVAO
+http://eyplay.io:80/NAA7k2/ncRLaa/695
+#EXTINF:0 tvg-logo="http://iv.pe/yq9" group-title="Diversão 24H",JASPION
+http://eyplay.io:80/NAA7k2/ncRLaa/696
+#EXTINF:0 tvg-logo="http://iv.pe/n2x" group-title="Diversão 24H",JOHNNY BRAVO
+http://eyplay.io:80/NAA7k2/ncRLaa/697
+#EXTINF:0 tvg-logo="http://iv.pe/4qj" group-title="Diversão 24H",JONNY QUEST
+http://eyplay.io:80/NAA7k2/ncRLaa/698
+#EXTINF:0 tvg-logo="http://iv.pe/dAI" group-title="Diversão 24H",JUBEI CHAN THE NINJA GIRL
+http://eyplay.io:80/NAA7k2/ncRLaa/700
+#EXTINF:0 tvg-logo="http://iv.pe/vZf" group-title="Diversão 24H",KENAN E KELL
+http://eyplay.io:80/NAA7k2/ncRLaa/701
+#EXTINF:0 tvg-logo="http://iv.pe/8Y6" group-title="Diversão 24H",KIM POSSIBLE
+http://eyplay.io:80/NAA7k2/ncRLaa/702
+#EXTINF:0 tvg-logo="http://iv.pe/7hI" group-title="Diversão 24H",KND A TURMA DO BAIRRO
+http://eyplay.io:80/NAA7k2/ncRLaa/703
+#EXTINF:0 tvg-logo="http://iv.pe/B6a" group-title="Diversão 24H",Largados e Pelados A Tribo T01
+http://eyplay.io:80/NAA7k2/ncRLaa/704
+#EXTINF:0 tvg-logo="http://iv.pe/et9" group-title="Diversão 24H",Largados e Pelados A Tribo T02
+http://eyplay.io:80/NAA7k2/ncRLaa/705
+#EXTINF:0 tvg-logo="http://iv.pe/lGq" group-title="Diversão 24H",Largados e Pelados A Tribo T03
+http://eyplay.io:80/NAA7k2/ncRLaa/706
+#EXTINF:0 tvg-logo="http://iv.pe/Tb9" group-title="Diversão 24H",LARVAS
+http://eyplay.io:80/NAA7k2/ncRLaa/707
+#EXTINF:0 tvg-logo="http://iv.pe/01h" group-title="Diversão 24H",LAZY TOWN
+http://eyplay.io:80/NAA7k2/ncRLaa/708
+#EXTINF:0 tvg-logo="http://iv.pe/fhf" group-title="Diversão 24H",LIPPY E HARDY
+http://eyplay.io:80/NAA7k2/ncRLaa/710
+#EXTINF:0 tvg-logo="http://iv.pe/cnA" group-title="Diversão 24H",LORDE GATO E A TURMA DO ABOBRINHA
+http://eyplay.io:80/NAA7k2/ncRLaa/711
+#EXTINF:0 tvg-logo="http://iv.pe/9S6" group-title="Diversão 24H",LULUZINHA
+http://eyplay.io:80/NAA7k2/ncRLaa/712
+#EXTINF:0 tvg-logo="http://iv.pe/fce" group-title="Diversão 24H",MADELINE
+http://eyplay.io:80/NAA7k2/ncRLaa/713
+#EXTINF:0 tvg-logo="http://iv.pe/ktB" group-title="Diversão 24H",MAGUILA O GORILA
+http://eyplay.io:80/NAA7k2/ncRLaa/714
+#EXTINF:0 tvg-logo="http://iv.pe/OQK" group-title="Diversão 24H",MANDA CHUVA
+http://eyplay.io:80/NAA7k2/ncRLaa/715
+#EXTINF:0 tvg-logo="http://iv.pe/Ufc" group-title="Diversão 24H",MANUAL DO NED
+http://eyplay.io:80/NAA7k2/ncRLaa/716
+#EXTINF:0 tvg-logo="http://iv.pe/Ab7" group-title="Diversão 24H",MARCELINO PAO E VINHO
+http://eyplay.io:80/NAA7k2/ncRLaa/717
+#EXTINF:0 tvg-logo="http://iv.pe/MAh" group-title="Diversão 24H",MARTIN MYSTERY
+http://eyplay.io:80/NAA7k2/ncRLaa/718
+#EXTINF:0 tvg-logo="http://iv.pe/GpD" group-title="Diversão 24H",MECANIMAIS
+http://eyplay.io:80/NAA7k2/ncRLaa/720
+#EXTINF:0 tvg-logo="http://iv.pe/6D5" group-title="Diversão 24H",MEDABOTS
+http://eyplay.io:80/NAA7k2/ncRLaa/721
+#EXTINF:0 tvg-logo="http://iv.pe/20m" group-title="Diversão 24H",MEGAMAN
+http://eyplay.io:80/NAA7k2/ncRLaa/722
+#EXTINF:0 tvg-logo="http://iv.pe/Nzk" group-title="Diversão 24H",MEGAS XR
+http://eyplay.io:80/NAA7k2/ncRLaa/723
+#EXTINF:0 tvg-logo="http://iv.pe/93Z" group-title="Diversão 24H",MEU MELHOR AMIGO DA ESCOLA E UM MACACO
+http://eyplay.io:80/NAA7k2/ncRLaa/724
+#EXTINF:0 tvg-logo="http://iv.pe/MZz" group-title="Diversão 24H",MIB HOMENS DE PRETO
+http://eyplay.io:80/NAA7k2/ncRLaa/725
+#EXTINF:0 tvg-logo="http://iv.pe/4rN" group-title="Diversão 24H",MISSION HILL
+http://eyplay.io:80/NAA7k2/ncRLaa/726
+#EXTINF:0 tvg-logo="http://iv.pe/qWZ" group-title="Diversão 24H",MOBY DICK
+http://eyplay.io:80/NAA7k2/ncRLaa/727
+#EXTINF:0 tvg-logo="http://iv.pe/C5C" group-title="Diversão 24H",MORANGUINHO CLASSICO
+http://eyplay.io:80/NAA7k2/ncRLaa/728
+#EXTINF:0 tvg-logo="http://iv.pe/c3b" group-title="Diversão 24H",MOSQUITO MOSQUETE E MOSCARDO
+http://eyplay.io:80/NAA7k2/ncRLaa/730
+#EXTINF:0 tvg-logo="http://iv.pe/I7v" group-title="Diversão 24H",MR. BEAN
+http://eyplay.io:80/NAA7k2/ncRLaa/731
+#EXTINF:0 tvg-logo="http://iv.pe/WFu" group-title="Diversão 24H",MUCHA LUCHA
+http://eyplay.io:80/NAA7k2/ncRLaa/732
+#EXTINF:0 tvg-logo="http://iv.pe/yPq" group-title="Diversão 24H",MUSCULO TOTAL
+http://eyplay.io:80/NAA7k2/ncRLaa/733
+#EXTINF:0 tvg-logo="http://iv.pe/GZr" group-title="Diversão 24H",MUTANTE REX 2010 - 2013
+http://eyplay.io:80/NAA7k2/ncRLaa/734
+#EXTINF:0 tvg-logo="http://iv.pe/elM" group-title="Diversão 24H",NARCOS T01
+http://eyplay.io:80/NAA7k2/ncRLaa/735
+#EXTINF:0 tvg-logo="http://iv.pe/YWS" group-title="Diversão 24H",NARCOS T02
+http://eyplay.io:80/NAA7k2/ncRLaa/736
+#EXTINF:0 tvg-logo="http://iv.pe/1l0" group-title="Diversão 24H",NARUTO CLASSICO T01
+http://eyplay.io:80/NAA7k2/ncRLaa/737
+#EXTINF:0 tvg-logo="http://iv.pe/eah" group-title="Diversão 24H",NARUTO CLASSICO T02
+http://eyplay.io:80/NAA7k2/ncRLaa/738
+#EXTINF:0 tvg-logo="http://iv.pe/bOQ" group-title="Diversão 24H",NARUTO CLASSICO T04
+http://eyplay.io:80/NAA7k2/ncRLaa/740
+#EXTINF:0 tvg-logo="http://iv.pe/zhG" group-title="Diversão 24H",NARUTO CLASSICO T05
+http://eyplay.io:80/NAA7k2/ncRLaa/741
+#EXTINF:0 tvg-logo="http://iv.pe/j8p" group-title="Diversão 24H",NARUTO CLASSICO T06
+http://eyplay.io:80/NAA7k2/ncRLaa/742
+#EXTINF:0 tvg-logo="http://iv.pe/xbY" group-title="Diversão 24H",NARUTO CLASSICO T07
+http://eyplay.io:80/NAA7k2/ncRLaa/743
+#EXTINF:0 tvg-logo="http://iv.pe/d5J" group-title="Diversão 24H",NARUTO CLASSICO T08
+http://eyplay.io:80/NAA7k2/ncRLaa/744
+#EXTINF:0 tvg-logo="http://iv.pe/I1Q" group-title="Diversão 24H",NARUTO CLASSICO T09
+http://eyplay.io:80/NAA7k2/ncRLaa/745
+#EXTINF:0 tvg-logo="http://iv.pe/5qH" group-title="Diversão 24H",NOVO BANANA DE PIJAMAS
+http://eyplay.io:80/NAA7k2/ncRLaa/746
+#EXTINF:0 tvg-logo="http://iv.pe/dqi" group-title="Diversão 24H",O ACAMPAMENTO DE LAZLO
+http://eyplay.io:80/NAA7k2/ncRLaa/747
+#EXTINF:0 tvg-logo="http://iv.pe/fSl" group-title="Diversão 24H",O CHAPOLIN COLORADO
+http://eyplay.io:80/NAA7k2/ncRLaa/748
+#EXTINF:0 tvg-logo="http://iv.pe/vY3" group-title="Diversão 24H",O GATO DE BOTAS
+http://eyplay.io:80/NAA7k2/ncRLaa/750
+#EXTINF:0 tvg-logo="http://iv.pe/Xdv" group-title="Diversão 24H",O INSPETOR
+http://eyplay.io:80/NAA7k2/ncRLaa/751
+#EXTINF:0 tvg-logo="http://iv.pe/tWQ" group-title="Diversão 24H",O MASKARA 1995 - SERIA ANIMADA
+http://eyplay.io:80/NAA7k2/ncRLaa/752
+#EXTINF:0 tvg-logo="http://iv.pe/YdU" group-title="Diversão 24H",O MUNDO DE BITA
+http://eyplay.io:80/NAA7k2/ncRLaa/753
+#EXTINF:0 tvg-logo="http://iv.pe/Hmv" group-title="Diversão 24H",O ONIBUS MAGICO
+http://eyplay.io:80/NAA7k2/ncRLaa/754
+#EXTINF:0 tvg-logo="http://iv.pe/ma1" group-title="Diversão 24H",O PEQUENO PRINCIPE
+http://eyplay.io:80/NAA7k2/ncRLaa/755
+#EXTINF:0 tvg-logo="http://iv.pe/SMw" group-title="Diversão 24H",O PEQUENO SCOOBY DOO
+http://eyplay.io:80/NAA7k2/ncRLaa/756
+#EXTINF:0 tvg-logo="http://iv.pe/aWB" group-title="Diversão 24H",O PEQUENO URSO 1995
+http://eyplay.io:80/NAA7k2/ncRLaa/757
+#EXTINF:0 tvg-logo="http://iv.pe/IBd" group-title="Diversão 24H",O QUE HA DE NOVO SCOOBY DOO
+http://eyplay.io:80/NAA7k2/ncRLaa/758
+#EXTINF:0 tvg-logo="http://iv.pe/dOu" group-title="Diversão 24H",O SHOW DA LUNA
+http://eyplay.io:80/NAA7k2/ncRLaa/760
+#EXTINF:0 tvg-logo="http://iv.pe/DRM" group-title="Diversão 24H",O SHOW DO NOVO PICA-PAU
+http://eyplay.io:80/NAA7k2/ncRLaa/761
+#EXTINF:0 tvg-logo="http://iv.pe/vQz" group-title="Diversão 24H",O SHOW DO ZE COLMEIA
+http://eyplay.io:80/NAA7k2/ncRLaa/762
+#EXTINF:0 tvg-logo="http://iv.pe/cwR" group-title="Diversão 24H",O XODO DA VOVO
+http://eyplay.io:80/NAA7k2/ncRLaa/763
+#EXTINF:0 tvg-logo="http://iv.pe/6nM" group-title="Diversão 24H",OS ANIMAIS DO BOSQUE DOS VINTENS
+http://eyplay.io:80/NAA7k2/ncRLaa/764
+#EXTINF:0 tvg-logo="http://iv.pe/MvL" group-title="Diversão 24H",OS CASTORES PIRADOS
+http://eyplay.io:80/NAA7k2/ncRLaa/765
+#EXTINF:0 tvg-logo="http://iv.pe/N2f" group-title="Diversão 24H",OS CAVALEIROS DOS ZODIACOS COMPLETO
+http://eyplay.io:80/NAA7k2/ncRLaa/766
+#EXTINF:0 tvg-logo="http://iv.pe/3We" group-title="Diversão 24H",OS CAVALEIROS DOS ZODIACOS SAGA DE ASGARD
+http://eyplay.io:80/NAA7k2/ncRLaa/767
+#EXTINF:0 tvg-logo="http://iv.pe/7nd" group-title="Diversão 24H",OS CAVALEIROS DOS ZODIACOS SAGA DE HADES
+http://eyplay.io:80/NAA7k2/ncRLaa/768
+#EXTINF:0 tvg-logo="http://iv.pe/c3R" group-title="Diversão 24H",OS CAVALEIROS DOS ZODIACOS SAGA DO SANTUARIO
+http://eyplay.io:80/NAA7k2/ncRLaa/770
+#EXTINF:0 tvg-logo="http://iv.pe/zb6" group-title="Diversão 24H",OS FLINTSTONES T01
+http://eyplay.io:80/NAA7k2/ncRLaa/771
+#EXTINF:0 tvg-logo="http://iv.pe/RvY" group-title="Diversão 24H",OS FLINTSTONES T02
+http://eyplay.io:80/NAA7k2/ncRLaa/772
+#EXTINF:0 tvg-logo="http://iv.pe/aJd" group-title="Diversão 24H",OS FLINTSTONES T03
+http://eyplay.io:80/NAA7k2/ncRLaa/773
+#EXTINF:0 tvg-logo="http://iv.pe/eaJ" group-title="Diversão 24H",OS FLINTSTONES T04
+http://eyplay.io:80/NAA7k2/ncRLaa/774
+#EXTINF:0 tvg-logo="http://iv.pe/25k" group-title="Diversão 24H",OS FLINTSTONES T05
+http://eyplay.io:80/NAA7k2/ncRLaa/775
+#EXTINF:0 tvg-logo="http://iv.pe/Bmj" group-title="Diversão 24H",OS FLINTSTONES T06
+http://eyplay.io:80/NAA7k2/ncRLaa/776
+#EXTINF:0 tvg-logo="http://iv.pe/tPj" group-title="Diversão 24H",OS GARGULAS
+http://eyplay.io:80/NAA7k2/ncRLaa/777
+#EXTINF:0 tvg-logo="http://iv.pe/RQQ" group-title="Diversão 24H",OS IMPOSSIVEIS
+http://eyplay.io:80/NAA7k2/ncRLaa/778
+#EXTINF:0 tvg-logo="http://iv.pe/XdH" group-title="Diversão 24H",OS JOVENS TITAS 2003 - 2006
+http://eyplay.io:80/NAA7k2/ncRLaa/780
+#EXTINF:0 tvg-logo="http://iv.pe/h9I" group-title="Diversão 24H",OS PINGUINS DE MADAGASCAR
+http://eyplay.io:80/NAA7k2/ncRLaa/781
+#EXTINF:0 tvg-logo="http://iv.pe/TwL" group-title="Diversão 24H",OS SETE MONSTRINHOS
+http://eyplay.io:80/NAA7k2/ncRLaa/782
+#EXTINF:0 tvg-logo="http://iv.pe/2Zc" group-title="Diversão 24H",OS SIMPSONS T01
+http://eyplay.io:80/NAA7k2/ncRLaa/783
+#EXTINF:0 tvg-logo="http://iv.pe/4CO" group-title="Diversão 24H",OS SIMPSONS T02
+http://eyplay.io:80/NAA7k2/ncRLaa/784
+#EXTINF:0 tvg-logo="http://iv.pe/pXu" group-title="Diversão 24H",OS SIMPSONS T03
+http://eyplay.io:80/NAA7k2/ncRLaa/785
+#EXTINF:0 tvg-logo="http://iv.pe/Rv3" group-title="Diversão 24H",OS SIMPSONS T04
+http://eyplay.io:80/NAA7k2/ncRLaa/786
+#EXTINF:0 tvg-logo="http://iv.pe/SZI" group-title="Diversão 24H",OS SIMPSONS T05
+http://eyplay.io:80/NAA7k2/ncRLaa/787
+#EXTINF:0 tvg-logo="http://iv.pe/4nq" group-title="Diversão 24H",OS SIMPSONS T06
+http://eyplay.io:80/NAA7k2/ncRLaa/788
+#EXTINF:0 tvg-logo="http://iv.pe/6oy" group-title="Diversão 24H",OS SIMPSONS T08
+http://eyplay.io:80/NAA7k2/ncRLaa/790
+#EXTINF:0 tvg-logo="http://iv.pe/TpJ" group-title="Diversão 24H",OS SIMPSONS T09
+http://eyplay.io:80/NAA7k2/ncRLaa/791
+#EXTINF:0 tvg-logo="http://iv.pe/cUF" group-title="Diversão 24H",OS SIMPSONS T10
+http://eyplay.io:80/NAA7k2/ncRLaa/792
+#EXTINF:0 tvg-logo="http://iv.pe/yBH" group-title="Diversão 24H",OS SIMPSONS T11
+http://eyplay.io:80/NAA7k2/ncRLaa/793
+#EXTINF:0 tvg-logo="http://iv.pe/tMY" group-title="Diversão 24H",OS SIMPSONS T12
+http://eyplay.io:80/NAA7k2/ncRLaa/794
+#EXTINF:0 tvg-logo="http://iv.pe/7Gg" group-title="Diversão 24H",OS SIMPSONS T13
+http://eyplay.io:80/NAA7k2/ncRLaa/795
+#EXTINF:0 tvg-logo="http://iv.pe/LPs" group-title="Diversão 24H",OS SIMPSONS T14
+http://eyplay.io:80/NAA7k2/ncRLaa/796
+#EXTINF:0 tvg-logo="http://iv.pe/FUN" group-title="Diversão 24H",OS SIMPSONS T15
+http://eyplay.io:80/NAA7k2/ncRLaa/797
+#EXTINF:0 tvg-logo="http://iv.pe/h2J" group-title="Diversão 24H",OS SIMPSONS T16
+http://eyplay.io:80/NAA7k2/ncRLaa/798
+#EXTINF:0 tvg-logo="http://iv.pe/TFL" group-title="Diversão 24H",OS SIMPSONS T18
+http://eyplay.io:80/NAA7k2/ncRLaa/800
+#EXTINF:0 tvg-logo="http://iv.pe/MJl" group-title="Diversão 24H",OS SIMPSONS T19
+http://eyplay.io:80/NAA7k2/ncRLaa/801
+#EXTINF:0 tvg-logo="http://iv.pe/SKZ" group-title="Diversão 24H",OS SIMPSONS T20
+http://eyplay.io:80/NAA7k2/ncRLaa/802
+#EXTINF:0 tvg-logo="http://iv.pe/YYK" group-title="Diversão 24H",OS SIMPSONS T21
+http://eyplay.io:80/NAA7k2/ncRLaa/803
+#EXTINF:0 tvg-logo="http://iv.pe/hhA" group-title="Diversão 24H",OS SIMPSONS T22
+http://eyplay.io:80/NAA7k2/ncRLaa/804
+#EXTINF:0 tvg-logo="http://iv.pe/V7J" group-title="Diversão 24H",OS SIMPSONS T23
+http://eyplay.io:80/NAA7k2/ncRLaa/805
+#EXTINF:0 tvg-logo="http://iv.pe/evz" group-title="Diversão 24H",OS SIMPSONS T24
+http://eyplay.io:80/NAA7k2/ncRLaa/806
+#EXTINF:0 tvg-logo="http://iv.pe/cZP" group-title="Diversão 24H",OS SIMPSONS T25
+http://eyplay.io:80/NAA7k2/ncRLaa/807
+#EXTINF:0 tvg-logo="http://iv.pe/SHX" group-title="Diversão 24H",OS SIMPSONS T26
+http://eyplay.io:80/NAA7k2/ncRLaa/808
+#EXTINF:0 tvg-logo="http://iv.pe/w5w" group-title="Diversão 24H",OS SIMPSONS T28
+http://eyplay.io:80/NAA7k2/ncRLaa/810
+#EXTINF:0 tvg-logo="http://iv.pe/YpC" group-title="Diversão 24H",OS SUPER PATOS
+http://eyplay.io:80/NAA7k2/ncRLaa/811
+#EXTINF:0 tvg-logo="http://iv.pe/ayX" group-title="Diversão 24H",OS TRAPALHOES
+http://eyplay.io:80/NAA7k2/ncRLaa/812
+#EXTINF:0 tvg-logo="http://iv.pe/CRF" group-title="Diversão 24H",OS TRAPALHOES CLASSICO
+http://eyplay.io:80/NAA7k2/ncRLaa/813
+#EXTINF:0 tvg-logo="http://iv.pe/mfL" group-title="Diversão 24H",OS URSINHOS GUMMI
+http://eyplay.io:80/NAA7k2/ncRLaa/814
+#EXTINF:0 tvg-logo="http://iv.pe/BKX" group-title="Diversão 24H",OS VALENTES COWBOYS DE MOO MESA
+http://eyplay.io:80/NAA7k2/ncRLaa/815
+#EXTINF:0 tvg-logo="http://iv.pe/1eJ" group-title="Diversão 24H",OS VIDEOS MAIS INCRIVEIS DO MUNDO
+http://eyplay.io:80/NAA7k2/ncRLaa/816
+#EXTINF:0 tvg-logo="http://iv.pe/MTP" group-title="Diversão 24H",OS VINGADORES
+http://eyplay.io:80/NAA7k2/ncRLaa/817
+#EXTINF:0 tvg-logo="http://iv.pe/39R" group-title="Diversão 24H",OSWALDO
+http://eyplay.io:80/NAA7k2/ncRLaa/818
+#EXTINF:0 tvg-logo="http://iv.pe/kbx" group-title="Diversão 24H",PARTOBA
+http://eyplay.io:80/NAA7k2/ncRLaa/820
+#EXTINF:0 tvg-logo="http://iv.pe/mzy" group-title="Diversão 24H",PATRULHA CANINA T01
+http://eyplay.io:80/NAA7k2/ncRLaa/821
+#EXTINF:0 tvg-logo="http://iv.pe/Lb9" group-title="Diversão 24H",PATRULHA CANINA T02
+http://eyplay.io:80/NAA7k2/ncRLaa/822
+#EXTINF:0 tvg-logo="http://iv.pe/uDn" group-title="Diversão 24H",PATRULHA CANINA T03
+http://eyplay.io:80/NAA7k2/ncRLaa/823
+#EXTINF:0 tvg-logo="http://iv.pe/ZeK" group-title="Diversão 24H",PATRULHA ESTELAR
+http://eyplay.io:80/NAA7k2/ncRLaa/824
+#EXTINF:0 tvg-logo="http://iv.pe/3xF" group-title="Diversão 24H",PEPE LE PEW
+http://eyplay.io:80/NAA7k2/ncRLaa/827
+#EXTINF:0 tvg-logo="http://iv.pe/Gpg" group-title="Diversão 24H",PEPPA PIG
+http://eyplay.io:80/NAA7k2/ncRLaa/828
+#EXTINF:0 tvg-logo="http://iv.pe/HzB" group-title="Diversão 24H",PERDIDOS NO ESPACO
+http://eyplay.io:80/NAA7k2/ncRLaa/830
+#EXTINF:0 tvg-logo="http://iv.pe/Ep5" group-title="Diversão 24H",PERNALONGA E SUA TURMA
+http://eyplay.io:80/NAA7k2/ncRLaa/831
+#EXTINF:0 tvg-logo="http://iv.pe/N6s" group-title="Diversão 24H",PHINEAS E FERB
+http://eyplay.io:80/NAA7k2/ncRLaa/832
+#EXTINF:0 tvg-logo="http://iv.pe/HNy" group-title="Diversão 24H",PICA PAU (WOODY WOODPECKER)
+http://eyplay.io:80/NAA7k2/ncRLaa/833
+#EXTINF:0 tvg-logo="http://iv.pe/y57" group-title="Diversão 24H",PINKY E CEREBRO
+http://eyplay.io:80/NAA7k2/ncRLaa/834
+#EXTINF:0 tvg-logo="http://iv.pe/ldr" group-title="Diversão 24H",PLANET SURVIVAL
+http://eyplay.io:80/NAA7k2/ncRLaa/835
+#EXTINF:0 tvg-logo="http://iv.pe/PXw" group-title="Diversão 24H",POCOYO
+http://eyplay.io:80/NAA7k2/ncRLaa/836
+#EXTINF:0 tvg-logo="http://iv.pe/iBB" group-title="Diversão 24H",POPEYE 75TH ANNIVERSARY
+http://eyplay.io:80/NAA7k2/ncRLaa/850
+#EXTINF:0 tvg-logo="http://iv.pe/rTm" group-title="Diversão 24H",POWER RANGERS MIGHTY MORPHIN 1 TEMPORADA
+http://eyplay.io:80/NAA7k2/ncRLaa/851
+#EXTINF:0 tvg-logo="http://iv.pe/9SW" group-title="Diversão 24H",PROJETO ZETA
+http://eyplay.io:80/NAA7k2/ncRLaa/852
+#EXTINF:0 tvg-logo="http://iv.pe/Fou" group-title="Diversão 24H",RAGNAROK
+http://eyplay.io:80/NAA7k2/ncRLaa/853
+#EXTINF:0 tvg-logo="http://iv.pe/q5J" group-title="Diversão 24H",RECRUTA ZERO
+http://eyplay.io:80/NAA7k2/ncRLaa/854
+#EXTINF:0 tvg-logo="http://iv.pe/ACF" group-title="Diversão 24H",REDAKAI
+http://eyplay.io:80/NAA7k2/ncRLaa/855
+#EXTINF:0 tvg-logo="http://iv.pe/H4C" group-title="Diversão 24H",REN E STIMPY
+http://eyplay.io:80/NAA7k2/ncRLaa/856
+#EXTINF:0 tvg-logo="http://iv.pe/ypo" group-title="Diversão 24H",RIQUINHO
+http://eyplay.io:80/NAA7k2/ncRLaa/857
+#EXTINF:0 tvg-logo="http://iv.pe/yOC" group-title="Diversão 24H",RUGRATS OS ANJINHOS
+http://eyplay.io:80/NAA7k2/ncRLaa/858
+#EXTINF:0 tvg-logo="http://iv.pe/kKc" group-title="Diversão 24H",SAKURA CARD CAPTORS
+http://eyplay.io:80/NAA7k2/ncRLaa/868
+#EXTINF:0 tvg-logo="http://iv.pe/H3W" group-title="Diversão 24H",SAMURAI WARRIORS
+http://eyplay.io:80/NAA7k2/ncRLaa/870
+#EXTINF:0 tvg-logo="http://iv.pe/UfF" group-title="Diversão 24H",SCOOB DOO SHOW
+http://eyplay.io:80/NAA7k2/ncRLaa/871
+#EXTINF:0 tvg-logo="http://iv.pe/PeO" group-title="Diversão 24H",SERIE HERCULES
+http://eyplay.io:80/NAA7k2/ncRLaa/872
+#EXTINF:0 tvg-logo="http://iv.pe/TI4" group-title="Diversão 24H",SITIO DO PICAPAU AMARELO
+http://eyplay.io:80/NAA7k2/ncRLaa/878
+#EXTINF:0 tvg-logo="http://iv.pe/Xv7" group-title="Diversão 24H",SONIC X
+http://eyplay.io:80/NAA7k2/ncRLaa/890
+#EXTINF:0 tvg-logo="http://iv.pe/9rq" group-title="Diversão 24H",SPEED RACER A NOVA GERACAO
+http://eyplay.io:80/NAA7k2/ncRLaa/912
+#EXTINF:0 tvg-logo="http://iv.pe/AKU" group-title="Diversão 24H",SPEED RACER CLASSICO
+http://eyplay.io:80/NAA7k2/ncRLaa/913
+#EXTINF:0 tvg-logo="http://iv.pe/JjF" group-title="Diversão 24H",SUPER AMIGOS
+http://eyplay.io:80/NAA7k2/ncRLaa/914
+#EXTINF:0 tvg-logo="http://iv.pe/SXv" group-title="Diversão 24H",SUPER MARIO BROS 3
+http://eyplay.io:80/NAA7k2/ncRLaa/915
+#EXTINF:0 tvg-logo="http://iv.pe/BgY" group-title="Diversão 24H",SUPERNATURAL T02
+http://eyplay.io:80/NAA7k2/ncRLaa/916
+#EXTINF:0 tvg-logo="http://iv.pe/2iw" group-title="Diversão 24H",Supernatural T02
+http://eyplay.io:80/NAA7k2/ncRLaa/917
+#EXTINF:0 tvg-logo="http://iv.pe/PaW" group-title="Diversão 24H",Supernatural T03
+http://eyplay.io:80/NAA7k2/ncRLaa/918
+#EXTINF:0 tvg-logo="http://iv.pe/r5g" group-title="Diversão 24H",Supernatural T05
+http://eyplay.io:80/NAA7k2/ncRLaa/920
+#EXTINF:0 tvg-logo="http://iv.pe/XLo" group-title="Diversão 24H",Supernatural T06
+http://eyplay.io:80/NAA7k2/ncRLaa/921
+#EXTINF:0 tvg-logo="http://iv.pe/pT7" group-title="Diversão 24H",Supernatural T07
+http://eyplay.io:80/NAA7k2/ncRLaa/922
+#EXTINF:0 tvg-logo="http://iv.pe/X47" group-title="Diversão 24H",Supernatural T08
+http://eyplay.io:80/NAA7k2/ncRLaa/923
+#EXTINF:0 tvg-logo="http://iv.pe/L2g" group-title="Diversão 24H",Supernatural T09
+http://eyplay.io:80/NAA7k2/ncRLaa/924
+#EXTINF:0 tvg-logo="http://iv.pe/fJz" group-title="Diversão 24H",Supernatural T10
+http://eyplay.io:80/NAA7k2/ncRLaa/925
+#EXTINF:0 tvg-logo="http://iv.pe/GeA" group-title="Diversão 24H",Supernatural T11
+http://eyplay.io:80/NAA7k2/ncRLaa/926
+#EXTINF:0 tvg-logo="http://iv.pe/IDm" group-title="Diversão 24H",Supernatural T12
+http://eyplay.io:80/NAA7k2/ncRLaa/927
+#EXTINF:0 tvg-logo="http://iv.pe/UJW" group-title="Diversão 24H",Supernatural T13
+http://eyplay.io:80/NAA7k2/ncRLaa/928
+#EXTINF:0 tvg-logo="http://iv.pe/8VE" group-title="Diversão 24H",TARTARUGA TOUCHE E DUM DUM
+http://eyplay.io:80/NAA7k2/ncRLaa/930
+#EXTINF:0 tvg-logo="http://iv.pe/KGD" group-title="Diversão 24H",TARZAN
+http://eyplay.io:80/NAA7k2/ncRLaa/931
+#EXTINF:0 tvg-logo="http://iv.pe/aG1" group-title="Diversão 24H",TARZAN O REI DA SELVA
+http://eyplay.io:80/NAA7k2/ncRLaa/932
+#EXTINF:0 tvg-logo="http://iv.pe/cCz" group-title="Diversão 24H",TAZ-MANIA
+http://eyplay.io:80/NAA7k2/ncRLaa/933
+#EXTINF:0 tvg-logo="http://iv.pe/Ato" group-title="Diversão 24H",TEAM GALAXY
+http://eyplay.io:80/NAA7k2/ncRLaa/934
+#EXTINF:0 tvg-logo="http://iv.pe/pyD" group-title="Diversão 24H",TELETUBBIES CLASSICO
+http://eyplay.io:80/NAA7k2/ncRLaa/935
+#EXTINF:0 tvg-logo="http://iv.pe/C3s" group-title="Diversão 24H",TELETUBBIES NOVO
+http://eyplay.io:80/NAA7k2/ncRLaa/936
+#EXTINF:0 tvg-logo="http://iv.pe/l04" group-title="Diversão 24H",TELETUBBIES STOP MOTION
+http://eyplay.io:80/NAA7k2/ncRLaa/937
+#EXTINF:0 tvg-logo="http://iv.pe/zTx" group-title="Diversão 24H",The Big Bang Theory T01
+http://eyplay.io:80/NAA7k2/ncRLaa/938
+#EXTINF:0 tvg-logo="http://iv.pe/Jp9" group-title="Diversão 24H",The Big Bang Theory T03
+http://eyplay.io:80/NAA7k2/ncRLaa/940
+#EXTINF:0 tvg-logo="http://iv.pe/CWd" group-title="Diversão 24H",The Big Bang Theory T04
+http://eyplay.io:80/NAA7k2/ncRLaa/941
+#EXTINF:0 tvg-logo="http://iv.pe/Vhp" group-title="Diversão 24H",The Big Bang Theory T05
+http://eyplay.io:80/NAA7k2/ncRLaa/942
+#EXTINF:0 tvg-logo="http://iv.pe/BAH" group-title="Diversão 24H",The Big Bang Theory T06
+http://eyplay.io:80/NAA7k2/ncRLaa/943
+#EXTINF:0 tvg-logo="http://iv.pe/4AY" group-title="Diversão 24H",The Big Bang Theory T07
+http://eyplay.io:80/NAA7k2/ncRLaa/944
+#EXTINF:0 tvg-logo="http://iv.pe/buP" group-title="Diversão 24H",The Big Bang Theory T08
+http://eyplay.io:80/NAA7k2/ncRLaa/945
+#EXTINF:0 tvg-logo="http://iv.pe/wjV" group-title="Diversão 24H",The Big Bang Theory T09
+http://eyplay.io:80/NAA7k2/ncRLaa/946
+#EXTINF:0 tvg-logo="http://iv.pe/P4e" group-title="Diversão 24H",The Big Bang Theory T10
+http://eyplay.io:80/NAA7k2/ncRLaa/947
+#EXTINF:0 tvg-logo="http://iv.pe/tjm" group-title="Diversão 24H",The Big Bang Theory T11
+http://eyplay.io:80/NAA7k2/ncRLaa/948
+#EXTINF:0 tvg-logo="http://iv.pe/Ge3" group-title="Diversão 24H",THE OBLONGS
+http://eyplay.io:80/NAA7k2/ncRLaa/950
+#EXTINF:0 tvg-logo="http://iv.pe/Tca" group-title="Diversão 24H",THOMAS E SEUS AMIGOS
+http://eyplay.io:80/NAA7k2/ncRLaa/951
+#EXTINF:0 tvg-logo="http://iv.pe/cFF" group-title="Diversão 24H",THUNDERCATS
+http://eyplay.io:80/NAA7k2/ncRLaa/952
+#EXTINF:0 tvg-logo="http://iv.pe/pnM" group-title="Diversão 24H",TIMAO E PUMBA
+http://eyplay.io:80/NAA7k2/ncRLaa/953
+#EXTINF:0 tvg-logo="http://iv.pe/3KF" group-title="Diversão 24H",TITA SIMBIONICO
+http://eyplay.io:80/NAA7k2/ncRLaa/954
+#EXTINF:0 tvg-logo="http://iv.pe/Q5G" group-title="Diversão 24H",TITIO AVO
+http://eyplay.io:80/NAA7k2/ncRLaa/955
+#EXTINF:0 tvg-logo="http://iv.pe/8g9" group-title="Diversão 24H",TODO MUNDO ODEIA O CHRIS T01
+http://eyplay.io:80/NAA7k2/ncRLaa/956
+#EXTINF:0 tvg-logo="http://iv.pe/RQg" group-title="Diversão 24H",TODO MUNDO ODEIA O CHRIS T02
+http://eyplay.io:80/NAA7k2/ncRLaa/957
+#EXTINF:0 tvg-logo="http://iv.pe/B4j" group-title="Diversão 24H",TODO MUNDO ODEIA O CHRIS T03
+http://eyplay.io:80/NAA7k2/ncRLaa/958
+#EXTINF:0 tvg-logo="http://iv.pe/aWn" group-title="Diversão 24H",TOM & JERRY
+http://eyplay.io:80/NAA7k2/ncRLaa/960
+#EXTINF:0 tvg-logo="http://iv.pe/xBR" group-title="Diversão 24H",TOURADAS
+http://eyplay.io:80/NAA7k2/ncRLaa/961
+#EXTINF:0 tvg-logo="http://iv.pe/uMK" group-title="Diversão 24H",TRES ESPIAS DEMAIS T01
+http://eyplay.io:80/NAA7k2/ncRLaa/962
+#EXTINF:0 tvg-logo="http://iv.pe/U6N" group-title="Diversão 24H",TRES ESPIAS DEMAIS T02
+http://eyplay.io:80/NAA7k2/ncRLaa/963
+#EXTINF:0 tvg-logo="http://iv.pe/LXV" group-title="Diversão 24H",TRES ESPIAS DEMAIS T03
+http://eyplay.io:80/NAA7k2/ncRLaa/964
+#EXTINF:0 tvg-logo="http://iv.pe/0ve" group-title="Diversão 24H",TRES ESPIAS DEMAIS T04
+http://eyplay.io:80/NAA7k2/ncRLaa/965
+#EXTINF:0 tvg-logo="http://iv.pe/tb6" group-title="Diversão 24H",TRES ESPIAS DEMAIS T05
+http://eyplay.io:80/NAA7k2/ncRLaa/966
+#EXTINF:0 tvg-logo="http://iv.pe/QMo" group-title="Diversão 24H",TUNEL DO TEMPO
+http://eyplay.io:80/NAA7k2/ncRLaa/967
+#EXTINF:0 tvg-logo="http://iv.pe/nPV" group-title="Diversão 24H",TUTUBARAO
+http://eyplay.io:80/NAA7k2/ncRLaa/968
+#EXTINF:0 tvg-logo="http://iv.pe/MUT" group-title="Diversão 24H",UM MALUCO NO PEDACO T01
+http://eyplay.io:80/NAA7k2/ncRLaa/970
+#EXTINF:0 tvg-logo="http://iv.pe/oIu" group-title="Diversão 24H",UM MALUCO NO PEDACO T02
+http://eyplay.io:80/NAA7k2/ncRLaa/971
+#EXTINF:0 tvg-logo="http://iv.pe/vXz" group-title="Diversão 24H",UM MALUCO NO PEDACO T03
+http://eyplay.io:80/NAA7k2/ncRLaa/972
+#EXTINF:0 tvg-logo="http://iv.pe/SDH" group-title="Diversão 24H",UM MALUCO NO PEDACO T04
+http://eyplay.io:80/NAA7k2/ncRLaa/973
+#EXTINF:0 tvg-logo="http://iv.pe/xYY" group-title="Diversão 24H",UM MALUCO NO PEDACO T05
+http://eyplay.io:80/NAA7k2/ncRLaa/974
+#EXTINF:0 tvg-logo="http://iv.pe/NRm" group-title="Diversão 24H",UM MALUCO NO PEDACO T06
+http://eyplay.io:80/NAA7k2/ncRLaa/975
+#EXTINF:0 tvg-logo="http://iv.pe/cnb" group-title="Diversão 24H",URSINHOS CARINHOSOS
+http://eyplay.io:80/NAA7k2/ncRLaa/976
+#EXTINF:0 tvg-logo="http://iv.pe/ggD" group-title="Diversão 24H",VALE DOS DINOSSAUROS
+http://eyplay.io:80/NAA7k2/ncRLaa/977
+#EXTINF:0 tvg-logo="http://iv.pe/sSw" group-title="Diversão 24H",WALLY GATOR
+http://eyplay.io:80/NAA7k2/ncRLaa/978
+#EXTINF:0 tvg-logo="http://iv.pe/phA" group-title="Diversão 24H",ZATCH BELL
+http://eyplay.io:80/NAA7k2/ncRLaa/987
+#EXTINF:0 tvg-logo="http://iv.pe/TQ2" group-title="Diversão 24H",ZE BUSCAPE
+http://eyplay.io:80/NAA7k2/ncRLaa/988
