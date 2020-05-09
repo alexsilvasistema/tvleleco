@@ -1,47 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",Estamos em manutenção
-http://192.99.150.31:8241/stream?
-
-#EXTINF:-1 group-title="Radiobla" pltv-subgroup="teste" tvg-name="Radio" tvg-logo="",Radio Anos 70
-http://192.99.150.31:8241/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Anos 80
-http://192.99.150.31:8697/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Anos 90 
-http://192.99.150.31:8056/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Anos 2000 
-http://6d9a.webradio.upx.net.br:9940/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Axé 
-http://192.99.150.31:8305/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Brega 
-http://192.99.150.31:9007/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Eletrônica 
-http://192.99.150.31:9095/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Forró 
-http://192.99.150.31:9019/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Funk 
-http://192.99.150.31:9089/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Gospel 
-http://192.99.150.31:9101/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Hip Hop 
-http://192.99.150.31:8721/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio HISTORINHA INFANTIL 
-http://192.99.150.31:8371/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Kids 
-http://192.99.150.31:9431/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Jazz 
-http://192.99.150.31:8042/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio MPB 
-http://192.99.150.31:8775/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Rap Nacional 
-http://192.99.150.31:8377/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Reggae 
-http://192.99.150.31:8715/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Rock Clássico 
-http://192.99.150.31:9125/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Românticas 
-http://192.99.150.31:8962/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Sertanejo 
-http://192.99.150.31:9485/stream?
-#EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Sertanejo Universitário 
-http://192.99.150.31:9191/stream?
+#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/yyurykfb" group-title="NOVELAS DA GLOBO" pltv-subgroup="A DONA DO PEDAÇO",ADDP Cap.01
+https://v15-maliva.topbuzzcdn.com/tos-fr-v-0000/64afbc66a9fb443b8f1135844f2fa9a5?REGINALDOIPTV
+#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/yyurykfb" group-title="NOVELAS DA GLOBO" pltv-subgroup="A DONA DO PEDAÇO",ADDP Cap.02
+https://v15-maliva.topbuzzcdn.com/tos-maliva-v-0000/0834a2e97ded4878a85b6dd95695935f?REGINALDOIPTV
+#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/yyurykfb" group-title="NOVELAS DA GLOBO" pltv-subgroup="A DONA DO PEDAÇO",ADDP Cap.03
+https://v15-maliva.topbuzzcdn.com/tos-maliva-v-0000/0370332535d34297a83efc2ba9192979?REGINALDOIPTV
+#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/yyurykfb" group-title="NOVELAS DA GLOBO" pltv-subgroup="A DONA DO PEDAÇO",ADDP Cap.04
+https://v15-maliva.topbuzzcdn.com/tos-fr-v-0000/2662106e3b944bb99819729dc66f0a9b?REGINALDOIPTV
+#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/yyurykfb" group-title="NOVELAS DA GLOBO" pltv-subgroup="A DONA DO PEDAÇO",ADDP Cap.05
+https://v15-maliva.topbuzzcdn.com/tos-fr-v-0000/b312dddca4414550a9efa999e3d4eda0?REGINALDOIPTV
+#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/yyurykfb" group-title="NOVELAS DA GLOBO" pltv-subgroup="A DONA DO PEDAÇO",ADDP Cap.06
+https://v15-maliva.topbuzzcdn.com/tos-fr-v-0000/61a2779f44f84f0d8b6d4973f825f10e?REGINALDOIPTV
+#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/yyurykfb" group-title="NOVELAS DA GLOBO" pltv-subgroup="A DONA DO PEDAÇO",ADDP Cap.07
+https://v15-maliva.topbuzzcdn.com/tos-maliva-v-0000/dcaa0f647a0943649b7bd92e0b177738?REGINALDOIPTV
+#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/yyurykfb" group-title="NOVELAS DA GLOBO" pltv-subgroup="A DONA DO PEDAÇO",ADDP Cap.08
+https://v15-maliva.topbuzzcdn.com/tos-maliva-v-0000/8c0dc69bf9c54901b9c6a7f08af78d7f?REGINALDOIPTV
+#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/yyurykfb" group-title="NOVELAS DA GLOBO" pltv-subgroup="A DONA DO PEDAÇO",ADDP Cap.09
+https://v15-maliva.topbuzzcdn.com/tos-fr-v-0000/e7e4f1991c92401e835a6d9e86b33dd7?REGINALDOIPTV
