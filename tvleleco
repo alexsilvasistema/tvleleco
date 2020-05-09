@@ -1700,10 +1700,6 @@ http://csrv.me:80/live/JK5VG/4aaR7/1736.m3u8
 http://csrv.me:80/live/JK5VG/4aaR7/35961.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/TxS" group-title="Canais | Abertos",SBT TV Aratu Bahia HD
 http://csrv.me:80/live/JK5VG/4aaR7/42900.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",Sexy Prive FHD [H265]
-http://csrv.me:80/live/JK5VG/4aaR7/30591.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",Sexy Prive HD 
-http://csrv.me:80/live/JK5VG/4aaR7/30592.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Shoptime SD
 http://csrv.me:80/live/JK5VG/4aaR7/41609.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/Rm0" group-title="Canais | Filmes e Séries",Smithsonian Channel FHD
@@ -1994,10 +1990,6 @@ http://csrv.me:80/live/JK5VG/4aaR7/2316.m3u8
 http://csrv.me:80/live/JK5VG/4aaR7/1701.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/Rnv" group-title="Canais | Alternativos",Tooncast SD [Alter]
 http://csrv.me:80/live/JK5VG/4aaR7/2139.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",TransTV HD
-http://csrv.me:80/live/JK5VG/4aaR7/30593.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",TransTV HD 2
-http://csrv.me:80/live/JK5VG/4aaR7/30594.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/RVG" group-title="Canais | Variedades",Travel Box Brazil FHD [H265]
 http://csrv.me:80/live/JK5VG/4aaR7/25367.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/ciY" group-title="Canais | Documentários",TruTV FHD
