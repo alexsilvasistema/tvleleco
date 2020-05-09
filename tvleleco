@@ -1,15 +1,374 @@
+
+
 #EXTM3U
-#PLAYLISTV: pltv-logo="http://vignette1.wikia.nocookie.net/thebatmanfanon/images/2/2f/Batman_rect-500x500.jpg" pltv-name="LUKARIO TESTE" pltv-description="LISTA DE SÉRIES E FILMES" pltv-cover="https://s3.amazonaws.com/gumroad/files/69681cbdfc664ab19581255368220afc/original/1914665small.jpg" pltv-author="Heitor Ferreira da Mota" pltv-site="XXX  XXX" pltv-email="XXX XXX"
+#PLAYLISTV: pltv-logo="http://i.imgur.com/keUbAmz.jpg" pltv-name="Canais lulu" pltv-description="Canais Variados" pltv-cover="http://i.imgur.com/IH98IrP.png" pltv-author="lulu chicleteiro" pltv-site="facebook.com/lulu.chicleteiro" pltv-email="XXX E-MAIL XXX"
 
 
-################## XXXX CANAIS XXXX ########################
+################# TV/REALITY #############
+#EXTINF:-1 group-title="TV/REALITY",tvg-logo="http://i.imgur.com/1KIxF9F.png" pltv-subgroup="",
+http://0.0.0.0
+#EXTINF:-1 group-title="TV/REALITY",tvg-logo="http://i.imgur.com/X0MP2HN.jpg" pltv-subgroup="REALITY_ON" ,CAM 1 ALBANIA
+http://158.69.162.115:3000/out/u/211_1.m3u8
+#EXTINF:-1 group-title="TV/REALITY",tvg-logo="http://i.imgur.com/Xv0EgBi.png" pltv-subgroup="REALITY_ON",TVI REALITY
+http://4.31.30.145:9040
+#EXTINF:-1 group-title="TV/REALITY",tvg-logo="https://i.imgur.com/cnF74Z0.png" pltv-subgroup="REALITY_ON",BBB_18 CAM_1
+http://tv.ec.cx:1935/redecanais-bbb18/myStream/chunklist_w1737983232.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDE4IDExOjE0OjI1IFBNJmhhc2hfdmFsdWU9aGxLbHgrNUNkaEttcGNlYW1DRnRCUT09JnZhbGlkbWludXRlcz0yMCZpZD01
 
-#EXTINF:-1 tvg-logo="http://oi44.tinypic.com/vwu3h0.jpg" group-title="ANIMES" pltv-subgroup="Dragon Ball ", DBZ EPISODIO 01
-http://video22.mais.uol.com.br/15987945.mp4?ver=o&r=http://mais.uol.com.br
 
-#EXTINF:-1 tvg-logo="http://oi44.tinypic.com/vwu3h0.jpg" group-title="ANIMES" pltv-subgroup="Dragon Ball ", DBZ EPISODIO 02
-http://video22.mais.uol.com.br/15987945.mp4?ver=o&r=http://mais.uol.com.br
+################## TV/CLIPES ########################
+#EXTINF:-1 group-title="TV/CLIPES",tvg-logo="http://i.imgur.com/kV7axLI.png"group-title="",
+http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://oi44.tinypic.com/vwu3h0.jpg" group-title="ANIMES" pltv-subgroup="Dragon Ball ", DBZ EPISODIO 03
-http://video22.mais.uol.com.br/15987945.mp4?ver=o&r=http://mais.uol.com.br
+#EXTINF:-1 group-title="TV/CLIPES",tvg-logo="https://goo.gl/HoJYje" pltv-subgroup="TV/CLIPES ON",MTV HITS
+http://lista.sv1.tv:25461/live/RafaelTeixeira1/RafaelTeixeira1/1786.ts
+#EXTINF:-1 group-title="TV/CLIPES",tvg-logo="http://i.imgur.com/WGQG74k.png" pltv-subgroup="TV/CLIPES ON",Deluxe Music
+http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
+#EXTINF:-1 group-title="TV/CLIPES",tvg-logo="http://i.imgur.com/2vLcYET.jpg" pltv-subgroup="TV/CLIPES ON",Music Channel
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1 group-title="TV/CLIPES",tvg-logo="http://i.imgur.com/hXLIf9T.png" pltv-subgroup="TV/CLIPES ON",Vibbe TV
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+#EXTINF:-1 group-title="TV/CLIPES",tvg-logo="http://i.imgur.com/jlwc64t.png" pltv-subgroup="TV/CLIPES ON",02 TV
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="TV/CLIPES",tvg-logo="http://i.imgur.com/aVIRBjv.jpg" pltv-subgroup="TV/CLIPES ON",MAD
+http://144.76.2.213:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="TV/CLIPES",tvg-logo="http://i.imgur.com/4GHrROo.png" pltv-subgroup="TV/CLIPES ON",Klipkar TV
+http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV/CLIPES",tvg-logo="http://i.imgur.com/veNEs7m.jpg" pltv-subgroup="TV/CLIPES ON",MUZ TV
+http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
+#EXTINF:-1 group-title="TV/CLIPES",tvg-logo="http://i.imgur.com/qVGbH7r.png" pltv-subgroup="TV/CLIPES ON",MUSIC BOX
+http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
+#EXTINF:-1 group-title="TV/CLIPES",tvg-logo="http://i.imgur.com/wIb4ZwM.png" pltv-subgroup="TV/CLIPES ON",RUTV
+https://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.rmg
+#EXTINF:-1 group-title="TV/CLIPES",tvg-logo="http://i.imgur.com/ag5WCdJ.png" pltv-subgroup="TV/CLIPES ON",ZOUGLA TV
+http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
+#EXTINF:-1 group-title="TV/CLIPES",tvg-logo="http://i.imgur.com/q72XCiT.png" pltv-subgroup="TV/CLIPES ON",OCKO
+http://ocko-live.service.cdn.cra.cz/playlist/live/ocko/live_lq.m3u8
+#EXTINF:-1 group-title="TV/CLIPES",tvg-logo="http://i.imgur.com/7icilYb.png" pltv-subgroup="TV/CLIPES ON",MELODY CHANNEL
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1 group-title="TV/CLIPES",tvg-logo="http://i.imgur.com/4TugLsj.png" pltv-subgroup="TV/CLIPES ON", City TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
 
+################## TV/ESPORTES ########################
+#EXTINF:-1 group-title="TV/ESPORTES",tvg-logo="http://i.imgur.com/qOVPtop.png"group-title="TV/ESPORTES",
+http://0.0.0.0
+
+
+#EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="https://s32.postimg.org/7yy5aszit/combate2.png" pltv-subgroup="NACIONAL",COMBATE 
+http://185.152.66.43/BR1/combatehd-br/index.m3u8?token=
+#EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="https://s32.postimg.org/7yy5aszit/combate2.png" pltv-subgroup="NACIONAL",COMBATE 2
+
+#EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="http://i.imgur.com/0pYJwAz.png" pltv-subgroup="NACIONAL" ,ESPN
+http://185.152.66.43/BR1/espnhd-br/index.m3u8?token=
+#EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="http://i.imgur.com/0pYJwAz.png" pltv-subgroup="NACIONAL" ,ESPN 2
+
+#EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="http://i.imgur.com/8IbTnLa.jpg" pltv-subgroup="NACIONAL" ,ESPN +
+http://185.152.66.43/BR1/espnplushd-br/index.m3u8?token=
+#EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="http://i.imgur.com/raqGx4P.jpg" pltv-subgroup="NACIONAL",ESPN Brasil 
+http://185.152.66.43/BR1/3226-br/index.m3u8?token=
+#EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="http://i.imgur.com/Xm5xMBB.png" pltv-subgroup="NACIONAL",BAND SPORTS
+http://evpp.mm.uol.com.br/geob_band/operadora/live.m3u8
+
+################## TV/FILMES ########################
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/kQYj8m"group-title="TV/FILMES",
+http://0.0.0.0
+
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/abpu3VJ.png" pltv-subgroup="Filmes On",A&E
+
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/JfXDPCM.jpg" pltv-subgroup="Filmes On",Cine+
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/tIB7xr" pltv-subgroup="Filmes On",CINE TERROR
+http://wse.planeta-online.tv:1935/live/channel_5/playlist.m3u8
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/uS6onh" pltv-subgroup="Filmes On",CINEMAX 
+http://lista.sv1.tv:25461/live/davidson.jb@outlook.com/iX77SqmeaV/1846.ts
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/Hm9uzeC.png" pltv-subgroup="Filmes On",AXN HD 1080p
+http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/768.m3u8
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/oLz5tMD.png" pltv-subgroup="Filmes On",AXN Black HD
+http://85.7.107.8:8010/play/a03b?CelioJR
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/itYrAGZ.png" pltv-subgroup="Filmes On",AXN White HD
+http://thumbnails.4network.tv/forbidden/forbidden.m3u8
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/zj4BzR5.png" pltv-subgroup="Filmes On",Cine Sky
+http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/9DSeYA6.png" pltv-subgroup="Filmes On",HBO 
+http://89.248.172.146:8088/live/tvhboaovivo2/playlist.m3u8?id=27900&wowzasessionid=7382762294&pk=827dd0076bd653fd0dba0d98863020829e3291e90ee2a717c675ceb4f37bd530
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/5AizO9P.png" pltv-subgroup="Filmes On",HBO 2 
+http://lista.sv1.tv:25461/live/davidson.jb@outlook.com/iX77SqmeaV/1805.ts
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/wj7jb57.png" pltv-subgroup="Filmes On",HBO Family
+http://lista.sv1.tv:25461/live/RafaelTeixeira1/RafaelTeixeira1/1803.ts
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/YR0KmYP.png" pltv-subgroup="Filmes On",HBO Signature
+http://lista.sv1.tv:25461/live/RafaelTeixeira1/RafaelTeixeira1/1799.ts
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/hSmXOh" pltv-subgroup="Filmes On",HBO COMEDY
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/624.ts
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/IhWQDi" pltv-subgroup="Filmes On",HBO PLus
+http://185.181.102.2:8081/live/hboplus/chunks.m3u8?nimblesessionid=922599&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDE3IDEwOjU3OjU0IFBNJmhhc2hfdmFsdWU9amkrMUJSTENELy95a3g5VHZRSzh1QT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/0JwEFcK.png" pltv-subgroup="Filmes On",MAX HD
+http://149.56.16.58:25461/live/cineiptv1247/1247/1791.ts
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/maxup.png" pltv-subgroup="Filmes On",MAX UP
+http://185.181.102.2:8081/live/maxhd/chunks.m3u8?nimblesessionid=922582&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDE3IDEwOjU3OjU0IFBNJmhhc2hfdmFsdWU9amkrMUJSTENELy95a3g5VHZRSzh1QT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/TwlNGPZ.png" pltv-subgroup="Filmes On",MAX PRIME
+http://starbr.digitalgroup.me:15000/live/25025/25025/1006.m3u8
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/s8LoXPa.jpg" pltv-subgroup="Filmes On",Telecine 
+http://149.56.16.58:25461/live/frod30/3030/1725.ts?BelcoCanaisHdPremium
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/JsvzeH1.png" pltv-subgroup="Filmes On",Telecine Action
+http://80.82.64.144:8088/live/tcacionaovivo2/playlist.m3u8?id=23270&wowzasessionid=7823994459&pk=827dd0076bd653fd0dba0d98863020829e3291e90ee2a717c675ceb4f37bd530
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/qoDiy6d.png" pltv-subgroup="Filmes On",Telecine Pipoca
+http://185.181.102.3:8081/live/master18/chunks.m3u8?nimblesessionid=7598697&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDE3IDEwOjUzOjAxIFBNJmhhc2hfdmFsdWU9WkJWZjNJd2FlQ1ZUc0ZLZXFHNGlMdz09JnZhbGlkbWludXRlcz0yMA==
+
+################## TV/ANIMES ########################
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/RqCiC9c.png"group-title=" TV/ANIMES_ON",
+http://0.0.0.0
+
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/n9akPpZ.png" pltv-subgroup="ANIMES ON",Boomerang
+http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/692.m3u8
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/MnXSLcR.png" pltv-subgroup="ANIMES ON", Cartoon Network
+http://95.141.35.193:8081/look/cartoon/playlist.m3u8
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/0rBNhim.png" pltv-subgroup="ANIMES ON", Retrô Cartoon 
+http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/1gxq1pK.png" pltv-subgroup="ANIMES ON",Discovery KIDS
+http://95.141.35.193:8081/look/discoverykidss/playlist.m3u8
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/wncwrcc.png" pltv-subgroup="ANIMES ON",TOONCAST
+http://158.69.55.98:25461/live/LucianoAlbuquerque/333333/011.m3u8?Brasil_tech_TV.m3u8
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" pltv-subgroup="ANIMES ON",Nickelodeon
+http://tv.ec.cx:1935/redecanais-stream-nick/myStream/playlist.m3u8
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" pltv-subgroup="ANIMES ON",Nickelodeon 2
+http://89.248.171.23:8088/live/tvnickaovivo/playlist.m3u8?id=22597&wowzasessionid=3347673091&pk=827dd0076bd653fd0dba0d98863020829e3291e90ee2a717c675ceb4f37bd530
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/si9e7vl.jpg" pltv-subgroup="ANIMES ON",Nicke Jr
+http://188.166.44.172/loadbalance/nick-jr/chunks.m3u8?pxAuth=Ke7eMFD81a3XKW094ihZnxtP8qG2qq48
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="https://k60.kn3.net/taringa/5/A/7/3/2/0/Dlox/CD1.jpg" pltv-subgroup="ANIMES ON", TaTeTi
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://s20.postimg.org/p5rnmwxot/Disney_Channel.png" pltv-subgroup="ANIMES ON",Disney Channel
+http://94.102.51.67:8088/live/disneyaovivo/playlist.m3u8?id=22565&wowzasessionid=908688320&pk=e0d2e040ef7aa18846482989608713a3aa65781e0c8314587554ed9592d986a5 
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://listaiptvbrasil.com/logos/animetv.png" pltv-subgroup="ANIMES ON", ANIME TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://4.bp.blogspot.com/-kQ6_1fDM3NM/TkngA22Q9NI/AAAAAAAADwM/bwvgX8fJoL4/s1600/12b.jpg" pltv-subgroup="ANIMES ON",DESENHOS BIBLICOS GENESIS O INICIO DA CRIAÇÃO
+http://ia601503.us.archive.org/16/items/DESENHOSBIBLICOSGENESISOINICIODACRIACAO/DESENHOS%20BIBLICOS%20-%20GENESIS%20O%20INICIO%20DA%20CRIAC%C3%83O.mp4?AndreOid
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://3.bp.blogspot.com/_ecZQeLVp5c0/TC_TUNt5GgI/AAAAAAAAByU/_ixJdTzMTEE/s1600/c13.png" pltv-subgroup="ANIMES ON",COLETANEA DESENHOS biblicos
+http://ia601500.us.archive.org/6/items/COLETANEADESENHOSDABIBLIA/COLETANEA%20DESENHOS%20DA%20BIBLIA.mp4?AndreOid
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://2.bp.blogspot.com/-7DBD-R7VVDs/T_THshMJG-I/AAAAAAAAGaQ/HY63oveg-bg/s1600/1.jpg" pltv-subgroup="ANIMES ON",fabulas da disney volume 1
+http://ia601501.us.archive.org/29/items/FabulasDisney-Volume1Dublado/Fabulas%20Disney%20%E2%80%93%20Volume%201%20-%20Dublado.mp4?AndreOid
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://2.bp.blogspot.com/-dsxFnWwXbLk/T_TSJbJyz2I/AAAAAAAAGbU/XWaWAWWlT4Q/s400/1327207046_18.jpg" pltv-subgroup="ANIMES ON",fabulas da disney volume 2
+http://ia601501.us.archive.org/29/items/FabulasDisney-Volume1Dublado/Fabulas%20Disney%20Volume%202%20em%20portugu%C3%AAs.mp4?AndreOid
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="https://http2.mlstatic.com/S_13338-MLM2933567111_072012-O.jpg" pltv-subgroup="ANIMES ON",fabulas da disney volume 4
+http://ia601501.us.archive.org/29/items/FabulasDisney-Volume1Dublado/Fabulas%20Disney%20Volume%204%20completo%20dublado%20em%20portugu%C3%AAs%28br%29.mp4?AndreOid
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://2.bp.blogspot.com/-1BbRcSUifeM/UADQCxVgpfI/AAAAAAAAGrw/X5z7QcrOD2I/s1600/0b3b20cf_md.jpg" pltv-subgroup="ANIMES ON",fabulas da disney volume 5
+http://ia601501.us.archive.org/29/items/FabulasDisney-Volume1Dublado/Fabulas%20infantis%20Volume%205%20completo%20dublado%20em%20portugu%C3%AAs.mp4?AndreOid
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/zN8CafE.jpg" pltv-subgroup="ANIMES ON",fabulas da disney volume 6
+http://ia601501.us.archive.org/29/items/FabulasDisney-Volume1Dublado/F%C3%A1bulas%20da%20Disney%20%E2%80%93%20Vol%20%206-%20desenhos%20animados%20em%20portugues%20completos.mp4?AndreOid
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://www.tvmagazine.com.br/imagens/icones/150/gloob.png" pltv-subgroup="ANIMES ON",Gloob
+http://lbsp04.ddns.me:25461/live/jlT04rRqbS/ZAKcPyyFOl/89.ts?
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://s20.postimg.org/ot5tkrf65/PADRINHOSMAGICOS.png" pltv-subgroup="ANIMES ON",The Fairly OddParents Dublado
+rtmp://208.53.164.194/live/ playpath=padrinhos swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/padrinhos.php
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://s20.postimg.org/bq5lnqzkd/FAMILIADAPESADApng.png"pltv-subgroup="ANIMES ON",Family Guy Dublado
+rtmp://208.53.164.194/live/ playpath=family swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/family.php
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://s20.postimg.org/x1ct2vde5/SIMPSONS.png" pltv-subgroup="ANIMES ON",The Simpsons Dublado
+rtmp://208.53.164.194/live/ playpath=simpsons swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/simpsons.php
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://s20.postimg.org/nw4g909zh/PICA_PAL.png" pltv-subgroup="ANIMES ON",Woody Woodpecker Dublado
+rtmp://208.53.164.194/live/ playpath=picapau swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/picapau.php
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://s20.postimg.org/pc6bgah6x/GALINHA_PINTADINHA.png" pltv-subgroup="ANIMES ON",Galinha Pintadinha
+rtmp://208.53.164.194/live/ playpath=galinha swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/galinhapintadinha.php
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://s20.postimg.org/s2k8r839p/JASPION.png" pltv-subgroup="ANIMES ON",Jaspion Dublado
+rtmp://208.53.164.194/live/ playpath=jaspion swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/jaspion.php
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://s20.postimg.org/szqo03erx/NARUTO.png" pltv-subgroup="ANIMES ON",Watch Naruto Shippuden Dublado
+rtmp://208.53.164.194/live/ playpath=naruto swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/naruto.php
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://s20.postimg.org/eupwvec25/THEFLINTSTONES.png" pltv-subgroup="ANIMES ON",The Flintstones Dublado
+rtmp://208.53.164.194/live/ playpath=flinstones swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/flintstones.php
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://s20.postimg.org/tesr1mlxp/DRAGON_BALL_Z.png" pltv-subgroup="ANIMES ON",Dragon Ball Z Dublado
+rtmp://208.53.164.194/live/ playpath=dbz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/dbz.php
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://s20.postimg.org/o7c9awuq5/FAMILIA_DINOSAUROS.png" pltv-subgroup="ANIMES ON",Dinosaurs Dublado
+rtmp://208.53.164.194/live/ playpath=dino swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/dinossauros.php
+ 
+ #EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 01
+http://www.blogger.com/video-play.mp4?contentId=8a425e1ad2979783
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 02
+http://www.blogger.com/video-play.mp4?contentId=973a8312aad8d5f9
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 03
+http://www.blogger.com/video-play.mp4?contentId=9e5c7da3410a3fb5
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 05
+http://www.blogger.com/video-play.mp4?contentId=6ca821b65b320f76
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 06
+http://www.blogger.com/video-play.mp4?contentId=65a29e4ab3a2816f
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 07
+http://www.blogger.com/video-play.mp4?contentId=983a038551905fe1
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 08
+http://www.blogger.com/video-play.mp4?contentId=983a038551905fe1
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 09
+http://www.blogger.com/video-play.mp4?contentId=b565168d28a3086f
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 10
+http://www.blogger.com/video-play.mp4?contentId=c377ac538c9a2b47
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 11
+http://www.blogger.com/video-play.mp4?contentId=e150bd94ffd631fa
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 12
+http://www.blogger.com/video-play.mp4?contentId=70f35c353b41a080
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 13
+http://www.blogger.com/video-play.mp4?contentId=4ad5bed3d76a1285
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 14
+http://www.blogger.com/video-play.mp4?contentId=3115ac532ee6b0fc
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 15
+http://www.blogger.com/video-play.mp4?contentId=f8c68824cd7fc6e4
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 16
+http://www.blogger.com/video-play.mp4?contentId=49b28ace8c0ada13
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 17
+http://www.blogger.com/video-play.mp4?contentId=f29b1cdffc42862a
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 18
+http://www.blogger.com/video-play.mp4?contentId=fcb94bb14ea0cac7
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 19
+http://www.blogger.com/video-play.mp4?contentId=35b8b699844dd42b
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 20
+http://www.blogger.com/video-play.mp4?contentId=2e17fcc61ff4d920
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 21
+http://www.blogger.com/video-play.mp4?contentId=ab887b01b1e6485d
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 22
+http://www.blogger.com/video-play.mp4?contentId=9464222d4bdc2e77
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 23
+http://www.blogger.com/video-play.mp4?contentId=9959b43c6e1cc2c1
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 24
+http://www.blogger.com/video-play.mp4?contentId=8504c5ee95f6983a
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 25
+http://www.blogger.com/video-play.mp4?contentId=ee543bb49e227f39
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 26
+http://www.blogger.com/video-play.mp4?contentId=bfb9adadc5b618d7
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 27
+http://www.blogger.com/video-play.mp4?contentId=d6d7559c1cb20c9d
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 28
+http://www.blogger.com/video-play.mp4?contentId=6c9277159401e734
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 29
+http://www.blogger.com/video-play.mp4?contentId=12b0c63a611ab899
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 30
+http://www.blogger.com/video-play.mp4?contentId=f9f66c3b7bb27916
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 31
+http://www.blogger.com/video-play.mp4?contentId=d90af3da71539051
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 32
+http://www.blogger.com/video-play.mp4?contentId=4237ed979da6b91b
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 33
+http://www.blogger.com/video-play.mp4?contentId=e0481291840c2a4d
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 34
+http://www.blogger.com/video-play.mp4?contentId=3b4447e2d0d6df8d
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 35
+http://www.blogger.com/video-play.mp4?contentId=8fd242c91383756e
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 36
+http://www.blogger.com/video-play.mp4?contentId=3fd4a740f619f7ea
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 37
+http://www.blogger.com/video-play.mp4?contentId=4ffbcdd940da59c9
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 38
+http://www.blogger.com/video-play.mp4?contentId=ce9691b7e5d7d756
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup=="PAPA LÉGUAS E COYOTE",EPISÓDIO 39
+http://www.blogger.com/video-play.mp4?contentId=7ffd50ce0e5a0ef1
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 40
+http://www.blogger.com/video-play.mp4?contentId=79a546c5d9375fbf
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 41
+http://www.blogger.com/video-play.mp4?contentId=e438dbeb01b4ed89
+#EXTINF:0 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/kRRIuBv.jpg" pltv-subgroup="PAPA LÉGUAS E COYOTE", EPISÓDIO 42
+http://www.blogger.com/video-play.mp4?contentId=6ab7bbc4c0faf97c
+ 
+ 
+
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/sm4s8Ea.png" pltv-subgroup="Wolverine e os X-Men",01 Wolverine e os X-Men
+http://www.blogger.com/video-play.mp4?contentId=fce6d2b65c5e738d
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/sm4s8Ea.png" pltv-subgroup="Wolverine e os X-Men",02 Wolverine e os X-Men
+http://www.blogger.com/video-play.mp4?contentId=4bfada103617608d
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/sm4s8Ea.png" pltv-subgroup="Wolverine e os X-Men",03 Wolverine e os X-Men
+http://www.blogger.com/video-play.mp4?contentId=cb5125a26e8a8b5f
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/sm4s8Ea.png" pltv-subgroup="Wolverine e os X-Men",04 Wolverine e os X-Men
+http://www.blogger.com/video-play.mp4?contentId=a9fa5181327ad05f
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/sm4s8Ea.png" pltv-subgroup="Wolverine e os X-Men",05 Wolverine e os X-Men
+http://www.blogger.com/video-play.mp4?contentId=71c73ced530e05e5
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/sm4s8Ea.png" pltv-subgroup="Wolverine e os X-Men",06 Wolverine e os X-Men
+http://www.blogger.com/video-play.mp4?contentId=3589652a62ad6430
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/sm4s8Ea.png" pltv-subgroup="Wolverine e os X-Men",07 Wolverine e os X-Men
+http://www.blogger.com/video-play.mp4?contentId=2d52a80bcd9e92b9
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/sm4s8Ea.png" pltv-subgroup="Wolverine e os X-Men",08 Wolverine e os X-Men
+http://www.blogger.com/video-play.mp4?contentId=cb73b5561cd67d62
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/sm4s8Ea.png" pltv-subgroup="Wolverine e os X-Men",09 Wolverine e os X-Men
+http://www.blogger.com/video-play.mp4?contentId=a42c654e5b39dc37
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/sm4s8Ea.png" pltv-subgroup="Wolverine e os X-Men",10 Wolverine e os X-Men
+http://www.blogger.com/video-play.mp4?contentId=96b218d0ce81799f
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/sm4s8Ea.png" pltv-subgroup="Wolverine e os X-Men",11 Wolverine e os X-Men
+http://www.blogger.com/video-play.mp4?contentId=352ee276bf7725fb
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/sm4s8Ea.png" pltv-subgroup="Wolverine e os X-Men",12 Wolverine e os X-Men
+http://www.blogger.com/video-play.mp4?contentId=c2120fac5af30155
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/sm4s8Ea.png" pltv-subgroup="Wolverine e os X-Men",13 Wolverine e os X-Men
+http://www.blogger.com/video-play.mp4?contentId=6c63913f6903db89
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/sm4s8Ea.png" pltv-subgroup="Wolverine e os X-Men",14 Wolverine e os X-Men
+http://www.blogger.com/video-play.mp4?contentId=99613cb6854db6c5
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/sm4s8Ea.png" pltv-subgroup="Wolverine e os X-Men",15 Wolverine e os X-Men
+http://www.blogger.com/video-play.mp4?contentId=20c8ad41f1d95f5c
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/sm4s8Ea.png" pltv-subgroup="Wolverine e os X-Men",16 Wolverine e os X-Men
+http://www.blogger.com/video-play.mp4?contentId=a9ff5b6bbfcee152
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/sm4s8Ea.png" pltv-subgroup="Wolverine e os X-Men",17 Wolverine e os X-Men
+http://www.blogger.com/video-play.mp4?contentId=c98c3b14d11fbe19
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/sm4s8Ea.png" pltv-subgroup="Wolverine e os X-Men",18 Wolverine e os X-Men
+http://www.blogger.com/video-play.mp4?contentId=9f78396c4bccdaea
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/sm4s8Ea.png" pltv-subgroup="Wolverine e os X-Men",19 Wolverine e os X-Men
+http://www.blogger.com/video-play.mp4?contentId=a7d64a0a377cc3f3
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/sm4s8Ea.png" pltv-subgroup="Wolverine e os X-Men",20 Wolverine e os X-Men
+http://www.blogger.com/video-play.mp4?contentId=f6b0f8bcde979e97
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/sm4s8Ea.png" pltv-subgroup="Wolverine e os X-Men",21 Wolverine e os X-Men
+http://www.blogger.com/video-play.mp4?contentId=e84ac6f07e1feaaa
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/sm4s8Ea.png" pltv-subgroup="Wolverine e os X-Men",22 Wolverine e os X-Men
+http://www.blogger.com/video-play.mp4?contentId=9468bcfc4dbca33b
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/sm4s8Ea.png" pltv-subgroup="Wolverine e os X-Men",23 Wolverine e os X-Men
+http://www.blogger.com/video-play.mp4?contentId=1932ccedf806cac3
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/sm4s8Ea.png" pltv-subgroup="Wolverine e os X-Men",24 Wolverine e os X-Men
+http://www.blogger.com/video-play.mp4?contentId=ef79812ef0532989
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/sm4s8Ea.png" pltv-subgroup="Wolverine e os X-Men",25 Wolverine e os X-Men
+http://www.blogger.com/video-play.mp4?contentId=6e8ad91d58b931c4
+#EXTINF:-1 group-title="TV/ANIMES",tvg-logo="http://i.imgur.com/sm4s8Ea.png" pltv-subgroup="Wolverine e os X-Men",26 Wolverine e os X-Men
+http://www.blogger.com/video-play.mp4?contentId=c3be96f47834df
+
+
+
+#################RÁDIOTV/ESTÚDIO################
+#EXTINF:-1 group-title="RÁDIOTV/ESTÚDIO",tvg-logo="http://i.imgur.com/FtNBi8A.png"group-title="",
+http://0.0.0.0
+
+#EXTINF:-1 group-title="RÁDIOTV/ESTÚDIO",tvg-logo="http://www.bastidoresdoradio.com/102fm_sc.jpg" pltv-subgroup="ESTÚDIO", Estudio 102 FM Itajaí - SC
+http://streaming2.aquisolucoes.com.br:1935/radio102video/aovivo/playlist.m3u8
+#EXTINF:-1 group-title="RÁDIOTV/ESTÚDIO",tvg-logo="http://i.imgur.com/nxf9az8.jpg" pltv-subgroup="ESTÚDIO", Estudio 91.7 FM Cascavel - PR
+http://stream.catve.com.br:1935/radiocamera/livestream/playlist.m3u8
+#EXTINF:-1 group-title="RÁDIOTV/ESTÚDIO",tvg-logo="http://i.imgur.com/vKqr0Vz.png" pltv-subgroup="ESTÚDIO",Estudio 91.9 FM Foz do Iguaçu - PR
+http://wowza.catve.com.br:1935/cameraradiofoz/livestream/playlist.m3u8
+#EXTINF:-1 group-title="RÁDIOTV/ESTÚDIO",tvg-logo="http://i.imgur.com/Wp8Ri9u.png" pltv-subgroup="ESTÚDIO",Estudio FM O DIA TV
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+#EXTINF:-1 group-title="RÁDIOTV/ESTÚDIO",tvg-logo="http://i.imgur.com/KmfSvEO.png" pltv-subgroup="ESTÚDIO",JP/PANICO NO RÁDIO 
+http://evp.mm.uol.com.br:1935/jovempanam2/jpfm.sdp/chunklist.m3u8?wowzasessionid=247464765
+#EXTINF:-1 group-title="RÁDIOTV/ESTÚDIO",tvg-logo="http://i.imgur.com/KVDWK8P.jpg" pltv-subgroup="ESTÚDIO",Transamérica Pop 
+http://transamerica.crossdigital.com.br:1935/transasp02edge/transasp02/playlist.m3u8
+#EXTINF:-1 group-title="RÁDIOTV/ESTÚDIO",tvg-logo="http://i.imgur.com/X3dyBbf.jpg" pltv-subgroup="ESTÚDIO",Transamérica Hits
+http://transamerica.crossdigital.com.br:1935/transasp01/transasp01/playlist.m3u8
+#EXTINF:-1 group-title="RÁDIOTV/ESTÚDIO",tvg-logo="http://i.imgur.com/goSsWq7.jpg" pltv-subgroup="ESTÚDIO",CBN
+http://media.sgr.globo.com:1935/VideoCBN/cbnsp1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="RÁDIOTV/ESTÚDIO",tvg-logo="http://i.imgur.com/kQBdgoa.png" pltv-subgroup="ESTÚDIO",Estúdio 93.7 FM Porteirinha - MG
+http://video.welltecnologia.com.br:1935/937porteirinha/937porteirinha/playlist.m3u8
+#EXTINF:-1 group-title="RÁDIOTV/ESTÚDIO",tvg-logo="http://i.imgur.com/yZ0oGmj.png" pltv-subgroup="ESTÚDIO",RADIONORBA TV
+http://85.17.80.132:80/radionorbatv/norbatv_source.stream/playlist.m3u8
+#EXTINF:-1 group-title="RÁDIOTV/ESTÚDIO",tvg-logo="http://i.imgur.com/FVhEYxG.png" pltv-subgroup="ESTÚDIO",RADIO TAORMINA TV
+http://flash5.streaming.xdevel.com:80/taorminatv/taorminatv/playlist.m3u8
+#EXTINF:-1 group-title="RÁDIOTV/ESTÚDIO",tvg-logo="http://i.imgur.com/i9Gfvs2.gif" pltv-subgroup="ESTÚDIO",RTL 102.5 TV
+http://origin-rtl-radio-stream.4mecloud.it:80/live-video/radiovisione/radiovisione/playlist.m3u8
+#EXTINF:-1 group-title="RÁDIOTV/ESTÚDIO",tvg-logo="http://i.imgur.com/QhR7Tgm.png" pltv-subgroup="ESTÚDIO",Slam FM
+http://hls.slam.nl/streaming/hls/SLAM!/lower_500000/playlist.m3u8
+
+
+#EXTINF:-1 group-title="RÁDIOTV/ESTÚDIO",tvg-logo="http://i.imgur.com/h5AFAvg.png"pltv-subgroup="RÁDIO",BOA FM
+http://painel.amsolution.net.br:8080/boa
+#EXTINF:-1 group-title="RÁDIOTV/ESTÚDIO",tvg-logo="http://i.imgur.com/UI7H44x.png"pltv-subgroup="RÁDIO",MEIO NORTE FM
+http://painel.amsolution.net.br:8080/live
+#EXTINF:-1 group-title="RÁDIOTV/ESTÚDIO",tvg-logo="http://mixfm.com.br/wp-content/themes/mix/assets/images/logo-facebook-share.png" pltv-subgroup="RÁDIO",Mix FM
+http://mixaac.crossradio.com.br:1100/live
+#EXTINF:-1 group-title="RÁDIOTV/ESTÚDIO",tvg-logo="http://cdn-radiotime-logos.tunein.com/s126553q.png" pltv-subgroup="RÁDIO",Funk Neurotico
+http://172.82.138.34:18184/;
+#EXTINF:-1 group-title="RÁDIOTV/ESTÚDIO",tvg-logo="http://i.imgur.com/hsQCN6P.png" pltv-subgroup="RÁDIO",Funk Mania Net
+http://199.233.234.10:17438/"
+#EXTINF:-1 group-title="RÁDIOTV/ESTÚDIO",tvg-logo="https://www.imusicaradios.com.br/go_ccfm/img/logo_cc.png?176d163dce6f3a78" pltv-subgroup="RÁDIO", Coca Cola FM
+http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
+#EXTINF:-1 group-title="RÁDIOTV/ESTÚDIO",tvg-logo="http://www.radiofunk.tv/template/img/logo.png" pltv-subgroup="RÁDIO", RÁDIO DO FUNK
+http://radio.bluedesign.com.br:8150/stream
+#EXTINF:-1 group-title="RÁDIOTV/ESTÚDIO",tvg-logo="http://i.imgur.com/wcuH81G.jpg" pltv-subgroup="RÁDIO", ElectricFM.com
+http://stream.electricfm.com/;stream.mp3
+#EXTINF:-1 group-title="RÁDIOTV/ESTÚDIO",tvg-logo="http://i.imgur.com/S1cWMRy.jpg" pltv-subgroup="RÁDIO",Saudade Anos 80
+http://192.99.150.31:8697/stream
+#EXTINF:-1 group-title="RÁDIOTV/ESTÚDIO",tvg-logo="http://i.imgur.com/zopk5A6.png" pltv-subgroup="RÁDIO",Gospel
+http://192.99.150.31:9101/stream
+#EXTINF:-1 group-title="RÁDIOTV/ESTÚDIO",tvg-logo="http://i.imgur.com/zOCTXzk.png" pltv-subgroup="RÁDIO",Versão Brasileira
+http://192.99.150.31:8849/stream
+#EXTINF:-1 group-title="RÁDIOTV/ESTÚDIO",tvg-logo="http://i.imgur.com/fm1sMNV.jpg" pltv-subgroup="RÁDIO",Axé Folia
+http://192.99.150.31:8305/stream
