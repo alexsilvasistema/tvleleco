@@ -4,6 +4,8 @@
 http://acaua.lhmtv.gq/filmes/MortalKombatLegendsAVingancadeScorpion.mp4?LHMTv
 #EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",Bohemian Rhapsody
 http://anhanga.lhmtv.gq/filmes/bohemianrhapsody-dub-720p.mp4?LHMTv
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",Food Network
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foodnetwork_ceab25ab_273e43b23bd98d1da7cedc7bb437e3f65965252c/playlist.m3u8
 
 #EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Anos 70
 http://192.99.150.31:8241/stream?
