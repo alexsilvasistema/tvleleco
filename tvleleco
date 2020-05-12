@@ -9,21 +9,44 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd
 #EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",ESPN Brasil
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",FOOD NETWORK SD*
-http://mixsrv.me:80/6uoBQx/atRyex/69771
-#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",FOOD NETWORK SD*2
-http://clientehdd.xyz:8880/BoX5Bu/0FgyTe/1270
-#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",FOOD NETWORK SD*3
-http://clientehdd.xyz:8880/BoX5Bu/0FgyTe/1808
-#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",FOOD NETWORK SD*4
-http://clientehdd.xyz:8880/BoX5Bu/0FgyTe/1286
-#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",FOOD NETWORK SD*5
-http://clientehdd.xyz:8880/BoX5Bu/0FgyTe/1809
-#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",FOOD NETWORK SD*6
-http://clientehdd.xyz:8880/BoX5Bu/0FgyTe/15028
-
-
-
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",AVISO-DIVERSOS
+http://0.0.0.0
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",FOOD NETWORK1*
+http://udq.me:80/live/JP5m8/CZ92R/13253.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",FOOD NETWORK2*
+http://udq.me:80/live/JP5m8/CZ92R/13250.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",HISTORY1*
+http://udq.me:80/live/JP5m8/CZ92R/13145.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",HISTORY2*
+http://udq.me:80/live/JP5m8/CZ92R/13144.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",DISCOVERY CHANNEL1*
+http://udq.me:80/live/JP5m8/CZ92R/13094.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",DISCOVERY CHANNEL2*
+http://udq.me:80/live/JP5m8/CZ92R/13095.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",H2*
+http://udq.me:80/live/JP5m8/CZ92R/13141.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",H2 2*
+http://udq.me:80/live/JP5m8/CZ92R/13707.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",NAT GEO WILD*
+http://udq.me:80/live/JP5m8/CZ92R/13417.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",TODO MUNDO ODEIA O CRHIS
+http://udq.me:80/live/JP5m8/CZ92R/13223.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",TRAPALHOES
+http://udq.me:80/live/JP5m8/CZ92R/13219.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",GLOBO
+http://udq.me:80/live/JP5m8/CZ92R/1576.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",RECORD BA
+http://udq.me:80/live/JP5m8/CZ92R/13632.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",SBT
+http://udq.me:80/live/JP5m8/CZ92R/13178.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",SBT TV ARATU
+http://udq.me:80/live/JP5m8/CZ92R/13648.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",RA TIM BUM
+http://udq.me:80/live/JP5m8/CZ92R/12963.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",COMBATE1
+http://udq.me:80/live/JP5m8/CZ92R/1171.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",COMBATE2
+http://udq.me:80/live/JP5m8/CZ92R/943.m3u8
 
 
 #EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Anos 70
