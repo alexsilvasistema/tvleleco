@@ -8,14 +8,9 @@ https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
 https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",ESPN Brasil
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",FOOD NETWORK HD
-http://pdsrv.io:25461/francisco1/francisco1/7534
-#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",FOOD NETWORK HD*
-http://pdsrv.io:25461/francisco1/francisco1/20756
-#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",FOOD NETWORK SD
-http://pdsrv.io:25461/francisco1/francisco1/6959
+
 #EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",FOOD NETWORK SD*
-http://pdsrv.io:25461/francisco1/francisco1/20757
+http://srv.maxptv.net:8080/BMW494/87666555/159
 
 
 #EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Anos 70
