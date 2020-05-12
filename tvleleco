@@ -8,6 +8,17 @@ https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
 https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",ESPN Brasil
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",REDE TV
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/live.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",REDE TV2
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",REDE TV3
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",BAND1
+https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",BAND2
+http://proxyts.canais.info:8084/hls1/band.m3u8
+
 
 #EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",AVISO-DIVERSOS
 http://0.0.0.0
