@@ -6,7 +6,64 @@ http://acaua.lhmtv.gq/filmes/MortalKombatLegendsAVingancadeScorpion.mp4?LHMTv
 http://anhanga.lhmtv.gq/filmes/bohemianrhapsody-dub-720p.mp4?LHMTv
 #EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",Food Network
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foodnetwork_ceab25ab_273e43b23bd98d1da7cedc7bb437e3f65965252c/playlist.m3u8
-
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",Discovery Channel
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/discoverychannel_af3e1334_3d6b33e97264c445eab8f3471eb1e22521e7421b/playlist.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",History
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/history_b7eb6c68_af5e0775e1f883b3c3aec26affa66a7890e92326/playlist.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",H2
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/h2_2bfba6b3_315c3712a85b7bbf3a1e079a47b62397b517be1b/playlist.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",Combate
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/combate_ac3478d6_7e2ba1a662d3f817a554618175c745815c329615/playlist.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",SPORTV2
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv2_22ab0e43_43735820abc29de5f04355cde21fc3d049af3385/playlist.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",SPORTV
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_994800f8a688ad704a7625254797ef9654cd25c8/playlist.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",SPORTV3
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/sportv3_e1a864f0_b5cdcf4c9ab740644de270cd8dcf51145c6cd144/playlist.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",Cinemax
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/cinemax720p_49117359_3f1502efe994c3256506855bd767ca263c3b6670/playlist.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",Fox
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_7357f049b96bbcc9a5cadcab960ab60ed369fc24/playlist.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",Sony
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/sony_06349be7_57948725e9948919c2fa55dba4579773f1de069b/playlist.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",AXN
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/axn_cb7a1d77_522bd565ebb1fcee4ef58efc388dd2327c14d6fb/playlist.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",VIVA
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/viva_5d00f2c6_28f3ccf82eb9b1bbe8314ddbf043cd5cb6f2de2c/playlist.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",MTV
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/mtvbrasil_7719a1c7_92cee69143abc54bfa689cf6cc3137d97423acba/playlist.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",Multishow
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/multishow_5f573b82_03a5fde6c9ac505dc7e522216b5747afcd9beb2e/playlist.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",Cartoon Network
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/cartoonnetwork_511a418e_08556e17db38a6ffad3cb02b2410d4907c30b460/playlist.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",Discovery kids
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoverykids_80e28a51_91161e48586dffc06728b19ab64a3e80bf532d15/playlist.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",Nicklelodeon
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/nickelodeon_bc33ea4e_c2d202cf007b0cef1a736dad66482484ac74d45d/playlist.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",Boomerang
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/boomerang_2659fc51_fd2695fa5ceed5beb2c1184fdfebf8709cdea261/playlist.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",Disney channel
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/disneychannel_a9334987_619987f63cae91859121fe1bc3bd760d8d3b6154/playlist.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",Fox life
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/foxlife_66435217_22b832127ca81b0619dd66ca85b318f116030d68/playlist.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",ESPN
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",ESPN2
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",ESPN Brasil
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",FOX Sports
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsportshd_98fbc42f_2a57f82b5156062a53404504a121bea9e7694dab/playlist.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",FOX Sports2
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/foxsports2hd_2a7541ba_14c0dff4e447e1a5f1bf6a5f8b94fc53ec6fdded/playlist.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",National Geographic
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/nationalgeographic_2e01e174_341e085fc3bc8ab35b8364d57d3a99003f5732da/playlist.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",Discovery World
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoveryworld_68b79337_7b45cb23189253d23b759ad680c03e40b40d8fab/playlist.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",Discovery Turbo
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/discoveryturbo_ca3512f4_e49a33b5fbe686f249dfeb7b8f334d0688154ac9/playlist.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",Nat Geo Wild
+http://tv.factoryiptv.com:80/jose/12345678/41497
 #EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Anos 70
 http://192.99.150.31:8241/stream?
 #EXTINF:-1 group-title="Radio" tvg-name="Radio" tvg-logo="",Radio Anos 80
