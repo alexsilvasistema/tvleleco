@@ -34,13 +34,14 @@ http://udq.me:80/live/BpruP/9VqSW/943.m3u8
 http://udq.me:80/live/BpruP/9VqSW/13488.m3u8
 
 
-
-
-
 #EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",AVISO-DIVERSOS
 http://0.0.0.0
 #EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",Bohemian Rhapsody
 http://anhanga.lhmtv.gq/filmes/bohemianrhapsody-dub-720p.mp4?LHMTv
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",Star Wars: A Ascensao Skywalker
+http://anhanga.lhmtv.gq/filmes/starwarsaascensaoskywalker-dub-720p.mp4?LHMTv
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",A FUGA DAS GALINHAS
+http://aranami.lhmtv.gq/filmes/A-Fuga-Das-Galinhas.mp4?LHMTv
 #EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",ESPN
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
 #EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",ESPN2
