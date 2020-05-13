@@ -1,41 +1,37 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",FOOD NETWORK1*
-http://csrv.tv:80/live/4QEzV/dVNss/1838.m3u8
+http://udq.me:80/live/BpruP/9VqSW/13253.m3u8
 #EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",FOOD NETWORK2*
-http://csrv.tv:80/live/4QEzV/dVNss/2125.m3u8
+http://udq.me:80/live/BpruP/9VqSW/13250.m3u8
 #EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",HISTORY1*
-http://csrv.tv:80/live/4QEzV/dVNss/1800.m3u8
+http://udq.me:80/live/BpruP/9VqSW/13145.m3u8
 #EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",HISTORY2*
-http://csrv.tv:80/live/4QEzV/dVNss/2143.m3u8
+http://udq.me:80/live/BpruP/9VqSW/13144.m3u8
 #EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",DISCOVERY CHANNEL1*
-http://csrv.tv:80/live/4QEzV/dVNss/1870.m3u8
+http://udq.me:80/live/BpruP/9VqSW/13095.m3u8
 #EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",DISCOVERY CHANNEL2*
-http://csrv.tv:80/live/4QEzV/dVNss/2203.m3u8
+http://udq.me:80/live/BpruP/9VqSW/13094.m3u8
 #EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",H2*
-http://csrv.tv:80/live/4QEzV/dVNss/1812.m3u8
+http://udq.me:80/live/BpruP/9VqSW/13142.m3u8
 #EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",H2 2*
-http://csrv.tv:80/live/4QEzV/dVNss/2186.m3u8
+http://udq.me:80/live/BpruP/9VqSW/13141.m3u8
 #EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",NAT GEO WILD*
-http://csrv.tv:80/live/4QEzV/dVNss/1773.m3u8
+http://udq.me:80/live/BpruP/9VqSW/13417.m3u8
 #EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",TRAPALHOES
-http://csrv.tv:80/live/4QEzV/dVNss/30029.m3u8
+http://udq.me:80/live/BpruP/9VqSW/13219.m3u8
 #EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",GLOBO
-http://csrv.tv:80/live/4QEzV/dVNss/1610.m3u8
+http://udq.me:80/live/BpruP/9VqSW/23674.m3u8
 #EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",RECORD BA
-http://csrv.tv:80/live/4QEzV/dVNss/1665.m3u8
+http://udq.me:80/live/BpruP/9VqSW/13632.m3u8
 #EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",SBT TV ARATU
-http://csrv.tv:80/live/4QEzV/dVNss/42900.m3u8
-#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",PEGADINHAS SILVIO
-http://csrv.tv:80/live/4QEzV/dVNss/30035.m3u8
+http://udq.me:80/live/BpruP/9VqSW/13603.m3u8
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",TODO MUNDO ODEIA O CHRIS
+http://udq.me:80/live/BpruP/9VqSW/13223.m3u8
 #EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",COMBATE1
-http://csrv.tv:80/live/4QEzV/dVNss/2206.m3u8
-#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",COMBATE2
-http://csrv.tv:80/live/4QEzV/dVNss/1876.m3u8
-#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",PARTOBA
-http://csrv.tv:80/live/4QEzV/dVNss/30032.m3u8
+http://udq.me:80/live/BpruP/9VqSW/943.m3u8
 #EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",CAVERNA DO DRAGAO
-http://csrv.tv:80/live/4QEzV/dVNss/29961.m3u8
+http://udq.me:80/live/BpruP/9VqSW/13488.m3u8
 
 
 
