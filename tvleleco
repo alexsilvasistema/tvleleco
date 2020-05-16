@@ -1,4 +1,12 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",1
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://redcoliptv.com:8090/Lk7GFuYPqP/ahmkyMHZJV/9317
+#EXTINF:-1 group-title="Aviso" tvg-name="Aviso" tvg-logo="",food
+http://psrv.io:80/883698111244/blendediptv.me/18670
+
+
+
 #EXTINF:-1,A&E HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/2
 #EXTINF:-1,A&E SD
