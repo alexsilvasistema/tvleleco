@@ -654,9 +654,9 @@ http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/327
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/330
 #EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Viva SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/329
-#EXTINF:-1 group-title="ABERTA" tvg-name="" tvg-logo="",Warner Channel HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Warner Channel HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/332
-#EXTINF:-1 group-title="ABERTA" tvg-name="" tvg-logo="",Warner Channel SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Warner Channel SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/331
 #EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Woohoo HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/334
