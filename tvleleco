@@ -1,634 +1,903 @@
-#EXTM3U
+#EXTM3U size="big"
 
-#EXTINF:-1,A&E HD
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Anos 70
+http://192.99.150.31:8241/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Anos 80
+http://192.99.150.31:8697/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Anos 90 
+http://192.99.150.31:8056/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Anos 2000 
+http://6d9a.webradio.upx.net.br:9940/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Axé 
+http://192.99.150.31:8305/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Brega 
+http://192.99.150.31:9007/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Eletrônica 
+http://192.99.150.31:9095/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Forró 
+http://192.99.150.31:9019/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Funk 
+http://192.99.150.31:9089/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Gospel 
+http://192.99.150.31:9101/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Hip Hop 
+http://192.99.150.31:8721/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio HISTORINHA INFANTIL 
+http://192.99.150.31:8371/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Kids 
+http://192.99.150.31:9431/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Jazz 
+http://192.99.150.31:8042/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio MPB 
+http://192.99.150.31:8775/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Rap Nacional 
+http://192.99.150.31:8377/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Reggae 
+http://192.99.150.31:8715/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Rock Clássico 
+http://192.99.150.31:9125/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Românticas 
+http://192.99.150.31:8962/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Sertanejo 
+http://192.99.150.31:9485/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Sertanejo Universitário 
+http://192.99.150.31:9191/stream?
+
+
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",A&E HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/2
-#EXTINF:-1,A&E SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",A&E SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1
-#EXTINF:-1,AMC HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",AMC HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/5
-#EXTINF:-1,AMC SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",AMC SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/4
-#EXTINF:-1,Animal Planet HD
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-name="" tvg-logo="",Animal Planet HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/9
-#EXTINF:-1,Animal Planet SD
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-name="" tvg-logo="",Animal Planet SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/8
-#EXTINF:-1,Arte 1 HD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Arte 1 HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/11
-#EXTINF:-1,Arte 1 SD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Arte 1 SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/10
-#EXTINF:-1,AXN HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",AXN HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/13
-#EXTINF:-1,AXN SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",AXN SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/12
-#EXTINF:-1,BabyTV HD
+#EXTINF:-1 group-title="INFANTIL" tvg-name="" tvg-logo="",BabyTV HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/18
-#EXTINF:-1,BabyTV SD
+#EXTINF:-1 group-title="INFANTIL" tvg-name="" tvg-logo="",BabyTV SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/17
-#EXTINF:-1,Band Campinas SD
+#EXTINF:-1 group-title="BAND" tvg-name="" tvg-logo="",Band Campinas SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/20
-#EXTINF:-1,Band News HD
+#EXTINF:-1 group-title="BAND" tvg-name="" tvg-logo="",Band News HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/26
-#EXTINF:-1,Band News SD
+#EXTINF:-1 group-title="BAND" tvg-name="" tvg-logo="",Band News SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/25
-#EXTINF:-1,Band Nordeste SD
+#EXTINF:-1 group-title="BAND" tvg-name="" tvg-logo="",Band Nordeste SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/22
-#EXTINF:-1,Band SP HD
+#EXTINF:-1 group-title="BAND" tvg-name="" tvg-logo="",Band SP HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/21
-#EXTINF:-1,Band SP SD
+#EXTINF:-1 group-title="BAND" tvg-name="" tvg-logo="",Band SP SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/24
-#EXTINF:-1,Band Sports HD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",Band Sports HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/28
-#EXTINF:-1,Band Sports SD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",Band Sports SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/27
-#EXTINF:-1,Bis HD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Bis HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/16
-#EXTINF:-1,Bis SD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Bis SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/15
-#EXTINF:-1,Boomerang HD
+#EXTINF:-1 group-title="INFANTIL" tvg-name="" tvg-logo="",Boomerang HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/30
-#EXTINF:-1,Boomerang SD
+#EXTINF:-1 group-title="INFANTIL" tvg-name="" tvg-logo="",Boomerang SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/29
-#EXTINF:-1,Canal Brasil SD
+#EXTINF:-1 group-title="ABERTA" tvg-name="" tvg-logo="",Canal Brasil SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/32
-#EXTINF:-1,Canal do Boi SD
+#EXTINF:-1 group-title="ABERTA" tvg-name="" tvg-logo="",Canal do Boi SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038287
-#EXTINF:-1,Canal Rural SD
+#EXTINF:-1 group-title="ABERTA" tvg-name="" tvg-logo="",Canal Rural SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038286
-#EXTINF:-1,Canção Nova HD
+#EXTINF:-1 group-title="ABERTA" tvg-name="" tvg-logo="",Canção Nova HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1036447
-#EXTINF:-1,Cartoon Network HD
+#EXTINF:-1 group-title="INFANTIL" tvg-name="" tvg-logo="",Cartoon Network HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/38
-#EXTINF:-1,Cartoon Network SD
+#EXTINF:-1 group-title="INFANTIL" tvg-name="" tvg-logo="",Cartoon Network SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/37
-#EXTINF:-1,Chef TV HD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Chef TV HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032891
-#EXTINF:-1,Cinemax HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Cinemax HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/44
-#EXTINF:-1,Cinemax SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Cinemax SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/43
-#EXTINF:-1,CNN Brasil HD
+#EXTINF:-1 group-title="ABERTA" tvg-name="" tvg-logo="",CNN Brasil HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1036267
-#EXTINF:-1,CNN Brasil SD
+#EXTINF:-1 group-title="ABERTA" tvg-name="" tvg-logo="",CNN Brasil SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1036266
-#EXTINF:-1,Combate HD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",Combate HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/49
-#EXTINF:-1,Combate SD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",Combate SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/48
-#EXTINF:-1,Comedy Central HD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Comedy Central HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/52
-#EXTINF:-1,Comedy Central SD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Comedy Central SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/51
-#EXTINF:-1,Copa Catarinense 1 *
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",Copa Catarinense 1 *
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1036426
-#EXTINF:-1,Copa Catarinense 2 *
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",Copa Catarinense 2 *
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1036427
-#EXTINF:-1,Copa Libertadores
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",Copa Libertadores
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032898
-#EXTINF:-1,Copa Nordeste 1 *
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",Copa Nordeste 1 *
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032897
-#EXTINF:-1,Cultura SD
+#EXTINF:-1 group-title="ABERTA" tvg-name="" tvg-logo="",Cultura SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/316
-#EXTINF:-1,Curta! HD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Curta! HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/55
-#EXTINF:-1,Curta! SD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Curta! SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/54
-#EXTINF:-1,DAZN 1
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",DAZN 1
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032873
-#EXTINF:-1,DAZN 2
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",DAZN 2
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032889
-#EXTINF:-1,Discovery Channel HD
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-name="" tvg-logo="",Discovery Channel HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/57
-#EXTINF:-1,Discovery Channel SD
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-name="" tvg-logo="",Discovery Channel SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/56
-#EXTINF:-1,Discovery H&H HD
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-name="" tvg-logo="",Discovery H&H HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/61
-#EXTINF:-1,Discovery H&H SD
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-name="" tvg-logo="",Discovery H&H SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/60
-#EXTINF:-1,Discovery Kids HD
+#EXTINF:-1 group-title="INFANTIL" tvg-name="" tvg-logo="",Discovery Kids HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/63
-#EXTINF:-1,Discovery Kids SD
+#EXTINF:-1 group-title="INFANTIL" tvg-name="" tvg-logo="",Discovery Kids SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/62
-#EXTINF:-1,Discovery Science HD
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-name="" tvg-logo="",Discovery Science HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/65
-#EXTINF:-1,Discovery Science SD
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-name="" tvg-logo="",Discovery Science SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/64
-#EXTINF:-1,Discovery Theater HD
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-name="" tvg-logo="",Discovery Theater HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/67
-#EXTINF:-1,Discovery Theater SD
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-name="" tvg-logo="",Discovery Theater SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/66
-#EXTINF:-1,Discovery TLC HD
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-name="" tvg-logo="",Discovery TLC HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/290
-#EXTINF:-1,Discovery TLC SD
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-name="" tvg-logo="",Discovery TLC SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/289
-#EXTINF:-1,Discovery Turbo HD
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-name="" tvg-logo="",Discovery Turbo HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/69
-#EXTINF:-1,Discovery Turbo SD
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-name="" tvg-logo="",Discovery Turbo SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/68
-#EXTINF:-1,Discovery World HD
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-name="" tvg-logo="",Discovery World HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/71
-#EXTINF:-1,Discovery World SD
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-name="" tvg-logo="",Discovery World SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/70
-#EXTINF:-1,Disney Channel HD
+#EXTINF:-1 group-title="INFANTIL" tvg-name="" tvg-logo="",Disney Channel HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/73
-#EXTINF:-1,Disney Channel SD
+#EXTINF:-1 group-title="INFANTIL" tvg-name="" tvg-logo="",Disney Channel SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/72
-#EXTINF:-1,Disney Junior HD
+#EXTINF:-1 group-title="INFANTIL" tvg-name="" tvg-logo="",Disney Junior HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/75
-#EXTINF:-1,Disney Junior SD
+#EXTINF:-1 group-title="INFANTIL" tvg-name="" tvg-logo="",Disney Junior SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/74
-#EXTINF:-1,Disney XD HD
+#EXTINF:-1 group-title="INFANTIL" tvg-name="" tvg-logo="",Disney XD HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/78
-#EXTINF:-1,Disney XD SD
+#EXTINF:-1 group-title="INFANTIL" tvg-name="" tvg-logo="",Disney XD SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/77
-#EXTINF:-1,E! HD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",E! HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/80
-#EXTINF:-1,E! SD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",E! SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/79
-#EXTINF:-1,Ei Plus 1*
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",Ei Plus 1*
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/715087
-#EXTINF:-1,Ei Plus 2*
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",Ei Plus 2*
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032899
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",ESPN 2 HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/91
-#EXTINF:-1,ESPN 2 SD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",ESPN 2 SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/90
-#EXTINF:-1,ESPN Brasil HD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",ESPN Brasil HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/88
-#EXTINF:-1,ESPN Brasil SD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",ESPN Brasil SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/87
-#EXTINF:-1,ESPN Extra HD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",ESPN Extra HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/755664
-#EXTINF:-1,ESPN Extra SD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",ESPN Extra SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/755663
-#EXTINF:-1,ESPN HD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",ESPN HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/86
-#EXTINF:-1,ESPN SD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",ESPN SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/85
-#EXTINF:-1,Film & Arts SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Film & Arts SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038290
-#EXTINF:-1,Fish TV HD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Fish TV HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/102
-#EXTINF:-1,Fish TV SD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Fish TV SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/101
-#EXTINF:-1,Food Network HD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Food Network HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/104
-#EXTINF:-1,Food Network SD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Food Network SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/103
-#EXTINF:-1,Fox HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Fox HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/107
-#EXTINF:-1,Fox Life HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Fox Life HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/109
-#EXTINF:-1,Fox Life SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Fox Life SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/108
-#EXTINF:-1,Fox Premium 1 HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Fox Premium 1 HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/112
-#EXTINF:-1,Fox Premium 1 SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Fox Premium 1 SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/111
-#EXTINF:-1,Fox Premium 2 HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Fox Premium 2 HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/115
-#EXTINF:-1,Fox Premium 2 SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Fox Premium 2 SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/114
-#EXTINF:-1,Fox SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Fox SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/106
-#EXTINF:-1,Fox Sports 2 HD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",Fox Sports 2 HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/121
-#EXTINF:-1,Fox Sports 2 SD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",Fox Sports 2 SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/120
-#EXTINF:-1,Fox Sports HD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",Fox Sports HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/118
-#EXTINF:-1,Fox Sports SD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",Fox Sports SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/117
-#EXTINF:-1,Futura HD
+#EXTINF:-1 group-title="ABERTA" tvg-name="" tvg-logo="",Futura HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/123
-#EXTINF:-1,Futura SD
+#EXTINF:-1 group-title="ABERTA" tvg-name="" tvg-logo="",Futura SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/122
-#EXTINF:-1,FX HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",FX HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/99
-#EXTINF:-1,FX SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",FX SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/98
-#EXTINF:-1,Globo Anhanguera Goiania SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo Anhanguera Goiania SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/127
-#EXTINF:-1,Globo Asa Branca SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo Asa Branca SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/147
-#EXTINF:-1,Globo Brasilia SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo Brasilia SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/129
-#EXTINF:-1,Globo Centro América Cuiaba SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo Centro América Cuiaba SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/130
-#EXTINF:-1,Globo EPTV Araraquara SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo EPTV Araraquara SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1036446
-#EXTINF:-1,Globo EPTV Campinas HD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo EPTV Campinas HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/132
-#EXTINF:-1,Globo EPTV Campinas SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo EPTV Campinas SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/131
-#EXTINF:-1,Globo EPTV Sao Carlos SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo EPTV Sao Carlos SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/135
-#EXTINF:-1,Globo INTER TV Cabugi RN SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo INTER TV Cabugi RN SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/715073
-#EXTINF:-1,Globo Internacional SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo Internacional SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/160
-#EXTINF:-1,Globo InterTV Alto Litoral HD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo InterTV Alto Litoral HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1036430
-#EXTINF:-1,Globo InterTV Serra Mar SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo InterTV Serra Mar SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032884
-#EXTINF:-1,Globo TV Itapetininga SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo TV Itapetininga SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032883
-#EXTINF:-1,Globo Minas HD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo Minas HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/137
-#EXTINF:-1,Globo Minas SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo Minas SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/136
-#EXTINF:-1,Globo News HD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo News HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/159
-#EXTINF:-1,Globo News SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo News SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/158
-#EXTINF:-1,Globo Nordeste HD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo Nordeste HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/140
-#EXTINF:-1,Globo Nordeste SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo Nordeste SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/139
-#EXTINF:-1,Globo NSC Blumenau SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo NSC Blumenau SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032881
-#EXTINF:-1,Globo NSC Florianopolis SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo NSC Florianopolis SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032894
-#EXTINF:-1,Globo NSC Joinville SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo NSC Joinville SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038312
-#EXTINF:-1,Globo RBS Porto Alegre HD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo RBS Porto Alegre HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/146
-#EXTINF:-1,Globo RBS Porto Alegre SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo RBS Porto Alegre SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/138
-#EXTINF:-1,Globo RBS TV Pelotas HD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo RBS TV Pelotas HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032888
-#EXTINF:-1,Globo Rede Amazonica SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo Rede Amazonica SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1036445
-#EXTINF:-1,Globo Ribeirao Preto SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo Ribeirao Preto SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/134
-#EXTINF:-1,Globo RJ HD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo RJ HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/143
-#EXTINF:-1,Globo RJ SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo RJ SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/142
-#EXTINF:-1,Globo RPC Curitiba HD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo RPC Curitiba HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/715081
-#EXTINF:-1,Globo RPC Curitiba SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo RPC Curitiba SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/715080
-#EXTINF:-1,Globo RPC Maringa SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo RPC Maringa SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038313
-#EXTINF:-1,Globo RPC Paranavaí SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo RPC Paranavaí SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032893
-#EXTINF:-1,Globo Sergipe SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo Sergipe SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/714891
-#EXTINF:-1,Globo SP HD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo SP HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/149
-#EXTINF:-1,Globo SP SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo SP SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/148
-#EXTINF:-1,Globo TV Bahia Full HD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo TV Bahia Full HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1036432
-#EXTINF:-1,Globo TV Bahia HD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo TV Bahia HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1036431
-#EXTINF:-1,Globo TV Bahia SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo TV Bahia SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/128
-#EXTINF:-1,Globo TV Diario HD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo TV Diario HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032895
-#EXTINF:-1,Globo TV Gazeta Sul ES HD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo TV Gazeta Sul ES HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1036428
-#EXTINF:-1,Globo TV Integração
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo TV Integração
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038311
-#EXTINF:-1,Globo TV Liberal Belem SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo TV Liberal Belem SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/151
-#EXTINF:-1,Globo TV Mirante SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo TV Mirante SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032882
-#EXTINF:-1,Globo TV Morena SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo TV Morena SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/126
-#EXTINF:-1,Globo TV Tem Bauru SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo TV Tem Bauru SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/153
-#EXTINF:-1,Globo TV Tem Sorocaba SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo TV Tem Sorocaba SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/154
-#EXTINF:-1,Globo TV Tem São José Do Rio Preto SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo TV Tem São José Do Rio Preto SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/716149
-#EXTINF:-1,Globo TV Tribuna Santos SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo TV Tribuna Santos SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/155
-#EXTINF:-1,Globo TV Vanguarda Sâo José Dos Campos SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo TV Vanguarda Sâo José Dos Campos SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/156
-#EXTINF:-1,Globo TV Verdes Mares Fortaleza SD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo TV Verdes Mares Fortaleza SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/157
-#EXTINF:-1,Gloob HD
+#EXTINF:-1 group-title="INFANTIL" tvg-name="" tvg-logo="",Gloob HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/167
-#EXTINF:-1,Gloob SD
+#EXTINF:-1 group-title="INFANTIL" tvg-name="" tvg-logo="",Gloob SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/166
-#EXTINF:-1,Gloobinho SD
+#EXTINF:-1 group-title="INFANTIL" tvg-name="" tvg-logo="",Gloobinho SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032896
-#EXTINF:-1,GNT HD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",GNT HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/125
-#EXTINF:-1,GNT SD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",GNT SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/124
-#EXTINF:-1,H2 HD
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-name="" tvg-logo="",H2 HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/169
-#EXTINF:-1,H2 SD
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-name="" tvg-logo="",H2 SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/168
-#EXTINF:-1,HBO 2 HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",HBO 2 HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/174
-#EXTINF:-1,HBO 2 SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",HBO 2 SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/173
-#EXTINF:-1,HBO Family HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",HBO Family HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/177
-#EXTINF:-1,HBO Family SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",HBO Family SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/176
-#EXTINF:-1,HBO HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",HBO HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/171
-#EXTINF:-1,HBO Mundi HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",HBO Mundi HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/194
-#EXTINF:-1,HBO Mundi SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",HBO Mundi SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/193
-#EXTINF:-1,HBO Plus HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",HBO Plus HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/179
-#EXTINF:-1,HBO Plus SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",HBO Plus SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/178
-#EXTINF:-1,HBO Plus*e HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",HBO Plus*e HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/181
-#EXTINF:-1,HBO Plus*e SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",HBO Plus*e SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/180
-#EXTINF:-1,HBO Pop HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",HBO Pop HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/200
-#EXTINF:-1,HBO Pop SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",HBO Pop SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/199
-#EXTINF:-1,HBO SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",HBO SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/170
-#EXTINF:-1,HBO Signature HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",HBO Signature HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/183
-#EXTINF:-1,HBO Signature SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",HBO Signature SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/182
-#EXTINF:-1,HBO Xtreme HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",HBO Xtreme HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/196
-#EXTINF:-1,HBO Xtreme SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",HBO Xtreme SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/195
-#EXTINF:-1,HGTV HD
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-name="" tvg-logo="",HGTV HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/59
-#EXTINF:-1,HGTV SD
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-name="" tvg-logo="",HGTV SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/58
-#EXTINF:-1,History Channel HD
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-name="" tvg-logo="",History Channel HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/185
-#EXTINF:-1,History Channel SD
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-name="" tvg-logo="",History Channel SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/184
-#EXTINF:-1,ID Investigação Discovery HD
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-name="" tvg-logo="",ID Investigação Discovery HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/188
-#EXTINF:-1,ID Investigação Discovery SD
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-name="" tvg-logo="",ID Investigação Discovery SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/187
-#EXTINF:-1,Lifetime HD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Lifetime HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/190
-#EXTINF:-1,Lifetime SD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Lifetime SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/189
-#EXTINF:-1,Mais Globosat HD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Mais Globosat HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/165
-#EXTINF:-1,Mais Globosat SD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Mais Globosat SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/164
-#EXTINF:-1,Megapix HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Megapix HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/202
-#EXTINF:-1,Megapix SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Megapix SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/201
-#EXTINF:-1,MTV HD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",MTV HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/192
-#EXTINF:-1,MTV Live HD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",MTV Live HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/368
-#EXTINF:-1,MTV SD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",MTV SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/191
-#EXTINF:-1,Multishow HD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Multishow HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/204
-#EXTINF:-1,Multishow SD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Multishow SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/203
-#EXTINF:-1,Music Box Brazil SD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Music Box Brazil SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/206
-#EXTINF:-1,Nat Geo Kids HD
+#EXTINF:-1 group-title="INFANTIL" tvg-name="" tvg-logo="",Nat Geo Kids HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/208
-#EXTINF:-1,Nat Geo Kids SD
+#EXTINF:-1 group-title="INFANTIL" tvg-name="" tvg-logo="",Nat Geo Kids SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/207
-#EXTINF:-1,Nat Geo Wild HD
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-name="" tvg-logo="",Nat Geo Wild HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/211
-#EXTINF:-1,Nat Geo Wild SD
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-name="" tvg-logo="",Nat Geo Wild SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/210
-#EXTINF:-1,National Geographic HD
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-name="" tvg-logo="",National Geographic HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/213
-#EXTINF:-1,National Geographic SD
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-name="" tvg-logo="",National Geographic SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/212
-#EXTINF:-1,Nick Jr HD
+#EXTINF:-1 group-title="INFANTIL" tvg-name="" tvg-logo="",Nick Jr HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/216
-#EXTINF:-1,Nick Jr SD
+#EXTINF:-1 group-title="INFANTIL" tvg-name="" tvg-logo="",Nick Jr SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/215
-#EXTINF:-1,Nickelodeon HD
+#EXTINF:-1 group-title="INFANTIL" tvg-name="" tvg-logo="",Nickelodeon HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/219
-#EXTINF:-1,Nickelodeon SD
+#EXTINF:-1 group-title="INFANTIL" tvg-name="" tvg-logo="",Nickelodeon SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/218
-#EXTINF:-1,Novo Tempo SD
+#EXTINF:-1 group-title="ABERTA" tvg-name="" tvg-logo="",Novo Tempo SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/221
-#EXTINF:-1,Off HD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Off HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/223
-#EXTINF:-1,Off SD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Off SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/222
-#EXTINF:-1,Paramount Channel HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Paramount Channel HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/226
-#EXTINF:-1,Paramount Channel SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Paramount Channel SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/225
-#EXTINF:-1,PlayTV SD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",PlayTV SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/227
-#EXTINF:-1,Polishop TV SD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Polishop TV SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038288
-#EXTINF:-1,Premiere 1 SD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",Premiere 1 SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/229
-#EXTINF:-1,Premiere 2 HD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",Premiere 2 HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/231
-#EXTINF:-1,Premiere 2 SD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",Premiere 2 SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/230
-#EXTINF:-1,Premiere 3 HD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",Premiere 3 HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/233
-#EXTINF:-1,Premiere 3 SD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",Premiere 3 SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/232
-#EXTINF:-1,Premiere 4 HD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",Premiere 4 HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/236
-#EXTINF:-1,Premiere 4 SD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",Premiere 4 SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/235
-#EXTINF:-1,Premiere 5 HD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",Premiere 5 HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/238
-#EXTINF:-1,Premiere 5 SD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",Premiere 5 SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/237
-#EXTINF:-1,Premiere 6 HD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",Premiere 6 HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/64653
-#EXTINF:-1,Premiere 6 SD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",Premiere 6 SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/239
-#EXTINF:-1,Premiere 7 SD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",Premiere 7 SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/240
-#EXTINF:-1,Premiere 8 SD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",Premiere 8 SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/241
-#EXTINF:-1,Premiere Clubes HD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",Premiere Clubes HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/244
-#EXTINF:-1,Premiere Clubes SD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",Premiere Clubes SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/243
-#EXTINF:-1,Prime Box Brazil SD
+#EXTINF:-1 group-title="ABERTA" tvg-name="" tvg-logo="",Prime Box Brazil SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/755753
-#EXTINF:-1,Record Bahia HD
+#EXTINF:-1 group-title="RECORD" tvg-name="" tvg-logo="",Record Bahia HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/252
-#EXTINF:-1,Record Brasília SD
+#EXTINF:-1 group-title="RECORD" tvg-name="" tvg-logo="",Record Brasília SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/715078
-#EXTINF:-1,Record Campinas HD
+#EXTINF:-1 group-title="RECORD" tvg-name="" tvg-logo="",Record Campinas HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/247
-#EXTINF:-1,Record Campinas SD
+#EXTINF:-1 group-title="RECORD" tvg-name="" tvg-logo="",Record Campinas SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/246
-#EXTINF:-1,Record Esp. Santo SD
+#EXTINF:-1 group-title="RECORD" tvg-name="" tvg-logo="",Record Esp. Santo SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/248
-#EXTINF:-1,Record MG SD
+#EXTINF:-1 group-title="RECORD" tvg-name="" tvg-logo="",Record MG SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/715079
-#EXTINF:-1,Record News HD
+#EXTINF:-1 group-title="RECORD" tvg-name="" tvg-logo="",Record News HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/254
-#EXTINF:-1,Record News SD
+#EXTINF:-1 group-title="RECORD" tvg-name="" tvg-logo="",Record News SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/253
-#EXTINF:-1,Record RJ HD
+#EXTINF:-1 group-title="RECORD" tvg-name="" tvg-logo="",Record RJ HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/715077
-#EXTINF:-1,Record RS HD
+#EXTINF:-1 group-title="RECORD" tvg-name="" tvg-logo="",Record RS HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032892
-#EXTINF:-1,Record SP HD
+#EXTINF:-1 group-title="RECORD" tvg-name="" tvg-logo="",Record SP HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/250
-#EXTINF:-1,Record SP SD
+#EXTINF:-1 group-title="RECORD" tvg-name="" tvg-logo="",Record SP SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/249
-#EXTINF:-1,Record TV Vitoria SD
+#EXTINF:-1 group-title="RECORD" tvg-name="" tvg-logo="",Record TV Vitoria SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/245
-#EXTINF:-1,Rede Familia SD
+#EXTINF:-1 group-title="ABERTA" tvg-name="" tvg-logo="",Rede Familia SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/13416
-#EXTINF:-1,Rede Gospel SD
+#EXTINF:-1 group-title="ABERTA" tvg-name="" tvg-logo="",Rede Gospel SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/717116
-#EXTINF:-1,Rede Vida HD
+#EXTINF:-1 group-title="ABERTA" tvg-name="" tvg-logo="",Rede Vida HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/259
-#EXTINF:-1,Rede Vida SD
+#EXTINF:-1 group-title="ABERTA" tvg-name="" tvg-logo="",Rede Vida SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/258
-#EXTINF:-1,RedeTV! HD
+#EXTINF:-1 group-title="ABERTA" tvg-name="" tvg-logo="",RedeTV! HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/257
-#EXTINF:-1,RedeTV! SD
+#EXTINF:-1 group-title="ABERTA" tvg-name="" tvg-logo="",RedeTV! SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/256
-#EXTINF:-1,RIT TV SD
+#EXTINF:-1 group-title="ABERTA" tvg-name="" tvg-logo="",RIT TV SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/717114
-#EXTINF:-1,SBT Goias HD
+#EXTINF:-1 group-title="SBT" tvg-name="" tvg-logo="",SBT Goias HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/13415
-#EXTINF:-1,SBT Nordeste HD
+#EXTINF:-1 group-title="SBT" tvg-name="" tvg-logo="",SBT Nordeste HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/263
-#EXTINF:-1,SBT RJ HD
+#EXTINF:-1 group-title="SBT" tvg-name="" tvg-logo="",SBT RJ HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/66349
-#EXTINF:-1,SBT SP HD
+#EXTINF:-1 group-title="SBT" tvg-name="" tvg-logo="",SBT SP HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/262
-#EXTINF:-1,SBT SP SD
+#EXTINF:-1 group-title="SBT" tvg-name="" tvg-logo="",SBT SP SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/261
-#EXTINF:-1,SBT TV Cidade Verde Piaui HD
+#EXTINF:-1 group-title="SBT" tvg-name="" tvg-logo="",SBT TV Cidade Verde Piaui HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/715076
-#EXTINF:-1,SBT TV Jornal Pernambuco SD
+#EXTINF:-1 group-title="SBT" tvg-name="" tvg-logo="",SBT TV Jornal Pernambuco SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/715075
-#EXTINF:-1,Shoptime SD
+#EXTINF:-1 group-title="ABERTA" tvg-name="" tvg-logo="",Shoptime SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038289
-#EXTINF:-1,Canal Sony HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Canal Sony HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/266
-#EXTINF:-1,Canal Sony SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Canal Sony SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/265
-#EXTINF:-1,Space HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Space HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/269
-#EXTINF:-1,Space SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Space SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/268
-#EXTINF:-1,SporTV 2 HD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",SporTV 2 HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/275
-#EXTINF:-1,SporTV 2 SD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",SporTV 2 SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/274
-#EXTINF:-1,SporTV 3 HD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",SporTV 3 HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/278
-#EXTINF:-1,SporTV 3 SD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",SporTV 3 SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/277
-#EXTINF:-1,SporTV HD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",SporTV HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/273
-#EXTINF:-1,SporTV SD
+#EXTINF:-1 group-title="ESPORTES" tvg-name="" tvg-logo="",SporTV SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/272
-#EXTINF:-1,Studio Universal HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Studio Universal HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/280
-#EXTINF:-1,Studio Universal SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Studio Universal SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/279
-#EXTINF:-1,SyFy HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",SyFy HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/283
-#EXTINF:-1,SyFy SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",SyFy SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/282
-#EXTINF:-1,TBS SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",TBS SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/286
-#EXTINF:-1,Telecine Action HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Telecine Action HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/296
-#EXTINF:-1,Telecine Action SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Telecine Action SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/295
-#EXTINF:-1,Telecine Cult HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Telecine Cult HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/299
-#EXTINF:-1,Telecine Cult SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Telecine Cult SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/298
-#EXTINF:-1,Telecine Fun HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Telecine Fun HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/302
-#EXTINF:-1,Telecine Fun SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Telecine Fun SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/301
-#EXTINF:-1,Telecine Pipoca HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Telecine Pipoca HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/305
-#EXTINF:-1,Telecine Pipoca SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Telecine Pipoca SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/304
-#EXTINF:-1,Telecine Premium HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Telecine Premium HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/308
-#EXTINF:-1,Telecine Premium SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Telecine Premium SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/307
-#EXTINF:-1,Telecine Touch HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Telecine Touch HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/310
-#EXTINF:-1,Telecine Touch SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Telecine Touch SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/309
-#EXTINF:-1,TNT HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",TNT HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/292
-#EXTINF:-1,TNT SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",TNT SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/291
-#EXTINF:-1,TNT Séries HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",TNT Séries HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/294
-#EXTINF:-1,TNT Séries SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",TNT Séries SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/293
-#EXTINF:-1,Tooncast HD
+#EXTINF:-1 group-title="INFANTIL" tvg-name="" tvg-logo="",Tooncast HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/313
-#EXTINF:-1,Tooncast SD
+#EXTINF:-1 group-title="INFANTIL" tvg-name="" tvg-logo="",Tooncast SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/312
-#EXTINF:-1,Travel Box Brasil HD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Travel Box Brasil HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038159
-#EXTINF:-1,Travel Box Brazil SD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Travel Box Brazil SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038158
-#EXTINF:-1,TruTV SD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",TruTV SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032890
-#EXTINF:-1,TV Aparecida SD
+#EXTINF:-1 group-title="ABERTA" tvg-name="" tvg-logo="",TV Aparecida SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/717115
-#EXTINF:-1,TV Gazeta SD
+#EXTINF:-1 group-title="ABERTA" tvg-name="" tvg-logo="",TV Gazeta SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/321
-#EXTINF:-1,TV Playkids
+#EXTINF:-1 group-title="INFANTIL" tvg-name="" tvg-logo="",TV Playkids
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/755754
-#EXTINF:-1,TV Ra Tim Bum SD
+#EXTINF:-1 group-title="INFANTIL" tvg-name="" tvg-logo="",TV Ra Tim Bum SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/755752
-#EXTINF:-1,TV Século 21
+#EXTINF:-1 group-title="ABERTA" tvg-name="" tvg-logo="",TV Século 21
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/755662
-#EXTINF:-1,Universal Channel HD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Universal Channel HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/326
-#EXTINF:-1,Universal Channel SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Universal Channel SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/325
-#EXTINF:-1,VH1 HD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",VH1 HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/328
-#EXTINF:-1,VH1 SD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",VH1 SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/327
-#EXTINF:-1,Viva HD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Viva HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/330
-#EXTINF:-1,Viva SD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Viva SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/329
-#EXTINF:-1,Warner Channel HD
+#EXTINF:-1 group-title="ABERTA" tvg-name="" tvg-logo="",Warner Channel HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/332
-#EXTINF:-1,Warner Channel SD
+#EXTINF:-1 group-title="ABERTA" tvg-name="" tvg-logo="",Warner Channel SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/331
-#EXTINF:-1,Woohoo HD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Woohoo HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/334
-#EXTINF:-1,Woohoo SD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Woohoo SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/333
-#EXTINF:-1,Zoomoo HD
+#EXTINF:-1 group-title="INFANTIL" tvg-name="" tvg-logo="",Zoomoo HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/336
-#EXTINF:-1,Zoomoo SD
+#EXTINF:-1 group-title="INFANTIL" tvg-name="" tvg-logo="",Zoomoo SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/335
-#EXTINF:-1,TCM SD
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",TCM SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/288
-#EXTINF:-1,NHK SD
+#EXTINF:-1 group-title="ABERTA" tvg-name="" tvg-logo="",NHK SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038358
-#EXTINF:-1,NHK HD
+#EXTINF:-1 group-title="ABERTA" tvg-name="" tvg-logo="",NHK HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038359
-#EXTINF:-1,FashionTV HD
+#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",FashionTV HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038360
-#EXTINF:-1,Globo TV Gazeta Vitória HD
+#EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo TV Gazeta Vitória HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038365
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG001
+http://kianumaka.lhmtv.gq/play/?contentId=498e0894be3349a4&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG002
+http://kianumaka.lhmtv.gq/play/?contentId=3f5a90e23353def2&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG003
+http://kianumaka.lhmtv.gq/play/?contentId=9ff03fb07d3e92b7&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG004
+http://kianumaka.lhmtv.gq/play/?contentId=56cf248f0e234064&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG005
+http://kianumaka.lhmtv.gq/play/?contentId=ff1c9949039c05ed&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG006
+http://kianumaka.lhmtv.gq/play/?contentId=746bf8834d343d3c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG007
+http://kianumaka.lhmtv.gq/play/?contentId=569eae49989398e8&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG008
+http://kianumaka.lhmtv.gq/play/?contentId=d1e8b6f276b26a4f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG009
+http://kianumaka.lhmtv.gq/play/?contentId=f740cd11caa49076&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG010
+http://kianumaka.lhmtv.gq/play/?contentId=2a1ed0fb3c30a45f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG011
+http://kianumaka.lhmtv.gq/play/?contentId=b05ee2db8b9ffd90&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG012
+http://kianumaka.lhmtv.gq/play/?contentId=732ba2f5438d4199&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG013
+http://kianumaka.lhmtv.gq/play/?contentId=4068393da99dd876&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG014
+http://kianumaka.lhmtv.gq/play/?contentId=9b167c074f65e670&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG015
+http://kianumaka.lhmtv.gq/play/?contentId=713f48fd1dda2e18&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG016
+http://kianumaka.lhmtv.gq/play/?contentId=574e49de4329f681&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG017
+http://kianumaka.lhmtv.gq/play/?contentId=b565a5faa69d00d7&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG018
+http://kianumaka.lhmtv.gq/play/?contentId=a099d8aa199ed7cb&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG019
+http://kianumaka.lhmtv.gq/play/?contentId=ac0f232c6a05d3d4&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG020
+http://kianumaka.lhmtv.gq/play/?contentId=d257d02621c968a7&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG021
+http://kianumaka.lhmtv.gq/play/?contentId=c4216f233e696e18&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG022
+http://kianumaka.lhmtv.gq/play/?contentId=2de0c396608424b1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG023
+http://kianumaka.lhmtv.gq/play/?contentId=2629c3edda9a0859&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG024
+http://kianumaka.lhmtv.gq/play/?contentId=c2b437a293a9f5dd&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG025
+http://kianumaka.lhmtv.gq/play/?contentId=b90f8f3b4da8486f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG026
+http://kianumaka.lhmtv.gq/play/?contentId=8de5ea5e319cb7c6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG027
+http://kianumaka.lhmtv.gq/play/?contentId=c5de27f838ce9f0b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG028
+http://kianumaka.lhmtv.gq/play/?contentId=46792f835b8c912e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG029
+http://kianumaka.lhmtv.gq/play/?contentId=21f34eb5b048767a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG030
+http://kianumaka.lhmtv.gq/play/?contentId=7595646f6e30edd7&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG031
+http://kianumaka.lhmtv.gq/play/?contentId=93c75d2c9eae237b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG032
+http://kianumaka.lhmtv.gq/play/?contentId=8cf112d24332654f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG033
+http://kianumaka.lhmtv.gq/play/?contentId=e1f9f9cb3f6c5d37&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG034
+http://kianumaka.lhmtv.gq/play/?contentId=4dbe405bcaa71886&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG035
+http://kianumaka.lhmtv.gq/play/?contentId=5441f199c5b8e931&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG036
+http://kianumaka.lhmtv.gq/play/?contentId=0e3370262fdf1252&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG037
+http://kianumaka.lhmtv.gq/play/?contentId=58bded1cef6d5d88&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG038
+http://kianumaka.lhmtv.gq/play/?contentId=e6bd8cc9306d578c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG039
+http://kianumaka.lhmtv.gq/play/?contentId=3bd7fd042ffb7b43&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG040
+http://kianumaka.lhmtv.gq/play/?contentId=a6e13b2be52bc02a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG041
+http://kianumaka.lhmtv.gq/play/?contentId=c267f571f53c0174&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG042
+http://kianumaka.lhmtv.gq/play/?contentId=5de192f29ef6145a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG043
+http://kianumaka.lhmtv.gq/play/?contentId=a08e7dd68393faf1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG044
+http://kianumaka.lhmtv.gq/play/?contentId=8f2acf7803b8ce8e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG045
+http://kianumaka.lhmtv.gq/play/?contentId=58051b9c9047e967&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG046
+http://kianumaka.lhmtv.gq/play/?contentId=f2fee49c7f3da933&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG047
+http://kianumaka.lhmtv.gq/play/?contentId=3869af91fc9ca7df&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG048
+http://kianumaka.lhmtv.gq/play/?contentId=4b54d5aea55023cb&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG049
+http://kianumaka.lhmtv.gq/play/?contentId=d68c373daae27374&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG050
+http://kianumaka.lhmtv.gq/play/?contentId=56828f6dbc11b4fc&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG051
+http://kianumaka.lhmtv.gq/play/?contentId=b63c67919f48b00a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG052
+http://kianumaka.lhmtv.gq/play/?contentId=89231934d735db60&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG053
+http://kianumaka.lhmtv.gq/play/?contentId=fd2e7fb029ee359f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG054
+http://kianumaka.lhmtv.gq/play/?contentId=da43960161eecf03&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG055
+http://kianumaka.lhmtv.gq/play/?contentId=9329c1cd159e9fa8&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG056
+http://kianumaka.lhmtv.gq/play/?contentId=7731e5290bb01346&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG057
+http://kianumaka.lhmtv.gq/play/?contentId=186bb5e45960f49d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG058
+http://kianumaka.lhmtv.gq/play/?contentId=aea97fb2c334087b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG059
+http://kianumaka.lhmtv.gq/play/?contentId=a30f23f0772e10ec&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG060
+http://kianumaka.lhmtv.gq/play/?contentId=5b85634622aba477&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG061
+http://kianumaka.lhmtv.gq/play/?contentId=7644f26bed016631&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG062
+http://kianumaka.lhmtv.gq/play/?contentId=0893680634d85de8&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG063
+http://kianumaka.lhmtv.gq/play/?contentId=df7dacebbba3aaf0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG064
+http://kianumaka.lhmtv.gq/play/?contentId=97514c79eb98d241&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG065
+http://kianumaka.lhmtv.gq/play/?contentId=9f71637bf11c928f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG066
+http://kianumaka.lhmtv.gq/play/?contentId=9f71637bf11c928f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG067
+http://kianumaka.lhmtv.gq/play/?contentId=a7ac49addbe50976&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG068
+http://kianumaka.lhmtv.gq/play/?contentId=665fefbf7f56eeae&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG069
+http://kianumaka.lhmtv.gq/play/?contentId=749abad96d7ba8a2&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG070
+http://kianumaka.lhmtv.gq/play/?contentId=e622ad012040fe3c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG071
+http://kianumaka.lhmtv.gq/play/?contentId=ad3a595acdfcf951&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG072
+http://kianumaka.lhmtv.gq/play/?contentId=7fb1f78a5856ab7c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG073
+http://kianumaka.lhmtv.gq/play/?contentId=51c7d705c709b01b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG074
+http://kianumaka.lhmtv.gq/play/?contentId=cd6781b9f02c9cf5&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG075
+http://kianumaka.lhmtv.gq/play/?contentId=4a14e2ff9ed13c01&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG076
+http://kianumaka.lhmtv.gq/play/?contentId=cabdffb0a9bb8805&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG077
+http://kianumaka.lhmtv.gq/play/?contentId=5a5f4cde8933da97&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG078
+http://kianumaka.lhmtv.gq/play/?contentId=c397b95bda762211&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG079
+http://kianumaka.lhmtv.gq/play/?contentId=6a9011bac031a71b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG080
+http://kianumaka.lhmtv.gq/play/?contentId=43981667ad20e636&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG081
+http://kianumaka.lhmtv.gq/play/?contentId=60344be3fc463d75&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG082
+http://kianumaka.lhmtv.gq/play/?contentId=60344be3fc463d75&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG083
+http://kianumaka.lhmtv.gq/play/?contentId=0950945c7ece0196&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG084
+http://kianumaka.lhmtv.gq/play/?contentId=67154e8a2b5fd72c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG085
+http://kianumaka.lhmtv.gq/play/?contentId=32e786d11279fe49&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG086
+http://kianumaka.lhmtv.gq/play/?contentId=8b08384369c0b5f3&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG087
+http://kianumaka.lhmtv.gq/play/?contentId=b699d9ffc0884b94&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG088
+http://kianumaka.lhmtv.gq/play/?contentId=65bfd59516c20998&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG089
+http://kianumaka.lhmtv.gq/play/?contentId=1b73ea4fd20a922f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG090
+http://kianumaka.lhmtv.gq/play/?contentId=be640b33ce027cfa&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG091
+http://kianumaka.lhmtv.gq/play/?contentId=bdc306c28863c0ef&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG092
+http://kianumaka.lhmtv.gq/play/?contentId=e1480972e4ddcf80&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG093
+http://kianumaka.lhmtv.gq/play/?contentId=1114fc957d0c3397&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG094
+http://kianumaka.lhmtv.gq/play/?contentId=023963e54b7d98a3&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG095
+http://kianumaka.lhmtv.gq/play/?contentId=0749955477357ce0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG096
+http://kianumaka.lhmtv.gq/play/?contentId=98608bb85ed55180&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG097
+http://kianumaka.lhmtv.gq/play/?contentId=f7f0846bcba8e072&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG098
+http://kianumaka.lhmtv.gq/play/?contentId=cbe83558759e26c2&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG099
+http://kianumaka.lhmtv.gq/play/?contentId=f3cb307a88f0163f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG100
+http://kianumaka.lhmtv.gq/play/?contentId=e1307a8bc74af409&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG101
+http://kianumaka.lhmtv.gq/play/?contentId=3db0bbd2f110a217&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG102
+http://kianumaka.lhmtv.gq/play/?contentId=7aad3bdaee1cbd65&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG103
+http://kianumaka.lhmtv.gq/play/?contentId=2afa61b371d967c1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG104
+http://kianumaka.lhmtv.gq/play/?contentId=8e5f5e3f80798ec9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG105
+http://kianumaka.lhmtv.gq/play/?contentId=46254279387605f9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG106
+http://kianumaka.lhmtv.gq/play/?contentId=0037a2e38f39c03b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG107
+http://kianumaka.lhmtv.gq/play/?contentId=bce839dcfb5cfce4&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG108
+http://kianumaka.lhmtv.gq/play/?contentId=f42dc9270a2bc7e5&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG109
+http://kianumaka.lhmtv.gq/play/?contentId=de798b8a7bb7ce9b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG110
+http://kianumaka.lhmtv.gq/play/?contentId=bdbdd3fe657b620f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG111
+http://kianumaka.lhmtv.gq/play/?contentId=f664b18973938b50&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/yyhakusho1.jpg" group-title="ANIME YU YU HAKUSHO", ELEG112
+http://kianumaka.lhmtv.gq/play/?contentId=cb6bb7df162f5ab7&LHMTv
