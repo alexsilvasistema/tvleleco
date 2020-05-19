@@ -218,10 +218,6 @@ http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/101
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/104
 #EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Food Network SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/103
-#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Food Network HD2
-http://maxptv.net:8080/live/asterix/asterix/158.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-name="" tvg-logo="",Food Network SD2
-http://maxptv.net:8080/live/asterix/asterix/159.m3u8
 #EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Fox HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/107
 #EXTINF:-1 group-title="FILMES E SERIES" tvg-name="" tvg-logo="",Fox Life HD
@@ -680,72 +676,3 @@ http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038359
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038360
 #EXTINF:-1 group-title="GLOBO" tvg-name="" tvg-logo="",Globo TV Gazeta Vitória HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038365
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Black Kamen Rider 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS",Black Kamen Rider 24H
-http://maxptv.net:8080/live/asterix/asterix/537.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal CSI 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS",Canal CSI 24H
-http://maxptv.net:8080/live/asterix/asterix/538.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Como eu Conheci a Sua Mae  24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS",Como eu Conheci a Sua Mae  24H
-http://maxptv.net:8080/live/asterix/asterix/567.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cybercop 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS",Cybercop 24H
-http://maxptv.net:8080/live/asterix/asterix/1479.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DR. House 24HR" tvg-logo="" group-title="24H DIVERSOS LEGAIS",DR. House 24HR
-http://maxptv.net:8080/live/asterix/asterix/568.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dragoes  24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS",Dragoes  24H
-http://maxptv.net:8080/live/asterix/asterix/1480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Crianças" tvg-logo="" group-title="24H DIVERSOS LEGAIS",Eu a Patroa e as Crianças
-http://maxptv.net:8080/live/asterix/asterix/321.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Familia da Pesada 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS"",Familia da Pesada 24H
-http://maxptv.net:8080/live/asterix/asterix/1481.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Familia Dinossauro  24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS"",Familia Dinossauro  24H
-http://maxptv.net:8080/live/asterix/asterix/569.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS"",Galinha Pintadinha 24H
-http://maxptv.net:8080/live/asterix/asterix/1476.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS"",Homem-Aranha 24H
-http://maxptv.net:8080/live/asterix/asterix/566.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jaspion 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS",Jaspion 24H
-http://maxptv.net:8080/live/asterix/asterix/570.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jiraya  O Incrivel Ninja 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS",Jiraya  O Incrivel Ninja 24H
-http://maxptv.net:8080/live/asterix/asterix/1475.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Larva 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS"",Larva 24H
-http://maxptv.net:8080/live/asterix/asterix/1474.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lion Man 24H" tvg-logo="" group-title=24H DIVERSOS LEGAIS",Lion Man 24H
-http://maxptv.net:8080/live/asterix/asterix/1473.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Looney Tunnes 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS"",Looney Tunnes 24H
-http://maxptv.net:8080/live/asterix/asterix/565.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MARVEL & DC 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS",MARVEL & DC 24H
-http://maxptv.net:8080/live/asterix/asterix/545.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MR. Bean 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS",MR. Bean 24H
-http://maxptv.net:8080/live/asterix/asterix/546.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Naruto 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS"",Naruto 24H
-http://maxptv.net:8080/live/asterix/asterix/564.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS"",Os Simpsons 24H
-http://maxptv.net:8080/live/asterix/asterix/563.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Os Vingadores 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS",Os Vingadores 24H
-http://maxptv.net:8080/live/asterix/asterix/1482.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS"",Peppa Pig 24H
-http://maxptv.net:8080/live/asterix/asterix/562.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POCOYO 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS"",POCOYO 24H
-http://maxptv.net:8080/live/asterix/asterix/561.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pokemon 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS"",Pokemon 24H
-http://maxptv.net:8080/live/asterix/asterix/560.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Show da Luna 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS"",Show da Luna 24H
-http://maxptv.net:8080/live/asterix/asterix/559.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="South Park 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS",South Park 24H
-http://maxptv.net:8080/live/asterix/asterix/544.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="The Backyardigans 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS"",The Backyardigans 24H
-http://maxptv.net:8080/live/asterix/asterix/558.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS",The Big Bang Theory 24H
-http://maxptv.net:8080/live/asterix/asterix/543.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Cris" tvg-logo="" group-title="24H DIVERSOS LEGAIS",Todo Mundo Odeia o Cris
-http://maxptv.net:8080/live/asterix/asterix/317.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry  24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS"",Tom & Jerry  24H
-http://maxptv.net:8080/live/asterix/asterix/557.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Two And a Half Man 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS",Two And a Half Man 24H
-http://maxptv.net:8080/live/asterix/asterix/542.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco No Pedaco  24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS",Um Maluco No Pedaco  24H
-http://maxptv.net:8080/live/asterix/asterix/541.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="X-Men Evolution 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS"",X-Men Evolution 24H
-http://maxptv.net:8080/live/asterix/asterix/1483.m3u8
-
