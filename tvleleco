@@ -692,7 +692,7 @@ http://maxptv.net:8080/live/asterix/asterix/567.m3u8
 http://maxptv.net:8080/live/asterix/asterix/1479.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DR. House 24HR" tvg-logo="" group-title="24H DIVERSOS LEGAIS",DR. House 24HR
 http://maxptv.net:8080/live/asterix/asterix/568.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dragoes  24H" tvg-logo="https://i.imgur.com/FjmeFap.jpg" group-title="24H DIVERSOS LEGAIS",Dragoes  24H
+#EXTINF:-1 tvg-id="" tvg-name="Dragoes  24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS",Dragoes  24H
 http://maxptv.net:8080/live/asterix/asterix/1480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Crianças" tvg-logo="" group-title="24H DIVERSOS LEGAIS",Eu a Patroa e as Crianças
 http://maxptv.net:8080/live/asterix/asterix/321.m3u8
@@ -700,17 +700,17 @@ http://maxptv.net:8080/live/asterix/asterix/321.m3u8
 http://maxptv.net:8080/live/asterix/asterix/1481.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Familia Dinossauro  24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS"",Familia Dinossauro  24H
 http://maxptv.net:8080/live/asterix/asterix/569.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha 24H" tvg-logo="https://i.ytimg.com/vi/gjz9PM4iWWg/maxresdefault.jpg" group-title="24H DIVERSOS LEGAIS"",Galinha Pintadinha 24H
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS"",Galinha Pintadinha 24H
 http://maxptv.net:8080/live/asterix/asterix/1476.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS"",Homem-Aranha 24H
 http://maxptv.net:8080/live/asterix/asterix/566.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jaspion 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS",Jaspion 24H
 http://maxptv.net:8080/live/asterix/asterix/570.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jiraya  O Incrivel Ninja 24H" tvg-logo="https://http2.mlstatic.com/dvd-colecao-jiraya-D_NQ_NP_773820-MLB25537680599_042017-F.jpg" group-title="24H DIVERSOS LEGAIS",Jiraya  O Incrivel Ninja 24H
+#EXTINF:-1 tvg-id="" tvg-name="Jiraya  O Incrivel Ninja 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS",Jiraya  O Incrivel Ninja 24H
 http://maxptv.net:8080/live/asterix/asterix/1475.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Larva 24H" tvg-logo="https://i.ytimg.com/vi/hNQ_NbLpgE4/maxresdefault.jpg" group-title="24H DIVERSOS LEGAIS"",Larva 24H
+#EXTINF:-1 tvg-id="" tvg-name="Larva 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS"",Larva 24H
 http://maxptv.net:8080/live/asterix/asterix/1474.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lion Man 24H" tvg-logo="https://i.ytimg.com/vi/YafPBIT19ns/hqdefault.jpg" group-title="24H DIVERSOS LEGAIS",Lion Man 24H
+#EXTINF:-1 tvg-id="" tvg-name="Lion Man 24H" tvg-logo="" group-title=24H DIVERSOS LEGAIS",Lion Man 24H
 http://maxptv.net:8080/live/asterix/asterix/1473.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Looney Tunnes 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS"",Looney Tunnes 24H
 http://maxptv.net:8080/live/asterix/asterix/565.m3u8
@@ -722,7 +722,7 @@ http://maxptv.net:8080/live/asterix/asterix/546.m3u8
 http://maxptv.net:8080/live/asterix/asterix/564.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Os Simpsons 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS"",Os Simpsons 24H
 http://maxptv.net:8080/live/asterix/asterix/563.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Os Vingadores 24H" tvg-logo="https://i.imgur.com/1PxCVdn.png" group-title="24H DIVERSOS LEGAIS",Os Vingadores 24H
+#EXTINF:-1 tvg-id="" tvg-name="Os Vingadores 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS",Os Vingadores 24H
 http://maxptv.net:8080/live/asterix/asterix/1482.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Peppa Pig 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS"",Peppa Pig 24H
 http://maxptv.net:8080/live/asterix/asterix/562.m3u8
@@ -738,7 +738,7 @@ http://maxptv.net:8080/live/asterix/asterix/544.m3u8
 http://maxptv.net:8080/live/asterix/asterix/558.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS",The Big Bang Theory 24H
 http://maxptv.net:8080/live/asterix/asterix/543.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Cris" tvg-logo="https://segredosdomundo.r7.com/wp-content/uploads/2019/06/saiba-o-que-realmente-e-verdade-no-seriado-todo-mundo-odeia-o-chris-4.jpg" group-title="24H DIVERSOS LEGAIS",Todo Mundo Odeia o Cris
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Cris" tvg-logo="" group-title="24H DIVERSOS LEGAIS",Todo Mundo Odeia o Cris
 http://maxptv.net:8080/live/asterix/asterix/317.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry  24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS"",Tom & Jerry  24H
 http://maxptv.net:8080/live/asterix/asterix/557.m3u8
@@ -746,6 +746,6 @@ http://maxptv.net:8080/live/asterix/asterix/557.m3u8
 http://maxptv.net:8080/live/asterix/asterix/542.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Um Maluco No Pedaco  24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS",Um Maluco No Pedaco  24H
 http://maxptv.net:8080/live/asterix/asterix/541.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="X-Men Evolution 24H" tvg-logo="https://i.imgur.com/3LTJ2Oj.gif" group-title="24H DIVERSOS LEGAIS"",X-Men Evolution 24H
+#EXTINF:-1 tvg-id="" tvg-name="X-Men Evolution 24H" tvg-logo="" group-title="24H DIVERSOS LEGAIS"",X-Men Evolution 24H
 http://maxptv.net:8080/live/asterix/asterix/1483.m3u8
 
