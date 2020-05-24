@@ -1,4 +1,4 @@
-#EXTM3U size="big"
+#EXTM3U size="Medium"
 
 #EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Anos 70
 http://192.99.150.31:8241/stream?
