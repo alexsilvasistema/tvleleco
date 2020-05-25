@@ -1,0 +1,406 @@
+#EXTM3U size="medium"
+
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Anos 70
+http://192.99.150.31:8241/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Anos 80
+http://192.99.150.31:8697/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Anos 90 
+http://192.99.150.31:8056/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Anos 2000 
+http://6d9a.webradio.upx.net.br:9940/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Axé 
+http://192.99.150.31:8305/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Brega 
+http://192.99.150.31:9007/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Eletrônica 
+http://192.99.150.31:9095/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Forró 
+http://192.99.150.31:9019/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Funk 
+http://192.99.150.31:9089/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Gospel 
+http://192.99.150.31:9101/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Hip Hop 
+http://192.99.150.31:8721/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio HISTORINHA INFANTIL 
+http://192.99.150.31:8371/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Kids 
+http://192.99.150.31:9431/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Jazz 
+http://192.99.150.31:8042/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio MPB 
+http://192.99.150.31:8775/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Rap Nacional 
+http://192.99.150.31:8377/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Reggae 
+http://192.99.150.31:8715/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Rock Clássico 
+http://192.99.150.31:9125/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Românticas 
+http://192.99.150.31:8962/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Sertanejo 
+http://192.99.150.31:9485/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Sertanejo Universitário 
+http://192.99.150.31:9191/stream?
+
+
+#EXTINF:-1 group-title="FILMES FIXOS" ,Alita: Anjo De Combate
+https://cld.pt/dl/download/d0d1d861-0cd9-449e-949b-7f1e8494db95/alita_anjo_de_combate.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Assassino À Preço Fixo
+https://cld.pt/dl/download/e17e4514-0231-485a-8c12-9ae777926807/assassino_a_preco_fixo.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Assassino À Preço Fixo 2: A Ressurreição
+https://cld.pt/dl/download/1af89123-a9d1-48f1-9de6-a85fd3c66bf2/assassino_a_preco_fixo_2.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Aves De Rapina
+https://cld.pt/dl/download/b2b157d2-b125-48a7-bbef-6d91180b9117/aves_de_rapina.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Bad Boys Para Sempre
+https://cld.pt/dl/download/3a9a75e0-1f95-4e39-b20d-6e664d33d0fb/bad_boys_para_sempre.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Bloodshot
+https://cld.pt/dl/download/d8900da0-85ee-4497-b6bc-a003a68026f1/bloodshot.2020.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Capitã Marvel
+https://cld.pt/dl/download/a86000fd-4407-4d0e-b116-d9c8aa211348/capita_marvel.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Coringa
+https://cld.pt/dl/download/325d4bc2-9eb1-4102-aa07-144f030beabc/coringa.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Deadpool
+https://cld.pt/dl/download/9d526eda-b944-4b8d-8b6b-54ccc65bc8ab/deadpool.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Deadpool 2
+https://cld.pt/dl/download/a872371f-d2fe-4b0a-b1dc-d6f74568d9ef/deadpool_2.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Jogador N° 1
+https://cld.pt/dl/download/5fc6d1b2-3d65-4099-b413-cd95e806c672/jogador_n.1.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Mulan
+https://cld.pt/dl/download/01316e9f-f98a-4489-aa42-c65aa6bd81be/mulan_2020.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,O Silêncio Do Pântano
+https://cld.pt/dl/download/091b2c33-ad67-4d1b-baf2-945ed84f1ab5/o_silencio_do_pantano.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,O Rei Leão
+https://cld.pt/dl/download/a496637a-8de6-4890-88c1-06a30b30d4de/rei_leao_2019.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Pica-Pau: O Filme
+https://cld.pt/dl/download/54b1fce8-a19d-4131-84dd-9f29e7e4922f/pica-pau.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Sonic: O Filme
+https://cld.pt/dl/download/00287b3a-6d9b-4b47-8fe7-d130b192820e/sonic-hd.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,A Família Addams
+https://cld.pt/dl/download/e3cddf76-6d73-43ec-aa4e-dfe004a02f3b/a_familia_addams_2019.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,A Voz Do Silêncio
+https://cld.pt/dl/download/255960ce-42b7-4bd0-9a19-5dcf51a3a1b5/koe_no_katachi.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Abominável
+https://cld.pt/dl/download/aa47936c-8625-4e72-b5cb-6bb6bd546030/abominavel.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Bob Esponja: O Filme
+https://cld.pt/dl/download/5d746f24-e300-4497-a077-4901a5800869/Bob_Esponja_o_filme.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Bob Esponja: Um Herói Fora D'Água
+https://cld.pt/dl/download/37dc06dd-d856-4029-b2b0-c6e50ea805a6/bob_esponja_um_heroi_fora_d.agua.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Cinco Centímetros Por Segundo
+https://cld.pt/dl/download/111c177e-40fe-4824-a8ef-4cafa3db4013/cinco_centimetros_por_segundo.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Como Treinar O Seu Dragão
+https://cld.pt/dl/download/a6ff97b6-c9fc-4fae-8f6c-7ea841ec6ca1/como_treinar_o_seu_dragao.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Como Treinar O Seu Dragão 2
+https://cld.pt/dl/download/fb913630-25d8-4073-b08f-3f62a49bb2a1/como_treinar_o_seu_dragao_2.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Como Treinar O Seu Dragão 3
+https://cld.pt/dl/download/1d5c5d3e-ba3c-4755-aca2-92bbdf9a7159/como_treinar_o_seu_dragao_3.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Coraline
+https://cld.pt/dl/download/acfed938-4b90-4a52-95de-344da5ae4f0d/coraline_e_o_mundo_secreto-HD.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Detona Ralph
+https://cld.pt/dl/download/380cf149-8f28-4ae6-9c70-549527e227c7/detona_ralph.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Dois Irmãos: Uma Jornada Fantástica
+https://cld.pt/dl/download/31243fbe-18e2-4e11-a408-10cd9b7c54c5/dois_irmaos_um_jornada_fantastica-hd.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Dragon Ball Super: Broly
+https://cld.pt/dl/download/15adcce3-a2ff-4670-be3a-9936c6e96731/dbs_broly.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Emoji: O Filme
+https://cld.pt/dl/download/7e27a17d-13b5-4aba-a6e4-44c0fcb346ff/emoji_o_filmes.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Frozen: Uma Aventura Congelante
+https://cld.pt/dl/download/5a2b603f-9081-47a1-9e6d-42cabdc00cb9/frozen.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Frozen 2
+https://cld.pt/dl/download/70928db9-c108-4199-b2c1-20092264b0f6/Frozen_2.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Kubo E As Cordas Mágicas
+https://cld.pt/dl/download/d654d4e6-4671-438c-a2b1-3529ad7d0173/kubo_e_as_cordas_magicas.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Moana: Um Mar De Aventuras
+https://cld.pt/dl/download/4ed54364-dfe0-40d4-baa7-44637b44d53c/moana.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Os Sete Pecados Capitais: Prisioneiros Dos Céus
+https://cld.pt/dl/download/30b5d45d-da9f-423c-a604-cc539bf981e8/nanatsu_prisioneiros_dos_ceus.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Snoopy E Charlie Brown: Peanuts - O Filme
+https://cld.pt/dl/download/d7eb3289-fb9b-4c81-9399-cfc557d403c9/snoopy_charlie_brown_peanuts_o_filme.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Steven Universo: O Filme
+https://cld.pt/dl/download/bbfbdf33-873d-4914-b9f8-002fb9df902a/steven_universo_filme.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,The Last: Naruto O Filme
+https://cld.pt/dl/download/b937cbcd-e817-417d-b7f7-62f54a37eb1d/the_last.naruto_shippuden.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Um Espião Animal
+https://cld.pt/dl/download/ac9df3cc-7216-4c73-b0c3-13006051cc4d/um_espiao_animal.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Viajem Para Agartha
+https://cld.pt/dl/download/488c4f13-2b35-411d-8a70-5f62a85ed7ec/viagem_para_agartha.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,WiFi Ralph: Quebrando A Internet
+https://cld.pt/dl/download/598c2bce-c7c7-4ccd-a9ca-0cff56144549/wifi_ralph.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,A Noite Do Jogo
+https://cld.pt/dl/download/0d17583f-e77f-4b9c-a562-75a460607efb/a_noite_do_jogo.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Minha Mãe É Uma Peça
+https://cld.pt/dl/download/0f54df01-b43b-4a9c-bf33-2281cdb601af/minha_mae_e_uma_peca.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Minha Mãe É Uma Peça 2
+https://cld.pt/dl/download/eda07996-3ffe-451f-b787-56b5d5e01ddd/minha_mae_e_uma_peca_2.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Minha Mãe É Uma Peça 3
+https://cld.pt/dl/download/e030c3e3-06e3-4c83-9bde-bef3f8e8f2b8/minha_mae_e_uma_peca_3.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Os Parças
+https://cld.pt/dl/download/2832573e-5f93-420d-b763-84e15ba64913/os_parcas.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Os Parças 2
+https://cld.pt/dl/download/a7c3780c-a597-4c5a-8e36-8cdfb1842631/os-parcas-2.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Isi & Ossi
+https://cld.pt/dl/download/3a296bb0-bbb8-49e7-a8f6-8650dc5ca182/isi_e_ossi.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Para Todos Os Garotos Que Já Amei
+https://cld.pt/dl/download/4f58b644-d113-4f02-b696-8398bcb09c63/para_todos_os_garotos_que_ja_amei_2018.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,O Silêncio Do Pântano
+https://cld.pt/dl/download/091b2c33-ad67-4d1b-baf2-945ed84f1ab5/o_silencio_do_pantano.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Um FILMES FIXOS Para Dois
+https://cld.pt/dl/download/2c77fec3-a7f9-4244-81a3-2cdf83398b0a/um_FILMES FIXOS_para_dois.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Assassinato No Grupo De Mães
+https://cld.pt/dl/download/9d51acb6-8fe7-4190-91df-a0a91be8dda2/assassinato_no_grupo_de_maes.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Minha História
+https://cld.pt/dl/download/b6197117-a72e-4164-80a5-d3628c9ca7ff/minha_historia.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Querida Mamãe
+https://cld.pt/dl/download/09937b03-60fc-49d5-9f5e-8374a893f9ce/querida_mamae.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Aladdin
+https://cld.pt/dl/download/c355c081-e68c-4a1d-b48f-0d789a6e2de3/aladdin_2019.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Eu Sou A Lenda
+https://cld.pt/dl/download/dd41794a-1f3b-46e5-b684-7cb60fa37501/eu_sou_a_lenda.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,O Poço
+https://cld.pt/dl/download/fa127dc6-6795-481f-a36d-5d6d146b46cd/o-poco.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Os Desconectados
+https://cld.pt/dl/download/c6eaf298-c92d-4224-b96a-0940ee1442e1/os_desconectados.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Parasita
+https://cld.pt/dl/download/f20f132b-7cd0-4713-9522-48138fe4fe63/parasita.mp4
+
+
+#EXTINF:-1 group-title="FILME" tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="http://z4.vc/5Gw" ,AMC HD
+http://psrv.io:80/78167984453/snakeplay/18736
+#EXTINF:-1 group-title="DOCUMENTARIO" tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="http://z4.vc/BZz" ,Animal Planet HD
+http://psrv.io:80/78167984453/snakeplay/18734
+#EXTINF:-1 group-title="FILME" tvg-id="" tvg-name="Arte 1 HD" tvg-logo="http://z4.vc/Vfq" ,Arte 1 HD
+http://psrv.io:80/78167984453/snakeplay/27884
+#EXTINF:-1 group-title="FILME" tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://z4.vc/j1K" ,AXN HD
+http://psrv.io:80/78167984453/snakeplay/18730
+#EXTINF:-1 group-title="ABERTO" tvg-id="Band SP" tvg-name="Band SP SD" tvg-logo="http://z4.vc/xaf",Band SP SD
+http://psrv.io:80/78167984453/snakeplay/22242
+#EXTINF:-1 group-title="ABERTO" tvg-id="Band SP" tvg-name="Band SP HD" tvg-logo="http://z4.vc/X0u" ,Band SP HD
+http://psrv.io:80/78167984453/snakeplay/25249
+#EXTINF:-1 group-title="ABERTO" tvg-id="" tvg-name="BAND [4K]" tvg-logo="http://z4.vc/ocG" ,BAND [4K]
+http://psrv.io:80/78167984453/snakeplay/26179
+#EXTINF:-1 group-title="ABERTO" tvg-id="BandNews HD" tvg-name="BandNews HD" tvg-logo="http://z4.vc/COC" ,BandNews HD
+http://psrv.io:80/78167984453/snakeplay/18725
+#EXTINF:-1 group-title="ESPORTE" tvg-id="BandSports HD" tvg-name="BandSports HD" tvg-logo="http://z4.vc/0ev" ,BandSports HD
+http://psrv.io:80/78167984453/snakeplay/18723
+#EXTINF:-1 group-title="VARIEDADE" tvg-id="BIS HD" tvg-name="Bis HD" tvg-logo="http://z4.vc/PAl" ,Bis HD
+http://psrv.io:80/78167984453/snakeplay/18721
+#EXTINF:-1 group-title="ABERTO" tvg-id="Canal Brasil HD" tvg-name="Canal Brasil HD" tvg-logo="http://z4.vc/GsJ" ,Canal Brasil HD
+http://psrv.io:80/78167984453/snakeplay/18716
+#EXTINF:-1 group-title="ABERTO" tvg-id="Canção Nova FHD" tvg-name="Cancao Nova SD" tvg-logo="http://z4.vc/0Tm" ,Cancao Nova SD
+http://psrv.io:80/78167984453/snakeplay/18713
+#EXTINF:-1 group-title="INFANTIL" tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" tvg-logo="http://z4.vc/Brc" ,Cartoon Network HD
+http://psrv.io:80/78167984453/snakeplay/18711
+#EXTINF:-1 group-title="FILME" tvg-id="Cinemax HD" tvg-name="Cinemax HD" tvg-logo="http://z4.vc/Lo1" ,Cinemax HD
+http://psrv.io:80/78167984453/snakeplay/18709
+#EXTINF:-1 group-title="ESPORTE" tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="http://z4.vc/ids" ,Combate HD
+http://psrv.io:80/78167984453/snakeplay/18707
+#EXTINF:-1 group-title="VARIEDADE" tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="http://z4.vc/qUw" ,Comedy Central HD
+http://psrv.io:80/78167984453/snakeplay/18705
+#EXTINF:-1 group-title="VARIEDADE" tvg-id="Curta! HD" tvg-name="Curta! HD" tvg-logo="http://z4.vc/GnA" ,Curta! HD
+http://psrv.io:80/78167984453/snakeplay/18703
+#EXTINF:-1 group-title="DOCUMENTARIO" tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="http://z4.vc/W6B" ,Discovery Channel HD
+http://psrv.io:80/78167984453/snakeplay/18701
+#EXTINF:-1 group-title="VARIEDADE" tvg-id="Eurochannel" tvg-name="Discovery H&H HD" tvg-logo="http://z4.vc/nXL" ,Discovery H&H HD
+http://psrv.io:80/78167984453/snakeplay/18697
+#EXTINF:-1 group-title="INFANTIL" tvg-id="Discovery Kids HD" tvg-name="Discovery Kids HD" tvg-logo="http://z4.vc/p3E" ,Discovery Kids HD
+http://psrv.io:80/78167984453/snakeplay/18695
+#EXTINF:-1 group-title="DOCUMENTARIO" tvg-id="Discovery Science HD" tvg-name="Discovery Science HD" tvg-logo="http://z4.vc/rQr" ,Discovery Science HD
+http://psrv.io:80/78167984453/snakeplay/18693
+#EXTINF:-1 group-title="DOCUMENTARIO" tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="http://z4.vc/FSs" ,Discovery Theater HD
+http://psrv.io:80/78167984453/snakeplay/18691
+#EXTINF:-1 group-title="DOCUMENTARIO" tvg-id="Discovery Turbo HD" tvg-name="Discovery Turbo HD" tvg-logo="http://z4.vc/AsO" ,Discovery Turbo HD
+http://psrv.io:80/78167984453/snakeplay/18689
+#EXTINF:-1 group-title="DOCUMENTARIO" tvg-id="Discovery World HD" tvg-name="Discovery World HD" tvg-logo="http://z4.vc/SxE" ,Discovery World HD
+http://psrv.io:80/78167984453/snakeplay/18687
+#EXTINF:-1 group-title="INFANTIL" tvg-id="Disney Channel HD" tvg-name="Disney HD" tvg-logo="http://z4.vc/COA" ,Disney HD
+http://psrv.io:80/78167984453/snakeplay/18685
+#EXTINF:-1 group-title="INFANTIL" tvg-id="Disney Junior HD" tvg-name="Disney Junior HD" tvg-logo="http://z4.vc/67y" ,Disney Junior HD
+http://psrv.io:80/78167984453/snakeplay/18509
+#EXTINF:-1 group-title="INFANTIL" tvg-id="Disney XD" tvg-name="Disney XD SD" tvg-logo="http://z4.vc/n2T" ,Disney XD SD
+http://psrv.io:80/78167984453/snakeplay/22321
+#EXTINF:-1 group-title="VARIEDADE" tvg-id="E! HD" tvg-name="E! HD" tvg-logo="http://z4.vc/PCy" ,E! HD
+http://psrv.io:80/78167984453/snakeplay/18681
+#EXTINF:-1 group-title="ESPORTE" tvg-id="ESPN 2 HD" tvg-name="ESPN 2 HD" tvg-logo="http://z4.vc/krr" ,ESPN 2 HD
+http://psrv.io:80/78167984453/snakeplay/18678
+#EXTINF:-1 group-title="ESPORTE" tvg-id="ESPN Brasil HD" tvg-name="ESPN Brasil HD" tvg-logo="http://z4.vc/hvU" ,ESPN Brasil HD
+http://psrv.io:80/78167984453/snakeplay/18676
+#EXTINF:-1 group-title="ESPORTE" tvg-id="ESPN Extra HD" tvg-name="ESPN Extra HD" tvg-logo="http://z4.vc/1xn" ,ESPN Extra HD
+http://psrv.io:80/78167984453/snakeplay/18674
+#EXTINF:-1 group-title="ESPORTE" tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="http://z4.vc/gWv" ,ESPN HD
+http://psrv.io:80/78167984453/snakeplay/18673
+#EXTINF:-1 group-title="FILME" tvg-id="Curta!" tvg-name="Film & Arts SD" tvg-logo="http://z4.vc/T5S" ,Film & Arts SD
+http://psrv.io:80/78167984453/snakeplay/18497
+#EXTINF:-1 group-title="VARIEDADE" tvg-id="Food Network HD" tvg-name="Food Network HD" tvg-logo="http://z4.vc/fYt" ,Food Network HD
+http://psrv.io:80/78167984453/snakeplay/18669
+#EXTINF:-1 group-title="FILME" tvg-id="Fox Channel HD" tvg-name="Fox HD" tvg-logo="http://z4.vc/DUZ" ,Fox HD
+http://psrv.io:80/78167984453/snakeplay/18667
+#EXTINF:-1 group-title="FILME" tvg-id="FoxLife HD" tvg-name="Fox Life HD" tvg-logo="http://z4.vc/9pz" ,Fox Life HD
+http://psrv.io:80/78167984453/snakeplay/18665
+#EXTINF:-1 group-title="FILME" tvg-id="Fox Premium 1 HD" tvg-name="Fox Premium 1 HD" tvg-logo="http://z4.vc/AQ5" ,Fox Premium 1 HD
+http://psrv.io:80/78167984453/snakeplay/18663
+#EXTINF:-1 group-title="FILME" tvg-id="Fox Premium 2 HD" tvg-name="Fox Premium 2 HD" tvg-logo="http://z4.vc/g8Q" ,Fox Premium 2 HD
+http://psrv.io:80/78167984453/snakeplay/18661
+#EXTINF:-1 group-title="ESPORTE" tvg-id="FoxSports HD" tvg-name="Fox Sports HD" tvg-logo="http://z4.vc/nWk" ,Fox Sports HD
+http://psrv.io:80/78167984453/snakeplay/18659
+#EXTINF:-1 group-title="ESPORTE" tvg-id="FoxSports 2 HD" tvg-name="Fox Sports 2 HD" tvg-logo="http://z4.vc/pne" ,Fox Sports 2 HD
+http://psrv.io:80/78167984453/snakeplay/18657
+#EXTINF:-1 group-title="ABERTO" tvg-id="Futura HD" tvg-name="Futura HD" tvg-logo="http://z4.vc/a9U" ,Futura HD
+http://psrv.io:80/78167984453/snakeplay/18655
+#EXTINF:-1 group-title="FILME" tvg-id="FX HD" tvg-name="FX HD" tvg-logo="http://z4.vc/OsR" ,FX HD
+http://psrv.io:80/78167984453/snakeplay/18653
+#EXTINF:-1 group-title="ABERTO" tvg-id="EPTV Ribeirão" tvg-name="Globo EPTV Ribeirao Preto HD" tvg-logo="http://z4.vc/pqb" ,Globo EPTV Ribeirao Preto HD
+http://psrv.io:80/78167984453/snakeplay/18430
+#EXTINF:-1 group-title="ABERTO" tvg-id="GloboNews HD" tvg-name="Globo News HD" tvg-logo="http://z4.vc/4gV" ,Globo News HD
+http://psrv.io:80/78167984453/snakeplay/18651
+#EXTINF:-1 group-title="ABERTO" tvg-id="" tvg-name="GloboSat SD" tvg-logo="http://z4.vc/KG5" ,GloboSat SD
+http://psrv.io:80/78167984453/snakeplay/22311
+#EXTINF:-1 group-title="INFANTIL" tvg-id="Gloob  HD" tvg-name="Gloob HD" tvg-logo="http://z4.vc/uDI" ,Gloob HD
+http://psrv.io:80/78167984453/snakeplay/18649
+#EXTINF:-1 group-title="INFANTIL" tvg-id="Gloobinho HD" tvg-name="Gloobinho HD" tvg-logo="http://z4.vc/sf3" ,Gloobinho HD
+http://psrv.io:80/78167984453/snakeplay/18648
+#EXTINF:-1 group-title="FILME" tvg-id="GNT HD" tvg-name="GNT HD" tvg-logo="http://z4.vc/6ya" ,GNT HD
+http://psrv.io:80/78167984453/snakeplay/18645
+#EXTINF:-1 group-title="DOCUMENTARIO" tvg-id="History 2 HD" tvg-name="H2 HD" tvg-logo="http://z4.vc/prI" ,H2 HD
+http://psrv.io:80/78167984453/snakeplay/18643
+#EXTINF:-1 group-title="FILME" tvg-id="Curta!" tvg-name="HBO 2 HD" tvg-logo="http://z4.vc/0PM" ,HBO 2 HD
+http://psrv.io:80/78167984453/snakeplay/18640
+#EXTINF:-1 group-title="FILME" tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg-logo="http://z4.vc/JtC" ,HBO Family HD
+http://psrv.io:80/78167984453/snakeplay/18638
+#EXTINF:-1 group-title="FILME" tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="http://z4.vc/z1Y" ,HBO HD
+http://psrv.io:80/78167984453/snakeplay/18637
+#EXTINF:-1 group-title="FILME" tvg-id="HBO +" tvg-name="HBO Plus HD" tvg-logo="http://z4.vc/oZI" ,HBO Plus HD
+http://psrv.io:80/78167984453/snakeplay/18635
+#EXTINF:-1 group-title="FILME" tvg-id="HBO Signature HD" tvg-name="HBO Signature HD" tvg-logo="http://z4.vc/ICL" ,HBO Signature HD
+http://psrv.io:80/78167984453/snakeplay/18633
+#EXTINF:-1 group-title="DOCUMENTARIO" tvg-id="History HD" tvg-name="History Channel HD" tvg-logo="http://z4.vc/hEz" ,History Channel HD
+http://psrv.io:80/78167984453/snakeplay/18631
+#EXTINF:-1 group-title="DOCUMENTARIO" tvg-id="ID: Investigação Discovery HD" tvg-name="ID: Investigacao Discovery HD" tvg-logo="http://z4.vc/q6F",Investigacao Discovery HD
+http://psrv.io:80/78167984453/snakeplay/18629
+#EXTINF:-1 group-title="VARIEDADE" tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="http://z4.vc/a4s" ,Lifetime HD
+http://psrv.io:80/78167984453/snakeplay/18627
+#EXTINF:-1 group-title="ABERTO" tvg-id="Mais GloboSat HD" tvg-name="Mais GloboSat HD" tvg-logo="http://z4.vc/0yY" ,Mais GloboSat HD
+http://psrv.io:80/78167984453/snakeplay/18625
+#EXTINF:-1 group-title="FILME" tvg-id="" tvg-name="Max HD" tvg-logo="http://z4.vc/cC5" ,Max HD
+http://psrv.io:80/78167984453/snakeplay/18623
+#EXTINF:-1 group-title="FILME" tvg-id="MaxPrime HD" tvg-name="Max Prime HD" tvg-logo="http://z4.vc/fwU" ,Max Prime HD
+http://psrv.io:80/78167984453/snakeplay/18621
+#EXTINF:-1 group-title="FILME" tvg-id="Max UP HD" tvg-name="Max UP HD" tvg-logo="http://z4.vc/gZk" ,Max UP HD
+http://psrv.io:80/78167984453/snakeplay/18619
+#EXTINF:-1 group-title="FILME" tvg-id="Megapix HD" tvg-name="Megapix HD" tvg-logo="http://z4.vc/KR2" ,Megapix HD
+http://psrv.io:80/78167984453/snakeplay/18617
+#EXTINF:-1 group-title="VARIEDADE" tvg-id="MTV HD" tvg-name="MTV HD" tvg-logo="http://z4.vc/sTl" ,MTV HD
+http://psrv.io:80/78167984453/snakeplay/18615
+#EXTINF:-1 group-title="VARIEDADE" tvg-id="MTV Live HD HD" tvg-name="MTV Live HD" tvg-logo="http://z4.vc/u8U" ,MTV Live HD
+http://psrv.io:80/78167984453/snakeplay/18507
+#EXTINF:-1 group-title="VARIEDADE" tvg-id="Multishow HD" tvg-name="Multishow HD" tvg-logo="http://z4.vc/Oev" ,Multishow HD
+http://psrv.io:80/78167984453/snakeplay/18613
+#EXTINF:-1 group-title="VARIEDADE" tvg-id="Music Box Brazil HD" tvg-name="Music Box Brasil HD" tvg-logo="http://z4.vc/odD" ,Music Box Brasil HD
+http://psrv.io:80/78167984453/snakeplay/18611
+#EXTINF:-1 group-title="INFANTIL" tvg-id="NatGeo Kids HD" tvg-name="NatGeo Kids HD" tvg-logo="http://z4.vc/4kC" ,NatGeo Kids HD
+http://psrv.io:80/78167984453/snakeplay/18607
+#EXTINF:-1 group-title="DOCUMENTARIO" tvg-id="National Geographic Wild HD" tvg-name="NatGeo Wild HD" tvg-logo="http://z4.vc/Vzb" ,NatGeo Wild HD
+http://psrv.io:80/78167984453/snakeplay/18606
+#EXTINF:-1 group-title="DOCUMENTARIO" tvg-id="National Geographic HD" tvg-name="National Geographic HD" tvg-logo="http://z4.vc/NlH" ,National Geographic HD
+http://psrv.io:80/78167984453/snakeplay/18609
+#EXTINF:-1 group-title="INFANTIL" tvg-id="Nick Jr. HD" tvg-name="Nick Jr HD" tvg-logo="http://z4.vc/Xp5" ,Nick Jr HD
+http://psrv.io:80/78167984453/snakeplay/18602
+#EXTINF:-1 group-title="INFANTIL" tvg-id="Nick HD" tvg-name="Nickelodeon HD" tvg-logo="http://z4.vc/6RD" ,Nickelodeon HD
+http://psrv.io:80/78167984453/snakeplay/18600
+#EXTINF:-1 group-title="DOCUMENTARIO" tvg-id="Off HD" tvg-name="OFF HD" tvg-logo="http://z4.vc/L2Z" ,OFF HD
+http://psrv.io:80/78167984453/snakeplay/18598
+#EXTINF:-1 group-title="FILME" tvg-id="Paramount Channel HD" tvg-name="Paramount Channel HD" tvg-logo="http://z4.vc/QY7" ,Paramount Channel HD
+http://psrv.io:80/78167984453/snakeplay/18596
+#EXTINF:-1 group-title="VARIEDADE" tvg-id="PlayTV" tvg-name="Play TV SD" tvg-logo="http://z4.vc/jN0" ,Play TV SD
+http://psrv.io:80/78167984453/snakeplay/22288
+#EXTINF:-1 group-title="INFANTIL" tvg-id="" tvg-name="PlayKids HD" tvg-logo="http://z4.vc/zrG" ,PlayKids HD
+http://psrv.io:80/78167984453/snakeplay/18499
+#EXTINF:-1 group-title="ESPORTE" tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="http://z4.vc/CQb" ,Premiere Clubes HD
+http://psrv.io:80/78167984453/snakeplay/18582
+#EXTINF:-1 group-title="ESPORTE" tvg-id="Premiere 2 HD" tvg-name="Premiere 2 HD" tvg-logo="http://z4.vc/7TJ" ,Premiere 2 HD
+http://psrv.io:80/78167984453/snakeplay/18594
+#EXTINF:-1 group-title="ESPORTE" tvg-id="Premiere 3 HD" tvg-name="Premiere 3 HD" tvg-logo="http://z4.vc/Eov" ,Premiere 3 HD
+http://psrv.io:80/78167984453/snakeplay/18592
+#EXTINF:-1 group-title="ESPORTE" tvg-id="Premiere 4 HD" tvg-name="Premiere 4 HD" tvg-logo="http://z4.vc/3yh" ,Premiere 4 HD
+http://psrv.io:80/78167984453/snakeplay/18590
+#EXTINF:-1 group-title="ESPORTE" tvg-id="Premiere 5 HD" tvg-name="Premiere 5 HD" tvg-logo="http://z4.vc/mTm" ,Premiere 5 HD
+http://psrv.io:80/78167984453/snakeplay/18588
+#EXTINF:-1 group-title="ESPORTE" tvg-id="Premiere 6 HD" tvg-name="Premiere 6 HD" tvg-logo="http://z4.vc/6nM" ,Premiere 6 HD
+http://psrv.io:80/78167984453/snakeplay/18586
+#EXTINF:-1 group-title="ESPORTE" tvg-id="Premiere 7 HD" tvg-name="Premiere 7 HD" tvg-logo="http://z4.vc/xrN" ,Premiere 7 HD
+http://psrv.io:80/78167984453/snakeplay/18584
+#EXTINF:-1 group-title="ESPORTE" tvg-id="Premiere 8 - Mosaico FHD" tvg-name="Premiere 8 SD" tvg-logo="" ,Premiere 8 SD
+http://psrv.io:80/78167984453/snakeplay/28064
+#EXTINF:-1 group-title="ESPORTE" tvg-id="Premiere 9" tvg-name="Premiere 9 SD" tvg-logo="" ,Premiere 9 SD
+http://psrv.io:80/78167984453/snakeplay/28063
+#EXTINF:-1 group-title="ABERTO" tvg-id="Record News HD" tvg-name="Record News HD" tvg-logo="http://z4.vc/Ncd" ,Record News HD
+http://psrv.io:80/78167984453/snakeplay/18577
+#EXTINF:-1 group-title="ABERTO" tvg-id="RecordTV Paulista HD" tvg-name="RecordTV SP HD" tvg-logo="http://z4.vc/MsE" ,RecordTV SP HD
+http://psrv.io:80/78167984453/snakeplay/18575
+#EXTINF:-1 group-title="ABERTO" tvg-id="Rede Brasil" tvg-name="Rede Brasil SD" tvg-logo="http://z4.vc/RnA" ,Rede Brasil SD
+http://psrv.io:80/78167984453/snakeplay/18574
+#EXTINF:-1 group-title="ABERTO" tvg-id="Rede Vida HD" tvg-name="Rede Vida HD" tvg-logo="http://z4.vc/rJP" ,Rede Vida HD
+http://psrv.io:80/78167984453/snakeplay/18504
+#EXTINF:-1 group-title="ABERTO" tvg-id="RedeTV! HD" tvg-name="RedeTV! HD" tvg-logo="http://z4.vc/heG" ,RedeTV! HD
+http://psrv.io:80/78167984453/snakeplay/18572
+#EXTINF:-1 group-title="ABERTO" tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="http://z4.vc/G2I" ,SBT HD
+http://psrv.io:80/78167984453/snakeplay/18569
+#EXTINF:-1 group-title="FILME" tvg-id="TV5" tvg-name="Sony HD" tvg-logo="http://z4.vc/hkn" ,Sony HD
+http://psrv.io:80/78167984453/snakeplay/18714
+#EXTINF:-1 group-title="FILME" tvg-id="Space HD" tvg-name="Space HD" tvg-logo="http://z4.vc/EPt" ,Space HD
+http://psrv.io:80/78167984453/snakeplay/18564
+#EXTINF:-1 group-title="ESPORTE" tvg-id="SporTV 2 HD" tvg-name="SporTV 2 HD" tvg-logo="http://z4.vc/7lY" ,SporTV 2 HD
+http://psrv.io:80/78167984453/snakeplay/18561
+#EXTINF:-1 group-title="ESPORTE" tvg-id="SporTV 3 HD" tvg-name="SporTV 3 HD" tvg-logo="http://z4.vc/PUQ" ,SporTV 3 HD
+http://psrv.io:80/78167984453/snakeplay/18559
+#EXTINF:-1 group-title="ESPORTE" tvg-id="SporTV HD" tvg-name="SporTV HD" tvg-logo="http://z4.vc/ygd" ,SporTV HD
+http://psrv.io:80/78167984453/snakeplay/18558
+#EXTINF:-1 group-title="FILME" tvg-id="Studio Universal HD" tvg-name="Studio Universal HD" tvg-logo="http://z4.vc/IU1" ,Studio Universal HD
+http://psrv.io:80/78167984453/snakeplay/18556
+#EXTINF:-1 group-title="FILME" tvg-id="Syfy HD" tvg-name="Syfy HD" tvg-logo="http://z4.vc/yWZ" ,Syfy HD
+http://psrv.io:80/78167984453/snakeplay/18566
+#EXTINF:-1 group-title="FILME" tvg-id="TBS HD" tvg-name="TBS HD" tvg-logo="http://z4.vc/lL4" ,TBS HD
+http://psrv.io:80/78167984453/snakeplay/18554
+#EXTINF:-1 group-title="FILME" tvg-id="TCM HD" tvg-name="TCM SD" tvg-logo="http://z4.vc/9cn" ,TCM SD
+http://psrv.io:80/78167984453/snakeplay/18553
+#EXTINF:-1 group-title="FILME" tvg-id="Telecine Action HD" tvg-name="Telecine Action HD" tvg-logo="http://z4.vc/wYg" ,Telecine Action HD
+http://psrv.io:80/78167984453/snakeplay/18551
+#EXTINF:-1 group-title="FILME" tvg-id="Telecine Cult HD" tvg-name="Telecine Cult HD" tvg-logo="http://z4.vc/cuv" ,Telecine Cult HD
+http://psrv.io:80/78167984453/snakeplay/18549
+#EXTINF:-1 group-title="FILME" tvg-id="Telecine Fun HD" tvg-name="Telecine Fun HD" tvg-logo="http://z4.vc/7vJ" ,Telecine Fun HD
+http://psrv.io:80/78167984453/snakeplay/18547
+#EXTINF:-1 group-title="FILME" tvg-id="Curta!" tvg-name="Telecine Pipoca HD" tvg-logo="http://z4.vc/8dT" ,Telecine Pipoca HD
+http://psrv.io:80/78167984453/snakeplay/18545
+#EXTINF:-1 group-title="FILME" tvg-id="Telecine Premium HD" tvg-name="Telecine Premium HD" tvg-logo="http://z4.vc/RwJ" ,Telecine Premium HD
+http://psrv.io:80/78167984453/snakeplay/18543
+#EXTINF:-1 group-title="FILME" tvg-id="Telecine Touch HD" tvg-name="Telecine Touch HD" tvg-logo="http://z4.vc/jJj" ,Telecine Touch HD
+http://psrv.io:80/78167984453/snakeplay/18541
+#EXTINF:-1 group-title="DOCUMENTARIO" tvg-id="TLC HD" tvg-name="TLC HD" tvg-logo="http://z4.vc/fUs" ,TLC HD
+http://psrv.io:80/78167984453/snakeplay/18538
+#EXTINF:-1 group-title="FILME" tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://z4.vc/C6Y" ,TNT HD
+http://psrv.io:80/78167984453/snakeplay/18536
+#EXTINF:-1 group-title="FILME" tvg-id="TNT Séries HD" tvg-name="TNT Series HD" tvg-logo="http://z4.vc/CVR" ,TNT Series HD
+http://psrv.io:80/78167984453/snakeplay/18534
+#EXTINF:-1 group-title="INFANTIL" tvg-id="Tooncast" tvg-name="Tooncast SD" tvg-logo="http://z4.vc/7YA" ,Tooncast SD
+http://psrv.io:80/78167984453/snakeplay/18533
+#EXTINF:-1 group-title="ABERTO" tvg-id="TruTV HD" tvg-name="TruTV HD" tvg-logo="http://z4.vc/SHx" ,TruTV HD
+http://psrv.io:80/78167984453/snakeplay/18522
+#EXTINF:-1 group-title="ABERTO" tvg-id="" tvg-name="TV Aparecida HD" tvg-logo="http://z4.vc/Bti" ,TV Aparecida HD
+http://psrv.io:80/78167984453/snakeplay/25199
+#EXTINF:-1 group-title="ABERTO" tvg-id="Cultura HD" tvg-name="TV Cultura HD" tvg-logo="http://z4.vc/BEU" ,TV Cultura HD
+http://psrv.io:80/78167984453/snakeplay/18505
+#EXTINF:-1 group-title="ABERTO" tvg-id="Gazeta" tvg-name="TV Gazeta SP HD" tvg-logo="http://z4.vc/ARG" ,TV Gazeta SP HD
+http://psrv.io:80/78167984453/snakeplay/18526
+#EXTINF:-1 group-title="ABERTO" tvg-id="" tvg-name="TV Novo Tempo FHD" tvg-logo="" ,TV Novo Tempo FHD
+http://psrv.io:80/78167984453/snakeplay/28076
+#EXTINF:-1 group-title="INFANTIL" tvg-id="" tvg-name="TV Ra-Tim-Bum HD" tvg-logo="http://z4.vc/0Yb" ,TV Ra-Tim-Bum HD
+http://psrv.io:80/78167984453/snakeplay/18524
+#EXTINF:-1 group-title="FILME" tvg-id="Universal TV HD" tvg-name="Universal Channel HD" tvg-logo="http://z4.vc/0j9" ,Universal Channel HD
+http://psrv.io:80/78167984453/snakeplay/18520
+#EXTINF:-1 group-title="VARIEDADE" tvg-id="VH1 MegaHits" tvg-name="VH1 HD" tvg-logo="http://z4.vc/6fr" ,VH1 HD
+http://psrv.io:80/78167984453/snakeplay/18518
+#EXTINF:-1 group-title="VARIEDADE" tvg-id="VH1 MegaHits" tvg-name="VH1 MegaHits SD" tvg-logo="http://z4.vc/Xhe" ,VH1 MegaHits SD
+http://psrv.io:80/78167984453/snakeplay/18517
+#EXTINF:-1 group-title="VARIEDADE" tvg-id="Viva HD" tvg-name="Viva HD" tvg-logo="http://z4.vc/LVI" ,Viva HD
+http://psrv.io:80/78167984453/snakeplay/18515
+#EXTINF:-1 group-title="FILME" tvg-id="Warner Channel FHD" tvg-name="Warner Channel HD" tvg-logo="http://z4.vc/W7o" ,Warner Channel HD
+http://psrv.io:80/78167984453/snakeplay/18513
