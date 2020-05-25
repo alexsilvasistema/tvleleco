@@ -1,4 +1,170 @@
-#EXTM3U
+#EXTM3U size="Medium"
+
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Anos 70
+http://192.99.150.31:8241/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Anos 80
+http://192.99.150.31:8697/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Anos 90 
+http://192.99.150.31:8056/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Anos 2000 
+http://6d9a.webradio.upx.net.br:9940/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Axé 
+http://192.99.150.31:8305/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Brega 
+http://192.99.150.31:9007/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Eletrônica 
+http://192.99.150.31:9095/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Forró 
+http://192.99.150.31:9019/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Funk 
+http://192.99.150.31:9089/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Gospel 
+http://192.99.150.31:9101/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Hip Hop 
+http://192.99.150.31:8721/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio HISTORINHA INFANTIL 
+http://192.99.150.31:8371/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Kids 
+http://192.99.150.31:9431/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Jazz 
+http://192.99.150.31:8042/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio MPB 
+http://192.99.150.31:8775/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Rap Nacional 
+http://192.99.150.31:8377/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Reggae 
+http://192.99.150.31:8715/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Rock Clássico 
+http://192.99.150.31:9125/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Românticas 
+http://192.99.150.31:8962/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Sertanejo 
+http://192.99.150.31:9485/stream?
+#EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Sertanejo Universitário 
+http://192.99.150.31:9191/stream?
+
+
+#EXTINF:-1 group-title="FILMES FIXOS" ,Alita: Anjo De Combate
+https://cld.pt/dl/download/d0d1d861-0cd9-449e-949b-7f1e8494db95/alita_anjo_de_combate.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Assassino À Preço Fixo
+https://cld.pt/dl/download/e17e4514-0231-485a-8c12-9ae777926807/assassino_a_preco_fixo.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Assassino À Preço Fixo 2: A Ressurreição
+https://cld.pt/dl/download/1af89123-a9d1-48f1-9de6-a85fd3c66bf2/assassino_a_preco_fixo_2.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Aves De Rapina
+https://cld.pt/dl/download/b2b157d2-b125-48a7-bbef-6d91180b9117/aves_de_rapina.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Bad Boys Para Sempre
+https://cld.pt/dl/download/3a9a75e0-1f95-4e39-b20d-6e664d33d0fb/bad_boys_para_sempre.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Bloodshot
+https://cld.pt/dl/download/d8900da0-85ee-4497-b6bc-a003a68026f1/bloodshot.2020.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Capitã Marvel
+https://cld.pt/dl/download/a86000fd-4407-4d0e-b116-d9c8aa211348/capita_marvel.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Coringa
+https://cld.pt/dl/download/325d4bc2-9eb1-4102-aa07-144f030beabc/coringa.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Deadpool
+https://cld.pt/dl/download/9d526eda-b944-4b8d-8b6b-54ccc65bc8ab/deadpool.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Deadpool 2
+https://cld.pt/dl/download/a872371f-d2fe-4b0a-b1dc-d6f74568d9ef/deadpool_2.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Jogador N° 1
+https://cld.pt/dl/download/5fc6d1b2-3d65-4099-b413-cd95e806c672/jogador_n.1.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Mulan
+https://cld.pt/dl/download/01316e9f-f98a-4489-aa42-c65aa6bd81be/mulan_2020.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,O Silêncio Do Pântano
+https://cld.pt/dl/download/091b2c33-ad67-4d1b-baf2-945ed84f1ab5/o_silencio_do_pantano.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,O Rei Leão
+https://cld.pt/dl/download/a496637a-8de6-4890-88c1-06a30b30d4de/rei_leao_2019.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Pica-Pau: O Filme
+https://cld.pt/dl/download/54b1fce8-a19d-4131-84dd-9f29e7e4922f/pica-pau.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Sonic: O Filme
+https://cld.pt/dl/download/00287b3a-6d9b-4b47-8fe7-d130b192820e/sonic-hd.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,A Família Addams
+https://cld.pt/dl/download/e3cddf76-6d73-43ec-aa4e-dfe004a02f3b/a_familia_addams_2019.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,A Voz Do Silêncio
+https://cld.pt/dl/download/255960ce-42b7-4bd0-9a19-5dcf51a3a1b5/koe_no_katachi.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Abominável
+https://cld.pt/dl/download/aa47936c-8625-4e72-b5cb-6bb6bd546030/abominavel.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Bob Esponja: O Filme
+https://cld.pt/dl/download/5d746f24-e300-4497-a077-4901a5800869/Bob_Esponja_o_filme.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Bob Esponja: Um Herói Fora D'Água
+https://cld.pt/dl/download/37dc06dd-d856-4029-b2b0-c6e50ea805a6/bob_esponja_um_heroi_fora_d.agua.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Cinco Centímetros Por Segundo
+https://cld.pt/dl/download/111c177e-40fe-4824-a8ef-4cafa3db4013/cinco_centimetros_por_segundo.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Como Treinar O Seu Dragão
+https://cld.pt/dl/download/a6ff97b6-c9fc-4fae-8f6c-7ea841ec6ca1/como_treinar_o_seu_dragao.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Como Treinar O Seu Dragão 2
+https://cld.pt/dl/download/fb913630-25d8-4073-b08f-3f62a49bb2a1/como_treinar_o_seu_dragao_2.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Como Treinar O Seu Dragão 3
+https://cld.pt/dl/download/1d5c5d3e-ba3c-4755-aca2-92bbdf9a7159/como_treinar_o_seu_dragao_3.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Coraline
+https://cld.pt/dl/download/acfed938-4b90-4a52-95de-344da5ae4f0d/coraline_e_o_mundo_secreto-HD.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Detona Ralph
+https://cld.pt/dl/download/380cf149-8f28-4ae6-9c70-549527e227c7/detona_ralph.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Dois Irmãos: Uma Jornada Fantástica
+https://cld.pt/dl/download/31243fbe-18e2-4e11-a408-10cd9b7c54c5/dois_irmaos_um_jornada_fantastica-hd.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Dragon Ball Super: Broly
+https://cld.pt/dl/download/15adcce3-a2ff-4670-be3a-9936c6e96731/dbs_broly.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Emoji: O Filme
+https://cld.pt/dl/download/7e27a17d-13b5-4aba-a6e4-44c0fcb346ff/emoji_o_filmes.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Frozen: Uma Aventura Congelante
+https://cld.pt/dl/download/5a2b603f-9081-47a1-9e6d-42cabdc00cb9/frozen.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Frozen 2
+https://cld.pt/dl/download/70928db9-c108-4199-b2c1-20092264b0f6/Frozen_2.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Kubo E As Cordas Mágicas
+https://cld.pt/dl/download/d654d4e6-4671-438c-a2b1-3529ad7d0173/kubo_e_as_cordas_magicas.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Moana: Um Mar De Aventuras
+https://cld.pt/dl/download/4ed54364-dfe0-40d4-baa7-44637b44d53c/moana.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Os Sete Pecados Capitais: Prisioneiros Dos Céus
+https://cld.pt/dl/download/30b5d45d-da9f-423c-a604-cc539bf981e8/nanatsu_prisioneiros_dos_ceus.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Snoopy E Charlie Brown: Peanuts - O Filme
+https://cld.pt/dl/download/d7eb3289-fb9b-4c81-9399-cfc557d403c9/snoopy_charlie_brown_peanuts_o_filme.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Steven Universo: O Filme
+https://cld.pt/dl/download/bbfbdf33-873d-4914-b9f8-002fb9df902a/steven_universo_filme.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,The Last: Naruto O Filme
+https://cld.pt/dl/download/b937cbcd-e817-417d-b7f7-62f54a37eb1d/the_last.naruto_shippuden.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Um Espião Animal
+https://cld.pt/dl/download/ac9df3cc-7216-4c73-b0c3-13006051cc4d/um_espiao_animal.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Viajem Para Agartha
+https://cld.pt/dl/download/488c4f13-2b35-411d-8a70-5f62a85ed7ec/viagem_para_agartha.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,WiFi Ralph: Quebrando A Internet
+https://cld.pt/dl/download/598c2bce-c7c7-4ccd-a9ca-0cff56144549/wifi_ralph.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,A Noite Do Jogo
+https://cld.pt/dl/download/0d17583f-e77f-4b9c-a562-75a460607efb/a_noite_do_jogo.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Minha Mãe É Uma Peça
+https://cld.pt/dl/download/0f54df01-b43b-4a9c-bf33-2281cdb601af/minha_mae_e_uma_peca.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Minha Mãe É Uma Peça 2
+https://cld.pt/dl/download/eda07996-3ffe-451f-b787-56b5d5e01ddd/minha_mae_e_uma_peca_2.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Minha Mãe É Uma Peça 3
+https://cld.pt/dl/download/e030c3e3-06e3-4c83-9bde-bef3f8e8f2b8/minha_mae_e_uma_peca_3.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Os Parças
+https://cld.pt/dl/download/2832573e-5f93-420d-b763-84e15ba64913/os_parcas.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Os Parças 2
+https://cld.pt/dl/download/a7c3780c-a597-4c5a-8e36-8cdfb1842631/os-parcas-2.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Isi & Ossi
+https://cld.pt/dl/download/3a296bb0-bbb8-49e7-a8f6-8650dc5ca182/isi_e_ossi.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Para Todos Os Garotos Que Já Amei
+https://cld.pt/dl/download/4f58b644-d113-4f02-b696-8398bcb09c63/para_todos_os_garotos_que_ja_amei_2018.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,O Silêncio Do Pântano
+https://cld.pt/dl/download/091b2c33-ad67-4d1b-baf2-945ed84f1ab5/o_silencio_do_pantano.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Um FILMES FIXOS Para Dois
+https://cld.pt/dl/download/2c77fec3-a7f9-4244-81a3-2cdf83398b0a/um_FILMES FIXOS_para_dois.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Assassinato No Grupo De Mães
+https://cld.pt/dl/download/9d51acb6-8fe7-4190-91df-a0a91be8dda2/assassinato_no_grupo_de_maes.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Minha História
+https://cld.pt/dl/download/b6197117-a72e-4164-80a5-d3628c9ca7ff/minha_historia.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Querida Mamãe
+https://cld.pt/dl/download/09937b03-60fc-49d5-9f5e-8374a893f9ce/querida_mamae.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Aladdin
+https://cld.pt/dl/download/c355c081-e68c-4a1d-b48f-0d789a6e2de3/aladdin_2019.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Eu Sou A Lenda
+https://cld.pt/dl/download/dd41794a-1f3b-46e5-b684-7cb60fa37501/eu_sou_a_lenda.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,O Poço
+https://cld.pt/dl/download/fa127dc6-6795-481f-a36d-5d6d146b46cd/o-poco.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Os Desconectados
+https://cld.pt/dl/download/c6eaf298-c92d-4224-b96a-0940ee1442e1/os_desconectados.mp4
+#EXTINF:-1 group-title="FILMES FIXOS" ,Parasita
+https://cld.pt/dl/download/f20f132b-7cd0-4713-9522-48138fe4fe63/parasita.mp4
+
+
+
 #EXTINF:-1 type="stream" tvg-id="A&E" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E
 http://lb.kstream.org/aovivo/SD_AE/video.m3u8?token=97498f95798c039ce1b561cb9b542329
 
