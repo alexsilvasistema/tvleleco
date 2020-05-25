@@ -222,36 +222,6 @@ http://lb.kstream.org/aovivo/HD_ARTE1/video.m3u8?token=97498f95798c039ce1b561cb9
 #EXTINF:-1 type="stream" tvg-id="Arte 1 HD [Alter]" tvg-logo="https://i.ibb.co/QNkBQc6/arte1.png" group-title="Variedade e Musica",Arte 1 HD [Alter]
 http://lb.kstream.org/aovivo/HD_ARTE1_ALTER/video.m3u8?token=97498f95798c039ce1b561cb9b542329
 
-#EXTINF:-1 type="stream" tvg-id="BBB: Chuveiro" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB: Chuveiro
-http://lb.kstream.org/aovivo/HD_BBB_CHUVEIRO/video.m3u8?token=97498f95798c039ce1b561cb9b542329
-
-#EXTINF:-1 type="stream" tvg-id="BBB: Confessionario" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB: Confessionario
-http://lb.kstream.org/aovivo/HD_BBB_CONFESSIONARIO/video.m3u8?token=97498f95798c039ce1b561cb9b542329
-
-#EXTINF:-1 type="stream" tvg-id="BBB: Cozinha VIP" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB: Cozinha VIP
-http://lb.kstream.org/aovivo/HD_BBB_COZINHA_VIP/video.m3u8?token=97498f95798c039ce1b561cb9b542329
-
-#EXTINF:-1 type="stream" tvg-id="BBB: Cozinha Xepa" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB: Cozinha Xepa
-http://lb.kstream.org/aovivo/HD_BBB_COZINHA_CAMAROTE/video.m3u8?token=97498f95798c039ce1b561cb9b542329
-
-#EXTINF:-1 type="stream" tvg-id="BBB: Piscina" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB: Piscina
-http://lb.kstream.org/aovivo/HD_BBB_PISCINA/video.m3u8?token=97498f95798c039ce1b561cb9b542329
-
-#EXTINF:-1 type="stream" tvg-id="BBB: Principal" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB: Principal
-http://lb.kstream.org/aovivo/HD_BBB/video.m3u8?token=97498f95798c039ce1b561cb9b542329
-
-#EXTINF:-1 type="stream" tvg-id="BBB: Principal 2" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB: Principal 2
-http://lb.kstream.org/aovivo/HD_BBB_2/video.m3u8?token=97498f95798c039ce1b561cb9b542329
-
-#EXTINF:-1 type="stream" tvg-id="BBB: Quarto Ceu" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB: Quarto Ceu
-http://lb.kstream.org/aovivo/HD_BBB_QUARTO_CEU/video.m3u8?token=97498f95798c039ce1b561cb9b542329
-
-#EXTINF:-1 type="stream" tvg-id="BBB: Quarto Vila" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB: Quarto Vila
-http://lb.kstream.org/aovivo/HD_BBB_QUARTO_VILA/video.m3u8?token=97498f95798c039ce1b561cb9b542329
-
-#EXTINF:-1 type="stream" tvg-id="BBB: Sala de Estar" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB: Sala de Estar
-http://lb.kstream.org/aovivo/HD_BBB_SALA_ESTAR/video.m3u8?token=97498f95798c039ce1b561cb9b542329
-
 #EXTINF:-1 type="stream" tvg-id="BIS" tvg-logo="https://i.ibb.co/B2DbLdN/bis.png" group-title="Entretenimento e Musica",BIS
 http://lb.kstream.org/aovivo/SD_BIS/video.m3u8?token=97498f95798c039ce1b561cb9b542329
 
