@@ -1649,3 +1649,66 @@ http://psrv.io:80/78167984453/snakeplay/22127
 http://psrv.io:80/78167984453/snakeplay/18511
 #EXTINF:-1 tvg-logo="http://z4.vc/fUJ" group-title="Canais | Variedades",Woohoo SD
 http://psrv.io:80/78167984453/snakeplay/18512
+
+
+#EXTINF:-1 tvg-id="Example" tvg-name="As Aventuras de Jackie Chan 24H" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMBIKzYiYoyD0oCWiavoaIoqepJO5LoeYpTniqQfnmMvCYfCoI&s" group-title="Canais | 24H",As Aventuras de Jackie Chan 24H
+http://srv.mtvs.me:8880/fernandocasa/291119911111/29737
+#EXTINF:-1 tvg-id="Example" tvg-name="Cavaleiros dos Zodiacos 24H Saga Doze Casas" tvg-logo="https://media.fstatic.com/Se-YRqU9K74vnGtQKi1WmQWH-2Q=/fit-in/290x478/smart/media/movies/covers/2014/11/saint-seiya-os-cavaleiros-do-zodiaco-o-santo-guerreiro_t1363_1.jpg" group-title="Canais | 24H",Cavaleiros dos Zodiacos 24H Saga Doze Casas
+http://srv.mtvs.me:8880/fernandocasa/291119911111/29706
+#EXTINF:-1 tvg-id="Example" tvg-name="Cavaleiros dos Zodiacos 24H Saga Doze Casas 1" tvg-logo="https://media.fstatic.com/Se-YRqU9K74vnGtQKi1WmQWH-2Q=/fit-in/290x478/smart/media/movies/covers/2014/11/saint-seiya-os-cavaleiros-do-zodiaco-o-santo-guerreiro_t1363_1.jpg" group-title="Canais | 24H",Cavaleiros dos Zodiacos 24H Saga Doze Casas 1
+http://srv.mtvs.me:8880/fernandocasa/291119911111/29751
+#EXTINF:-1 tvg-id="Example" tvg-name="Classicos Disney 24H 1" tvg-logo="https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=10504987&qld=90&l=430&a=-1=1007709663" group-title="Canais | 24H",Classicos Disney 24H 1
+http://srv.mtvs.me:8880/fernandocasa/291119911111/29752
+#EXTINF:-1 tvg-id="Example" tvg-name="MAGUILA O GORILA 24H" tvg-logo="https://i.pinimg.com/originals/7f/80/b6/7f80b6a0d959e84926c6cb5c2b58e0f9.jpg" group-title="Canais | 24H",MAGUILA O GORILA 24H
+http://srv.mtvs.me:8880/fernandocasa/291119911111/29420
+#EXTINF:-1 tvg-id="Example" tvg-name="Corrida Maluca 24H" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZov-YJ49EbQabsseAAZfjH6CQ01c4vl_GZC7crT-mtK-7UrPG&s" group-title="Canais | 24H",Corrida Maluca 24H
+http://srv.mtvs.me:8880/fernandocasa/291119911111/29761
+#EXTINF:-1 tvg-id="Example" tvg-name="Dois Homens e Meio 24H" tvg-logo="https://simplestorrent.com/capas/two-and-a-half-men-dois-homens-e-meio-completa-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg" group-title="Canais | 24H",Dois Homens e Meio 24H
+http://srv.mtvs.me:8880/fernandocasa/291119911111/30945
+#EXTINF:-1 tvg-id="Example" tvg-name="Dragon Ball 24H." tvg-logo="https://i.ebayimg.com/images/g/C24AAOSwXm9cXNjA/s-l300.jpg" group-title="Canais | 24H",Dragon Ball 24H.
+http://srv.mtvs.me:8880/fernandocasa/291119911111/29726
+#EXTINF:-1 tvg-id="Example" tvg-name="Familia da Pesada 24h" tvg-logo="https://d26lpennugtm8s.cloudfront.net/stores/148/504/products/familyguy-s1e21-a7b523a1cca5a55ab915349554282816-640-0.jpg" group-title="Canais | 24H",Familia da Pesada 24h
+http://srv.mtvs.me:8880/fernandocasa/291119911111/29725
+#EXTINF:-1 tvg-id="Example" tvg-name="FILMES 24H" tvg-logo="http://images.comunidades.net/tim/timedownloands/filmes.png" group-title="Canais | 24H",FILMES 24H
+http://srv.mtvs.me:8880/fernandocasa/291119911111/29432
+#EXTINF:-1 tvg-id="Example" tvg-name="Formiga Atomica 24H" tvg-logo="https://http2.mlstatic.com/a-formiga-atmica-desenho-dublado-antigo-anos-80-90-D_NQ_NP_979796-MLB26369040515_112017-F.jpg" group-title="Canais | 24H",Formiga Atomica 24H
+http://srv.mtvs.me:8880/fernandocasa/291119911111/29750
+#EXTINF:-1 tvg-id="Example" tvg-name="Galinha Pintadinha 24H" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT79tfOXZ0JqChXo8y2V8sldLljQlc3JVFt4J2yPJl0ssjSbb9m&s" group-title="Canais | 24H",Galinha Pintadinha 24H
+http://srv.mtvs.me:8880/fernandocasa/291119911111/29747
+#EXTINF:-1 tvg-id="Example" tvg-name="Kenan e Kel 24H" tvg-logo="https://img.buzzfeed.com/buzzfeed-static/static/2018-01/29/14/campaign_images/buzzfeed-prod-fastlane-02/how-well-do-you-remember-kenan-kel-2-30288-1517254864-16_dblbig.jpg" group-title="Canais | 24H",Kenan e Kel 24H
+http://srv.mtvs.me:8880/fernandocasa/291119911111/29736
+#EXTINF:-1 tvg-id="Example" tvg-name="Luluzinha 24H" tvg-logo="https://http2.mlstatic.com/coleco-de-desenhos-da-luluzinha-completo-6-dvds-D_NQ_NP_789749-MLB27505218760_062018-F.jpg" group-title="Canais | 24H",Luluzinha 24H
+http://srv.mtvs.me:8880/fernandocasa/291119911111/29720
+#EXTINF:-1 tvg-id="Example" tvg-name="Mickey e Donald 24H" tvg-logo="http://images.clipartpanda.com/friends-clip-art-cn23.gif" group-title="Canais | 24H",Mickey e Donald 24H
+http://srv.mtvs.me:8880/fernandocasa/291119911111/29754
+#EXTINF:-1 tvg-id="Example" tvg-name="O Mascara 24H" tvg-logo="http://pm1.narvii.com/6272/90813d0d512e1fb9fe6f65a87a9d259ace54fd2d_00.jpg" group-title="Canais | 24H",O Mascara 24H
+http://srv.mtvs.me:8880/fernandocasa/291119911111/29735
+#EXTINF:-1 tvg-id="Example" tvg-name="Os Trapalhões 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Trapalhoes.jpg/250px-Trapalhoes.jpg" group-title="Canais | 24H",Os Trapalhões 24H
+http://srv.mtvs.me:8880/fernandocasa/291119911111/29746
+#EXTINF:-1 tvg-id="Example" tvg-name="Peppa Pig 24H" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61mIS-e5SSL.png" group-title="Canais | 24H",Peppa Pig 24H
+http://srv.mtvs.me:8880/fernandocasa/291119911111/29745
+#EXTINF:-1 tvg-id="Example" tvg-name="South Park 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/South_Park_main_characters.png/250px-South_Park_main_characters.png" group-title="Canais | 24H",South Park 24H
+http://srv.mtvs.me:8880/fernandocasa/291119911111/29744
+#EXTINF:-1 tvg-id="Example" tvg-name="The Big Bang Theory 24H" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51vqw2Lj45L.jpg" group-title="Canais | 24H",The Big Bang Theory 24H
+http://srv.mtvs.me:8880/fernandocasa/291119911111/29734
+#EXTINF:-1 tvg-id="Example" tvg-name="Thundercats 24H" tvg-logo="https://i.pinimg.com/originals/9e/a3/f9/9ea3f90677edacfcfcf6f959e76815da.jpg" group-title="Canais | 24H",Thundercats 24H
+http://srv.mtvs.me:8880/fernandocasa/291119911111/29743
+#EXTINF:-1 tvg-id="Example" tvg-name="Tico e Teco 24H" tvg-logo="https://www.clickgratis.com.br/blog-clickgratis/wp-content/uploads/2011/07/Tico-e-Teco-245x300.jpg" group-title="Canais | 24H",Tico e Teco 24H
+http://srv.mtvs.me:8880/fernandocasa/291119911111/29723
+#EXTINF:-1 tvg-id="Example" tvg-name="Todo Mundo Odeia o Cris 24H" tvg-logo="https://http2.mlstatic.com/dvd-todo-mundo-odeia-o-chrisdublado-classicoseriecompleta-D_NQ_NP_637202-MLB27936587608_082018-F.jpg" group-title="Canais | 24H",Todo Mundo Odeia o Cris 24H
+http://srv.mtvs.me:8880/fernandocasa/291119911111/29740
+#EXTINF:-1 tvg-id="Example" tvg-name="Um Maluco no Pedaço 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8c/Logo_The_Fresh_Prince_of_Bel-Air.jpg" group-title="Canais | 24H",Um Maluco no Pedaço 24H
+http://srv.mtvs.me:8880/fernandocasa/291119911111/29742
+#EXTINF:-1 tvg-id="" tvg-name="Apenas Um Show 24H" tvg-logo="https://media.fstatic.com/CggA48sYIhqvq4tJOpnfqDCm2_4=/fit-in/290x478/smart/media/movies/covers/2015/07/apenas-um-show-1a-temporada_t45103.jpg" group-title="Canais | 24H",Apenas Um Show 24H
+http://srv.mtvs.me:8880/fernandocasa/291119911111/36764
+#EXTINF:-1 tvg-id="" tvg-name="Bibo Pai & Bob Filho 24H" tvg-logo="https://http2.mlstatic.com/bibo-pai-e-bob-filho-42-desenhos-e-2-dvds-D_NQ_NP_483321-MLB20762211334_062016-O.jpg" group-title="Canais | 24H",Bibo Pai & Bob Filho 24H
+http://srv.mtvs.me:8880/fernandocasa/291119911111/36765
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES 24H" tvg-logo="http://4.bp.blogspot.com/-V9H55c8smF0/TaEj6LLVleI/AAAAAAAAA_4/pVW4oXNpWmE/s1600/chaves.jpg" group-title="Canais | 24H",CHAVES 24H
+http://srv.mtvs.me:8880/fernandocasa/291119911111/37885
+#EXTINF:-1 tvg-id="" tvg-name="FESTIVAL SERTANEJO 24H" tvg-logo="https://guiabh.com.br/Repositorio/Upload/Destaque/320x320/festivalbrasilsertanejo2019.jpg" group-title="Canais | 24H",FESTIVAL SERTANEJO 24H
+http://srv.mtvs.me:8880/fernandocasa/291119911111/37886
+#EXTINF:-1 tvg-id="Example" tvg-name="MANDA CHUVA 24H" tvg-logo="https://i.imgur.com/VH5yeQm.jpg" group-title="Canais | 24H",MANDA CHUVA 24H
+http://srv.mtvs.me:8880/fernandocasa/291119911111/36513
+
+
+
