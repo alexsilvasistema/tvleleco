@@ -1,51 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://z4.vc/jeQ" group-title="Canais | Notícias",BandNews FHD
-http://psrv.io:80/live/65890560442/snakeplay/18853.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/vx0" group-title="Canais | Notícias",BandNews FHD [H265]
-http://psrv.io:80/live/65890560442/snakeplay/22152.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/COC" group-title="Canais | Notícias",BandNews HD
-http://psrv.io:80/live/65890560442/snakeplay/18725.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/mps" group-title="Canais | Notícias",BandNews SD
-http://psrv.io:80/live/65890560442/snakeplay/18726.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/7yf" group-title="Canais | Esportes",BandSports FHD
-http://psrv.io:80/live/65890560442/snakeplay/18852.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/mPu" group-title="Canais | Esportes",BandSports FHD [H265]
-http://psrv.io:80/live/65890560442/snakeplay/22151.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/0ev" group-title="Canais | Esportes",BandSports HD
-http://psrv.io:80/live/65890560442/snakeplay/18723.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/ral" group-title="Canais | Esportes",BandSports SD
-http://psrv.io:80/live/65890560442/snakeplay/18724.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/UIf" group-title="Canais | Variedades",Bis FHD
-http://psrv.io:80/live/65890560442/snakeplay/18785.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/XaE" group-title="Canais | Variedades",Bis FHD [H265]
-http://psrv.io:80/live/65890560442/snakeplay/22150.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/PAl" group-title="Canais | Variedades",Bis HD
-http://psrv.io:80/live/65890560442/snakeplay/18721.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/ybv" group-title="Canais | Variedades",Bis SD
-http://psrv.io:80/live/65890560442/snakeplay/18722.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",Bloomberg Television
-http://psrv.io:80/live/65890560442/snakeplay/28159.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",Boing Kids [ESP]
-http://psrv.io:80/live/65890560442/snakeplay/28166.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/6f2" group-title="Canais | Infantis",Boomerang FHD
-http://psrv.io:80/live/65890560442/snakeplay/18851.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/DAg" group-title="Canais | Infantis",Boomerang FHD [H265]
-http://psrv.io:80/live/65890560442/snakeplay/25317.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/BLS" group-title="Canais | Infantis",Boomerang HD
-http://psrv.io:80/live/65890560442/snakeplay/18718.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/H1Y" group-title="Canais | Infantis",Boomerang SD
-http://psrv.io:80/live/65890560442/snakeplay/18719.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",CANAL 26 ARGENTINA HD
-http://psrv.io:80/live/65890560442/snakeplay/26427.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",CANAL 33
-http://psrv.io:80/live/65890560442/snakeplay/28050.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/UqA" group-title="Canais | Filmes e Séries",Canal Brasil FHD
-http://psrv.io:80/live/65890560442/snakeplay/18753.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/bUk" group-title="Canais | Filmes e Séries",Canal Brasil FHD [H265]
-http://psrv.io:80/live/65890560442/snakeplay/25316.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/GsJ" group-title="Canais | Filmes e Séries",Canal Brasil HD
-http://psrv.io:80/live/65890560442/snakeplay/18716.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/kWm" group-title="Canais | Filmes e Séries",Canal Brasil SD
-http://psrv.io:80/live/65890560442/snakeplay/18717.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/0Tm" group-title="Canais | Abertos",Cancao Nova SD
-http://psrv.io:80/live/65890560442/snakeplay/18713.m3u8
+#EXTINF:-1 tvg-id="100% Vida" tvg-name="HBO Plus HD" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais | Filmes e Series",HBO Plus HD
+http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36963
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Canais | Filmes e Series",HBO HD
+http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36964
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Canais | Filmes e Series",HBO Family HD
+http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36965
+#EXTINF:-1 tvg-id="HBO 2  HD" tvg-name="HBO 2 HD" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Canais | Filmes e Series",HBO 2 HD
+http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36966
+#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT HD" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="Canais | Variedades",GNT HD
+http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36967
+#EXTINF:-1 tvg-id="Globo Rio HD" tvg-name="Globo Rio HD" tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais | Abertos",Globo Rio HD
+http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36968
+#EXTINF:-1 tvg-id="FX HD" tvg-name="FX HD" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Filmes e Series",FX HD
+http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36969
+#EXTINF:-1 tvg-id="FoxSports HD" tvg-name="FoxSports HD" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Esportes",FoxSports HD
+http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36970
+#EXTINF:-1 tvg-id="FoxSports 2 HD" tvg-name="FoxSports 2 HD" tvg-logo="https://i.imgur.com/150raP9.png" group-title="Canais | Esportes",FoxSports 2 HD
+http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36971
+#EXTINF:-1 tvg-id="Fox Channel HD" tvg-name="Fox Channel HD" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",Fox Channel HD
+http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36972
+#EXTINF:-1 tvg-id="Fox Premium 2 HD" tvg-name="Fox Premium 2 HD" tvg-logo="https://i.imgur.com/WgobCjU.png" group-title="Canais | Filmes e Series",Fox Premium 2 HD
+http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36973
+#EXTINF:-1 tvg-id="Fox Premium 1 HD" tvg-name="Fox Premium 1  HD" tvg-logo="https://i.imgur.com/ANiatwo.png" group-title="Canais | Filmes e Series",Fox Premium 1  HD
+http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36974
+#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 2 HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png" group-title="Canais | Esportes",ESPN 2 HD
+http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36976
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_HD.png/revision/latest?cb=20160113004056" group-title="Canais | Esportes",ESPN HD
+http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36977
+#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-name="ESPN Brasil HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh5R2hNRFnQfEI9Cv1wXmjdYTJOXbnpwPJgI_Ky_hujhkeWDJ_XQ" group-title="Canais | Esportes",ESPN Brasil HD
+http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36978
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World HD" tvg-logo="https://i.imgur.com/hGhgbMQ.png" group-title="Canais | Documentarios",Discovery World HD
+http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36981
+#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="Discovery Turbo HD" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Documentarios",Discovery Turbo HD
+http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36982
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="http://i.imgur.com/VZH1x36.png" group-title="Canais | Documentarios",Discovery Theater HD
+http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36983
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",Discovery Channel HD
+http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36985
