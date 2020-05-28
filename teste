@@ -1,61 +1,47 @@
 #EXTM3U
-#EXTINF:-1,A&E HD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/2
-#EXTINF:-1,A&E SD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1
-#EXTINF:-1,AMC HD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/5
-#EXTINF:-1,AMC SD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/4
-#EXTINF:-1,Animal Planet HD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/9
-#EXTINF:-1,Animal Planet SD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/8
-#EXTINF:-1,Arte 1 HD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/11
-#EXTINF:-1,Arte 1 SD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/10
-#EXTINF:-1,AXN HD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/13
-#EXTINF:-1,AXN SD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/12
-#EXTINF:-1,BabyTV HD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/18
-#EXTINF:-1,BabyTV SD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/17
-#EXTINF:-1,Band Campinas SD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/20
-#EXTINF:-1,Band News HD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/26
-#EXTINF:-1,Band News SD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/25
-#EXTINF:-1,Band Nordeste SD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/22
-#EXTINF:-1,Band SP HD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/21
-#EXTINF:-1,Band SP SD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/24
-#EXTINF:-1,Band Sports HD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/28
-#EXTINF:-1,Band Sports SD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/27
-#EXTINF:-1,Bis HD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/16
-#EXTINF:-1,Bis SD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/15
-#EXTINF:-1,Boomerang HD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/30
-#EXTINF:-1,Boomerang SD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/29
-#EXTINF:-1,Canal Brasil SD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/32
-#EXTINF:-1,Canal do Boi SD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038287
-#EXTINF:-1,Canal Rural SD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038286
-#EXTINF:-1,Canção Nova HD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1036447
-#EXTINF:-1,Cartoon Network HD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/38
-#EXTINF:-1,Cartoon Network SD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/37
+EXTINF:-1 tvg-logo="" group-title="CANAIS" , A&e HD
+http://192.119.9.66/live/29327EAF-2FE3-4824-9199-CE7724892A6E.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NAT GEO WILD
+http://192.119.9.66/live/EFB5A924-D3FD-4288-9493-DF88E50AEFF6.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , AXN
+http://192.119.9.66/live/4503BECE-DCEC-40D9-aa03-CF85F7B0ADB4.ts 
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , AMC
+http://192.119.9.66/live/CB9A2D16-F165-4B16-b69f-21FA119082D2.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ART 1
+http://192.119.9.66/live/cyp-5f8a044dae954e69b787f0cb7600.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ANIMAL PLANET
+http://192.119.9.66/live/022AC19C-0EC3-4C7D-b0fb-D889A5FC9B64.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND
+http://192.119.9.66/live/9376F5C2-08FC-44AA-87e4-9D7E2B6C337E.ts
+ 
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BABY TV
+http://192.119.9.66/live/90FCECD9-B1BB-4C7A-93b7-08C627D5ED60.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND NEWS
+http://192.119.9.66/live/A92D0C31-58A1-41D7-bdd0-1F60F3C78153.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND SPORT
+http://192.119.9.66/live/mdPmLXj7Z4ON54iJDPNbWaiyZLyZU0Xl.ts
+ 
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BBC
+http://192.119.9.66/live/430453ED-E2E1-43DC-b234-85C04DBA4BA0.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BIS
+http://192.119.9.66/live/EBA9713D-5D7E-4724-a1a7-C15AA741CC99.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BOOMERANG 
+http://192.119.9.66/live/0FB8A79C-18D3-4B08-b51d-D7AC5B1D1532.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CANÇAO NOVA
+http://192.119.9.66/live/D61FEE44-2B94-44E5-bc4f-3390CF023093.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CHEF TV
+http://192.119.9.66/live/SMX1XU8xv5CukzZRniYY3PnGkXDLkCF4.ts
