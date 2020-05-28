@@ -1,49 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEMAX HD" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Canais: Filmes e Séries",CINEMAX HD
-http://srv.mtvs.me:8880/fernandocasa/291119911111/28632
-#EXTINF:-1 tvg-id="Cinemax HD [Alter]" tvg-name="CINEMAX HD [Alter]" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Canais: Filmes e Séries",CINEMAX HD [Alter]
-http://srv.mtvs.me:8880/fernandocasa/291119911111/28820
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE HD" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais: Esportes",COMBATE HD
-http://srv.mtvs.me:8880/fernandocasa/291119911111/28630
-#EXTINF:-1 tvg-id="Combate HD [Alter]" tvg-name="COMBATE HD [Alter]" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais: Esportes",COMBATE HD [Alter]
-http://srv.mtvs.me:8880/fernandocasa/291119911111/28878
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais: Variedades",COMEDY CENTRAL HD
-http://srv.mtvs.me:8880/fernandocasa/291119911111/28628
-#EXTINF:-1 tvg-id="Comedy Central HD [Alter]" tvg-name="COMEDY CENTRAL HD [Alter]." tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais: Variedades",COMEDY CENTRAL HD [Alter].
-http://srv.mtvs.me:8880/fernandocasa/291119911111/28819
-#EXTINF:-1 tvg-id="Example" tvg-name="CURTA! HD" tvg-logo="http://i.imgur.com/GYOaiO7.png" group-title="Canais: Variedades",CURTA! HD
-http://srv.mtvs.me:8880/fernandocasa/291119911111/28626
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais: Documentários",DISCOVERY CHANNEL HD
-http://srv.mtvs.me:8880/fernandocasa/291119911111/28624
-#EXTINF:-1 tvg-id="Discovery Channel HD [Alter]" tvg-name="DISCOVERY CHANNEL HD [Alter]" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais: Documentários",DISCOVERY CHANNEL HD [Alter]
-http://srv.mtvs.me:8880/fernandocasa/291119911111/28877
-#EXTINF:-1 tvg-id="Discovery Civilization HD" tvg-name="HGTV HD" tvg-logo="https://images.squarespace-cdn.com/content/v1/5252bb4fe4b0b9b7feb18121/1385379494992-JP80IBDJRVLC31P9H7GW/ke17ZwdGBToddI8pDm48kHkI5r52yW_BLF3u_R2QGkJZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVE4OxYyFaU1_H1n3SO-lCySeVrLj_QP8VTAl-iz023Wa9a0rdW5EFBLedId-XDjopI/hgt1.jpg?format=1000w" group-title="Canais: Documentários",HGTV HD
-http://srv.mtvs.me:8880/fernandocasa/291119911111/28622
-#EXTINF:-1 tvg-id="Discovery Civilization HD [Alter]" tvg-name="HGTV HD [Alter]" tvg-logo="http://i.imgur.com/dN249KE.png" group-title="Canais: Documentários",HGTV HD [Alter]
-http://srv.mtvs.me:8880/fernandocasa/291119911111/28818
-#EXTINF:-1 tvg-id="Example" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Canais: Documentários",DISCOVERY HOME & HEALTH HD
-http://srv.mtvs.me:8880/fernandocasa/291119911111/28620
-#EXTINF:-1 tvg-id="Discovery Home Health HD [Alter]" tvg-name="DISCOVERY HOME & HEALTH HD [Alter]" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Canais: Documentários",DISCOVERY HOME & HEALTH HD [Alter]
-http://srv.mtvs.me:8880/fernandocasa/291119911111/28876
-#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais: Infantil",DISCOVERY KIDS HD
-http://srv.mtvs.me:8880/fernandocasa/291119911111/28618
-#EXTINF:-1 tvg-id="Discovery Kids HD [Alter]" tvg-name="DISCOVERY KIDS HD [Alter]" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais: Infantil",DISCOVERY KIDS HD [Alter]
-http://srv.mtvs.me:8880/fernandocasa/291119911111/28817
-#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://i.imgur.com/Dx49y4f.png" group-title="Canais: Documentários",DISCOVERY SCIENCE HD
-http://srv.mtvs.me:8880/fernandocasa/291119911111/28616
-#EXTINF:-1 tvg-id="Discovery Science HD [Alter]" tvg-name="DISCOVERY SCIENCE HD [Alter]" tvg-logo="http://i.imgur.com/Dx49y4f.png" group-title="Canais: Documentários",DISCOVERY SCIENCE HD [Alter]
-http://srv.mtvs.me:8880/fernandocasa/291119911111/28816
-#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://i.imgur.com/VZH1x36.png" group-title="Canais: Documentários",DISCOVERY THEATER HD
-http://srv.mtvs.me:8880/fernandocasa/291119911111/28614
-#EXTINF:-1 tvg-id="Discovery Theater HD [Alter]" tvg-name="DISCOVERY THEATER HD [Alter]." tvg-logo="http://i.imgur.com/VZH1x36.png" group-title="Canais: Documentários",DISCOVERY THEATER HD [Alter].
-http://srv.mtvs.me:8880/fernandocasa/291119911111/28875
-#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="Canais: Documentários",DISCOVERY TURBO HD
-http://srv.mtvs.me:8880/fernandocasa/291119911111/28612
-#EXTINF:-1 tvg-id="Discovery Turbo HD [Alter]" tvg-name="DISCOVERY TURBO HD [Alter]." tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="Canais: Documentários",DISCOVERY TURBO HD [Alter].
-http://srv.mtvs.me:8880/fernandocasa/291119911111/28874
-#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="DISCOVERY WORLD  HD" tvg-logo="http://i.imgur.com/4JC0BcV.png" group-title="Canais: Documentários",DISCOVERY WORLD  HD
-http://srv.mtvs.me:8880/fernandocasa/291119911111/28610
-#EXTINF:-1 tvg-id="Discovery World  HD [Alter]" tvg-name="DISCOVERY WOLRD HD [Alter]" tvg-logo="http://i.imgur.com/4JC0BcV.png" group-title="Canais: Documentários",DISCOVERY WOLRD HD [Alter]
-http://srv.mtvs.me:8880/fernandocasa/291119911111/28873
-#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Canais: Infantil",DISNEY CHANNEL HD
-http://srv.mtvs.me:8880/fernandocasa/291119911111/28608
+#EXTINF:-1,A&E HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/2
+#EXTINF:-1,A&E SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1
+#EXTINF:-1,AMC HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/5
+#EXTINF:-1,AMC SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/4
+#EXTINF:-1,Animal Planet HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/9
+#EXTINF:-1,Animal Planet SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/8
+#EXTINF:-1,Arte 1 HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/11
+#EXTINF:-1,Arte 1 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/10
+#EXTINF:-1,AXN HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/13
+#EXTINF:-1,AXN SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/12
+#EXTINF:-1,BabyTV HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/18
+#EXTINF:-1,BabyTV SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/17
+#EXTINF:-1,Band Campinas SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/20
+#EXTINF:-1,Band News HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/26
+#EXTINF:-1,Band News SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/25
+#EXTINF:-1,Band Nordeste SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/22
+#EXTINF:-1,Band SP HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/21
+#EXTINF:-1,Band SP SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/24
+#EXTINF:-1,Band Sports HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/28
+#EXTINF:-1,Band Sports SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/27
+#EXTINF:-1,Bis HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/16
+#EXTINF:-1,Bis SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/15
+#EXTINF:-1,Boomerang HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/30
+#EXTINF:-1,Boomerang SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/29
+#EXTINF:-1,Canal Brasil SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/32
+#EXTINF:-1,Canal do Boi SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038287
+#EXTINF:-1,Canal Rural SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038286
+#EXTINF:-1,Canção Nova HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1036447
+#EXTINF:-1,Cartoon Network HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/38
+#EXTINF:-1,Cartoon Network SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/37
