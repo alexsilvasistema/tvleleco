@@ -1,25 +1,63 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canais | Documentarios" tvg-id="Discovery Channel HD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverychannel.png" tvg-name="Discovery Channel SD",Discovery Channel SD
-http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/37116
-#EXTINF:-1 group-title="Canais | Documentarios" tvg-id="Discovery Channel" tvg-logo="https://static.clubsrv.me/logos/canais/discoverychannel.png" tvg-name="Discovery Channel HD",Discovery Channel HD
-http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/36985
-#EXTINF:-1 group-title="Canais | Documentarios" tvg-id="Discovery Civilization HD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverycivilization.png" tvg-name="Discovery Civilization HD",Discovery Civilization HD
-http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/36924
-#EXTINF:-1 group-title="Canais | Variedades" tvg-id="Discovery Home & Health HD" tvg-logo="https://static.clubsrv.me/logos/canais/discoveryh%26h.png" tvg-name="Discovery H&H SD",Discovery H&H SD
-http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/36984
-#EXTINF:-1 group-title="Canais | Variedades" tvg-id="Discovery Home & Health HD" tvg-logo="https://static.clubsrv.me/logos/canais/discoveryh%26h.png" tvg-name="Discovery H&H HD",Discovery H&H HD
-http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/37115
-#EXTINF:-1 group-title="Canais | Infantil" tvg-id="Discovery Kids FHD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverykids.png" tvg-name="Discovery Kids SD",Discovery Kids SD
-http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/37113
-#EXTINF:-1 group-title="Canais | Infantil" tvg-id="Discovery Kids HD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverykids.png" tvg-name="Discovery Kids HD",Discovery Kids HD
-http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/36923
-#EXTINF:-1 group-title="Canais | Documentarios" tvg-id="Discovery Science HD" tvg-logo="https://static.clubsrv.me/logos/canais/discoveryscience.png" tvg-name="Discovery Science HD",Discovery Science HD
-http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/36922
-#EXTINF:-1 group-title="Canais | Documentarios" tvg-id="Discovery Theater" tvg-logo="https://static.clubsrv.me/logos/canais/discoverytheater.png" tvg-name="Discovery Theater HD",Discovery Theater HD
-http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/36983
-#EXTINF:-1 group-title="Canais | Variedades" tvg-id="Discovery Turbo HD" tvg-logo="https://static.clubsrv.me/logos/canais/discoveryturbo.png" tvg-name="Discovery Turbo SD",Discovery Turbo SD
-http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/37112
-#EXTINF:-1 group-title="Canais | Variedades" tvg-id="Discovery Turbo HD" tvg-logo="https://static.clubsrv.me/logos/canais/discoveryturbo.png" tvg-name="Discovery Turbo HD",Discovery Turbo HD
-http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/36982
-#EXTINF:-1 group-title="Canais | Documentarios" tvg-id="Discovery World HD" tvg-logo="https://static.clubsrv.me/logos/canais/discoveryworld.png" tvg-name="Discovery World HD",Discovery World HD
-http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/36981
+#EXTINF:-1 tvg-logo="http://z4.vc/RrZ" group-title="Canais | Variedades",Comedy Central SD
+http://psrv.io:80/2146686202/coreurl.me/18706
+#EXTINF:-1 tvg-logo="http://z4.vc/GnA" group-title="Canais | Variedades",Curta! HD
+http://psrv.io:80/2146686202/coreurl.me/18703
+#EXTINF:-1 tvg-logo="http://z4.vc/fVn" group-title="Canais | Variedades",Curta! SD
+http://psrv.io:80/2146686202/coreurl.me/18704
+#EXTINF:-1 tvg-logo="http://z4.vc/nXL" group-title="Canais | Variedades",Discovery H&H HD
+http://psrv.io:80/2146686202/coreurl.me/18697
+#EXTINF:-1 tvg-logo="http://z4.vc/91r" group-title="Canais | Variedades",Discovery H&H SD
+http://psrv.io:80/2146686202/coreurl.me/18698
+#EXTINF:-1 tvg-logo="http://z4.vc/AsO" group-title="Canais | Variedades",Discovery Turbo HD
+http://psrv.io:80/2146686202/coreurl.me/18689
+#EXTINF:-1 tvg-logo="http://z4.vc/Vy0" group-title="Canais | Variedades",Discovery Turbo SD
+http://psrv.io:80/2146686202/coreurl.me/18690
+#EXTINF:-1 tvg-logo="http://z4.vc/6nk" group-title="Canais | Variedades",Dog TV HD
+http://psrv.io:80/2146686202/coreurl.me/28000
+#EXTINF:-1 tvg-logo="http://z4.vc/PCy" group-title="Canais | Variedades",E! HD
+http://psrv.io:80/2146686202/coreurl.me/18681
+#EXTINF:-1 tvg-logo="http://z4.vc/Z05" group-title="Canais | Variedades",E! SD
+http://psrv.io:80/2146686202/coreurl.me/18682
+#EXTINF:-1 tvg-logo="http://z4.vc/T5S" group-title="Canais | Variedades",Film & Arts SD
+http://psrv.io:80/2146686202/coreurl.me/18497
+#EXTINF:-1 tvg-logo="http://z4.vc/VxE" group-title="Canais | Variedades",Fish TV HD
+http://psrv.io:80/2146686202/coreurl.me/18671
+#EXTINF:-1 tvg-logo="http://z4.vc/Rxi" group-title="Canais | Variedades",Fish TV SD
+http://psrv.io:80/2146686202/coreurl.me/18672
+#EXTINF:-1 tvg-logo="http://z4.vc/fYt" group-title="Canais | Variedades",Food Network HD
+http://psrv.io:80/2146686202/coreurl.me/18669
+#EXTINF:-1 tvg-logo="http://z4.vc/2cT" group-title="Canais | Variedades",Food Network SD
+http://psrv.io:80/2146686202/coreurl.me/18670
+#EXTINF:-1 tvg-logo="http://z4.vc/9pz" group-title="Canais | Variedades",Fox Life HD
+http://psrv.io:80/2146686202/coreurl.me/18665
+#EXTINF:-1 tvg-logo="http://z4.vc/E0q" group-title="Canais | Variedades",Fox Life SD
+http://psrv.io:80/2146686202/coreurl.me/18666
+#EXTINF:-1 tvg-logo="http://z4.vc/6ya" group-title="Canais | Variedades",GNT HD
+http://psrv.io:80/2146686202/coreurl.me/18645
+#EXTINF:-1 tvg-logo="http://z4.vc/Dat" group-title="Canais | Variedades",GNT SD
+http://psrv.io:80/2146686202/coreurl.me/18646
+#EXTINF:-1 tvg-logo="http://z4.vc/q6F" group-title="Canais | Variedades",ID: Investigacao Discovery HD
+http://psrv.io:80/2146686202/coreurl.me/18629
+#EXTINF:-1 tvg-logo="http://z4.vc/dAy" group-title="Canais | Variedades",ID: Investigacao Discovery SD
+http://psrv.io:80/2146686202/coreurl.me/18630
+#EXTINF:-1 tvg-logo="http://z4.vc/a4s" group-title="Canais | Variedades",Lifetime HD
+http://psrv.io:80/2146686202/coreurl.me/18627
+#EXTINF:-1 tvg-logo="http://z4.vc/Eyw" group-title="Canais | Variedades",Lifetime SD
+http://psrv.io:80/2146686202/coreurl.me/18628
+#EXTINF:-1 tvg-logo="http://z4.vc/0yY" group-title="Canais | Variedades",Mais GloboSat HD
+http://psrv.io:80/2146686202/coreurl.me/18625
+#EXTINF:-1 tvg-logo="http://z4.vc/QSP" group-title="Canais | Variedades",Mais GloboSat SD
+http://psrv.io:80/2146686202/coreurl.me/18626
+#EXTINF:-1 tvg-logo="http://z4.vc/sTl" group-title="Canais | Variedades",MTV HD
+http://psrv.io:80/2146686202/coreurl.me/18615
+#EXTINF:-1 tvg-logo="http://z4.vc/MWq" group-title="Canais | Variedades",MTV SD
+http://psrv.io:80/2146686202/coreurl.me/18616
+#EXTINF:-1 tvg-logo="http://z4.vc/u8U" group-title="Canais | Variedades",MTV Live HD
+http://psrv.io:80/2146686202/coreurl.me/18507
+#EXTINF:-1 tvg-logo="http://z4.vc/JCl" group-title="Canais | Variedades",MTV Live SD
+http://psrv.io:80/2146686202/coreurl.me/18508
+#EXTINF:-1 tvg-logo="http://z4.vc/Oev" group-title="Canais | Variedades",Multishow HD
+http://psrv.io:80/2146686202/coreurl.me/18613
+#EXTINF:-1 tvg-logo="http://z4.vc/0j3" group-title="Canais | Variedades",Multishow SD
+http://psrv.io:80/2146686202/coreurl.me/18614
