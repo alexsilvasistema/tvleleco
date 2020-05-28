@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="Food Network FHD" tvg-logo="http://static.psrv.io/logos/canais/foodnetwork.png" group-title="Variedades" aspect-ratio="16:9",Food Network FHD
+http://psrv.io:80/883698111244/blendediptv.me/18834
+#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="Food Network FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/foodnetwork.png" group-title="Variedades" aspect-ratio="16:9",Food Network FHD [H265]
+http://psrv.io:80/883698111244/blendediptv.me/22198
+#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="Food Network HD" tvg-logo="http://static.psrv.io/logos/canais/foodnetwork.png" group-title="Variedades" aspect-ratio="16:9",Food Network HD
+http://psrv.io:80/883698111244/blendediptv.me/18669
+#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="Food Network SD" tvg-logo="http://static.psrv.io/logos/canais/foodnetwork.png" group-title="Variedades" aspect-ratio="16:9",Food Network SD
+http://psrv.io:80/883698111244/blendediptv.me/18670
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="Fox Life FHD" tvg-logo="http://static.psrv.io/logos/canais/foxlife.png" group-title="Variedades" aspect-ratio="16:9",Fox Life FHD
+http://psrv.io:80/883698111244/blendediptv.me/18833
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="Fox Life HD" tvg-logo="http://static.psrv.io/logos/canais/foxlife.png" group-title="Variedades" aspect-ratio="16:9",Fox Life HD
+http://psrv.io:80/883698111244/blendediptv.me/18665
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="Fox Life SD" tvg-logo="http://static.psrv.io/logos/canais/foxlife.png" group-title="Variedades" aspect-ratio="16:9",Fox Life SD
+http://psrv.io:80/883698111244/blendediptv.me/18666
+#EXTINF:-1 tvg-id="MAIS GLOBOSAT" tvg-name="GloboSat FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/maisglobosat.png" group-title="Variedades" aspect-ratio="16:9",GloboSat FHD [H265]
+http://psrv.io:80/883698111244/blendediptv.me/22129
+#EXTINF:-1 tvg-id="MAIS GLOBOSAT" tvg-name="GloboSat SD" tvg-logo="http://static.psrv.io/logos/canais/maisglobosat.png" group-title="Variedades" aspect-ratio="16:9",GloboSat SD
+http://psrv.io:80/883698111244/blendediptv.me/22311
