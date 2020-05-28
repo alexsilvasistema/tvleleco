@@ -1,39 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="100% Vida" tvg-name="HBO Plus HD" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais | Filmes e Series",HBO Plus HD
-http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36963
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Canais | Filmes e Series",HBO HD
-http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36964
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Canais | Filmes e Series",HBO Family HD
-http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36965
-#EXTINF:-1 tvg-id="HBO 2  HD" tvg-name="HBO 2 HD" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Canais | Filmes e Series",HBO 2 HD
-http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36966
-#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT HD" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="Canais | Variedades",GNT HD
-http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36967
-#EXTINF:-1 tvg-id="Globo Rio HD" tvg-name="Globo Rio HD" tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais | Abertos",Globo Rio HD
-http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36968
-#EXTINF:-1 tvg-id="FX HD" tvg-name="FX HD" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Filmes e Series",FX HD
-http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36969
-#EXTINF:-1 tvg-id="FoxSports HD" tvg-name="FoxSports HD" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Esportes",FoxSports HD
-http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36970
-#EXTINF:-1 tvg-id="FoxSports 2 HD" tvg-name="FoxSports 2 HD" tvg-logo="https://i.imgur.com/150raP9.png" group-title="Canais | Esportes",FoxSports 2 HD
-http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36971
-#EXTINF:-1 tvg-id="Fox Channel HD" tvg-name="Fox Channel HD" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",Fox Channel HD
-http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36972
-#EXTINF:-1 tvg-id="Fox Premium 2 HD" tvg-name="Fox Premium 2 HD" tvg-logo="https://i.imgur.com/WgobCjU.png" group-title="Canais | Filmes e Series",Fox Premium 2 HD
-http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36973
-#EXTINF:-1 tvg-id="Fox Premium 1 HD" tvg-name="Fox Premium 1  HD" tvg-logo="https://i.imgur.com/ANiatwo.png" group-title="Canais | Filmes e Series",Fox Premium 1  HD
-http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36974
-#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 2 HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png" group-title="Canais | Esportes",ESPN 2 HD
-http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36976
-#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_HD.png/revision/latest?cb=20160113004056" group-title="Canais | Esportes",ESPN HD
-http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36977
-#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-name="ESPN Brasil HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh5R2hNRFnQfEI9Cv1wXmjdYTJOXbnpwPJgI_Ky_hujhkeWDJ_XQ" group-title="Canais | Esportes",ESPN Brasil HD
-http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36978
-#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World HD" tvg-logo="https://i.imgur.com/hGhgbMQ.png" group-title="Canais | Documentarios",Discovery World HD
-http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36981
-#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="Discovery Turbo HD" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Documentarios",Discovery Turbo HD
-http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36982
-#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="http://i.imgur.com/VZH1x36.png" group-title="Canais | Documentarios",Discovery Theater HD
-http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36983
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",Discovery Channel HD
-http://tv.minhalista.me:80/aad7584diVIY/ot4J2UnRs5X/36985
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEMAX HD" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Canais: Filmes e Séries",CINEMAX HD
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28632
+#EXTINF:-1 tvg-id="Cinemax HD [Alter]" tvg-name="CINEMAX HD [Alter]" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Canais: Filmes e Séries",CINEMAX HD [Alter]
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28820
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE HD" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais: Esportes",COMBATE HD
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28630
+#EXTINF:-1 tvg-id="Combate HD [Alter]" tvg-name="COMBATE HD [Alter]" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais: Esportes",COMBATE HD [Alter]
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28878
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais: Variedades",COMEDY CENTRAL HD
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28628
+#EXTINF:-1 tvg-id="Comedy Central HD [Alter]" tvg-name="COMEDY CENTRAL HD [Alter]." tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais: Variedades",COMEDY CENTRAL HD [Alter].
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28819
+#EXTINF:-1 tvg-id="Example" tvg-name="CURTA! HD" tvg-logo="http://i.imgur.com/GYOaiO7.png" group-title="Canais: Variedades",CURTA! HD
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28626
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais: Documentários",DISCOVERY CHANNEL HD
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28624
+#EXTINF:-1 tvg-id="Discovery Channel HD [Alter]" tvg-name="DISCOVERY CHANNEL HD [Alter]" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais: Documentários",DISCOVERY CHANNEL HD [Alter]
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28877
+#EXTINF:-1 tvg-id="Discovery Civilization HD" tvg-name="HGTV HD" tvg-logo="https://images.squarespace-cdn.com/content/v1/5252bb4fe4b0b9b7feb18121/1385379494992-JP80IBDJRVLC31P9H7GW/ke17ZwdGBToddI8pDm48kHkI5r52yW_BLF3u_R2QGkJZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVE4OxYyFaU1_H1n3SO-lCySeVrLj_QP8VTAl-iz023Wa9a0rdW5EFBLedId-XDjopI/hgt1.jpg?format=1000w" group-title="Canais: Documentários",HGTV HD
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28622
+#EXTINF:-1 tvg-id="Discovery Civilization HD [Alter]" tvg-name="HGTV HD [Alter]" tvg-logo="http://i.imgur.com/dN249KE.png" group-title="Canais: Documentários",HGTV HD [Alter]
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28818
+#EXTINF:-1 tvg-id="Example" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Canais: Documentários",DISCOVERY HOME & HEALTH HD
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28620
+#EXTINF:-1 tvg-id="Discovery Home Health HD [Alter]" tvg-name="DISCOVERY HOME & HEALTH HD [Alter]" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Canais: Documentários",DISCOVERY HOME & HEALTH HD [Alter]
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28876
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais: Infantil",DISCOVERY KIDS HD
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28618
+#EXTINF:-1 tvg-id="Discovery Kids HD [Alter]" tvg-name="DISCOVERY KIDS HD [Alter]" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais: Infantil",DISCOVERY KIDS HD [Alter]
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28817
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://i.imgur.com/Dx49y4f.png" group-title="Canais: Documentários",DISCOVERY SCIENCE HD
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28616
+#EXTINF:-1 tvg-id="Discovery Science HD [Alter]" tvg-name="DISCOVERY SCIENCE HD [Alter]" tvg-logo="http://i.imgur.com/Dx49y4f.png" group-title="Canais: Documentários",DISCOVERY SCIENCE HD [Alter]
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28816
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://i.imgur.com/VZH1x36.png" group-title="Canais: Documentários",DISCOVERY THEATER HD
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28614
+#EXTINF:-1 tvg-id="Discovery Theater HD [Alter]" tvg-name="DISCOVERY THEATER HD [Alter]." tvg-logo="http://i.imgur.com/VZH1x36.png" group-title="Canais: Documentários",DISCOVERY THEATER HD [Alter].
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28875
+#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="Canais: Documentários",DISCOVERY TURBO HD
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28612
+#EXTINF:-1 tvg-id="Discovery Turbo HD [Alter]" tvg-name="DISCOVERY TURBO HD [Alter]." tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="Canais: Documentários",DISCOVERY TURBO HD [Alter].
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28874
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="DISCOVERY WORLD  HD" tvg-logo="http://i.imgur.com/4JC0BcV.png" group-title="Canais: Documentários",DISCOVERY WORLD  HD
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28610
+#EXTINF:-1 tvg-id="Discovery World  HD [Alter]" tvg-name="DISCOVERY WOLRD HD [Alter]" tvg-logo="http://i.imgur.com/4JC0BcV.png" group-title="Canais: Documentários",DISCOVERY WOLRD HD [Alter]
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28873
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Canais: Infantil",DISNEY CHANNEL HD
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28608
