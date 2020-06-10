@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais: Filmes e Séries",A&E HD
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28661
+#EXTINF:-1 tvg-id="A&E HD [Alter]" tvg-name="A&E HD [Alter]" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais: Filmes e Séries",A&E HD [Alter]
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28823
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="http://i.imgur.com/JYislkb.png" group-title="Canais: Filmes e Séries",AMC HD
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28659
+#EXTINF:-1 tvg-id="AMC HD [Alter]" tvg-name="AMC HD [Alter]" tvg-logo="http://i.imgur.com/JYislkb.png" group-title="Canais: Filmes e Séries",AMC HD [Alter]
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28822
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET HD" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais: Documentários",ANIMAL PLANET HD
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28657
+#EXTINF:-1 tvg-id="Animal Planet HD [Alter]" tvg-name="ANIMAL PLANET HD [Alter]" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais: Documentários",ANIMAL PLANET HD [Alter]
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28884
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="ARTE 1 HD" tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Canais: Documentários",ARTE 1 HD
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28655
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais: Filmes e Séries",AXN HD
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28653
+#EXTINF:-1 tvg-id="AXN HD [Alter]" tvg-name="AXN HD [Alter]" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais: Filmes e Séries",AXN HD [Alter]
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28883
+#EXTINF:-1 tvg-id="Band HD [Alter]" tvg-name="BAND SP HD [Alter]" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais: Abertos",BAND SP HD [Alter]
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28882
+#EXTINF:-1 tvg-id="Band News" tvg-name="BAND NEWS HD" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais: Noticias",BAND NEWS HD
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28648
+#EXTINF:-1 tvg-id="Band HD" tvg-name="BAND SP HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais: Abertos",BAND SP HD
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28650
+#EXTINF:-1 tvg-id="Band Sports HD" tvg-name="BAND SPORTS HD" tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="Canais: Esportes",BAND SPORTS HD
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28646
+#EXTINF:-1 tvg-id="Band Sports HD [Alter]" tvg-name="BAND SPORTS HD [Alter]" tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="Canais: Esportes",BAND SPORTS HD [Alter]
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28881
+#EXTINF:-1 tvg-id="BIS HD" tvg-name="BIS HD" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Canais: Variedades",BIS HD
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28644
+#EXTINF:-1 tvg-id="BIS HD [Alter]" tvg-name="BIS HD [Alter]" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Canais: Variedades",BIS HD [Alter]
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28880
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG HD" tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="Canais: Infantil",BOOMERANG HD
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28641
+#EXTINF:-1 tvg-id="Boomerang HD [Alter]" tvg-name="BOOMERANG HD [Alter]" tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="Canais: Infantil",BOOMERANG HD [Alter]
+http://srv.mtvs.me:8880/fernandocasa/291119911111/28791
