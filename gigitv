@@ -1,0 +1,1375 @@
+#EXTM3U size="medium"
+#EXTINF:-1 tvg-id="A&E (HD)" tvg-name="A&E (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/aee.png" group-title="FILMES E SÉRIES",A&E (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/2.m3u8
+#EXTINF:-1 tvg-id="AMC (HD)" tvg-name="AMC (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/amc.png" group-title="FILMES E SÉRIES",AMC (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5.m3u8
+#EXTINF:-1 tvg-id="Animal Planet (HD)" tvg-name="Animal Planet (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/annimal.png" group-title="DOCUMENTÁRIOS",Animal Planet (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/8.m3u8
+#EXTINF:-1 tvg-id="Arte 1 (HD)" tvg-name="Arte 1 (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/arte1.png" group-title="DOCUMENTÁRIOS",Arte 1 (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/13.m3u8
+#EXTINF:-1 tvg-id="AXN (HD)" tvg-name="AXN (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/axn.png" group-title="FILMES E SÉRIES",AXN (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/16.m3u8
+#EXTINF:-1 tvg-id="Baby Tv (HD)" tvg-name="Baby Tv (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/baby-tv.png" group-title="INFANTIL",Baby Tv (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/19.m3u8
+#EXTINF:-1 tvg-id="Band (HD)" tvg-name="Band (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/band.png" group-title="BAND",Band (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/20.m3u8
+#EXTINF:-1 tvg-id="Band News (HD)" tvg-name="Band News (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/band-n.png" group-title="NOTÍCIAS",Band News (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/26.m3u8
+#EXTINF:-1 tvg-id="BAND SP (HD)" tvg-name="BAND SP (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559181246508.png" group-title="BAND",BAND SP (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/449.m3u8
+#EXTINF:-1 tvg-id="Band Sports (HD)" tvg-name="Band Sports (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/band-s.png" group-title="ESPORTES",Band Sports (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/29.m3u8
+#EXTINF:-1 tvg-id="BIS (HD)" tvg-name="BIS (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/bis.png" group-title="MÚSICA E ENTRETENIMENTO",BIS (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/32.m3u8
+#EXTINF:-1 tvg-id="Boomerang (HD)" tvg-name="Boomerang (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/boom.png" group-title="INFANTIL",Boomerang (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/35.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="CAMPEONATO CATARINENSE (HD)" tvg-logo="http://s2.glbimg.com/YPXpdhFOlbdLZd7nbqiyCOZ7Hvc=/s.glbimg.com/og/rg/f/original/2014/01/21/campeonato_catarinense.jpg" group-title="ESPORTES",CAMPEONATO CATARINENSE (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/865.m3u8
+#EXTINF:-1 tvg-id="Canal Brasil (HD)" tvg-name="Canal Brasil (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/canal-brasil.png" group-title="ABERTOS",Canal Brasil (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/38.m3u8
+#EXTINF:-1 tvg-id="Canção Nova (HD)" tvg-name="Canção Nova (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/cancao-nova.png" group-title="RELIGIOSOS",Canção Nova (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/41.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network (HD)" tvg-name="Cartoon Network (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/cn.png" group-title="INFANTIL",Cartoon Network (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/44.m3u8
+#EXTINF:-1 tvg-id="Cinemax (HD)" tvg-name="Cinemax (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/cinemaz.png" group-title="FILMES E SÉRIES",Cinemax (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/48.m3u8
+#EXTINF:-1 tvg-id="Combate (HD)" tvg-name="Combate (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/combate.png" group-title="ESPORTES",Combate (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/51.m3u8
+#EXTINF:-1 tvg-id="Comedy Central (HD)" tvg-name="Comedy Central (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/comedy.png" group-title="VARIEDADES",Comedy Central (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/54.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="COPA DO NORDESTE (HD)" tvg-logo="https://futebolatino.lance.com.br/wp-content/uploads/2018/02/Copa-do-Nordeste.jpg" group-title="ESPORTES",COPA DO NORDESTE (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/864.m3u8
+#EXTINF:-1 tvg-id="Cultura (HD)" tvg-name="Cultura (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/cultura.png" group-title="ABERTOS",Cultura (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/57.m3u8
+#EXTINF:-1 tvg-id="Curta! (HD)" tvg-name="Curta! (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/curta.png" group-title="VARIEDADES",Curta! (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/60.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel (HD)" tvg-name="Discovery Channel (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-channel.png" group-title="DOCUMENTÁRIOS",Discovery Channel (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/63.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Discovery Civilization (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/dsciv.png" group-title="DOCUMENTÁRIOS",Discovery Civilization (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/67.m3u8
+#EXTINF:-1 tvg-id="Discovery Home & Health (HD)" tvg-name="Discovery Home & Health (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/dshh.png" group-title="DOCUMENTÁRIOS",Discovery Home & Health (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/70.m3u8
+#EXTINF:-1 tvg-id="Discovery Kids (HD)" tvg-name="Discovery Kids (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-kids.png" group-title="INFANTIL",Discovery Kids (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/73.m3u8
+#EXTINF:-1 tvg-id="Discovery Science (HD)" tvg-name="Discovery Science (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/dscience.png" group-title="DOCUMENTÁRIOS",Discovery Science (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/76.m3u8
+#EXTINF:-1 tvg-id="Discovery Theater (HD)" tvg-name="Discovery Theater (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-t.png" group-title="DOCUMENTÁRIOS",Discovery Theater (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/79.m3u8
+#EXTINF:-1 tvg-id="Discovery Turbo (HD)" tvg-name="Discovery Turbo (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-turbo.png" group-title="DOCUMENTÁRIOS",Discovery Turbo (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/82.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Discovery World (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-w.png" group-title="DOCUMENTÁRIOS",Discovery World (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/85.m3u8
+#EXTINF:-1 tvg-id="Disney Channel (HD)" tvg-name="Disney Channel (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/disney-channel.png" group-title="INFANTIL",Disney Channel (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/88.m3u8
+#EXTINF:-1 tvg-id="Disney JR (HD)" tvg-name="Disney JR (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/disney-jr.png" group-title="INFANTIL",Disney JR (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/91.m3u8
+#EXTINF:-1 tvg-id="Disney XD (HD)" tvg-name="Disney XD (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-xd.png" group-title="INFANTIL",Disney XD (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/93.m3u8
+#EXTINF:-1 tvg-id="E! (HD)" tvg-name="E! (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559180449282.png" group-title="MÚSICA E ENTRETENIMENTO",E! (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/96.m3u8
+#EXTINF:-1 tvg-id="ESPN (HD)" tvg-name="ESPN (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/espn.png" group-title="ESPORTES",ESPN (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/98.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="ESPN 2 (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/155632079127.png" group-title="ESPORTES",ESPN 2 (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/103.m3u8
+#EXTINF:-1 tvg-id="ESPN Brasil (HD)" tvg-name="ESPN Brasil (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/espn-b.png" group-title="ESPORTES",ESPN Brasil (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/106.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="ESPN Extra (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/espn-2bcw97.png" group-title="ESPORTES",ESPN Extra (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/109.m3u8
+#EXTINF:-1 tvg-id="FISH TV (HD)" tvg-name="FISH TV (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fish.png" group-title="ESPORTES",FISH TV (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/116.m3u8
+#EXTINF:-1 tvg-id="Food Network (HD)" tvg-name="Food Network (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/food.png" group-title="VARIEDADES",Food Network (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/119.m3u8
+#EXTINF:-1 tvg-id="Fox (HD)" tvg-name="Fox (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fox.png" group-title="FILMES E SÉRIES",Fox (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/122.m3u8
+#EXTINF:-1 tvg-id="Fox Life (HD)" tvg-name="Fox Life (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fox-life.png" group-title="FILMES E SÉRIES",Fox Life (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/125.m3u8
+#EXTINF:-1 tvg-id="Fox Premium 1 (HD)" tvg-name="Fox Premium 1 (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/foxp-1.png" group-title="FILMES E SÉRIES",Fox Premium 1 (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/128.m3u8
+#EXTINF:-1 tvg-id="Fox Premium 2 (HD)" tvg-name="Fox Premium 2 (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/foxp-2.png" group-title="FILMES E SÉRIES",Fox Premium 2 (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/131.m3u8
+#EXTINF:-1 tvg-id="Fox Sports (HD)" tvg-name="Fox Sports (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fox-sport.png" group-title="ESPORTES",Fox Sports (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/134.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 2 (HD)" tvg-name="Fox Sports 2 (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fox-sport2.png" group-title="ESPORTES",Fox Sports 2 (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/138.m3u8
+#EXTINF:-1 tvg-id="Futura (HD)" tvg-name="Futura (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/futura.png" group-title="ABERTOS",Futura (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/142.m3u8
+#EXTINF:-1 tvg-id="FX (HD)" tvg-name="FX (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fx.png" group-title="FILMES E SÉRIES",FX (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/144.m3u8
+#EXTINF:-1 tvg-id="Gazeta (HD)" tvg-name="TV GAZETA (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/gazeta.png" group-title="ABERTOS",TV GAZETA (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/147.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="GLOBO AMAZONAS (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO AMAZONAS (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/855.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo Bahia (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Bahia (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/150.m3u8
+#EXTINF:-1 tvg-id="GLOBO BOA VISTA (HD)" tvg-name="GLOBO BOA VISTA (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO BOA VISTA (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/858.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo Brasília (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Brasília (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/153.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo Campinas (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Campinas (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/156.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo Curitiba (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Curitiba (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/159.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo EPTV Sul de Minas (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo EPTV Sul de Minas (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/863.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="GLOBO GOIANIA (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO GOIANIA (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/857.m3u8
+#EXTINF:-1 tvg-id="Globo Minas (HD)" tvg-name="Globo Minas (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Minas (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/163.m3u8
+#EXTINF:-1 tvg-id="Globo News (HD)" tvg-name="Globo News (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-news.png" group-title="NOTÍCIAS",Globo News (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/166.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo Nordeste (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Nordeste (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/169.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo NSC Florianopolis (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo NSC Florianopolis (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/843.m3u8
+#EXTINF:-1 tvg-id="Globo Porto Alegre (HD)" tvg-name="Globo Porto Alegre (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Porto Alegre (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/177.m3u8
+#EXTINF:-1 tvg-id="GLOBO PORTO VELHO (HD)" tvg-name="GLOBO PORTO VELHO (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO PORTO VELHO (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/847.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo RBS (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/156879265517.png" group-title="REDE GLOBO",Globo RBS (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/560.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo Ribeirão Preto (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Ribeirão Preto (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/181.m3u8
+#EXTINF:-1 tvg-id="Globo Rio (HD)" tvg-name="Globo Rio (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Rio (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/184.m3u8
+#EXTINF:-1 tvg-id="GLOBO RIO CLARO (HD)" tvg-name="GLOBO RIO CLARO (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO RIO CLARO (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/859.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="GLOBO RIO GRANDE DO SUL (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO RIO GRANDE DO SUL (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/860.m3u8
+#EXTINF:-1 tvg-id="Globo SP (HD)" tvg-name="Globo SP (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo SP (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/193.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo TV Mirante (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo TV Mirante (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/844.m3u8
+#EXTINF:-1 tvg-id="GLOBO VITORIA (HD)" tvg-name="GLOBO VITORIA (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO VITORIA (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/861.m3u8
+#EXTINF:-1 tvg-id="Gloob (HD)" tvg-name="Gloob (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/gllob.png" group-title="INFANTIL",Gloob (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/209.m3u8
+#EXTINF:-1 tvg-id="GNT (HD)" tvg-name="GNT (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/gnt.png" group-title="VARIEDADES",GNT (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/212.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="H2 (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/h2.png" group-title="DOCUMENTÁRIOS",H2 (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/215.m3u8
+#EXTINF:-1 tvg-id="HBO (HD)" tvg-name="HBO (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo.png" group-title="FILMES E SÉRIES",HBO (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/218.m3u8
+#EXTINF:-1 tvg-id="HBO 2 (HD)" tvg-name="HBO 2 (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo2.png" group-title="FILMES E SÉRIES",HBO 2 (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/221.m3u8
+#EXTINF:-1 tvg-id="HBO Family (HD)" tvg-name="HBO Family (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo-family.png" group-title="FILMES E SÉRIES",HBO Family (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/224.m3u8
+#EXTINF:-1 tvg-id="HBO Plus (HD)" tvg-name="HBO + (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo-plus.png" group-title="FILMES E SÉRIES",HBO + (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/227.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="HBO Plus*e (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo-plus-9F4L97.png" group-title="FILMES E SÉRIES",HBO Plus*e (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/230.m3u8
+#EXTINF:-1 tvg-id="HBO Signature (HD)" tvg-name="HBO Signature (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo-signature.png" group-title="FILMES E SÉRIES",HBO Signature (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/232.m3u8
+#EXTINF:-1 tvg-id="ID - Investigacao Discovery (HD)" tvg-name="ID - Investigacao Discovery (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/id.png" group-title="DOCUMENTÁRIOS",ID - Investigacao Discovery (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/235.m3u8
+#EXTINF:-1 tvg-id="Lifetime (HD)" tvg-name="Lifetime (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/lifetime.png" group-title="FILMES E SÉRIES",Lifetime (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/238.m3u8
+#EXTINF:-1 tvg-id="Mais Globosat (HD)" tvg-name="Mais Globosat (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globosat.png" group-title="VARIEDADES",Mais Globosat (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/241.m3u8
+#EXTINF:-1 tvg-id="Max (HD)" tvg-name="Max (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/max.png" group-title="FILMES E SÉRIES",Max (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/244.m3u8
+#EXTINF:-1 tvg-id="Max Prime (HD)" tvg-name="Max Prime (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/max-prime.png" group-title="FILMES E SÉRIES",Max Prime (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/246.m3u8
+#EXTINF:-1 tvg-id="Max UP (HD)" tvg-name="Max UP (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/max-up.png" group-title="FILMES E SÉRIES",Max UP (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/250.m3u8
+#EXTINF:-1 tvg-id="Megapix (HD)" tvg-name="Megapix (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/megapix.png" group-title="FILMES E SÉRIES",Megapix (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/253.m3u8
+#EXTINF:-1 tvg-id="MTV (HD)" tvg-name="MTV (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/mtv.png" group-title="MÚSICA E ENTRETENIMENTO",MTV (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/257.m3u8
+#EXTINF:-1 tvg-id="Multishow (HD)" tvg-name="Multishow (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/multishow.png" group-title="MÚSICA E ENTRETENIMENTO",Multishow (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/260.m3u8
+#EXTINF:-1 tvg-id="NatGeo Kids (HD)" tvg-name="NatGeo Kids (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/nategeokids.png" group-title="INFANTIL",NatGeo Kids (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/266.m3u8
+#EXTINF:-1 tvg-id="Natgeo Wild (HD)" tvg-name="Natgeo Wild (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/nat.png" group-title="DOCUMENTÁRIOS",Natgeo Wild (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/269.m3u8
+#EXTINF:-1 tvg-id="National Geographic (HD)" tvg-name="National Geographic (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/national.png" group-title="DOCUMENTÁRIOS",National Geographic (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/272.m3u8
+#EXTINF:-1 tvg-id="Nick Jr. (HD)" tvg-name="Nick Jr. (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/kist.png" group-title="INFANTIL",Nick Jr. (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/276.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon (HD)" tvg-name="Nickelodeon (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/nike.png" group-title="INFANTIL",Nickelodeon (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/448.m3u8
+#EXTINF:-1 tvg-id="Off (HD)" tvg-name="Off (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/off.png" group-title="FILMES E SÉRIES",Off (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/280.m3u8
+#EXTINF:-1 tvg-id="Paramount (HD)" tvg-name="Paramount (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/paramount.png" group-title="FILMES E SÉRIES",Paramount (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/283.m3u8
+#EXTINF:-1 tvg-id="Premiere 2 (HD)" tvg-name="Premiere 2 (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi2.png" group-title="PREMIERE",Premiere 2 (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/289.m3u8
+#EXTINF:-1 tvg-id="Premiere 3 (HD)" tvg-name="Premiere 3 (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi3.png" group-title="PREMIERE",Premiere 3 (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/292.m3u8
+#EXTINF:-1 tvg-id="Premiere 4 (HD)" tvg-name="Premiere 4 (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi4.png" group-title="PREMIERE",Premiere 4 (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/295.m3u8
+#EXTINF:-1 tvg-id="Premiere 5 (HD)" tvg-name="Premiere 5 (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi5.png" group-title="PREMIERE",Premiere 5 (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/298.m3u8
+#EXTINF:-1 tvg-id="Premiere 6 (HD)" tvg-name="Premiere 6 (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi6.png" group-title="PREMIERE",Premiere 6 (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/301.m3u8
+#EXTINF:-1 tvg-id="Premiere 7 (HD)" tvg-name="Premiere 7 (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi7.png" group-title="PREMIERE",Premiere 7 (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/304.m3u8
+#EXTINF:-1 tvg-id="Premiere Clubes (HD)" tvg-name="Premiere Clubes (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premiere.png" group-title="PREMIERE",Premiere Clubes (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/307.m3u8
+#EXTINF:-1 tvg-id="Prime Box Brazil (HD)" tvg-name="Prime Box Brazil (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/primebox.png" group-title="MÚSICA E ENTRETENIMENTO",Prime Box Brazil (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/311.m3u8
+#EXTINF:-1 tvg-id="Record (HD)" tvg-name="Record (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png" group-title="RECORD",Record (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/313.m3u8
+#EXTINF:-1 tvg-id="Record Bahia (HD)" tvg-name="Record Bahia (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559191965331.png" group-title="RECORD",Record Bahia (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/317.m3u8
+#EXTINF:-1 tvg-id="RECORD BRASILIA (HD)" tvg-name="RECORD BRASILIA (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559192354236.png" group-title="RECORD",RECORD BRASILIA (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/871.m3u8
+#EXTINF:-1 tvg-id="Record Goiânia (HD)" tvg-name="Record Goiânia (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559192541259.png" group-title="RECORD",Record Goiânia (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/321.m3u8
+#EXTINF:-1 tvg-id="Record MG (HD)" tvg-name="Record MG (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559192354236.png" group-title="RECORD",Record MG (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/326.m3u8
+#EXTINF:-1 tvg-id="Record News (HD)" tvg-name="Record News (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record-n.png" group-title="NOTÍCIAS",Record News (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/329.m3u8
+#EXTINF:-1 tvg-id="RECORD PARÁ (HD)" tvg-name="RECORD PARÁ (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559192354236.png" group-title="RECORD",RECORD PARÁ (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/873.m3u8
+#EXTINF:-1 tvg-id="Record RJ (HD)" tvg-name="Record RJ (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559192424310.png" group-title="RECORD",Record RJ (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/331.m3u8
+#EXTINF:-1 tvg-id="RECORD RS (HD)" tvg-name="RECORD RS (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559192354236.png" group-title="RECORD",RECORD RS (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/872.m3u8
+#EXTINF:-1 tvg-id="RECORD SP (HD)" tvg-name="RECORD SP (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559192354236.png" group-title="RECORD",RECORD SP (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/869.m3u8
+#EXTINF:-1 tvg-id="Rede TV (HD)" tvg-name="Rede TV (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/redetv.png" group-title="ABERTOS",Rede TV (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/334.m3u8
+#EXTINF:-1 tvg-id="Rede Vida (HD)" tvg-name="Rede Vida (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/rede.png" group-title="RELIGIOSOS",Rede Vida (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/337.m3u8
+#EXTINF:-1 tvg-id="SBT (HD)" tvg-name="SBT (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png" group-title="SBT",SBT (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/339.m3u8
+#EXTINF:-1 tvg-id="SBT SP (HD)" tvg-name="SBT SP (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png" group-title="SBT",SBT SP (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/866.m3u8
+#EXTINF:-1 tvg-id="Sony (HD)" tvg-name="Sony (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sony.png" group-title="FILMES E SÉRIES",Sony (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/355.m3u8
+#EXTINF:-1 tvg-id="Space (HD)" tvg-name="Space (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/space.png" group-title="FILMES E SÉRIES",Space (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/358.m3u8
+#EXTINF:-1 tvg-id="SportV (HD)" tvg-name="SportV (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sportv.png" group-title="ESPORTES",SportV (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/362.m3u8
+#EXTINF:-1 tvg-id="SporTV 2 (HD)" tvg-name="SporTV 2 (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sportv2.png" group-title="ESPORTES",SporTV 2 (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/366.m3u8
+#EXTINF:-1 tvg-id="SporTV 3 (HD)" tvg-name="SporTV 3 (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sportv3.png" group-title="ESPORTES",SporTV 3 (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/369.m3u8
+#EXTINF:-1 tvg-id="Studio Universal (HD)" tvg-name="Studio Universal (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/studio-universal.png" group-title="FILMES E SÉRIES",Studio Universal (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/372.m3u8
+#EXTINF:-1 tvg-id="Syfy (HD)" tvg-name="Syfy (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/syfy.png" group-title="FILMES E SÉRIES",Syfy (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/375.m3u8
+#EXTINF:-1 tvg-id="TBS (HD)" tvg-name="TBS (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tbs.png" group-title="FILMES E SÉRIES",TBS (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/378.m3u8
+#EXTINF:-1 tvg-id="TCM (HD)" tvg-name="TCM (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tcm.png" group-title="FILMES E SÉRIES",TCM (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/381.m3u8
+#EXTINF:-1 tvg-id="Telecine Action (HD)" tvg-name="Telecine Action (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-action.png" group-title="FILMES E SÉRIES",Telecine Action (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/383.m3u8
+#EXTINF:-1 tvg-id="Telecine Cult (HD)" tvg-name="Telecine Cult (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-cult-2DYq97.png" group-title="FILMES E SÉRIES",Telecine Cult (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/386.m3u8
+#EXTINF:-1 tvg-id="Telecine Fun (HD)" tvg-name="Telecine Fun (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-fun-66hD37.png" group-title="FILMES E SÉRIES",Telecine Fun (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/389.m3u8
+#EXTINF:-1 tvg-id="Telecine Pipoca (HD)" tvg-name="Telecine Pipoca (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-pipoca.png" group-title="FILMES E SÉRIES",Telecine Pipoca (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/392.m3u8
+#EXTINF:-1 tvg-id="Telecine Premium (HD)" tvg-name="Telecine Premium (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-premium-6uAw34.png" group-title="FILMES E SÉRIES",Telecine Premium (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/395.m3u8
+#EXTINF:-1 tvg-id="Telecine Touch (HD)" tvg-name="Telecine Touch (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-t-3RDg79.png" group-title="FILMES E SÉRIES",Telecine Touch (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/398.m3u8
+#EXTINF:-1 tvg-id="The History Channel (HD)" tvg-name="The History Channel (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/histoty.png" group-title="DOCUMENTÁRIOS",The History Channel (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/401.m3u8
+#EXTINF:-1 tvg-id="TLC (HD)" tvg-name="TLC (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tlc.png" group-title="VARIEDADES",TLC (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/404.m3u8
+#EXTINF:-1 tvg-id="TNT (HD)" tvg-name="TNT (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tnt.png" group-title="FILMES E SÉRIES",TNT (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/407.m3u8
+#EXTINF:-1 tvg-id="TNT SÉRIES (HD)" tvg-name="TNT SÉRIES (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tnt-series.png" group-title="FILMES E SÉRIES",TNT SÉRIES (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/411.m3u8
+#EXTINF:-1 tvg-id="Tooncast (HD)" tvg-name="Tooncast (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tooncast.png" group-title="INFANTIL",Tooncast (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/415.m3u8
+#EXTINF:-1 tvg-id="TV Aparecida (HD)" tvg-name="TV Aparecida (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/apare.png" group-title="RELIGIOSOS",TV Aparecida (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/418.m3u8
+#EXTINF:-1 tvg-id="TV Rá Tim Bum (HD)" tvg-name="TV Rá Tim Bum (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tv-bum.png" group-title="INFANTIL",TV Rá Tim Bum (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/423.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Universal Channel (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/universal.png" group-title="FILMES E SÉRIES",Universal Channel (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/427.m3u8
+#EXTINF:-1 tvg-id="VH1 Megahits (HD)" tvg-name="VH1 Megahits (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hits.png" group-title="MÚSICA E ENTRETENIMENTO",VH1 Megahits (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/433.m3u8
+#EXTINF:-1 tvg-id="Viva (HD)" tvg-name="Viva (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559180203508.png" group-title="VARIEDADES",Viva (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/436.m3u8
+#EXTINF:-1 tvg-id="Warner Channel (HD)" tvg-name="Warner Channel (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/warner.png" group-title="FILMES E SÉRIES",Warner Channel (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/439.m3u8
+#EXTINF:-1 tvg-id="Woohoo (HD)" tvg-name="Woohoo (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/whoo.png" group-title="ESPORTES",Woohoo (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/442.m3u8
+#EXTINF:-1 tvg-id="ZooMoo (HD)" tvg-name="ZooMoo (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/zoomo.png" group-title="INFANTIL",ZooMoo (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/445.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO TV VERDES MARES (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3865.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="GLOBO BELEM (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO BELEM (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3866.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="GLOBO FLORIANÓPOLIS (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO FLORIANÓPOLIS (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3869.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="GLOBO RECIFE (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO RECIFE (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV GUARULHOS (HD)" tvg-logo="https://i.ibb.co/236VrBw/logo-tv-guarulhos-site.png" group-title="ABERTOS",TV GUARULHOS (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3890.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="TV NOVO TEMPO (HD)" tvg-logo="https://www.clickriomafra.com.br/wp-content/uploads/2016/02/13/TV-Novo-Tempo-j%C3%A1-est%C3%A1-dispon%C3%ADvel-em-Rio-Negro-e-Mafra.jpg" group-title="RELIGIOSOS",TV NOVO TEMPO (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3896.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="SBT PR (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png" group-title="SBT",SBT PR (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4080.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo Centro America (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Centro America (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4070.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="GLOBO MACAPA (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO MACAPA (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4063.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo Inter TV Grande Minas (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Inter TV Grande Minas (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4060.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo RPC Paranaense (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo RPC Paranaense (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4065.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="GLOBO NATAL (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO NATAL (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4057.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="CAMPEONATO CATARINENSE 2 (HD)" tvg-logo="http://s2.glbimg.com/YPXpdhFOlbdLZd7nbqiyCOZ7Hvc=/s.glbimg.com/og/rg/f/original/2014/01/21/campeonato_catarinense.jpg" group-title="ESPORTES",CAMPEONATO CATARINENSE 2 (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4053.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Tv Diario (HD)" tvg-logo="http://tvdiario.verdesmares.com.br/img/tvdiario/tv-diario-ao-vivo-placeholder.jpg" group-title="ABERTOS",Tv Diario (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4083.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="GloboTV Anhanguera (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GloboTV Anhanguera (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4085.m3u8
+#EXTINF:-1 tvg-id="Band Campinas (HD)" tvg-name="Band Campinas (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559181246508.png" group-title="BAND",Band Campinas (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Globinho (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/96/Tvglobinho_logo.jpg" group-title="INFANTIL",TV Globinho (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAYKIDS (HD)" tvg-logo="https://i.pinimg.com/originals/df/b9/d6/dfb9d650f8f5a91f6899dea470a5968b.png" group-title="INFANTIL",PLAYKIDS (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS (HD)" tvg-logo="https://s3.amazonaws.com/static.prod.eiplus.com.br/media/CACHE/images/canal/thumb_logo_nov/23458887255b5c400a08239bcd44cdd8.png" group-title="ESPORTES",EIPLUS (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 2 (HD)" tvg-logo="https://s3.amazonaws.com/static.prod.eiplus.com.br/media/CACHE/images/canal/thumb_logo_nov/23458887255b5c400a08239bcd44cdd8.png" group-title="ESPORTES",EIPLUS 2 (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 3 (HD)" tvg-logo="https://s3.amazonaws.com/static.prod.eiplus.com.br/media/CACHE/images/canal/thumb_logo_nov/23458887255b5c400a08239bcd44cdd8.png" group-title="ESPORTES",EIPLUS 3 (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 4 (HD)" tvg-logo="https://s3.amazonaws.com/static.prod.eiplus.com.br/media/CACHE/images/canal/thumb_logo_nov/23458887255b5c400a08239bcd44cdd8.png" group-title="ESPORTES",EIPLUS 4 (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 5 (HD)" tvg-logo="https://s3.amazonaws.com/static.prod.eiplus.com.br/media/CACHE/images/canal/thumb_logo_nov/23458887255b5c400a08239bcd44cdd8.png" group-title="ESPORTES",EIPLUS 5 (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 6 (HD)" tvg-logo="https://s3.amazonaws.com/static.prod.eiplus.com.br/media/CACHE/images/canal/thumb_logo_nov/23458887255b5c400a08239bcd44cdd8.png" group-title="ESPORTES",EIPLUS 6 (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2 (HD)" tvg-logo="https://futebolatino.lance.com.br/wp-content/uploads/2018/02/Copa-do-Nordeste.jpg" group-title="ESPORTES",COPA DO NORDESTE 2 (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4172.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 3 (HD)" tvg-logo="https://futebolatino.lance.com.br/wp-content/uploads/2018/02/Copa-do-Nordeste.jpg" group-title="ESPORTES",COPA DO NORDESTE 3 (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4345.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV A Crítica Record AM (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559192354236.png" group-title="RECORD",TV A Crítica Record AM (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4712.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="INFANTIL",Nick (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4714.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="All Sports (HD)" tvg-logo="http://h.2tv.me/all.PNG" group-title="ESPORTES",All Sports (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Copa Libertadores (HD)" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png" group-title="ESPORTES",Copa Libertadores (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4717.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Piracicaba (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo EPTV Piracicaba (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4610.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Rio Sul (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo TV Rio Sul (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4608.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC TV (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo RPC TV (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4602.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MANAUS (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO MANAUS (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4599.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ES (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO ES (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4595.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILM & ARTS (HD)" tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="MÚSICA E ENTRETENIMENTO",FILM & ARTS (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4733.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Sergipe (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo TV Sergipe (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4757.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV ITAPOAN (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png" group-title="RECORD",RECORD TV ITAPOAN (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV PA (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png" group-title="RECORD",RECORD TV PA (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV GO (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png" group-title="RECORD",RECORD TV GO (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BH (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png" group-title="RECORD",RECORD BH (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MANAUS (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png" group-title="RECORD",RECORD MANAUS (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FLATV (HD)" tvg-logo="https://biolinky.co/assets/img/linkthumbnails/rYNSbu/FlaTV%20Listras.jpg" group-title="ESPORTES",FLATV (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL (HD)" tvg-logo="https://imagem.natelinha.uol.com.br/grande/cnn-brasil-logo-oficial_64008211370c7af07e70d3a7238490534290e629.jpeg" group-title="NOTÍCIAS",CNN BRASIL (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/6046.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 2 (HD)" tvg-logo="http://s2.glbimg.com/YPXpdhFOlbdLZd7nbqiyCOZ7Hvc=/s.glbimg.com/og/rg/f/original/2014/01/21/campeonato_catarinense.jpg" group-title="ESPORTES",COPA CATARINENSE 2 (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE (HD)" tvg-logo="http://s2.glbimg.com/YPXpdhFOlbdLZd7nbqiyCOZ7Hvc=/s.glbimg.com/og/rg/f/original/2014/01/21/campeonato_catarinense.jpg" group-title="ESPORTES",COPA CATARINENSE (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10 (HD)" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title="FILMES E SÉRIES",CINE SKY 10 (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1 (HD) " tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title="FILMES E SÉRIES",CINE SKY 1 (HD) 
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2 (HD) " tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title="FILMES E SÉRIES",CINE SKY 2 (HD) 
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 3 (HD) " tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title="FILMES E SÉRIES",CINE SKY 3 (HD) 
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 4 (HD) " tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title="FILMES E SÉRIES",CINE SKY 4 (HD) 
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10362.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 5 (HD) " tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title="FILMES E SÉRIES",CINE SKY 5 (HD) 
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10363.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 6 (HD) " tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title="FILMES E SÉRIES",CINE SKY 6 (HD) 
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10364.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 7 (HD) " tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title="FILMES E SÉRIES",CINE SKY 7 (HD) 
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10365.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY  8  (HD) " tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title="FILMES E SÉRIES",CINE SKY  8  (HD) 
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10366.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 9 (HD) " tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title="FILMES E SÉRIES",CINE SKY 9 (HD) 
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10367.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arte 1 (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/arte1.png" group-title="DUAL ÁUDIO",Arte 1 (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/boom.png" group-title="DUAL ÁUDIO",Boomerang (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10375.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sony.png" group-title="DUAL ÁUDIO",Sony (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/dshh.png" group-title="DUAL ÁUDIO",Discovery Home & Health (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10383.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-kids.png" group-title="DUAL ÁUDIO",Discovery Kids (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10385.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-t.png" group-title="DUAL ÁUDIO",Discovery Theater (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10387.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-turbo.png" group-title="DUAL ÁUDIO",Discovery Turbo (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10388.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-w.png" group-title="DUAL ÁUDIO",Discovery World (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10389.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/disney-channel.png" group-title="DUAL ÁUDIO",Disney Channel (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10390.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E! (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559180449282.png" group-title="DUAL ÁUDIO",E! (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10392.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILM & ARTS (HD) ²" tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="DUAL ÁUDIO",FILM & ARTS (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food Network (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/food.png" group-title="DUAL ÁUDIO",Food Network (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fox-life.png" group-title="DUAL ÁUDIO",Fox Life (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10396.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 1 (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/foxp-1.png" group-title="DUAL ÁUDIO",Fox Premium 1 (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10397.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 2 (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/foxp-2.png" group-title="DUAL ÁUDIO",Fox Premium 2 (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10398.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fx.png" group-title="DUAL ÁUDIO",FX (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10401.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GNT (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/gnt.png" group-title="DUAL ÁUDIO",GNT (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10403.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO + (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo-plus.png" group-title="DUAL ÁUDIO",HBO + (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10404.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo-family.png" group-title="DUAL ÁUDIO",HBO Family (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10405.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo.png" group-title="DUAL ÁUDIO",HBO (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10406.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI (HD) ²" tvg-logo="https://www.tigo.com.co/sites/tigounecorp/files/fragmentos/general_tarjeta_informacion/Mubdi.jpg" group-title="DUAL ÁUDIO",HBO MUNDI (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10407.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP (HD) ²" tvg-logo="https://www.claro.com.br/imagem/logo-hbo-pop-1509138784429.jpg" group-title="DUAL ÁUDIO",HBO POP (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10408.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo-signature.png" group-title="DUAL ÁUDIO",HBO Signature (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10409.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME (HD) ²" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/01022020101313.jpg" group-title="DUAL ÁUDIO",HBO XTREME (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10410.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The History Channel (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/histoty.png" group-title="DUAL ÁUDIO",The History Channel (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10413.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID - Investigacao Discovery (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/id.png" group-title="DUAL ÁUDIO",ID - Investigacao Discovery (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10415.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/lifetime.png" group-title="DUAL ÁUDIO",Lifetime (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10416.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Megapix (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/megapix.png" group-title="DUAL ÁUDIO",Megapix (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10418.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/nategeokids.png" group-title="DUAL ÁUDIO",NatGeo Kids (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10423.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Natgeo Wild (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/nat.png" group-title="DUAL ÁUDIO",Natgeo Wild (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10424.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/national.png" group-title="DUAL ÁUDIO",National Geographic (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10425.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/paramount.png" group-title="DUAL ÁUDIO",Paramount (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10427.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/space.png" group-title="DUAL ÁUDIO",Space (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10438.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/studio-universal.png" group-title="DUAL ÁUDIO",Studio Universal (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10442.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TBS (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tbs.png" group-title="DUAL ÁUDIO",TBS (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-action.png" group-title="DUAL ÁUDIO",Telecine Action (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10445.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-cult-2DYq97.png" group-title="DUAL ÁUDIO",Telecine Cult (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10446.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-fun-66hD37.png" group-title="DUAL ÁUDIO",Telecine Fun (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10447.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-pipoca.png" group-title="DUAL ÁUDIO",Telecine Pipoca (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-premium-6uAw34.png" group-title="DUAL ÁUDIO",Telecine Premium (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10449.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-t-3RDg79.png" group-title="DUAL ÁUDIO",Telecine Touch (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10450.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tlc.png" group-title="DUAL ÁUDIO",TLC (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10451.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tnt.png" group-title="DUAL ÁUDIO",TNT (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10452.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SÉRIES (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tnt-series.png" group-title="DUAL ÁUDIO",TNT SÉRIES (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10453.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/universal.png" group-title="DUAL ÁUDIO",Universal Channel (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10455.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The History Channel 2 (HD) ²" tvg-logo="https://i.pinimg.com/originals/69/89/40/698940d4de58bd0744dfab666822958e.png" group-title="DUAL ÁUDIO",The History Channel 2 (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10457.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/espn-2bcw97.png" group-title="DUAL ÁUDIO",ESPN Extra (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10458.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/aee.png" group-title="DUAL ÁUDIO",A&E (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10459.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox (HD) ²" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fox.png" group-title="DUAL ÁUDIO",Fox (HD) ²
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/10460.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT SC (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png" group-title="SBT",SBT SC (HD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/11597.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="3 Palavrinhas  24h" tvg-logo="https://img.freepik.com/vetores-gratis/neon-24-horas-aberta-tabuleta_1017-19487.jpg?size=338&ext=jpg" group-title="24 HORAS",3 Palavrinhas  24h
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/882.m3u8
+#EXTINF:-1 tvg-id="A&E (SD)" tvg-name="A&E (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/aee.png" group-title="FILMES E SÉRIES",A&E (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/450.m3u8
+#EXTINF:-1 tvg-id="AMC (SD)" tvg-name="AMC (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/amc.png" group-title="FILMES E SÉRIES",AMC (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4.m3u8
+#EXTINF:-1 tvg-id="Animal Planet (SD)" tvg-name="Animal Planet (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/annimal.png" group-title="DOCUMENTÁRIOS",Animal Planet (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/7.m3u8
+#EXTINF:-1 tvg-id="Arte 1 (SD)" tvg-name="Arte 1 (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/arte1.png" group-title="DOCUMENTÁRIOS",Arte 1 (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/12.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="As aventuras de Jackie Chan 24h" tvg-logo="https://img.freepik.com/vetores-gratis/neon-24-horas-aberta-tabuleta_1017-19487.jpg?size=338&ext=jpg" group-title="24 HORAS",As aventuras de Jackie Chan 24h
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/930.m3u8
+#EXTINF:-1 tvg-id="AXN (SD)" tvg-name="AXN (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/axn.png" group-title="FILMES E SÉRIES",AXN (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/15.m3u8
+#EXTINF:-1 tvg-id="Baby Tv (SD)" tvg-name="Baby Tv (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/baby-tv.png" group-title="INFANTIL",Baby Tv (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/18.m3u8
+#EXTINF:-1 tvg-id="Band Campinas (SD)" tvg-name="Band Campinas (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559181246508.png" group-title="BAND",Band Campinas (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/23.m3u8
+#EXTINF:-1 tvg-id="Band News (SD)" tvg-name="Band News (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/band-n.png" group-title="NOTÍCIAS",Band News (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/25.m3u8
+#EXTINF:-1 tvg-id="Band Sports (SD)" tvg-name="Band Sports (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/band-s.png" group-title="ESPORTES",Band Sports (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/28.m3u8
+#EXTINF:-1 tvg-id="BIS (SD)" tvg-name="BIS (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/bis.png" group-title="MÚSICA E ENTRETENIMENTO",BIS (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/31.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Bob Esponja 24h" tvg-logo="https://img.freepik.com/vetores-gratis/neon-24-horas-aberta-tabuleta_1017-19487.jpg?size=338&ext=jpg" group-title="24 HORAS",Bob Esponja 24h
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/920.m3u8
+#EXTINF:-1 tvg-id="Boomerang (SD)" tvg-name="Boomerang (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/boom.png" group-title="INFANTIL",Boomerang (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/34.m3u8
+#EXTINF:-1 tvg-id="Canção Nova (SD)" tvg-name="Canção Nova (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/cancao-nova.png" group-title="RELIGIOSOS",Canção Nova (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/40.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network (SD)" tvg-name="Cartoon Network (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/cn.png" group-title="INFANTIL",Cartoon Network (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/43.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Cascão Maratona 24h" tvg-logo="https://img.freepik.com/vetores-gratis/neon-24-horas-aberta-tabuleta_1017-19487.jpg?size=338&ext=jpg" group-title="24 HORAS",Cascão Maratona 24h
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/886.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Cavaleiros do Zodiaco 24h" tvg-logo="https://img.freepik.com/vetores-gratis/neon-24-horas-aberta-tabuleta_1017-19487.jpg?size=338&ext=jpg" group-title="24 HORAS",Cavaleiros do Zodiaco 24h
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/887.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Caverna do Dragão 24h" tvg-logo="https://img.freepik.com/vetores-gratis/neon-24-horas-aberta-tabuleta_1017-19487.jpg?size=338&ext=jpg" group-title="24 HORAS",Caverna do Dragão 24h
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/889.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Chaves 24h" tvg-logo="https://img.freepik.com/vetores-gratis/neon-24-horas-aberta-tabuleta_1017-19487.jpg?size=338&ext=jpg" group-title="24 HORAS",Chaves 24h
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/890.m3u8
+#EXTINF:-1 tvg-id="Cinemax (SD)" tvg-name="Cinemax (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/cinemaz.png" group-title="FILMES E SÉRIES",Cinemax (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/47.m3u8
+#EXTINF:-1 tvg-id="Combate (SD)" tvg-name="Combate (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/combate.png" group-title="ESPORTES",Combate (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/50.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Corrida Maluca 24h" tvg-logo="https://img.freepik.com/vetores-gratis/neon-24-horas-aberta-tabuleta_1017-19487.jpg?size=338&ext=jpg" group-title="24 HORAS",Corrida Maluca 24h
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/918.m3u8
+#EXTINF:-1 tvg-id="Cultura (SD)" tvg-name="Cultura (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/cultura.png" group-title="ABERTOS",Cultura (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/56.m3u8
+#EXTINF:-1 tvg-id="Curta! (SD)" tvg-name="Curta! (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/curta.png" group-title="VARIEDADES",Curta! (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/59.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel (SD)" tvg-name="Discovery Channel (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-channel.png" group-title="DOCUMENTÁRIOS",Discovery Channel (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/62.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Discovery Civilization (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/dsciv.png" group-title="DOCUMENTÁRIOS",Discovery Civilization (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/66.m3u8
+#EXTINF:-1 tvg-id="Discovery Home & Health (SD)" tvg-name="Discovery Home & Health (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/dshh.png" group-title="DOCUMENTÁRIOS",Discovery Home & Health (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/69.m3u8
+#EXTINF:-1 tvg-id="Discovery Kids (SD)" tvg-name="Discovery Kids (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-kids.png" group-title="INFANTIL",Discovery Kids (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/72.m3u8
+#EXTINF:-1 tvg-id="Discovery Science (SD)" tvg-name="Discovery Science (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/dscience.png" group-title="DOCUMENTÁRIOS",Discovery Science (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/75.m3u8
+#EXTINF:-1 tvg-id="Discovery Theater (SD)" tvg-name="Discovery Theater (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-t.png" group-title="DOCUMENTÁRIOS",Discovery Theater (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/78.m3u8
+#EXTINF:-1 tvg-id="Discovery Turbo (SD)" tvg-name="Discovery Turbo (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-turbo.png" group-title="DOCUMENTÁRIOS",Discovery Turbo (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/81.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Discovery World (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-w.png" group-title="DOCUMENTÁRIOS",Discovery World (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/84.m3u8
+#EXTINF:-1 tvg-id="Disney Channel (SD)" tvg-name="Disney Channel (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/disney-channel.png" group-title="INFANTIL",Disney Channel (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/87.m3u8
+#EXTINF:-1 tvg-id="Disney JR (SD)" tvg-name="Disney JR (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/disney-jr.png" group-title="INFANTIL",Disney JR (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/90.m3u8
+#EXTINF:-1 tvg-id="Disney XD (SD)" tvg-name="Disney XD (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-xd.png" group-title="INFANTIL",Disney XD (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/92.m3u8
+#EXTINF:-1 tvg-id="E! (SD)" tvg-name="E! (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559180449282.png" group-title="MÚSICA E ENTRETENIMENTO",E! (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/95.m3u8
+#EXTINF:-1 tvg-id="ESPN (SD)" tvg-name="ESPN (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/espn.png" group-title="ESPORTES",ESPN (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/97.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="ESPN 2 (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/155632079127.png" group-title="ESPORTES",ESPN 2 (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/102.m3u8
+#EXTINF:-1 tvg-id="ESPN Brasil (SD)" tvg-name="ESPN Brasil (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/espn-b.png" group-title="ESPORTES",ESPN Brasil (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/105.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="ESPN Extra (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/espn-2bcw97.png" group-title="ESPORTES",ESPN Extra (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/108.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Familia Urso 24h" tvg-logo="https://img.freepik.com/vetores-gratis/neon-24-horas-aberta-tabuleta_1017-19487.jpg?size=338&ext=jpg" group-title="24 HORAS",Familia Urso 24h
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/905.m3u8
+#EXTINF:-1 tvg-id="FISH TV (SD)" tvg-name="FISH TV (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fish.png" group-title="ESPORTES",FISH TV (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/115.m3u8
+#EXTINF:-1 tvg-id="Food Network (SD)" tvg-name="Food Network (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/food.png" group-title="VARIEDADES",Food Network (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/118.m3u8
+#EXTINF:-1 tvg-id="Fox (SD)" tvg-name="Fox (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fox.png" group-title="FILMES E SÉRIES",Fox (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/121.m3u8
+#EXTINF:-1 tvg-id="Fox Life (SD)" tvg-name="Fox Life (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fox-life.png" group-title="FILMES E SÉRIES",Fox Life (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/124.m3u8
+#EXTINF:-1 tvg-id="Fox Premium 1 (SD)" tvg-name="Fox Premium 1 (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/foxp-1.png" group-title="FILMES E SÉRIES",Fox Premium 1 (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/127.m3u8
+#EXTINF:-1 tvg-id="Fox Premium 2 (SD)" tvg-name="Fox Premium 2 (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/foxp-2.png" group-title="FILMES E SÉRIES",Fox Premium 2 (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/130.m3u8
+#EXTINF:-1 tvg-id="Fox Sports (SD)" tvg-name="Fox Sports (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fox-sport.png" group-title="ESPORTES",Fox Sports (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/133.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 2 (SD)" tvg-name="Fox Sports 2 (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fox-sport2.png" group-title="ESPORTES",Fox Sports 2 (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/137.m3u8
+#EXTINF:-1 tvg-id="Futura (SD)" tvg-name="Futura (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/futura.png" group-title="ABERTOS",Futura (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/141.m3u8
+#EXTINF:-1 tvg-id="FX (SD)" tvg-name="FX (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fx.png" group-title="FILMES E SÉRIES",FX (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/143.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Galinha Pintadinha 24h" tvg-logo="https://img.freepik.com/vetores-gratis/neon-24-horas-aberta-tabuleta_1017-19487.jpg?size=338&ext=jpg" group-title="24 HORAS",Galinha Pintadinha 24h
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/893.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo Bahia (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Bahia (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/149.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo Brasília (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Brasília (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/152.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo Campinas (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Campinas (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/155.m3u8
+#EXTINF:-1 tvg-id="Globo Minas (SD)" tvg-name="Globo Minas (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Minas (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/162.m3u8
+#EXTINF:-1 tvg-id="Globo News (SD)" tvg-name="Globo News (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-news.png" group-title="NOTÍCIAS",Globo News (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/165.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo Nordeste (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Nordeste (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/168.m3u8
+#EXTINF:-1 tvg-id="Globo Porto Alegre (SD)" tvg-name="Globo Porto Alegre (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Porto Alegre (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/176.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo RBS (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/156879265517.png" group-title="REDE GLOBO",Globo RBS (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/178.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo Ribeirão Preto (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Ribeirão Preto (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/180.m3u8
+#EXTINF:-1 tvg-id="Globo Rio (SD)" tvg-name="Globo Rio (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Rio (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/183.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo Sorocaba (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1568792594272.png" group-title="REDE GLOBO",Globo Sorocaba (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/191.m3u8
+#EXTINF:-1 tvg-id="Globo SP (SD)" tvg-name="Globo SP (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo SP (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/192.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo Tv Liberal Belém (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1568792422450.png" group-title="REDE GLOBO",Globo Tv Liberal Belém (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/198.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo Tv Tribuna Santos (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1568792268261.png" group-title="REDE GLOBO",Globo Tv Tribuna Santos (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/203.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo Vanguarda S.J Campos (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1568792040129.png" group-title="REDE GLOBO",Globo Vanguarda S.J Campos (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/204.m3u8
+#EXTINF:-1 tvg-id="Globo Verde Mares (SD)" tvg-name="Globo Verde Mares (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Verde Mares (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/205.m3u8
+#EXTINF:-1 tvg-id="Gloob (SD)" tvg-name="Gloob (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/gllob.png" group-title="INFANTIL",Gloob (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/208.m3u8
+#EXTINF:-1 tvg-id="GNT (SD)" tvg-name="GNT (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/gnt.png" group-title="VARIEDADES",GNT (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/211.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="H2 (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/h2.png" group-title="DOCUMENTÁRIOS",H2 (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/214.m3u8
+#EXTINF:-1 tvg-id="HBO (SD)" tvg-name="HBO (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo.png" group-title="FILMES E SÉRIES",HBO (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/217.m3u8
+#EXTINF:-1 tvg-id="HBO 2 (SD)" tvg-name="HBO 2 (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo2.png" group-title="FILMES E SÉRIES",HBO 2 (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/220.m3u8
+#EXTINF:-1 tvg-id="HBO Family (SD)" tvg-name="HBO Family (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo-family.png" group-title="FILMES E SÉRIES",HBO Family (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/223.m3u8
+#EXTINF:-1 tvg-id="HBO Plus (SD)" tvg-name="HBO + (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo-plus.png" group-title="FILMES E SÉRIES",HBO + (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/226.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="HBO Plus*e (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo-plus-9F4L97.png" group-title="FILMES E SÉRIES",HBO Plus*e (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/229.m3u8
+#EXTINF:-1 tvg-id="HBO Signature (SD)" tvg-name="HBO Signature (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo-signature.png" group-title="FILMES E SÉRIES",HBO Signature (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/231.m3u8
+#EXTINF:-1 tvg-id="ID - Investigacao Discovery (SD)" tvg-name="ID - Investigacao Discovery (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/id.png" group-title="DOCUMENTÁRIOS",ID - Investigacao Discovery (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/234.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Kenan e Kel 24h" tvg-logo="https://img.freepik.com/vetores-gratis/neon-24-horas-aberta-tabuleta_1017-19487.jpg?size=338&ext=jpg" group-title="24 HORAS",Kenan e Kel 24h
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/931.m3u8
+#EXTINF:-1 tvg-id="Lifetime (SD)" tvg-name="Lifetime (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/lifetime.png" group-title="FILMES E SÉRIES",Lifetime (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/237.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Luluzinha 24h" tvg-logo="https://img.freepik.com/vetores-gratis/neon-24-horas-aberta-tabuleta_1017-19487.jpg?size=338&ext=jpg" group-title="24 HORAS",Luluzinha 24h
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/891.m3u8
+#EXTINF:-1 tvg-id="Mais Globosat (SD)" tvg-name="Mais Globosat (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globosat.png" group-title="VARIEDADES",Mais Globosat (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/240.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Manda Chuva 24h" tvg-logo="https://img.freepik.com/vetores-gratis/neon-24-horas-aberta-tabuleta_1017-19487.jpg?size=338&ext=jpg" group-title="24 HORAS",Manda Chuva 24h
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/933.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Marinheiro Popeye 24h" tvg-logo="https://img.freepik.com/vetores-gratis/neon-24-horas-aberta-tabuleta_1017-19487.jpg?size=338&ext=jpg" group-title="24 HORAS",Marinheiro Popeye 24h
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/921.m3u8
+#EXTINF:-1 tvg-id="Max (SD)" tvg-name="Max (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/max.png" group-title="FILMES E SÉRIES",Max (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/243.m3u8
+#EXTINF:-1 tvg-id="Max Prime (SD)" tvg-name="Max Prime (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/max-prime.png" group-title="FILMES E SÉRIES",Max Prime (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/245.m3u8
+#EXTINF:-1 tvg-id="Max UP (SD)" tvg-name="Max UP (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/max-up.png" group-title="FILMES E SÉRIES",Max UP (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/249.m3u8
+#EXTINF:-1 tvg-id="Megapix (SD)" tvg-name="Megapix (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/megapix.png" group-title="FILMES E SÉRIES",Megapix (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/252.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Mickey Mouse 24h" tvg-logo="https://img.freepik.com/vetores-gratis/neon-24-horas-aberta-tabuleta_1017-19487.jpg?size=338&ext=jpg" group-title="24 HORAS",Mickey Mouse 24h
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/892.m3u8
+#EXTINF:-1 tvg-id="MTV (SD)" tvg-name="MTV (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/mtv.png" group-title="MÚSICA E ENTRETENIMENTO",MTV (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/256.m3u8
+#EXTINF:-1 tvg-id="Multishow (SD)" tvg-name="Multishow (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/multishow.png" group-title="MÚSICA E ENTRETENIMENTO",Multishow (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/259.m3u8
+#EXTINF:-1 tvg-id="Music Box Brazil (SD)" tvg-name="Music Box Brazil (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/music.png" group-title="MÚSICA E ENTRETENIMENTO",Music Box Brazil (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/263.m3u8
+#EXTINF:-1 tvg-id="NatGeo Kids (SD)" tvg-name="NatGeo Kids (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/nategeokids.png" group-title="INFANTIL",NatGeo Kids (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/265.m3u8
+#EXTINF:-1 tvg-id="Natgeo Wild (SD)" tvg-name="Natgeo Wild (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/nat.png" group-title="DOCUMENTÁRIOS",Natgeo Wild (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/268.m3u8
+#EXTINF:-1 tvg-id="National Geographic (SD)" tvg-name="National Geographic (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/national.png" group-title="DOCUMENTÁRIOS",National Geographic (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/271.m3u8
+#EXTINF:-1 tvg-id="Nick Jr. (SD)" tvg-name="Nick Jr. (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/kist.png" group-title="INFANTIL",Nick Jr. (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/275.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon (SD)" tvg-name="Nickelodeon (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/nike.png" group-title="INFANTIL",Nickelodeon (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/447.m3u8
+#EXTINF:-1 tvg-id="Off (SD)" tvg-name="Off (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/off.png" group-title="FILMES E SÉRIES",Off (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/279.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Os Trapalhões 24hs" tvg-logo="https://img.freepik.com/vetores-gratis/neon-24-horas-aberta-tabuleta_1017-19487.jpg?size=338&ext=jpg" group-title="24 HORAS",Os Trapalhões 24hs
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/925.m3u8
+#EXTINF:-1 tvg-id="Paramount (SD)" tvg-name="Paramount (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/paramount.png" group-title="FILMES E SÉRIES",Paramount (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/282.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Patati Patata 24h" tvg-logo="https://img.freepik.com/vetores-gratis/neon-24-horas-aberta-tabuleta_1017-19487.jpg?size=338&ext=jpg" group-title="24 HORAS",Patati Patata 24h
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/913.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="PATRULHA CANINA 24H" tvg-logo="https://img.freepik.com/vetores-gratis/neon-24-horas-aberta-tabuleta_1017-19487.jpg?size=338&ext=jpg" group-title="24 HORAS",PATRULHA CANINA 24H
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/898.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Pica Pau 24h" tvg-logo="https://img.freepik.com/vetores-gratis/neon-24-horas-aberta-tabuleta_1017-19487.jpg?size=338&ext=jpg" group-title="24 HORAS",Pica Pau 24h
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/894.m3u8
+#EXTINF:-1 tvg-id="Premiere 2 (SD)" tvg-name="Premiere 2 (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi2.png" group-title="PREMIERE",Premiere 2 (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/288.m3u8
+#EXTINF:-1 tvg-id="Premiere 3 (SD)" tvg-name="Premiere 3 (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi3.png" group-title="PREMIERE",Premiere 3 (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/291.m3u8
+#EXTINF:-1 tvg-id="Premiere 4 (SD)" tvg-name="Premiere 4 (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi4.png" group-title="PREMIERE",Premiere 4 (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/294.m3u8
+#EXTINF:-1 tvg-id="Premiere 5 (SD)" tvg-name="Premiere 5 (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi5.png" group-title="PREMIERE",Premiere 5 (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/297.m3u8
+#EXTINF:-1 tvg-id="Premiere 6 (SD)" tvg-name="Premiere 6 (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi6.png" group-title="PREMIERE",Premiere 6 (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/300.m3u8
+#EXTINF:-1 tvg-id="Premiere 7 (SD)" tvg-name="Premiere 7 (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi7.png" group-title="PREMIERE",Premiere 7 (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/303.m3u8
+#EXTINF:-1 tvg-id="Premiere Clubes (SD)" tvg-name="Premiere Clubes (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premiere.png" group-title="PREMIERE",Premiere Clubes (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/306.m3u8
+#EXTINF:-1 tvg-id="Prime Box Brazil (SD)" tvg-name="Prime Box Brazil (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/primebox.png" group-title="MÚSICA E ENTRETENIMENTO",Prime Box Brazil (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/310.m3u8
+#EXTINF:-1 tvg-id="Record (SD)" tvg-name="Record (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png" group-title="RECORD",Record (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/312.m3u8
+#EXTINF:-1 tvg-id="Record News (SD)" tvg-name="Record News (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record-n.png" group-title="NOTÍCIAS",Record News (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/328.m3u8
+#EXTINF:-1 tvg-id="Record RS (SD)" tvg-name="Record RS (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/155919248566.png" group-title="RECORD",Record RS (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/332.m3u8
+#EXTINF:-1 tvg-id="Rede TV (SD)" tvg-name="Rede TV (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/redetv.png" group-title="ABERTOS",Rede TV (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/333.m3u8
+#EXTINF:-1 tvg-id="Rede Vida (SD)" tvg-name="Rede Vida (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/rede.png" group-title="RELIGIOSOS",Rede Vida (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/336.m3u8
+#EXTINF:-1 tvg-id="SBT (SD)" tvg-name="SBT (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png" group-title="SBT",SBT (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/338.m3u8
+#EXTINF:-1 tvg-id="SBT Piauí (SD)" tvg-name="SBT Piauí (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559182040251.png" group-title="SBT",SBT Piauí (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/344.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Show do Looney Tones 24h" tvg-logo="https://img.freepik.com/vetores-gratis/neon-24-horas-aberta-tabuleta_1017-19487.jpg?size=338&ext=jpg" group-title="24 HORAS",Show do Looney Tones 24h
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/922.m3u8
+#EXTINF:-1 tvg-id="Sony (SD)" tvg-name="Sony (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sony.png" group-title="FILMES E SÉRIES",Sony (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/354.m3u8
+#EXTINF:-1 tvg-id="Space (SD)" tvg-name="Space (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/space.png" group-title="FILMES E SÉRIES",Space (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/357.m3u8
+#EXTINF:-1 tvg-id="SportV (SD)" tvg-name="SportV (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sportv.png" group-title="ESPORTES",SportV (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/361.m3u8
+#EXTINF:-1 tvg-id="SporTV 2 (SD)" tvg-name="SporTV 2 (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sportv2.png" group-title="ESPORTES",SporTV 2 (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/365.m3u8
+#EXTINF:-1 tvg-id="SporTV 3 (SD)" tvg-name="SporTV 3 (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sportv3.png" group-title="ESPORTES",SporTV 3 (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/368.m3u8
+#EXTINF:-1 tvg-id="Studio Universal (SD)" tvg-name="Studio Universal (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/studio-universal.png" group-title="FILMES E SÉRIES",Studio Universal (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/371.m3u8
+#EXTINF:-1 tvg-id="Syfy (SD)" tvg-name="Syfy (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/syfy.png" group-title="FILMES E SÉRIES",Syfy (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/374.m3u8
+#EXTINF:-1 tvg-id="TBS (SD)" tvg-name="TBS (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tbs.png" group-title="FILMES E SÉRIES",TBS (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/377.m3u8
+#EXTINF:-1 tvg-id="TCM (SD)" tvg-name="TCM (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tcm.png" group-title="FILMES E SÉRIES",TCM (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/380.m3u8
+#EXTINF:-1 tvg-id="Telecine Action (SD)" tvg-name="Telecine Action (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-action.png" group-title="FILMES E SÉRIES",Telecine Action (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/382.m3u8
+#EXTINF:-1 tvg-id="Telecine Cult (SD)" tvg-name="Telecine Cult (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-cult-2DYq97.png" group-title="FILMES E SÉRIES",Telecine Cult (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/385.m3u8
+#EXTINF:-1 tvg-id="Telecine Fun (SD)" tvg-name="Telecine Fun (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-fun-66hD37.png" group-title="FILMES E SÉRIES",Telecine Fun (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/388.m3u8
+#EXTINF:-1 tvg-id="Telecine Pipoca (SD)" tvg-name="Telecine Pipoca (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-pipoca.png" group-title="FILMES E SÉRIES",Telecine Pipoca (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/391.m3u8
+#EXTINF:-1 tvg-id="Telecine Premium (SD)" tvg-name="Telecine Premium (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-premium-6uAw34.png" group-title="FILMES E SÉRIES",Telecine Premium (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/394.m3u8
+#EXTINF:-1 tvg-id="Telecine Touch (SD)" tvg-name="Telecine Touch (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-t-3RDg79.png" group-title="FILMES E SÉRIES",Telecine Touch (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/397.m3u8
+#EXTINF:-1 tvg-id="The History Channel (SD)" tvg-name="The History Channel (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/histoty.png" group-title="DOCUMENTÁRIOS",The History Channel (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/400.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Thundercats 24h " tvg-logo="https://img.freepik.com/vetores-gratis/neon-24-horas-aberta-tabuleta_1017-19487.jpg?size=338&ext=jpg" group-title="24 HORAS",Thundercats 24h 
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/929.m3u8
+#EXTINF:-1 tvg-id="TLC (SD)" tvg-name="TLC (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tlc.png" group-title="VARIEDADES",TLC (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/403.m3u8
+#EXTINF:-1 tvg-id="TNT (SD)" tvg-name="TNT (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tnt.png" group-title="FILMES E SÉRIES",TNT (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/406.m3u8
+#EXTINF:-1 tvg-id="TNT SÉRIES (SD)" tvg-name="TNT SÉRIES (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tnt-series.png" group-title="FILMES E SÉRIES",TNT SÉRIES (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/410.m3u8
+#EXTINF:-1 tvg-id="NatGeo Kids (SD)" tvg-name="Todo Mundo Odeia o Cris 24h" tvg-logo="https://img.freepik.com/vetores-gratis/neon-24-horas-aberta-tabuleta_1017-19487.jpg?size=338&ext=jpg" group-title="24 HORAS",Todo Mundo Odeia o Cris 24h
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/924.m3u8
+#EXTINF:-1 tvg-id="Tooncast (SD)" tvg-name="Tooncast (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tooncast.png" group-title="INFANTIL",Tooncast (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/414.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Turma da Monica 24h" tvg-logo="https://img.freepik.com/vetores-gratis/neon-24-horas-aberta-tabuleta_1017-19487.jpg?size=338&ext=jpg" group-title="24 HORAS",Turma da Monica 24h
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/896.m3u8
+#EXTINF:-1 tvg-id="TV Aparecida (SD)" tvg-name="TV Aparecida (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/apare.png" group-title="RELIGIOSOS",TV Aparecida (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/417.m3u8
+#EXTINF:-1 tvg-id="TV Rá Tim Bum (SD)" tvg-name="TV Rá Tim Bum (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tv-bum.png" group-title="INFANTIL",TV Rá Tim Bum (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/422.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Um Maluco no Pedaço 24h" tvg-logo="https://img.freepik.com/vetores-gratis/neon-24-horas-aberta-tabuleta_1017-19487.jpg?size=338&ext=jpg" group-title="24 HORAS",Um Maluco no Pedaço 24h
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/927.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Universal Channel (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/universal.png" group-title="FILMES E SÉRIES",Universal Channel (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/426.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="tom & jerry 24h" tvg-logo="https://img.freepik.com/vetores-gratis/neon-24-horas-aberta-tabuleta_1017-19487.jpg?size=338&ext=jpg" group-title="24 HORAS",tom & jerry 24h
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/897.m3u8
+#EXTINF:-1 tvg-id="VH1 Megahits (SD)" tvg-name="VH1 Megahits (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hits.png" group-title="MÚSICA E ENTRETENIMENTO",VH1 Megahits (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/432.m3u8
+#EXTINF:-1 tvg-id="Viva (SD)" tvg-name="Viva (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559180203508.png" group-title="VARIEDADES",Viva (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/435.m3u8
+#EXTINF:-1 tvg-id="Warner Channel (SD)" tvg-name="Warner Channel (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/warner.png" group-title="FILMES E SÉRIES",Warner Channel (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/438.m3u8
+#EXTINF:-1 tvg-id="Woohoo (SD)" tvg-name="Woohoo (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/whoo.png" group-title="ESPORTES",Woohoo (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/441.m3u8
+#EXTINF:-1 tvg-id="ZooMoo (SD)" tvg-name="ZooMoo (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/zoomo.png" group-title="INFANTIL",ZooMoo (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO TV RIO SUL (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3864.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BELÉM (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO BELÉM (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3867.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO VITÓRIA (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO VITÓRIA (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3868.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PORTO VELHO (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO PORTO VELHO (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3871.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RECIFE (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO RECIFE (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3872.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BOA VISTA (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO BOA VISTA (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO CLARO (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO RIO CLARO (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3880.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NATAL (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO NATAL (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MACAPÁ (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO MACAPÁ (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3883.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="GLOBO RIO GRANDE DO SUL (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO RIO GRANDE DO SUL (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3885.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="GLOBO TV VERDES MARES (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO TV VERDES MARES (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3886.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="GLOBO NSC FLORIANOPOLIS (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO NSC FLORIANOPOLIS (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV NACIONAL (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO TV NACIONAL (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3889.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR (SD)" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Tv_evangelizar.jpg" group-title="RELIGIOSOS",TV EVANGELIZAR (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3891.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="SBT MA (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png" group-title="SBT",SBT MA (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3906.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="GLOBO EPTV SAO CARLOS (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO EPTV SAO CARLOS (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3861.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="GLOBO RPC CURITIBA (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO RPC CURITIBA (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3873.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="GLOBO TV MIRANTE COCAIS (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO TV MIRANTE COCAIS (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3877.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="GLOBO TV TEM BAURU (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO TV TEM BAURU (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3878.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="SAO JOSE DO RIO PRETO (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",SAO JOSE DO RIO PRETO (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD PARA (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559192354236.png" group-title="RECORD",RECORD PARA (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3882.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="RECORD BRASILIA (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559192354236.png" group-title="RECORD",RECORD BRASILIA (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3884.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="RECORD BAHIA (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559191965331.png" group-title="RECORD",RECORD BAHIA (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3897.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Record MG (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559192354236.png" group-title="RECORD",Record MG (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3898.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Record RJ (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559192424310.png" group-title="RECORD",Record RJ (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3899.m3u8
+#EXTINF:-1 tvg-id="Band (SD)" tvg-name="Band (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/band.png" group-title="BAND",Band (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3901.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="GloboTV Anhanguera (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GloboTV Anhanguera (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3860.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="GLOBO INTER TV CABUGI (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO INTER TV CABUGI (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/2727.m3u8
+#EXTINF:-1 tvg-id="RECORD SP (SD)" tvg-name="RECORD SP (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559192354236.png" group-title="RECORD",RECORD SP (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/870.m3u8
+#EXTINF:-1 tvg-id="SBT SP (SD)" tvg-name="SBT SP (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png" group-title="SBT",SBT SP (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/867.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record Goiânia (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559192541259.png" group-title="RECORD",Record Goiânia (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4081.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="GLOBO FLORIANÓPOLIS (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO FLORIANÓPOLIS (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4087.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="GLOBO GOIANIA (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO GOIANIA (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SJRP (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO SJRP (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil  (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/canal-brasil.png" group-title="ABERTOS",Canal Brasil  (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE (SD)" tvg-logo="http://s2.glbimg.com/YPXpdhFOlbdLZd7nbqiyCOZ7Hvc=/s.glbimg.com/og/rg/f/original/2014/01/21/campeonato_catarinense.jpg" group-title="ESPORTES",COPA CATARINENSE (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 2 (SD)" tvg-logo="http://s2.glbimg.com/YPXpdhFOlbdLZd7nbqiyCOZ7Hvc=/s.glbimg.com/og/rg/f/original/2014/01/21/campeonato_catarinense.jpg" group-title="ESPORTES",COPA CATARINENSE 2 (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE (SD)" tvg-logo="https://futebolatino.lance.com.br/wp-content/uploads/2018/02/Copa-do-Nordeste.jpg" group-title="ESPORTES",COPA DO NORDESTE (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2 (SD)" tvg-logo="https://futebolatino.lance.com.br/wp-content/uploads/2018/02/Copa-do-Nordeste.jpg" group-title="ESPORTES",COPA DO NORDESTE 2 (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central  (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/comedy.png" group-title="VARIEDADES",Comedy Central  (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS (SD)" tvg-logo="https://s3.amazonaws.com/static.prod.eiplus.com.br/media/CACHE/images/canal/thumb_logo_nov/23458887255b5c400a08239bcd44cdd8.png" group-title="ESPORTES",EIPLUS (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 2 (SD)" tvg-logo="https://s3.amazonaws.com/static.prod.eiplus.com.br/media/CACHE/images/canal/thumb_logo_nov/23458887255b5c400a08239bcd44cdd8.png" group-title="ESPORTES",EIPLUS 2 (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 3 (SD)" tvg-logo="https://s3.amazonaws.com/static.prod.eiplus.com.br/media/CACHE/images/canal/thumb_logo_nov/23458887255b5c400a08239bcd44cdd8.png" group-title="ESPORTES",EIPLUS 3 (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 4 (SD)" tvg-logo="https://s3.amazonaws.com/static.prod.eiplus.com.br/media/CACHE/images/canal/thumb_logo_nov/23458887255b5c400a08239bcd44cdd8.png" group-title="ESPORTES",EIPLUS 4 (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 5 (SD)" tvg-logo="https://s3.amazonaws.com/static.prod.eiplus.com.br/media/CACHE/images/canal/thumb_logo_nov/23458887255b5c400a08239bcd44cdd8.png" group-title="ESPORTES",EIPLUS 5 (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 6 (SD)" tvg-logo="https://s3.amazonaws.com/static.prod.eiplus.com.br/media/CACHE/images/canal/thumb_logo_nov/23458887255b5c400a08239bcd44cdd8.png" group-title="ESPORTES",EIPLUS 6 (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Globinho (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/96/Tvglobinho_logo.jpg" group-title="INFANTIL",TV Globinho (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The History Channel 2 (SD)" tvg-logo="https://i.pinimg.com/originals/69/89/40/698940d4de58bd0744dfab666822958e.png" group-title="DOCUMENTÁRIOS",The History Channel 2 (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY TV (SD)" tvg-logo="data:image/jpeg;base64,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33vfObrr6b6nqWtkfUU0po53nM6zc8T3cyW3BaT3g+SpqINc6rUZibT8HNSSDvzOZ+LUpdRmJuPwk1JGO/M5/wCDVsYiCWaJalaOmc2WtkNbI03DC3Zwg9W3Jf5m3RdPSjUn61V1FVHXNgZM/abPY58pIF94kG69zw5qvog1/wAX1D1Ucbn01ZFUPAvs3RmAu6NOZwv42XTwzXRiFNFHSvpYHOgaISZc7X3Z2bOF9xFrW6LYxQnWJqrxCqxCoqaOOHYylru1IGkvygONrbuCCf6b6dVeKOYanIyOO5ZFFcNBO4k3Ny7ldYwqH/8Ai+M/zdP+tH7l7ujeouoc8OxKeOOIG5ZTnO9w7sxFm+9VHZ9HvRYl0uJyt7IBhgvzP+kcPDc3714XpB1BdibGm9o6SNoHLtPkcT7x9y2Iw+ijgjjhgY1kUbQxrW7gGjgoL6RWEubWU1WB8HNBsSe6WNzjvPVrxb6JUVJV9qGkfNJHDE3NJK9sbR3ucbBfFZdqrxajpMQZU4gXNjjjeWENL7TGwaSBv4F/uVRs5o3hDKOmgpY/Zhjay/C7gO07zNyuziFfDAx0tRLHDG3i6RwYB5lRrSzXpxjwqC/9dUDd9mMfiT5FSLHceqqx+0rJ5Jncsx7LfotG4eSirdpZrwp4i6PDYjUvG7ayXjiH0R7T/cOpUc0m0vr6916yoe9t7iNvYib4MG7zNyvDRVHC5REBERARF6WjuBz1tRHTUrC6R54/Ja0e05x5NCDKtTWi5ra9kj2k09Lad5I3F4PwbfEnf9kraALwtC9GIcOpY6WHeR2pHncZJT7Tj07hyAC95RRERAREQcLlEQEREBERAREQEREBERAREQEREBeFppozDiNLJSzdm/aY8cWSj2XD/uOd17qINQ9KtC67D3ubUwP2YO6ZgzxObyOYcPA2WOgrdx7ARYgEdx3heHX6GYZMSZsOo3OPF2yY1x+0ACg1ARbQVuqDBZOFK6L/AIUj2/iSvCrNQ9A65iqqqLockg94v71Rr4istZqCnF9hiETu4SxuZ95a4/gvCqtSWLs9n1SUfMkI/baERN0WXVerHGY73oJHAc4yx49xXQGhOK3y/wAHVd+HsG338EHgIs6wvVHjMxF6ZkA76h4b7m3PuVJ0W1H0kNn4hKat435G3jiB678zvd4II5ojobW4lIGUsR2YID5n7o2Dnc8z80XK2W0F0JpsLh2cAzyvsZJne0893zWjkAsgoqOKFjYoI2RRtFmsjAY0DoAvuooiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiIP/Z" group-title="MÚSICA E ENTRETENIMENTO",PLAY TV (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRUTV (SD)" tvg-logo="https://cdn.mitvstatic.com/channels/b15356ee-546f-4760-b04c-3772d6949002_m.jpg" group-title="DOCUMENTÁRIOS",TRUTV (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV (SD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHjUTtor_AbTCZiKeohWyU_FJjoUfGMTTp1nqsfWUGiUaPXDCa" group-title="ESPORTES",REAL MADRID TV (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV CAMARA (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Marca_TV_C%C3%A2mara_-_2018.png" group-title="ABERTOS",TV CAMARA (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAPITÃO PLANETA 24HS" tvg-logo="https://3.bp.blogspot.com/-XUgDT97Pbf4/Vf2pXX4lN4I/AAAAAAACgfo/cGOQeoEiHZI/s1600/0.jpg" group-title="24 HORAS",CAPITÃO PLANETA 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHANGEMAN 24HS" tvg-logo="https://media.fstatic.com/bw4Kwn-A_ySyW2GC7WdYFxbeETc=/fit-in/210x312/smart/media/movies/covers/2010/01/ae29d514be77f161a1cedbcc4bbd3ec0.jpg" group-title="24 HORAS",CHANGEMAN 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER 24HS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="24 HORAS",DRAGON BALL SUPER 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FLASHMAN 24HS" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/74ed9a6876de3dcdad5c0c5efa76cbfcc6d4a79cdd1320e131bfb0094117525e._RI_V_TTW_.jpg" group-title="24 HORAS",FLASHMAN 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4228.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A PANTERA COR DE ROSA 24HS" tvg-logo="https://i0.wp.com/universonerd.net/portal/wp-content/uploads/2018/06/Capa-3.jpg?zoom=2.625&resize=320%2C187&ssl=1" group-title="24 HORAS",A PANTERA COR DE ROSA 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HE-MAN 24HS" tvg-logo="https://i.ytimg.com/vi/InLtBQBnYxo/hqdefault.jpg" group-title="24 HORAS",HE-MAN 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JASPION 24HS" tvg-logo="https://media.fstatic.com/mAN9FJZ8sL7C90mormxaWgUrYkM=/fit-in/290x478/smart/media/movies/covers/2014/09/o-fantastico-jaspion_t25241.jpg" group-title="24 HORAS",JASPION 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DA JUSTIÇA JOVEM 24HS" tvg-logo="https://1.bp.blogspot.com/-OPbVsGeWKUw/Wo7kNWUi8pI/AAAAAAAAOjc/iRhbnYxwTXk7JLSOcDMM8VPUa7xb4RsUgCLcBGAs/s1600/young-justice-season-three.jpg" group-title="24 HORAS",LIGA DA JUSTIÇA JOVEM 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NINJA JIRAYA 24HS" tvg-logo="data:image/jpeg;base64,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" group-title="24 HORAS",NINJA JIRAYA 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4233.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O FANTÁSTICO MUNDO DE BOBBY 24HS" tvg-logo="https://minilua.com/wp-content/uploads/2011/07/Bobby2.jpg" group-title="24 HORAS",O FANTÁSTICO MUNDO DE BOBBY 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4234.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OS FLINTSTONES 24HS" tvg-logo="https://3.bp.blogspot.com/-UpCKJiWl_ao/Urw1WB1LkvI/AAAAAAAAbXM/z172b3_e9IY/s1600/the+flintstones.jpg" group-title="24 HORAS",OS FLINTSTONES 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS 24HS" tvg-logo="https://img.quizur.com/f/img5ceb63cad58ec6.94828416.jpg?lastEdited=1558930382" group-title="24 HORAS",OS SIMPSONS 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4236.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PEPPA PIG 24HS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61JISH-WgeL.png" group-title="24 HORAS",PEPPA PIG 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4237.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER RANGERS 24HS" tvg-logo="https://nit.pt/wp-content/uploads/2017/03/MMPR_Rangers-754x394.jpg" group-title="24 HORAS",POWER RANGERS 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4238.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SCOOBY DOO  24HS" tvg-logo="https://www.proibidoler.com/wp-content/uploads/2019/05/scooby-doo-na-ilha-dos-zumbis-1998-04.jpg" group-title="24 HORAS",SCOOBY DOO  24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4239.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SNOOPY 24HS" tvg-logo="https://gartic.com.br/imgs/mural/me/mel_kitsune/snoopy-p-pok-ana-2.png" group-title="24 HORAS",SNOOPY 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ULTRAMAN 24HS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSjh_K6vG9Mo6ov_VOWF-4zpNnuaH-RE4PzP1BzpQlzQcZF24v" group-title="24 HORAS",ULTRAMAN 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4241.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SUPER VICKY 24HS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/98/205073_1.jpg/200px-205073_1.jpg" group-title="24 HORAS",SUPER VICKY 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4254.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 3 (SD)" tvg-logo="https://futebolatino.lance.com.br/wp-content/uploads/2018/02/Copa-do-Nordeste.jpg" group-title="ESPORTES",COPA DO NORDESTE 3 (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4344.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="INFANTIL",Nick (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4715.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO VANGUARDA TAUBATE (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO VANGUARDA TAUBATE (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4634.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO VANGUARDA S.J CAMPO (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO VANGUARDA S.J CAMPO (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4611.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SERRA MAR (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO SERRA MAR (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4607.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Piracicaba (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo EPTV Piracicaba (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4606.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SANTA CRUZ (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO SANTA CRUZ (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4605.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO SUL (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO RIO SUL (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4604.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC TV (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo RPC TV (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4603.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Blumenau (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo NSC TV Blumenau (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4601.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Mato Grosso do Sul (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Mato Grosso do Sul (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MANAUS (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO MANAUS (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4598.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ITAPETININGA (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO ITAPETININGA (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4597.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRACAO (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO INTEGRACAO (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4596.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Sul de Minas (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo EPTV Sul de Minas (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4594.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CENTRAL (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO EPTV CENTRAL (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4593.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ASA BRANCA (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO ASA BRANCA (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4590.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="GLOBO AMAZONAS (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO AMAZONAS (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3870.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILM & ARTS (SD)" tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="MÚSICA E ENTRETENIMENTO",FILM & ARTS (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4732.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL (SD)" tvg-logo="https://imagem.natelinha.uol.com.br/grande/cnn-brasil-logo-oficial_64008211370c7af07e70d3a7238490534290e629.jpeg" group-title="NOTÍCIAS",CNN BRASIL (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4737.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Batman A Saga Completa 24hs" tvg-logo="https://static.quizur.com/i/b/5b5380fadbbdc1.799217785b5380fad06247.52974010.jpg" group-title="24 HORAS",Batman A Saga Completa 24hs
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4751.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Denis o pestinha 24hs" tvg-logo="https://i.ytimg.com/vi/1Yorsl1Ulqo/hqdefault.jpg" group-title="24 HORAS",Denis o pestinha 24hs
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DC Super Hero Girls 24hs" tvg-logo="https://i1.ytimg.com/vi/uthVTJljlpE/hqdefault.jpg" group-title="24 HORAS",DC Super Hero Girls 24hs
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zé Buscapé 24hs" tvg-logo="https://4.bp.blogspot.com/_Yrud60YYYlo/S6kuT6zxYrI/AAAAAAAABDs/3JJZ8bWwXcw/s280/ze_buscape_01.jpg" group-title="24 HORAS",Zé Buscapé 24hs
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Meu amigãozão 24hs" tvg-logo="https://http2.mlstatic.com/kit-digital-meu-amigozo-84-kits-digitais-print-fun-D_NQ_NP_796721-MLB20830307371_072016-F.jpg" group-title="24 HORAS",Meu amigãozão 24hs
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4755.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAPA CORONA VIRUS" tvg-logo="https://www.ignews.com.br/wp-content/uploads/2020/02/corona-virus-mapa-brasil.jpg" group-title="NOTÍCIAS",MAPA CORONA VIRUS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4746.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE TINTIM 24HS" tvg-logo="https://i.ytimg.com/vi/dDo4xlwqTMY/hqdefault.jpg" group-title="24 HORAS",AS AVENTURAS DE TINTIM 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5918.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BABY SHARK 24HS" tvg-logo="https://img.youtube.com/vi/XqZsoesa55w/0.jpg" group-title="24 HORAS",BABY SHARK 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5919.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10 24HS" tvg-logo="https://a-static.mlcdn.com.br/574x431/painel-de-festa-ben-10-03-colormyhome/colormyhome/333/097e2063dd9226adac80e06e263a1ec2.jpg" group-title="24 HORAS",BEN 10 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Castelo Rá Tim Bum 24HS" tvg-logo="https://i.ytimg.com/vi/88Zae8d7Ao0/hqdefault.jpg" group-title="24 HORAS",Castelo Rá Tim Bum 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5921.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAVALEIRO DO ZODIACO 24HS" tvg-logo="https://falageek.com.br/wp-content/uploads/2019/07/54fb7490a86522.4022769354fb749080e6a1.20629626.jpg" group-title="24 HORAS",CAVALEIRO DO ZODIACO 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5922.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Coragem o Cao Covarde 24HS" tvg-logo="https://pm1.narvii.com/6622/734f65d6c07a783b78e35062f7531eea013f6ac0_00.jpg" group-title="24 HORAS",Coragem o Cao Covarde 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DESENHOS BIBLICOS 24HS" tvg-logo="https://comps.canstockphoto.com.br/b%C3%ADblia-crian%C3%A7as-leitura-jesus-vetor-eps_csp48511940.jpg" group-title="24 HORAS",DESENHOS BIBLICOS 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5924.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Digimon 24HS" tvg-logo="https://1.bp.blogspot.com/-od-j_nDKqqU/XV7io1Npt5I/AAAAAAAABEc/tADEFtRnd5k75wLczsoDHagR9ZBOQHK6wCLcBGAs/s400/digimon-arte.jpg" group-title="24 HORAS",Digimon 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5925.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z 24HS" tvg-logo="https://www.epgrupo.com.br/wp-content/uploads/Imagem1-6.jpg" group-title="24 HORAS",Dragon Ball Z 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5926.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS 24HS" tvg-logo="https://i.ytimg.com/vi/FBeLF4X6HhI/hqdefault.jpg" group-title="24 HORAS",EU A PATROA E AS CRIANÇAS 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5927.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FAISCA E FUMA 24HS" tvg-logo="https://http2.mlstatic.com/coleco-de-desenhos-faisca-e-fumaca-3-dvds-D_NQ_NP_930121-MLB20683799897_042016-F.jpg" group-title="24 HORAS",FAISCA E FUMA 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5928.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fate 24HS" tvg-logo="https://sucodemanga.com.br/wp-content/uploads/2020/01/fate-stay-night.jpg" group-title="24 HORAS",Fate 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fullmetal Alchemist 24HS" tvg-logo="https://media.fstatic.com/Q-5zSHsWSxkfmgjAOwm246xrNWM=/fit-in/290x478/smart/media/movies/covers/2016/01/fullmetal-alchemist_t27714.jpg" group-title="24 HORAS",Fullmetal Alchemist 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5930.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HIGH SCORE GIRL 24HS" tvg-logo="https://www.otakupt.com/wp-content/uploads/2018/09/Main_page_01.jpg" group-title="24 HORAS",HIGH SCORE GIRL 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5931.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Homem Aranha 24HS" tvg-logo="https://static.cineclick.com.br/adm/uploads/banco_imagens/38/582x0_1424718064.jpg" group-title="24 HORAS",Homem Aranha 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5932.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JHONY QUEST 24HS" tvg-logo="https://www.expreso.com.pe/wp-content/uploads/2018/11/JonnyQuest.jpg" group-title="24 HORAS",JHONY QUEST 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5934.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOG HORIZON 24HS" tvg-logo="https://i.pinimg.com/736x/4a/d2/97/4ad297e80f354e6a332d64706ea91cb3.jpg" group-title="24 HORAS",LOG HORIZON 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MARSHA E O URSO 24HS" tvg-logo="https://img.elo7.com.br/product/zoom/19BCDBE/kit-marsha-e-o-urso-lembrancinhas.jpg" group-title="24 HORAS",MARSHA E O URSO 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUNDO BITA 24HS" tvg-logo="https://i.ytimg.com/vi/tyHj0OxckSc/hqdefault.jpg" group-title="24 HORAS",MUNDO BITA 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NARUTO 24HS" tvg-logo="https://www.otakupt.com/wp-content/uploads/2019/11/Naruto-vai-ter-o-seu-pr%C3%B3prio-canal-de-TV-2.jpg" group-title="24 HORAS",NARUTO 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O MASKARA 24HS" tvg-logo="https://i.pinimg.com/originals/3b/9d/53/3b9d530095750a9d059b94cd35da04b0.jpg" group-title="24 HORAS",O MASKARA 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5939.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Show do Ze Colmeia 24HS" tvg-logo="https://img.ibxk.com.br/2017/01/23/23201929771429.jpg?w=1040" group-title="24 HORAS",O Show do Ze Colmeia 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5940.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OS PADRINHOS MAGICOS 24HS" tvg-logo="https://1.bp.blogspot.com/-cQ77ENB1Jd4/VdVCkHE0dDI/AAAAAAAAOJY/ydNj-678wfI/s640/os%2Bpadrinhos%2Bmagicos.jpg" group-title="24 HORAS",OS PADRINHOS MAGICOS 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SENRAN KAGURA SHINOVI 24HS" tvg-logo="https://nblog.org/wp-content/uploads/2016/06/senran-kagura-shinovi-versus-header.jpg" group-title="24 HORAS",SENRAN KAGURA SHINOVI 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SITIO DO PICA PAU AMARELO 24HS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1a/CD_do_S%C3%ADtio_do_Picapau_Amarelo_2001.jpg" group-title="24 HORAS",SITIO DO PICA PAU AMARELO 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOM E JERRY 24HS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fd/Tom_and_Jerry.png" group-title="24 HORAS",TOM E JERRY 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trolls 24HS" tvg-logo="https://br.nacaodamusica.com/wp-content/uploads/2016/11/trolls-trailer-3.jpg" group-title="24 HORAS",Trolls 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Turma do Pateta 24HS" tvg-logo="https://i.ytimg.com/vi/5hkwgWw4uUc/hqdefault.jpg" group-title="24 HORAS",Turma do Pateta 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado 24HS" tvg-logo="https://cdn.romanews.com.br/img/pc/780/530/dn_noticia/2019/04/chapolin.jpg" group-title="24 HORAS",Chapolin Colorado 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty 24hs" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51aRceSWyHL.jpg" group-title="24 HORAS",Rick and Morty 24hs
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="south park 24hs" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e1/South-park-renewed.jpg/300px-South-park-renewed.jpg" group-title="24 HORAS",south park 24hs
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Timao e Pumba 24hs" tvg-logo="https://c3.quickcachr.fotos.sapo.pt/i/B1c055c50/20314262_3nwN8.jpeg" group-title="24 HORAS",Timao e Pumba 24hs
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="yugioh 24hs" tvg-logo="https://s2.glbimg.com/EGRpyQIo54R2opExqCU2B8bYrkM=/0x0:1024x767/695x521/s.glbimg.com/po/tt2/f/original/2014/03/21/yugioh.jpg" group-title="24 HORAS",yugioh 24hs
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALADIN 24HS" tvg-logo="https://i.ytimg.com/vi/lBcANo4p2no/hqdefault.jpg" group-title="24 HORAS",ALADIN 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5952.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A COBRINHA AZUL 24HS" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_827229-MLB40444734375_012020-V.jpg" group-title="24 HORAS",A COBRINHA AZUL 24HS
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL (SD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5rBvWLihwEQVltuxcKkwbjNBunwzVWwrrY-OinYcDfgz1vcE1" group-title="RELIGIOSOS",REDE BRASIL (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI (SD)" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/10082018141507.png" group-title="VARIEDADES",CANAL DO BOI (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/6460.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="GLOBO TV CENTRO AMERICA CUIABA (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO TV CENTRO AMERICA CUIABA (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3876.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Paranaense (SD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo RPC Paranaense (SD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5913.m3u8
+#EXTINF:-1 tvg-id="A&E (FHD)" tvg-name="A&E (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/aee.png" group-title="FILMES E SÉRIES",A&E (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3.m3u8
+#EXTINF:-1 tvg-id="AMC (FHD)" tvg-name="AMC (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/amc.png" group-title="FILMES E SÉRIES",AMC (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/6.m3u8
+#EXTINF:-1 tvg-id="Animal Planet (FHD)" tvg-name="Animal Planet (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/annimal.png" group-title="DOCUMENTÁRIOS",Animal Planet (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/9.m3u8
+#EXTINF:-1 tvg-id="AXN (FHD)" tvg-name="AXN (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/axn.png" group-title="FILMES E SÉRIES",AXN (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/17.m3u8
+#EXTINF:-1 tvg-id="Band (FHD)" tvg-name="Band (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/band.png" group-title="BAND",Band (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/21.m3u8
+#EXTINF:-1 tvg-id="Band News (FHD)" tvg-name="Band News (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/band-n.png" group-title="NOTÍCIAS",Band News (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/27.m3u8
+#EXTINF:-1 tvg-id="Band Sports (FHD)" tvg-name="Band Sports (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/band-s.png" group-title="ESPORTES",Band Sports (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/30.m3u8
+#EXTINF:-1 tvg-id="BIS (FHD)" tvg-name="BIS (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/bis.png" group-title="MÚSICA E ENTRETENIMENTO",BIS (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/33.m3u8
+#EXTINF:-1 tvg-id="Boomerang (FHD)" tvg-name="Boomerang (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/boom.png" group-title="INFANTIL",Boomerang (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/36.m3u8
+#EXTINF:-1 tvg-id="Canal Brasil (FHD)" tvg-name="Canal Brasil (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/canal-brasil.png" group-title="ABERTOS",Canal Brasil (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/39.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network (FHD)" tvg-name="Cartoon Network (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/cn.png" group-title="INFANTIL",Cartoon Network (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/45.m3u8
+#EXTINF:-1 tvg-id="Cinemax (FHD)" tvg-name="Cinemax (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/cinemaz.png" group-title="FILMES E SÉRIES",Cinemax (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/49.m3u8
+#EXTINF:-1 tvg-id="Combate (FHD)" tvg-name="Combate (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/combate.png" group-title="ESPORTES",Combate (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/52.m3u8
+#EXTINF:-1 tvg-id="Comedy Central (FHD)" tvg-name="Comedy Central (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/comedy.png" group-title="VARIEDADES",Comedy Central (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/55.m3u8
+#EXTINF:-1 tvg-id="Cultura (FHD)" tvg-name="Cultura (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/cultura.png" group-title="ABERTOS",Cultura (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/58.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel (FHD)" tvg-name="Discovery Channel (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-channel.png" group-title="DOCUMENTÁRIOS",Discovery Channel (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/64.m3u8
+#EXTINF:-1 tvg-id="Discovery Home & Health (FHD)" tvg-name="Discovery Home & Health (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/dshh.png" group-title="DOCUMENTÁRIOS",Discovery Home & Health (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/71.m3u8
+#EXTINF:-1 tvg-id="Discovery Kids (FHD)" tvg-name="Discovery Kids (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-kids.png" group-title="INFANTIL",Discovery Kids (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/74.m3u8
+#EXTINF:-1 tvg-id="Discovery Science (FHD)" tvg-name="Discovery Science (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/dscience.png" group-title="DOCUMENTÁRIOS",Discovery Science (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/77.m3u8
+#EXTINF:-1 tvg-id="Discovery Theater (FHD)" tvg-name="Discovery Theater (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-t.png" group-title="DOCUMENTÁRIOS",Discovery Theater (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/80.m3u8
+#EXTINF:-1 tvg-id="Discovery Turbo (FHD)" tvg-name="Discovery Turbo (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-turbo.png" group-title="DOCUMENTÁRIOS",Discovery Turbo (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/83.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Discovery World (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-w.png" group-title="DOCUMENTÁRIOS",Discovery World (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/86.m3u8
+#EXTINF:-1 tvg-id="Disney Channel (FHD)" tvg-name="Disney Channel (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/disney-channel.png" group-title="INFANTIL",Disney Channel (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/89.m3u8
+#EXTINF:-1 tvg-id="DISNEY JR (FHD)" tvg-name="DISNEY JR (FHD)" tvg-logo="" group-title="INFANTIL",DISNEY JR (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/452.m3u8
+#EXTINF:-1 tvg-id="Disney XD (FHD)" tvg-name="Disney XD (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-xd.png" group-title="INFANTIL",Disney XD (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/94.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="ESPN (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/espn.png" group-title="ESPORTES",ESPN (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/99.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="ESPN 2 (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/155632079127.png" group-title="ESPORTES",ESPN 2 (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/104.m3u8
+#EXTINF:-1 tvg-id="ESPN Brasil (FHD)" tvg-name="ESPN Brasil (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/espn-b.png" group-title="ESPORTES",ESPN Brasil (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/107.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="ESPN Extra (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/espn-2bcw97.png" group-title="ESPORTES",ESPN Extra (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/110.m3u8
+#EXTINF:-1 tvg-id="FISH TV (FHD)" tvg-name="FISH TV (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fish.png" group-title="ESPORTES",FISH TV (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/117.m3u8
+#EXTINF:-1 tvg-id="Food Network (FHD)" tvg-name="Food Network (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/food.png" group-title="VARIEDADES",Food Network (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/120.m3u8
+#EXTINF:-1 tvg-id="Fox (FHD)" tvg-name="Fox (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fox.png" group-title="FILMES E SÉRIES",Fox (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/123.m3u8
+#EXTINF:-1 tvg-id="Fox Life (FHD)" tvg-name="Fox Life (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fox-life.png" group-title="FILMES E SÉRIES",Fox Life (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/126.m3u8
+#EXTINF:-1 tvg-id="Fox Premium 1 (FHD)" tvg-name="Fox Premium 1 (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/foxp-1.png" group-title="FILMES E SÉRIES",Fox Premium 1 (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/129.m3u8
+#EXTINF:-1 tvg-id="Fox Premium 2 (FHD)" tvg-name="Fox Premium 2 (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/foxp-2.png" group-title="FILMES E SÉRIES",Fox Premium 2 (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/132.m3u8
+#EXTINF:-1 tvg-id="Fox Sports (FHD)" tvg-name="Fox Sports (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fox-sport.png" group-title="ESPORTES",Fox Sports (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/135.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 2 (FHD)" tvg-name="Fox Sports 2 (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fox-sport2.png" group-title="ESPORTES",Fox Sports 2 (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/139.m3u8
+#EXTINF:-1 tvg-id="FX (FHD)" tvg-name="FX (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fx.png" group-title="FILMES E SÉRIES",FX (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/145.m3u8
+#EXTINF:-1 tvg-id="Globo Minas (FHD)" tvg-name="Globo Minas (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Minas (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/164.m3u8
+#EXTINF:-1 tvg-id="Globo News (FHD)" tvg-name="Globo News (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-news.png" group-title="NOTÍCIAS",Globo News (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/167.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo Nordeste (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Nordeste (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/170.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo NSC Florianopolis (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo NSC Florianopolis (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/835.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo Porto Alegre (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Porto Alegre (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/175.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo RBS (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/156879265517.png" group-title="REDE GLOBO",Globo RBS (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/179.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo Rio (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Rio (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/185.m3u8
+#EXTINF:-1 tvg-id="Globo SP (FHD)" tvg-name="Globo SP (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo SP (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/194.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo Tv Mirante (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1568792198526.png" group-title="REDE GLOBO",Globo Tv Mirante (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/201.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo TV Morena (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo TV Morena (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/836.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo Verde Mares (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Verde Mares (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/207.m3u8
+#EXTINF:-1 tvg-id="Gloob (FHD)" tvg-name="Gloob (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/gllob.png" group-title="INFANTIL",Gloob (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/210.m3u8
+#EXTINF:-1 tvg-id="GNT (FHD)" tvg-name="GNT (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/gnt.png" group-title="VARIEDADES",GNT (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/213.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="H2 (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/h2.png" group-title="DOCUMENTÁRIOS",H2 (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/216.m3u8
+#EXTINF:-1 tvg-id="HBO (FHD)" tvg-name="HBO (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo.png" group-title="FILMES E SÉRIES",HBO (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/219.m3u8
+#EXTINF:-1 tvg-id="HBO 2 (FHD)" tvg-name="HBO 2 (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo2.png" group-title="FILMES E SÉRIES",HBO 2 (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/222.m3u8
+#EXTINF:-1 tvg-id="HBO Family (FHD)" tvg-name="HBO Family (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo-family.png" group-title="FILMES E SÉRIES",HBO Family (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/225.m3u8
+#EXTINF:-1 tvg-id="HBO Plus (FHD)" tvg-name="HBO + (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo-plus.png" group-title="FILMES E SÉRIES",HBO + (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/228.m3u8
+#EXTINF:-1 tvg-id="HBO Signature (FHD)" tvg-name="HBO Signature (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo-signature.png" group-title="FILMES E SÉRIES",HBO Signature (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/233.m3u8
+#EXTINF:-1 tvg-id="ID - Investigacao Discovery (FHD)" tvg-name="ID - Investigacao Discovery (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/id.png" group-title="DOCUMENTÁRIOS",ID - Investigacao Discovery (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/236.m3u8
+#EXTINF:-1 tvg-id="Lifetime (FHD)" tvg-name="Lifetime (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/lifetime.png" group-title="FILMES E SÉRIES",Lifetime (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/239.m3u8
+#EXTINF:-1 tvg-id="Mais Globosat (FHD)" tvg-name="Mais Globosat (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globosat.png" group-title="VARIEDADES",Mais Globosat (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/242.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="HBO MUNDI (FHD)" tvg-logo="https://www.tigo.com.co/sites/tigounecorp/files/fragmentos/general_tarjeta_informacion/Mubdi.jpg" group-title="FILMES E SÉRIES",HBO MUNDI (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/453.m3u8
+#EXTINF:-1 tvg-id="Max Prime (FHD)" tvg-name="HBO XTREME (FHD)" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/01022020101313.jpg" group-title="FILMES E SÉRIES",HBO XTREME (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/247.m3u8
+#EXTINF:-1 tvg-id="Max UP (FHD)" tvg-name="HBO POP (FHD)" tvg-logo="https://www.claro.com.br/imagem/logo-hbo-pop-1509138784429.jpg" group-title="FILMES E SÉRIES",HBO POP (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/251.m3u8
+#EXTINF:-1 tvg-id="Megapix (FHD)" tvg-name="Megapix (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/megapix.png" group-title="FILMES E SÉRIES",Megapix (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/254.m3u8
+#EXTINF:-1 tvg-id="MTV (FHD)" tvg-name="MTV (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/mtv.png" group-title="MÚSICA E ENTRETENIMENTO",MTV (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/258.m3u8
+#EXTINF:-1 tvg-id="Multishow (FHD)" tvg-name="Multishow (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/multishow.png" group-title="MÚSICA E ENTRETENIMENTO",Multishow (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/261.m3u8
+#EXTINF:-1 tvg-id="NatGeo Kids (FHD)" tvg-name="NatGeo Kids (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/nategeokids.png" group-title="INFANTIL",NatGeo Kids (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/267.m3u8
+#EXTINF:-1 tvg-id="Natgeo Wild (FHD)" tvg-name="Natgeo Wild (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/nat.png" group-title="DOCUMENTÁRIOS",Natgeo Wild (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/270.m3u8
+#EXTINF:-1 tvg-id="National Geographic (FHD)" tvg-name="National Geographic (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/national.png" group-title="DOCUMENTÁRIOS",National Geographic (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/273.m3u8
+#EXTINF:-1 tvg-id="Nick Jr. (FHD)" tvg-name="Nick Jr. (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/kist.png" group-title="INFANTIL",Nick Jr. (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/277.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon (FHD)" tvg-name="Nickelodeon (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/nike.png" group-title="INFANTIL",Nickelodeon (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/278.m3u8
+#EXTINF:-1 tvg-id="Off (FHD)" tvg-name="Off (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/off.png" group-title="FILMES E SÉRIES",Off (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/281.m3u8
+#EXTINF:-1 tvg-id="Paramount (FHD)" tvg-name="Paramount (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/paramount.png" group-title="FILMES E SÉRIES",Paramount (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/284.m3u8
+#EXTINF:-1 tvg-id="Premiere 2 (FHD)" tvg-name="Premiere 2 (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi2.png" group-title="PREMIERE",Premiere 2 (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/290.m3u8
+#EXTINF:-1 tvg-id="Premiere 3 (FHD)" tvg-name="Premiere 3 (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi3.png" group-title="PREMIERE",Premiere 3 (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/293.m3u8
+#EXTINF:-1 tvg-id="Premiere 4 (FHD)" tvg-name="Premiere 4 (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi4.png" group-title="PREMIERE",Premiere 4 (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/296.m3u8
+#EXTINF:-1 tvg-id="Premiere 5 (FHD)" tvg-name="Premiere 5 (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi5.png" group-title="PREMIERE",Premiere 5 (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/299.m3u8
+#EXTINF:-1 tvg-id="Premiere 6 (FHD)" tvg-name="Premiere 6 (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi6.png" group-title="PREMIERE",Premiere 6 (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/302.m3u8
+#EXTINF:-1 tvg-id="Premiere 7 (FHD)" tvg-name="Premiere 7 (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi7.png" group-title="PREMIERE",Premiere 7 (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/305.m3u8
+#EXTINF:-1 tvg-id="Premiere Clubes (FHD)" tvg-name="Premiere Clubes (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premiere.png" group-title="PREMIERE",Premiere Clubes (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/308.m3u8
+#EXTINF:-1 tvg-id="Record (FHD)" tvg-name="Record (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png" group-title="RECORD",Record (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/314.m3u8
+#EXTINF:-1 tvg-id="Record News (FHD)" tvg-name="Record News (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record-n.png" group-title="NOTÍCIAS",Record News (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/330.m3u8
+#EXTINF:-1 tvg-id="SBT (FHD)" tvg-name="SBT (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png" group-title="SBT",SBT (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/340.m3u8
+#EXTINF:-1 tvg-id="Sony (FHD)" tvg-name="Sony (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sony.png" group-title="FILMES E SÉRIES",Sony (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/356.m3u8
+#EXTINF:-1 tvg-id="Space (FHD)" tvg-name="Space (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/space.png" group-title="FILMES E SÉRIES",Space (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/359.m3u8
+#EXTINF:-1 tvg-id="SportV (FHD)" tvg-name="SportV (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sportv.png" group-title="ESPORTES",SportV (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/363.m3u8
+#EXTINF:-1 tvg-id="SporTV 2 (FHD)" tvg-name="SporTV 2 (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sportv2.png" group-title="ESPORTES",SporTV 2 (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/367.m3u8
+#EXTINF:-1 tvg-id="SporTV 3 (FHD)" tvg-name="SporTV 3 (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sportv3.png" group-title="ESPORTES",SporTV 3 (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/370.m3u8
+#EXTINF:-1 tvg-id="Studio Universal (FHD)" tvg-name="Studio Universal (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/studio-universal.png" group-title="FILMES E SÉRIES",Studio Universal (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/373.m3u8
+#EXTINF:-1 tvg-id="Syfy (FHD)" tvg-name="Syfy (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/syfy.png" group-title="FILMES E SÉRIES",Syfy (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/376.m3u8
+#EXTINF:-1 tvg-id="Telecine Action (FHD)" tvg-name="Telecine Action (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-action.png" group-title="FILMES E SÉRIES",Telecine Action (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/384.m3u8
+#EXTINF:-1 tvg-id="Telecine Cult (FHD)" tvg-name="Telecine Cult (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-cult-2DYq97.png" group-title="FILMES E SÉRIES",Telecine Cult (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/387.m3u8
+#EXTINF:-1 tvg-id="Telecine Fun (FHD)" tvg-name="Telecine Fun (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-fun-66hD37.png" group-title="FILMES E SÉRIES",Telecine Fun (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/390.m3u8
+#EXTINF:-1 tvg-id="Telecine Pipoca (FHD)" tvg-name="Telecine Pipoca (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-pipoca.png" group-title="FILMES E SÉRIES",Telecine Pipoca (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/393.m3u8
+#EXTINF:-1 tvg-id="Telecine Premium (FHD)" tvg-name="Telecine Premium (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-premium-6uAw34.png" group-title="FILMES E SÉRIES",Telecine Premium (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/396.m3u8
+#EXTINF:-1 tvg-id="Telecine Touch (FHD)" tvg-name="Telecine Touch (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-t-3RDg79.png" group-title="FILMES E SÉRIES",Telecine Touch (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/399.m3u8
+#EXTINF:-1 tvg-id="The History Channel (FHD)" tvg-name="The History Channel (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/histoty.png" group-title="DOCUMENTÁRIOS",The History Channel (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/402.m3u8
+#EXTINF:-1 tvg-id="TNT (FHD)" tvg-name="TNT (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tnt.png" group-title="FILMES E SÉRIES",TNT (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/408.m3u8
+#EXTINF:-1 tvg-id="TNT SÉRIES (FHD)" tvg-name="TNT SÉRIES (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tnt-series.png" group-title="FILMES E SÉRIES",TNT SÉRIES (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/412.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Tv Diario (FHD)" tvg-logo="http://tvdiario.verdesmares.com.br/img/tvdiario/tv-diario-ao-vivo-placeholder.jpg" group-title="ABERTOS",Tv Diario (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/551.m3u8
+#EXTINF:-1 tvg-id="TV Rá Tim Bum (FHD)" tvg-name="TV Rá Tim Bum (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tv-bum.png" group-title="INFANTIL",TV Rá Tim Bum (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/424.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Universal Channel (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/universal.png" group-title="FILMES E SÉRIES",Universal Channel (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/428.m3u8
+#EXTINF:-1 tvg-id="Viva (FHD)" tvg-name="Viva (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559180203508.png" group-title="VARIEDADES",Viva (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/437.m3u8
+#EXTINF:-1 tvg-id="Warner Channel (FHD)" tvg-name="Warner Channel (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/warner.png" group-title="FILMES E SÉRIES",Warner Channel (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/440.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="REDE TV (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="ABERTOS",REDE TV (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/cancao-nova.png" group-title="RELIGIOSOS",CANÇÃO NOVA (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3902.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="FUTURA (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/futura.png" group-title="ABERTOS",FUTURA (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3904.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo Tv Liberal (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Tv Liberal (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4073.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo Centro America (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Centro America (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4069.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="GloboTV Anhanguera (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GloboTV Anhanguera (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4068.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo TV Gazeta Alagoas (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo TV Gazeta Alagoas (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4067.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo RPC Paranaense (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo RPC Paranaense (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4066.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo TV Santa Cruz (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo TV Santa Cruz (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4062.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo Inter TV Grande Minas (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Inter TV Grande Minas (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4061.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo TV Sergipe (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo TV Sergipe (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4059.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="GLOBO BELEM (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO BELEM (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT INTERIOR (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png" group-title="SBT",SBT INTERIOR (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/3905.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="RECORD BAHIA (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559191965331.png" group-title="RECORD",RECORD BAHIA (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4082.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo EPTV Sul de Minas (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo EPTV Sul de Minas (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4086.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo Inter Tv dos Vales ( FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Inter Tv dos Vales ( FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4089.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo NSC TV Blumenau (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo NSC TV Blumenau (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4090.m3u8
+#EXTINF:-1 tvg-id="Playboy TV (SD)" tvg-name="Globo TV Gazeta (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo TV Gazeta (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Globinho (FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/96/Tvglobinho_logo.jpg" group-title="INFANTIL",TV Globinho (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby Tv (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/baby-tv.png" group-title="INFANTIL",Baby Tv (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tooncast.png" group-title="INFANTIL",Tooncast (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND RJ (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/band.png" group-title="BAND",BAND RJ (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4718.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/dsciv.png" group-title="DOCUMENTÁRIOS",Discovery Civilization (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4719.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ES (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO ES (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4721.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO BAHIA (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICK (FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="INFANTIL",NICK (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4724.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record ES (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559191965331.png" group-title="RECORD",Record ES (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4725.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record Goiânia (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png" group-title="RECORD",Record Goiânia (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RJ (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png" group-title="RECORD",RECORD RJ (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT PR (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png" group-title="SBT",SBT PR (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4729.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT RJ (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png" group-title="SBT",SBT RJ (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4730.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/zoomo.png" group-title="INFANTIL",ZOOMOO (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4731.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL (FHD)" tvg-logo="https://imagem.natelinha.uol.com.br/grande/cnn-brasil-logo-oficial_64008211370c7af07e70d3a7238490534290e629.jpeg" group-title="NOTÍCIAS",CNN BRASIL (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4736.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arte 1 (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/arte1.png" group-title="DOCUMENTÁRIOS",Arte 1 (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/5917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND RECIFE (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559181246508.png" group-title="BAND",BAND RECIFE (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/6722.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV CIDADE CARIRI (FHD)" tvg-logo="https://imagem.natelinha.uol.com.br/grande/tvcidade-fortaleza.jpg" group-title="ABERTOS",TV CIDADE CARIRI (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/6726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",GLOBO TV VERDES MARES (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/6727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV JANGADEIRO CARIRI (FHD)" tvg-logo="https://cdn.reweb.io/hagah/image/veeZEMy3cKmSj91NiffuXMb8F1E=/300x300/top/smart/hagah/a/a6/tv-jangadeiro-band-fortaleza-hd-a6e4a8a5.jpg" group-title="ABERTOS",SBT TV JANGADEIRO CARIRI (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/6725.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Brasília (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Brasília (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Campinas (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo Campinas (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Rio Sul (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",Globo TV Rio Sul (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4609.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RPC TV Globo (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="REDE GLOBO",RPC TV Globo (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4722.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MG (FHD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png" group-title="RECORD",RECORD MG (FHD)
+http://br4.2tv.me:80/live/IlvaMLK/mrn4ep/4727.m3u8
