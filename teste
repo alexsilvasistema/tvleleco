@@ -1,0 +1,581 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://z4.vc/SV1" group-title="Canais | Abertos",Band SD
+http://psrv.io:80/22804316740/snakeplay/22242
+#EXTINF:-1 tvg-logo="http://z4.vc/X0u" group-title="Canais | Abertos",Band SP HD
+http://psrv.io:80/22804316740/snakeplay/18727
+#EXTINF:-1 tvg-logo="http://z4.vc/xaf" group-title="Canais | Abertos",Band SP SD
+http://psrv.io:80/22804316740/snakeplay/18728
+#EXTINF:-1 tvg-logo="http://z4.vc/0Tm" group-title="Canais | Abertos",Cancao Nova HD
+http://psrv.io:80/22804316740/snakeplay/48700
+#EXTINF:-1 tvg-logo="http://z4.vc/0Tm" group-title="Canais | Abertos",Cancao Nova SD
+http://psrv.io:80/22804316740/snakeplay/18713
+#EXTINF:-1 tvg-logo="http://z4.vc/BEU" group-title="Canais | Abertos",Cultura HD
+http://psrv.io:80/22804316740/snakeplay/18505
+#EXTINF:-1 tvg-logo="http://z4.vc/7FM" group-title="Canais | Abertos",Cultura SD
+http://psrv.io:80/22804316740/snakeplay/18506
+#EXTINF:-1 tvg-logo="http://z4.vc/pqb" group-title="Canais | Abertos",EPTV Ribeirao Preto HD
+http://psrv.io:80/22804316740/snakeplay/18430
+#EXTINF:-1 tvg-logo="http://z4.vc/5Uj" group-title="Canais | Abertos",EPTV Ribeirao Preto SD
+http://psrv.io:80/22804316740/snakeplay/18429
+#EXTINF:-1 tvg-logo="http://z4.vc/XaX" group-title="Canais | Abertos",Futura HD
+http://psrv.io:80/22804316740/snakeplay/28198
+#EXTINF:-1 tvg-logo="http://z4.vc/XaX" group-title="Canais | Abertos",Futura SD
+http://psrv.io:80/22804316740/snakeplay/18656
+#EXTINF:-1 tvg-logo="http://z4.vc/ARG" group-title="Canais | Abertos",Gazeta SP HD
+http://psrv.io:80/22804316740/snakeplay/18526
+#EXTINF:-1 tvg-logo="http://z4.vc/Vlx" group-title="Canais | Abertos",Globo SP HD
+http://psrv.io:80/22804316740/snakeplay/18410
+#EXTINF:-1 tvg-logo="http://z4.vc/tlB" group-title="Canais | Abertos",Globo SP SD
+http://psrv.io:80/22804316740/snakeplay/18411
+#EXTINF:-1 tvg-logo="http://z4.vc/MsE" group-title="Canais | Abertos",RecordTV SP HD
+http://psrv.io:80/22804316740/snakeplay/18575
+#EXTINF:-1 tvg-logo="http://z4.vc/BKM" group-title="Canais | Abertos",RecordTV SP SD
+http://psrv.io:80/22804316740/snakeplay/18579
+#EXTINF:-1 tvg-logo="http://z4.vc/RnA" group-title="Canais | Abertos",Rede Brasil SD
+http://psrv.io:80/22804316740/snakeplay/18574
+#EXTINF:-1 tvg-logo="http://z4.vc/rJP" group-title="Canais | Abertos",Rede Vida HD
+http://psrv.io:80/22804316740/snakeplay/18504
+#EXTINF:-1 tvg-logo="http://z4.vc/DPy" group-title="Canais | Abertos",Rede Vida SD
+http://psrv.io:80/22804316740/snakeplay/18571
+#EXTINF:-1 tvg-logo="http://z4.vc/heG" group-title="Canais | Abertos",RedeTV! HD
+http://psrv.io:80/22804316740/snakeplay/18572
+#EXTINF:-1 tvg-logo="http://z4.vc/lHy" group-title="Canais | Abertos",RedeTV! SD
+http://psrv.io:80/22804316740/snakeplay/18573
+#EXTINF:-1 tvg-logo="http://z4.vc/G2I" group-title="Canais | Abertos",SBT HD
+http://psrv.io:80/22804316740/snakeplay/18569
+#EXTINF:-1 tvg-logo="http://z4.vc/MSJ" group-title="Canais | Abertos",SBT SD
+http://psrv.io:80/22804316740/snakeplay/18570
+#EXTINF:-1 tvg-logo="http://z4.vc/0Eb" group-title="Canais | Abertos",TV Aparecida HD
+http://psrv.io:80/22804316740/snakeplay/49259
+#EXTINF:-1 tvg-logo="http://z4.vc/0Eb" group-title="Canais | Abertos",TV Aparecida SD
+http://psrv.io:80/22804316740/snakeplay/18530
+#EXTINF:-1 tvg-logo="http://z4.vc/LVI" group-title="Canais | Abertos",Viva HD
+http://psrv.io:80/22804316740/snakeplay/18515
+#EXTINF:-1 tvg-logo="http://z4.vc/Pte" group-title="Canais | Abertos",Viva SD
+http://psrv.io:80/22804316740/snakeplay/18516
+#EXTINF:-1 tvg-logo="http://z4.vc/SDH" group-title="Canais | Variedades",A&E HD
+http://psrv.io:80/22804316740/snakeplay/18738
+#EXTINF:-1 tvg-logo="http://z4.vc/o9i" group-title="Canais | Variedades",A&E SD
+http://psrv.io:80/22804316740/snakeplay/18739
+#EXTINF:-1 tvg-logo="http://z4.vc/PAl" group-title="Canais | Variedades",Bis HD
+http://psrv.io:80/22804316740/snakeplay/18721
+#EXTINF:-1 tvg-logo="http://z4.vc/ybv" group-title="Canais | Variedades",Bis SD
+http://psrv.io:80/22804316740/snakeplay/18722
+#EXTINF:-1 tvg-logo="http://z4.vc/qUw" group-title="Canais | Variedades",Comedy Central HD
+http://psrv.io:80/22804316740/snakeplay/18705
+#EXTINF:-1 tvg-logo="http://z4.vc/RrZ" group-title="Canais | Variedades",Comedy Central SD
+http://psrv.io:80/22804316740/snakeplay/18706
+#EXTINF:-1 tvg-logo="http://z4.vc/fVn" group-title="Canais | Variedades",Curta! SD
+http://psrv.io:80/22804316740/snakeplay/18704
+#EXTINF:-1 tvg-logo="http://z4.vc/nXL" group-title="Canais | Variedades",Discovery H&H HD
+http://psrv.io:80/22804316740/snakeplay/18697
+#EXTINF:-1 tvg-logo="http://z4.vc/91r" group-title="Canais | Variedades",Discovery H&H SD
+http://psrv.io:80/22804316740/snakeplay/18698
+#EXTINF:-1 tvg-logo="http://z4.vc/AsO" group-title="Canais | Variedades",Discovery Turbo HD
+http://psrv.io:80/22804316740/snakeplay/18689
+#EXTINF:-1 tvg-logo="http://z4.vc/Vy0" group-title="Canais | Variedades",Discovery Turbo SD
+http://psrv.io:80/22804316740/snakeplay/18690
+#EXTINF:-1 tvg-logo="http://z4.vc/6nk" group-title="Canais | Variedades",Dog TV HD
+http://psrv.io:80/22804316740/snakeplay/28000
+#EXTINF:-1 tvg-logo="http://z4.vc/PCy" group-title="Canais | Variedades",E! HD
+http://psrv.io:80/22804316740/snakeplay/18681
+#EXTINF:-1 tvg-logo="http://z4.vc/Z05" group-title="Canais | Variedades",E! SD
+http://psrv.io:80/22804316740/snakeplay/18682
+#EXTINF:-1 tvg-logo="http://z4.vc/T5S" group-title="Canais | Variedades",Film & Arts HD
+http://psrv.io:80/22804316740/snakeplay/49294
+#EXTINF:-1 tvg-logo="http://z4.vc/T5S" group-title="Canais | Variedades",Film & Arts SD
+http://psrv.io:80/22804316740/snakeplay/18497
+#EXTINF:-1 tvg-logo="http://z4.vc/VxE" group-title="Canais | Variedades",Fish TV HD
+http://psrv.io:80/22804316740/snakeplay/18671
+#EXTINF:-1 tvg-logo="http://z4.vc/Rxi" group-title="Canais | Variedades",Fish TV SD
+http://psrv.io:80/22804316740/snakeplay/18672
+#EXTINF:-1 tvg-logo="http://z4.vc/fYt" group-title="Canais | Variedades",Food Network HD
+http://psrv.io:80/22804316740/snakeplay/18669
+#EXTINF:-1 tvg-logo="http://z4.vc/2cT" group-title="Canais | Variedades",Food Network SD
+http://psrv.io:80/22804316740/snakeplay/18670
+#EXTINF:-1 tvg-logo="http://z4.vc/9pz" group-title="Canais | Variedades",Fox Life HD
+http://psrv.io:80/22804316740/snakeplay/18665
+#EXTINF:-1 tvg-logo="http://z4.vc/E0q" group-title="Canais | Variedades",Fox Life SD
+http://psrv.io:80/22804316740/snakeplay/18666
+#EXTINF:-1 tvg-logo="http://z4.vc/e4t" group-title="Canais | Variedades",GloboSat HD
+http://psrv.io:80/22804316740/snakeplay/22129
+#EXTINF:-1 tvg-logo="http://z4.vc/KG5" group-title="Canais | Variedades",GloboSat SD
+http://psrv.io:80/22804316740/snakeplay/22311
+#EXTINF:-1 tvg-logo="http://z4.vc/6ya" group-title="Canais | Variedades",GNT HD
+http://psrv.io:80/22804316740/snakeplay/18645
+#EXTINF:-1 tvg-logo="http://z4.vc/Dat" group-title="Canais | Variedades",GNT SD
+http://psrv.io:80/22804316740/snakeplay/18646
+#EXTINF:-1 tvg-logo="http://z4.vc/dAy" group-title="Canais | Variedades",ID: Investigacao Discovery HD
+http://psrv.io:80/22804316740/snakeplay/49283
+#EXTINF:-1 tvg-logo="http://z4.vc/dAy" group-title="Canais | Variedades",ID: Investigacao Discovery SD
+http://psrv.io:80/22804316740/snakeplay/18630
+#EXTINF:-1 tvg-logo="http://z4.vc/a4s" group-title="Canais | Variedades",Lifetime HD
+http://psrv.io:80/22804316740/snakeplay/18627
+#EXTINF:-1 tvg-logo="http://z4.vc/Eyw" group-title="Canais | Variedades",Lifetime SD
+http://psrv.io:80/22804316740/snakeplay/18628
+#EXTINF:-1 tvg-logo="http://z4.vc/0yY" group-title="Canais | Variedades",Mais GloboSat HD
+http://psrv.io:80/22804316740/snakeplay/18625
+#EXTINF:-1 tvg-logo="http://z4.vc/QSP" group-title="Canais | Variedades",Mais GloboSat SD
+http://psrv.io:80/22804316740/snakeplay/18626
+#EXTINF:-1 tvg-logo="http://z4.vc/sTl" group-title="Canais | Variedades",MTV HD
+http://psrv.io:80/22804316740/snakeplay/18615
+#EXTINF:-1 tvg-logo="http://z4.vc/MWq" group-title="Canais | Variedades",MTV SD
+http://psrv.io:80/22804316740/snakeplay/18616
+#EXTINF:-1 tvg-logo="http://z4.vc/PWM" group-title="Canais | Variedades",MTV Live HD
+http://psrv.io:80/22804316740/snakeplay/18814
+#EXTINF:-1 tvg-logo="http://z4.vc/u8U" group-title="Canais | Variedades",MTV Live SD
+http://psrv.io:80/22804316740/snakeplay/18507
+#EXTINF:-1 tvg-logo="http://z4.vc/Oev" group-title="Canais | Variedades",Multishow HD
+http://psrv.io:80/22804316740/snakeplay/18613
+#EXTINF:-1 tvg-logo="http://z4.vc/0j3" group-title="Canais | Variedades",Multishow SD
+http://psrv.io:80/22804316740/snakeplay/18614
+#EXTINF:-1 tvg-logo="http://z4.vc/odD" group-title="Canais | Variedades",Music Box Brasil HD
+http://psrv.io:80/22804316740/snakeplay/18611
+#EXTINF:-1 tvg-logo="http://z4.vc/SEn" group-title="Canais | Variedades",Music Box Brasil SD
+http://psrv.io:80/22804316740/snakeplay/18612
+#EXTINF:-1 tvg-logo="http://z4.vc/L2Z" group-title="Canais | Variedades",OFF HD
+http://psrv.io:80/22804316740/snakeplay/18598
+#EXTINF:-1 tvg-logo="http://z4.vc/dGv" group-title="Canais | Variedades",OFF SD
+http://psrv.io:80/22804316740/snakeplay/18599
+#EXTINF:-1 tvg-logo="http://z4.vc/jN0" group-title="Canais | Variedades",Play TV SD
+http://psrv.io:80/22804316740/snakeplay/22288
+#EXTINF:-1 tvg-logo="http://z4.vc/XRY" group-title="Canais | Variedades",Prime Box Brazil HD
+http://psrv.io:80/22804316740/snakeplay/18804
+#EXTINF:-1 tvg-logo="http://z4.vc/3WB" group-title="Canais | Variedades",Prime Box Brazil SD
+http://psrv.io:80/22804316740/snakeplay/18581
+#EXTINF:-1 tvg-logo="http://z4.vc/fUs" group-title="Canais | Variedades",TLC HD
+http://psrv.io:80/22804316740/snakeplay/18538
+#EXTINF:-1 tvg-logo="http://z4.vc/r69" group-title="Canais | Variedades",TLC SD
+http://psrv.io:80/22804316740/snakeplay/18539
+#EXTINF:-1 tvg-logo="http://z4.vc/6fr" group-title="Canais | Variedades",VH1 HD
+http://psrv.io:80/22804316740/snakeplay/18518
+#EXTINF:-1 tvg-logo="http://z4.vc/KZh" group-title="Canais | Variedades",VH1 SD
+http://psrv.io:80/22804316740/snakeplay/22252
+#EXTINF:-1 tvg-logo="http://z4.vc/Xhe" group-title="Canais | Variedades",VH1 MegaHits SD
+http://psrv.io:80/22804316740/snakeplay/18517
+#EXTINF:-1 tvg-logo="http://z4.vc/fUJ" group-title="Canais | Variedades",Woohoo HD
+http://psrv.io:80/22804316740/snakeplay/49631
+#EXTINF:-1 tvg-logo="http://z4.vc/fUJ" group-title="Canais | Variedades",Woohoo SD
+http://psrv.io:80/22804316740/snakeplay/18512
+#EXTINF:-1 tvg-logo="http://z4.vc/5Gw" group-title="Canais | Filmes e Séries",AMC HD
+http://psrv.io:80/22804316740/snakeplay/18736
+#EXTINF:-1 tvg-logo="http://z4.vc/6ZV" group-title="Canais | Filmes e Séries",AMC SD
+http://psrv.io:80/22804316740/snakeplay/18737
+#EXTINF:-1 tvg-logo="http://z4.vc/j1K" group-title="Canais | Filmes e Séries",AXN HD
+http://psrv.io:80/22804316740/snakeplay/18730
+#EXTINF:-1 tvg-logo="http://z4.vc/qfK" group-title="Canais | Filmes e Séries",AXN SD
+http://psrv.io:80/22804316740/snakeplay/18731
+#EXTINF:-1 tvg-logo="http://z4.vc/GsJ" group-title="Canais | Filmes e Séries",Canal Brasil HD
+http://psrv.io:80/22804316740/snakeplay/18716
+#EXTINF:-1 tvg-logo="http://z4.vc/kWm" group-title="Canais | Filmes e Séries",Canal Brasil SD
+http://psrv.io:80/22804316740/snakeplay/18717
+#EXTINF:-1 tvg-logo="http://z4.vc/Lo1" group-title="Canais | Filmes e Séries",Cinemax HD
+http://psrv.io:80/22804316740/snakeplay/18709
+#EXTINF:-1 tvg-logo="http://z4.vc/ZLC" group-title="Canais | Filmes e Séries",Cinemax SD
+http://psrv.io:80/22804316740/snakeplay/18710
+#EXTINF:-1 tvg-logo="http://z4.vc/DUZ" group-title="Canais | Filmes e Séries",Fox HD
+http://psrv.io:80/22804316740/snakeplay/18667
+#EXTINF:-1 tvg-logo="http://z4.vc/OcS" group-title="Canais | Filmes e Séries",Fox SD
+http://psrv.io:80/22804316740/snakeplay/18668
+#EXTINF:-1 tvg-logo="http://z4.vc/AQ5" group-title="Canais | Filmes e Séries",Fox Premium 1 HD
+http://psrv.io:80/22804316740/snakeplay/18663
+#EXTINF:-1 tvg-logo="http://z4.vc/TCc" group-title="Canais | Filmes e Séries",Fox Premium 1 SD
+http://psrv.io:80/22804316740/snakeplay/18664
+#EXTINF:-1 tvg-logo="http://z4.vc/g8Q" group-title="Canais | Filmes e Séries",Fox Premium 2 HD
+http://psrv.io:80/22804316740/snakeplay/18661
+#EXTINF:-1 tvg-logo="http://z4.vc/cw8" group-title="Canais | Filmes e Séries",Fox Premium 2 SD
+http://psrv.io:80/22804316740/snakeplay/18662
+#EXTINF:-1 tvg-logo="http://z4.vc/OsR" group-title="Canais | Filmes e Séries",FX HD
+http://psrv.io:80/22804316740/snakeplay/18653
+#EXTINF:-1 tvg-logo="http://z4.vc/GEc" group-title="Canais | Filmes e Séries",FX SD
+http://psrv.io:80/22804316740/snakeplay/22233
+#EXTINF:-1 tvg-logo="http://z4.vc/z1Y" group-title="Canais | Filmes e Séries",HBO HD
+http://psrv.io:80/22804316740/snakeplay/18637
+#EXTINF:-1 tvg-logo="http://z4.vc/ncl" group-title="Canais | Filmes e Séries",HBO SD
+http://psrv.io:80/22804316740/snakeplay/18642
+#EXTINF:-1 tvg-logo="http://z4.vc/0PM" group-title="Canais | Filmes e Séries",HBO 2 HD
+http://psrv.io:80/22804316740/snakeplay/18640
+#EXTINF:-1 tvg-logo="http://z4.vc/zwf" group-title="Canais | Filmes e Séries",HBO 2 SD
+http://psrv.io:80/22804316740/snakeplay/18641
+#EXTINF:-1 tvg-logo="http://z4.vc/JtC" group-title="Canais | Filmes e Séries",HBO Family HD
+http://psrv.io:80/22804316740/snakeplay/18638
+#EXTINF:-1 tvg-logo="http://z4.vc/vKg" group-title="Canais | Filmes e Séries",HBO Family SD
+http://psrv.io:80/22804316740/snakeplay/18639
+#EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | Filmes e Séries",HBO Mundi HD
+http://psrv.io:80/22804316740/snakeplay/18623
+#EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | Filmes e Séries",HBO Mundi SD
+http://psrv.io:80/22804316740/snakeplay/45135
+#EXTINF:-1 tvg-logo="http://z4.vc/oZI" group-title="Canais | Filmes e Séries",HBO Plus HD
+http://psrv.io:80/22804316740/snakeplay/18635
+#EXTINF:-1 tvg-logo="http://z4.vc/Gg9" group-title="Canais | Filmes e Séries",HBO Plus SD
+http://psrv.io:80/22804316740/snakeplay/18636
+#EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | Filmes e Séries",HBO Pop SD
+http://psrv.io:80/22804316740/snakeplay/45147
+#EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | Filmes e Séries",HBO Pop HD
+http://psrv.io:80/22804316740/snakeplay/45148
+#EXTINF:-1 tvg-logo="http://z4.vc/ICL" group-title="Canais | Filmes e Séries",HBO Signature HD
+http://psrv.io:80/22804316740/snakeplay/18633
+#EXTINF:-1 tvg-logo="http://z4.vc/CPt" group-title="Canais | Filmes e Séries",HBO Signature SD
+http://psrv.io:80/22804316740/snakeplay/18634
+#EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | Filmes e Séries",HBO Xtreme HD
+http://psrv.io:80/22804316740/snakeplay/45144
+#EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | Filmes e Séries",HBO Xtreme SD
+http://psrv.io:80/22804316740/snakeplay/45146
+#EXTINF:-1 tvg-logo="http://z4.vc/fwU" group-title="Canais | Filmes e Séries",Max Prime HD
+http://psrv.io:80/22804316740/snakeplay/18621
+#EXTINF:-1 tvg-logo="http://z4.vc/cv2" group-title="Canais | Filmes e Séries",Max Prime SD
+http://psrv.io:80/22804316740/snakeplay/18622
+#EXTINF:-1 tvg-logo="http://z4.vc/amW" group-title="Canais | Filmes e Séries",Max HD
+http://psrv.io:80/22804316740/snakeplay/18819
+#EXTINF:-1 tvg-logo="http://z4.vc/CmH" group-title="Canais | Filmes e Séries",Max SD
+http://psrv.io:80/22804316740/snakeplay/18624
+#EXTINF:-1 tvg-logo="http://z4.vc/KR2" group-title="Canais | Filmes e Séries",Megapix HD
+http://psrv.io:80/22804316740/snakeplay/18617
+#EXTINF:-1 tvg-logo="http://z4.vc/g9W" group-title="Canais | Filmes e Séries",Megapix SD
+http://psrv.io:80/22804316740/snakeplay/18618
+#EXTINF:-1 tvg-logo="http://z4.vc/QY7" group-title="Canais | Filmes e Séries",Paramount Channel HD
+http://psrv.io:80/22804316740/snakeplay/18596
+#EXTINF:-1 tvg-logo="http://z4.vc/G8C" group-title="Canais | Filmes e Séries",Paramount Channel SD
+http://psrv.io:80/22804316740/snakeplay/18597
+#EXTINF:-1 tvg-logo="http://z4.vc/hkn" group-title="Canais | Filmes e Séries",Sony HD
+http://psrv.io:80/22804316740/snakeplay/18714
+#EXTINF:-1 tvg-logo="http://z4.vc/npa" group-title="Canais | Filmes e Séries",Sony SD
+http://psrv.io:80/22804316740/snakeplay/18715
+#EXTINF:-1 tvg-logo="http://z4.vc/EPt" group-title="Canais | Filmes e Séries",Space HD
+http://psrv.io:80/22804316740/snakeplay/18564
+#EXTINF:-1 tvg-logo="http://z4.vc/zXZ" group-title="Canais | Filmes e Séries",Space SD
+http://psrv.io:80/22804316740/snakeplay/18565
+#EXTINF:-1 tvg-logo="http://z4.vc/IU1" group-title="Canais | Filmes e Séries",Studio Universal HD
+http://psrv.io:80/22804316740/snakeplay/18556
+#EXTINF:-1 tvg-logo="http://z4.vc/6ft" group-title="Canais | Filmes e Séries",Studio Universal SD
+http://psrv.io:80/22804316740/snakeplay/18557
+#EXTINF:-1 tvg-logo="http://z4.vc/yWZ" group-title="Canais | Filmes e Séries",Syfy HD
+http://psrv.io:80/22804316740/snakeplay/18566
+#EXTINF:-1 tvg-logo="http://z4.vc/yZB" group-title="Canais | Filmes e Séries",Syfy SD
+http://psrv.io:80/22804316740/snakeplay/18567
+#EXTINF:-1 tvg-logo="http://z4.vc/lL4" group-title="Canais | Filmes e Séries",TBS HD
+http://psrv.io:80/22804316740/snakeplay/18554
+#EXTINF:-1 tvg-logo="http://z4.vc/6rM" group-title="Canais | Filmes e Séries",TBS SD
+http://psrv.io:80/22804316740/snakeplay/18555
+#EXTINF:-1 tvg-logo="http://z4.vc/9cn" group-title="Canais | Filmes e Séries",TCM SD
+http://psrv.io:80/22804316740/snakeplay/18553
+#EXTINF:-1 tvg-logo="http://z4.vc/wYg" group-title="Canais | Filmes e Séries",Telecine Action HD
+http://psrv.io:80/22804316740/snakeplay/18551
+#EXTINF:-1 tvg-logo="http://z4.vc/2ne" group-title="Canais | Filmes e Séries",Telecine Action SD
+http://psrv.io:80/22804316740/snakeplay/18552
+#EXTINF:-1 tvg-logo="http://z4.vc/cuv" group-title="Canais | Filmes e Séries",Telecine Cult HD
+http://psrv.io:80/22804316740/snakeplay/18549
+#EXTINF:-1 tvg-logo="http://z4.vc/BeC" group-title="Canais | Filmes e Séries",Telecine Cult SD
+http://psrv.io:80/22804316740/snakeplay/18550
+#EXTINF:-1 tvg-logo="http://z4.vc/7vJ" group-title="Canais | Filmes e Séries",Telecine Fun HD
+http://psrv.io:80/22804316740/snakeplay/18547
+#EXTINF:-1 tvg-logo="http://z4.vc/dpl" group-title="Canais | Filmes e Séries",Telecine Fun SD
+http://psrv.io:80/22804316740/snakeplay/18548
+#EXTINF:-1 tvg-logo="http://z4.vc/8dT" group-title="Canais | Filmes e Séries",Telecine Pipoca HD
+http://psrv.io:80/22804316740/snakeplay/18545
+#EXTINF:-1 tvg-logo="http://z4.vc/qp8" group-title="Canais | Filmes e Séries",Telecine Pipoca SD
+http://psrv.io:80/22804316740/snakeplay/18546
+#EXTINF:-1 tvg-logo="http://z4.vc/RwJ" group-title="Canais | Filmes e Séries",Telecine Premium HD
+http://psrv.io:80/22804316740/snakeplay/18543
+#EXTINF:-1 tvg-logo="http://z4.vc/jgo" group-title="Canais | Filmes e Séries",Telecine Premium SD
+http://psrv.io:80/22804316740/snakeplay/18544
+#EXTINF:-1 tvg-logo="http://z4.vc/jJj" group-title="Canais | Filmes e Séries",Telecine Touch HD
+http://psrv.io:80/22804316740/snakeplay/18541
+#EXTINF:-1 tvg-logo="http://z4.vc/c1M" group-title="Canais | Filmes e Séries",Telecine Touch SD
+http://psrv.io:80/22804316740/snakeplay/18542
+#EXTINF:-1 tvg-logo="http://z4.vc/C6Y" group-title="Canais | Filmes e Séries",TNT HD
+http://psrv.io:80/22804316740/snakeplay/18536
+#EXTINF:-1 tvg-logo="http://z4.vc/VGk" group-title="Canais | Filmes e Séries",TNT SD
+http://psrv.io:80/22804316740/snakeplay/18537
+#EXTINF:-1 tvg-logo="http://z4.vc/CVR" group-title="Canais | Filmes e Séries",TNT Series HD
+http://psrv.io:80/22804316740/snakeplay/18534
+#EXTINF:-1 tvg-logo="http://z4.vc/gQ3" group-title="Canais | Filmes e Séries",TNT Series SD
+http://psrv.io:80/22804316740/snakeplay/18535
+#EXTINF:-1 tvg-logo="http://z4.vc/0j9" group-title="Canais | Filmes e Séries",Universal Channel HD
+http://psrv.io:80/22804316740/snakeplay/18520
+#EXTINF:-1 tvg-logo="http://z4.vc/HlB" group-title="Canais | Filmes e Séries",Universal Channel SD
+http://psrv.io:80/22804316740/snakeplay/22253
+#EXTINF:-1 tvg-logo="http://z4.vc/W7o" group-title="Canais | Filmes e Séries",Warner Channel HD
+http://psrv.io:80/22804316740/snakeplay/18513
+#EXTINF:-1 tvg-logo="http://z4.vc/QRs" group-title="Canais | Filmes e Séries",Warner Channel SD
+http://psrv.io:80/22804316740/snakeplay/18514
+#EXTINF:-1 tvg-logo="http://z4.vc/BZz" group-title="Canais | Documentários",Animal Planet HD
+http://psrv.io:80/22804316740/snakeplay/18734
+#EXTINF:-1 tvg-logo="http://z4.vc/fjU" group-title="Canais | Documentários",Animal Planet SD
+http://psrv.io:80/22804316740/snakeplay/18735
+#EXTINF:-1 tvg-logo="http://z4.vc/I6b" group-title="Canais | Documentários",Arte 1 HD
+http://psrv.io:80/22804316740/snakeplay/18855
+#EXTINF:-1 tvg-logo="http://z4.vc/Vfq" group-title="Canais | Documentários",Arte 1 SD
+http://psrv.io:80/22804316740/snakeplay/27884
+#EXTINF:-1 tvg-logo="http://z4.vc/W6B" group-title="Canais | Documentários",Discovery Channel HD
+http://psrv.io:80/22804316740/snakeplay/18701
+#EXTINF:-1 tvg-logo="http://z4.vc/4mU" group-title="Canais | Documentários",Discovery Channel SD
+http://psrv.io:80/22804316740/snakeplay/18702
+#EXTINF:-1 tvg-logo="http://z4.vc/rQr" group-title="Canais | Documentários",Discovery Science HD
+http://psrv.io:80/22804316740/snakeplay/18693
+#EXTINF:-1 tvg-logo="http://z4.vc/fV1" group-title="Canais | Documentários",Discovery Science SD
+http://psrv.io:80/22804316740/snakeplay/18694
+#EXTINF:-1 tvg-logo="http://z4.vc/FSs" group-title="Canais | Documentários",Discovery Theater HD
+http://psrv.io:80/22804316740/snakeplay/18691
+#EXTINF:-1 tvg-logo="http://z4.vc/9oW" group-title="Canais | Documentários",Discovery Theater SD
+http://psrv.io:80/22804316740/snakeplay/18692
+#EXTINF:-1 tvg-logo="http://z4.vc/SxE" group-title="Canais | Documentários",Discovery World HD
+http://psrv.io:80/22804316740/snakeplay/18687
+#EXTINF:-1 tvg-logo="http://z4.vc/x5l" group-title="Canais | Documentários",Discovery World SD
+http://psrv.io:80/22804316740/snakeplay/18688
+#EXTINF:-1 tvg-logo="http://z4.vc/prI" group-title="Canais | Documentários",H2 HD
+http://psrv.io:80/22804316740/snakeplay/18643
+#EXTINF:-1 tvg-logo="http://z4.vc/Izg" group-title="Canais | Documentários",H2 SD
+http://psrv.io:80/22804316740/snakeplay/22309
+#EXTINF:-1 tvg-logo="http://z4.vc/hEz" group-title="Canais | Documentários",History Channel HD
+http://psrv.io:80/22804316740/snakeplay/18631
+#EXTINF:-1 tvg-logo="http://z4.vc/GaY" group-title="Canais | Documentários",History Channel SD
+http://psrv.io:80/22804316740/snakeplay/18632
+#EXTINF:-1 tvg-logo="http://z4.vc/Vzb" group-title="Canais | Documentários",NatGeo Wild HD
+http://psrv.io:80/22804316740/snakeplay/18606
+#EXTINF:-1 tvg-logo="http://z4.vc/qtJ" group-title="Canais | Documentários",NatGeo Wild SD
+http://psrv.io:80/22804316740/snakeplay/18605
+#EXTINF:-1 tvg-logo="http://z4.vc/QKB" group-title="Canais | Documentários",National Geographic HD
+http://psrv.io:80/22804316740/snakeplay/18811
+#EXTINF:-1 tvg-logo="http://z4.vc/uNC" group-title="Canais | Documentários",National Geographic SD
+http://psrv.io:80/22804316740/snakeplay/18610
+#EXTINF:-1 tvg-logo="http://z4.vc/67c" group-title="Canais | Documentários",TruTV SD
+http://psrv.io:80/22804316740/snakeplay/18523
+#EXTINF:-1 tvg-logo="http://z4.vc/k3q" group-title="Canais | Infantis",BabyTV HD
+http://psrv.io:80/22804316740/snakeplay/49379
+#EXTINF:-1 tvg-logo="http://z4.vc/k3q" group-title="Canais | Infantis",BabyTV SD
+http://psrv.io:80/22804316740/snakeplay/18729
+#EXTINF:-1 tvg-logo="http://z4.vc/BLS" group-title="Canais | Infantis",Boomerang HD
+http://psrv.io:80/22804316740/snakeplay/18718
+#EXTINF:-1 tvg-logo="http://z4.vc/H1Y" group-title="Canais | Infantis",Boomerang SD
+http://psrv.io:80/22804316740/snakeplay/18719
+#EXTINF:-1 tvg-logo="http://z4.vc/Brc" group-title="Canais | Infantis",Cartoon Network HD
+http://psrv.io:80/22804316740/snakeplay/18711
+#EXTINF:-1 tvg-logo="http://z4.vc/BjV" group-title="Canais | Infantis",Cartoon Network SD
+http://psrv.io:80/22804316740/snakeplay/18712
+#EXTINF:-1 tvg-logo="http://z4.vc/N8Y" group-title="Canais | Infantis",Discovery Kids HD
+http://psrv.io:80/22804316740/snakeplay/22325
+#EXTINF:-1 tvg-logo="http://z4.vc/s9P" group-title="Canais | Infantis",Discovery Kids SD
+http://psrv.io:80/22804316740/snakeplay/18696
+#EXTINF:-1 tvg-logo="http://z4.vc/COA" group-title="Canais | Infantis",Disney HD
+http://psrv.io:80/22804316740/snakeplay/18685
+#EXTINF:-1 tvg-logo="http://z4.vc/Vjj" group-title="Canais | Infantis",Disney SD
+http://psrv.io:80/22804316740/snakeplay/18686
+#EXTINF:-1 tvg-logo="http://z4.vc/67y" group-title="Canais | Infantis",Disney Junior HD
+http://psrv.io:80/22804316740/snakeplay/18509
+#EXTINF:-1 tvg-logo="http://z4.vc/3Vd" group-title="Canais | Infantis",Disney Junior SD
+http://psrv.io:80/22804316740/snakeplay/18684
+#EXTINF:-1 tvg-logo="http://z4.vc/n2T" group-title="Canais | Infantis",Disney XD HD
+http://psrv.io:80/22804316740/snakeplay/49285
+#EXTINF:-1 tvg-logo="http://z4.vc/n2T" group-title="Canais | Infantis",Disney XD SD
+http://psrv.io:80/22804316740/snakeplay/22321
+#EXTINF:-1 tvg-logo="http://z4.vc/uDI" group-title="Canais | Infantis",Gloob HD
+http://psrv.io:80/22804316740/snakeplay/18649
+#EXTINF:-1 tvg-logo="http://z4.vc/K5g" group-title="Canais | Infantis",Gloob SD
+http://psrv.io:80/22804316740/snakeplay/18650
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Gloobinho HD
+http://psrv.io:80/22804316740/snakeplay/50815
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Gloobinho SD
+http://psrv.io:80/22804316740/snakeplay/49374
+#EXTINF:-1 tvg-logo="http://z4.vc/4kC" group-title="Canais | Infantis",NatGeo Kids HD
+http://psrv.io:80/22804316740/snakeplay/18607
+#EXTINF:-1 tvg-logo="http://z4.vc/3yZ" group-title="Canais | Infantis",NatGeo Kids SD
+http://psrv.io:80/22804316740/snakeplay/18608
+#EXTINF:-1 tvg-logo="http://z4.vc/Xp5" group-title="Canais | Infantis",Nick Jr HD
+http://psrv.io:80/22804316740/snakeplay/18602
+#EXTINF:-1 tvg-logo="http://z4.vc/kuz" group-title="Canais | Infantis",Nick Jr SD
+http://psrv.io:80/22804316740/snakeplay/18603
+#EXTINF:-1 tvg-logo="http://z4.vc/6RD" group-title="Canais | Infantis",Nickelodeon HD
+http://psrv.io:80/22804316740/snakeplay/18600
+#EXTINF:-1 tvg-logo="http://z4.vc/Ad6" group-title="Canais | Infantis",Nickelodeon SD
+http://psrv.io:80/22804316740/snakeplay/18601
+#EXTINF:-1 tvg-logo="http://z4.vc/7YA" group-title="Canais | Infantis",Tooncast HD
+http://psrv.io:80/22804316740/snakeplay/49376
+#EXTINF:-1 tvg-logo="http://z4.vc/7YA" group-title="Canais | Infantis",Tooncast SD
+http://psrv.io:80/22804316740/snakeplay/18533
+#EXTINF:-1 tvg-logo="http://z4.vc/0Yb" group-title="Canais | Infantis",TV Ra-Tim-Bum HD
+http://psrv.io:80/22804316740/snakeplay/18524
+#EXTINF:-1 tvg-logo="http://z4.vc/zvq" group-title="Canais | Infantis",TV Ra-Tim-Bum SD
+http://psrv.io:80/22804316740/snakeplay/18525
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",ZooMoo SD
+http://psrv.io:80/22804316740/snakeplay/28199
+#EXTINF:-1 tvg-logo="http://z4.vc/0ev" group-title="Canais | Esportes",BandSports HD
+http://psrv.io:80/22804316740/snakeplay/18723
+#EXTINF:-1 tvg-logo="http://z4.vc/ral" group-title="Canais | Esportes",BandSports SD
+http://psrv.io:80/22804316740/snakeplay/18724
+#EXTINF:-1 tvg-logo="http://z4.vc/ids" group-title="Canais | Esportes",Combate HD
+http://psrv.io:80/22804316740/snakeplay/18707
+#EXTINF:-1 tvg-logo="http://z4.vc/jLd" group-title="Canais | Esportes",Combate SD
+http://psrv.io:80/22804316740/snakeplay/18708
+#EXTINF:-1 tvg-logo="http://z4.vc/gWv" group-title="Canais | Esportes",ESPN HD
+http://psrv.io:80/22804316740/snakeplay/18673
+#EXTINF:-1 tvg-logo="http://z4.vc/yGS" group-title="Canais | Esportes",ESPN SD
+http://psrv.io:80/22804316740/snakeplay/18680
+#EXTINF:-1 tvg-logo="http://z4.vc/krr" group-title="Canais | Esportes",ESPN 2 HD
+http://psrv.io:80/22804316740/snakeplay/18678
+#EXTINF:-1 tvg-logo="http://z4.vc/J6U" group-title="Canais | Esportes",ESPN 2 SD
+http://psrv.io:80/22804316740/snakeplay/18679
+#EXTINF:-1 tvg-logo="http://z4.vc/hvU" group-title="Canais | Esportes",ESPN Brasil HD
+http://psrv.io:80/22804316740/snakeplay/18676
+#EXTINF:-1 tvg-logo="http://z4.vc/S1E" group-title="Canais | Esportes",ESPN Brasil SD
+http://psrv.io:80/22804316740/snakeplay/18677
+#EXTINF:-1 tvg-logo="http://z4.vc/1xn" group-title="Canais | Esportes",ESPN Extra HD
+http://psrv.io:80/22804316740/snakeplay/18674
+#EXTINF:-1 tvg-logo="http://z4.vc/dzo" group-title="Canais | Esportes",ESPN Extra SD
+http://psrv.io:80/22804316740/snakeplay/18675
+#EXTINF:-1 tvg-logo="http://z4.vc/nWk" group-title="Canais | Esportes",Fox Sports HD
+http://psrv.io:80/22804316740/snakeplay/18659
+#EXTINF:-1 tvg-logo="http://z4.vc/LEj" group-title="Canais | Esportes",Fox Sports SD
+http://psrv.io:80/22804316740/snakeplay/18660
+#EXTINF:-1 tvg-logo="http://z4.vc/pne" group-title="Canais | Esportes",Fox Sports 2 HD
+http://psrv.io:80/22804316740/snakeplay/18657
+#EXTINF:-1 tvg-logo="http://z4.vc/Rei" group-title="Canais | Esportes",Fox Sports 2 SD
+http://psrv.io:80/22804316740/snakeplay/18658
+#EXTINF:-1 tvg-logo="http://z4.vc/7TJ" group-title="Canais | Esportes",Premiere 2 HD
+http://psrv.io:80/22804316740/snakeplay/18594
+#EXTINF:-1 tvg-logo="http://z4.vc/Dw5" group-title="Canais | Esportes",Premiere 2 SD
+http://psrv.io:80/22804316740/snakeplay/18595
+#EXTINF:-1 tvg-logo="http://z4.vc/Eov" group-title="Canais | Esportes",Premiere 3 HD
+http://psrv.io:80/22804316740/snakeplay/18592
+#EXTINF:-1 tvg-logo="http://z4.vc/pYW" group-title="Canais | Esportes",Premiere 3 SD
+http://psrv.io:80/22804316740/snakeplay/18593
+#EXTINF:-1 tvg-logo="http://z4.vc/3yh" group-title="Canais | Esportes",Premiere 4 HD
+http://psrv.io:80/22804316740/snakeplay/18590
+#EXTINF:-1 tvg-logo="http://z4.vc/rHH" group-title="Canais | Esportes",Premiere 4 SD
+http://psrv.io:80/22804316740/snakeplay/18591
+#EXTINF:-1 tvg-logo="http://z4.vc/mTm" group-title="Canais | Esportes",Premiere 5 HD
+http://psrv.io:80/22804316740/snakeplay/18588
+#EXTINF:-1 tvg-logo="http://z4.vc/EKB" group-title="Canais | Esportes",Premiere 5 SD
+http://psrv.io:80/22804316740/snakeplay/18589
+#EXTINF:-1 tvg-logo="http://z4.vc/6nM" group-title="Canais | Esportes",Premiere 6 HD
+http://psrv.io:80/22804316740/snakeplay/18586
+#EXTINF:-1 tvg-logo="http://z4.vc/QT6" group-title="Canais | Esportes",Premiere 6 SD
+http://psrv.io:80/22804316740/snakeplay/18587
+#EXTINF:-1 tvg-logo="http://z4.vc/xrN" group-title="Canais | Esportes",Premiere 7 HD
+http://psrv.io:80/22804316740/snakeplay/18584
+#EXTINF:-1 tvg-logo="http://z4.vc/1i8" group-title="Canais | Esportes",Premiere 7 SD
+http://psrv.io:80/22804316740/snakeplay/18585
+#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",Premiere 8 SD
+http://psrv.io:80/22804316740/snakeplay/28064
+#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",Premiere 9 SD
+http://psrv.io:80/22804316740/snakeplay/28063
+#EXTINF:-1 tvg-logo="http://z4.vc/CQb" group-title="Canais | Esportes",Premiere Clubes HD
+http://psrv.io:80/22804316740/snakeplay/18582
+#EXTINF:-1 tvg-logo="http://z4.vc/URo" group-title="Canais | Esportes",Premiere Clubes SD
+http://psrv.io:80/22804316740/snakeplay/18583
+#EXTINF:-1 tvg-logo="http://z4.vc/ygd" group-title="Canais | Esportes",SporTV HD
+http://psrv.io:80/22804316740/snakeplay/18558
+#EXTINF:-1 tvg-logo="http://z4.vc/Ffl" group-title="Canais | Esportes",SporTV SD
+http://psrv.io:80/22804316740/snakeplay/18563
+#EXTINF:-1 tvg-logo="http://z4.vc/7lY" group-title="Canais | Esportes",SporTV 2 HD
+http://psrv.io:80/22804316740/snakeplay/18561
+#EXTINF:-1 tvg-logo="http://z4.vc/P0b" group-title="Canais | Esportes",SporTV 2 SD
+http://psrv.io:80/22804316740/snakeplay/18562
+#EXTINF:-1 tvg-logo="http://z4.vc/PUQ" group-title="Canais | Esportes",SporTV 3 HD
+http://psrv.io:80/22804316740/snakeplay/18559
+#EXTINF:-1 tvg-logo="http://z4.vc/GGG" group-title="Canais | Esportes",SporTV 3 SD
+http://psrv.io:80/22804316740/snakeplay/18560
+#EXTINF:-1 tvg-logo="http://z4.vc/COC" group-title="Canais | Notícias",BandNews HD
+http://psrv.io:80/22804316740/snakeplay/18725
+#EXTINF:-1 tvg-logo="http://z4.vc/mps" group-title="Canais | Notícias",BandNews SD
+http://psrv.io:80/22804316740/snakeplay/18726
+#EXTINF:-1 tvg-logo="http://z4.vc/77a" group-title="Canais | Notícias",CNN Brasil HD
+http://psrv.io:80/22804316740/snakeplay/47358
+#EXTINF:-1 tvg-logo="http://z4.vc/Ibt" group-title="Canais | Notícias",CNN Brasil SD
+http://psrv.io:80/22804316740/snakeplay/47359
+#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",CNN Internacional
+http://psrv.io:80/22804316740/snakeplay/26438
+#EXTINF:-1 tvg-logo="http://z4.vc/4gV" group-title="Canais | Notícias",Globo News HD
+http://psrv.io:80/22804316740/snakeplay/18651
+#EXTINF:-1 tvg-logo="http://z4.vc/lKc" group-title="Canais | Notícias",Globo News SD
+http://psrv.io:80/22804316740/snakeplay/18652
+#EXTINF:-1 tvg-logo="http://z4.vc/Ncd" group-title="Canais | Notícias",Record News HD
+http://psrv.io:80/22804316740/snakeplay/18577
+#EXTINF:-1 tvg-logo="http://z4.vc/JOU" group-title="Canais | Notícias",Record News SD
+http://psrv.io:80/22804316740/snakeplay/18578
+#EXTINF:-1 tvg-logo="http://z4.vc/0Ad" group-title="Canais | Adultos",PlayBoy HD
+http://psrv.io:80/22804316740/snakeplay/18487
+#EXTINF:-1 tvg-logo="http://z4.vc/XJB" group-title="Canais | Adultos",PlayBoy SD
+http://psrv.io:80/22804316740/snakeplay/18488
+#EXTINF:-1 tvg-logo="http://z4.vc/HoO" group-title="Canais | Adultos",Sextreme HD
+http://psrv.io:80/22804316740/snakeplay/33397
+#EXTINF:-1 tvg-logo="http://z4.vc/HoO" group-title="Canais | Adultos",Sextreme SD
+http://psrv.io:80/22804316740/snakeplay/18486
+#EXTINF:-1 tvg-logo="http://z4.vc/svx" group-title="Canais | Adultos",SexyHot HD
+http://psrv.io:80/22804316740/snakeplay/18485
+#EXTINF:-1 tvg-logo="http://z4.vc/ktw" group-title="Canais | Adultos",SexyHot SD
+http://psrv.io:80/22804316740/snakeplay/22275
+#EXTINF:-1 tvg-logo="http://z4.vc/azC" group-title="Canais | Adultos",Venus HD
+http://psrv.io:80/22804316740/snakeplay/18484
+#EXTINF:-1 tvg-logo="http://z4.vc/azC" group-title="Canais | Adultos",Venus SD
+http://psrv.io:80/22804316740/snakeplay/33399
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",Redlight HD
+http://psrv.io:80/22804316740/snakeplay/27886
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",BLUE HUSTLER
+http://psrv.io:80/22804316740/snakeplay/33381
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",BRAZZERS EUROPE
+http://psrv.io:80/22804316740/snakeplay/33382
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",CANDY
+http://psrv.io:80/22804316740/snakeplay/33383
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",CENTOXCENTO
+http://psrv.io:80/22804316740/snakeplay/33384
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",DORCEL TV
+http://psrv.io:80/22804316740/snakeplay/33385
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",EROXX
+http://psrv.io:80/22804316740/snakeplay/33386
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",PASSION
+http://psrv.io:80/22804316740/snakeplay/33387
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",PENTHOUSE BLACK
+http://psrv.io:80/22804316740/snakeplay/33388
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",PENTHOUSE QUICKIES
+http://psrv.io:80/22804316740/snakeplay/33389
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",PINK-O
+http://psrv.io:80/22804316740/snakeplay/33390
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",PRIVATE HD
+http://psrv.io:80/22804316740/snakeplay/33392
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",REDLIGHT
+http://psrv.io:80/22804316740/snakeplay/33393
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",RUSNOCH
+http://psrv.io:80/22804316740/snakeplay/33394
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",SCT
+http://psrv.io:80/22804316740/snakeplay/33395
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",SEXT6SENSO
+http://psrv.io:80/22804316740/snakeplay/33396
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",SHALUN TV
+http://psrv.io:80/22804316740/snakeplay/33398
+#EXTINF:-1 tvg-logo="http://z4.vc/I5v" group-title="Canais | Adultos",VIVID RED
+http://psrv.io:80/22804316740/snakeplay/33400
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",ADULT 001
+http://psrv.io:80/22804316740/snakeplay/27890
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",ADULT 002
+http://psrv.io:80/22804316740/snakeplay/27889
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",ADULT 003
+http://psrv.io:80/22804316740/snakeplay/27888
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",ADULT 004
+http://psrv.io:80/22804316740/snakeplay/27879
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",ADULT 005
+http://psrv.io:80/22804316740/snakeplay/27878
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",ADULT 006
+http://psrv.io:80/22804316740/snakeplay/27870
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",ADULT 007
+http://psrv.io:80/22804316740/snakeplay/27869
+#EXTINF:-1 tvg-logo="http://z4.vc/vwE" group-title="Canais | Adultos",ADULT 008
+http://psrv.io:80/22804316740/snakeplay/27141
+#EXTINF:-1 tvg-logo="http://z4.vc/XLG" group-title="Canais | Adultos",ADULT 009
+http://psrv.io:80/22804316740/snakeplay/27140
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",ADULT 010
+http://psrv.io:80/22804316740/snakeplay/27138
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",ADULT 011
+http://psrv.io:80/22804316740/snakeplay/27137
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",ADULT 012
+http://psrv.io:80/22804316740/snakeplay/27134
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",ADULT 013
+http://psrv.io:80/22804316740/snakeplay/22447
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",ADULT 014
+http://psrv.io:80/22804316740/snakeplay/29377
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",ADULT 015
+http://psrv.io:80/22804316740/snakeplay/29378
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",AST TV 1
+http://psrv.io:80/22804316740/snakeplay/27887
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",AST TV2
+http://psrv.io:80/22804316740/snakeplay/29032
