@@ -1,0 +1,20 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="JIRAYA O Incrível Ninja 24HRS" tvg-logo="" group-title="CANAIS 24HRS",JIRAYA O Incrível Ninja 24HRS
+http://srv.tvprodigital.net:80/ntmarc/102030/34896
+#EXTINF:-1 tvg-id="" tvg-name="Kenan e Kel 24HRS" tvg-logo="" group-title="CANAIS 24HRS",Kenan e Kel 24HRS
+http://srv.tvprodigital.net:80/ntmarc/102030/34897
+#EXTINF:-1 tvg-id="" tvg-name="Liga da Justica 24HRS" tvg-logo="" group-title="CANAIS 24HRS",Liga da Justica 24HRS
+http://srv.tvprodigital.net:80/ntmarc/102030/34944
+#EXTINF:-1 tvg-id="" tvg-name="Luluzinha 24HRS" tvg-logo="" group-title="CANAIS 24HRS",Luluzinha 24HRS
+http://srv.tvprodigital.net:80/ntmarc/102030/34898
+#EXTINF:-1 tvg-id="" tvg-name="Medabots 24HRS" tvg-logo="" group-title="CANAIS 24HRS",Medabots 24HRS
+http://srv.tvprodigital.net:80/ntmarc/102030/34899
+#EXTINF:-1 tvg-id="" tvg-name="MegaMan 24HRS" tvg-logo="" group-title="CANAIS 24HRS",MegaMan 24HRS
+http://srv.tvprodigital.net:80/ntmarc/102030/34900
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat 24HRS" tvg-logo="" group-title="CANAIS 24HRS",Mortal Kombat 24HRS
+http://srv.tvprodigital.net:80/ntmarc/102030/34901
+#EXTINF:-1 tvg-id="" tvg-name="Mr.Ben 24HRS" tvg-logo="" group-title="CANAIS 24HRS",Mr.Ben 24HRS
+http://srv.tvprodigital.net:80/ntmarc/102030/34902
+#EXTINF:-1 tvg-id="" tvg-name="NARUTO 24HRS" tvg-logo="" group-title="CANAIS 24HRS",NARUTO 24HRS
+http://srv.tvprodigital.net:80/ntmarc/102030/34903
