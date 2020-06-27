@@ -1,0 +1,1459 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="1001 NOITES" tvg-logo="https://3.bp.blogspot.com/-VJ1v-3oN5b8/XK9tZ3jdZxI/AAAAAAAAAv4/jK1eCXo_wwIGQlyw9L375dVN0TCsCzvxgCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-04-08-16-46-20.png" group-title="ABERTOS",1001 NOITES
+http://mytvip.xyz:80/JJEncP/perSuD/77311
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/AZipv5b.jpg" group-title="FILMES E SERIES",A&E HD
+http://mytvip.xyz:80/JJEncP/perSuD/76009
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://i.imgur.com/AZipv5b.jpg" group-title="FILMES E SERIES",A&E SD
+http://mytvip.xyz:80/JJEncP/perSuD/75765
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC  HD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/AMC/large.jpg" group-title="FILMES E SERIES",AMC  HD
+http://mytvip.xyz:80/JJEncP/perSuD/63423
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/AMC/large.jpg" group-title="FILMES E SERIES",AMC SD
+http://mytvip.xyz:80/JJEncP/perSuD/63422
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/ANPHD.jpg" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+http://mytvip.xyz:80/JJEncP/perSuD/75702
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/ANPHD.jpg" group-title="DOCUMENTARIOS",ANIMAL PLANET SD
+http://mytvip.xyz:80/JJEncP/perSuD/75767
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://i.imgur.com/AZp60Eu.jpg" group-title="VARIEDADES",ARTE 1 HD
+http://mytvip.xyz:80/JJEncP/perSuD/76007
+#EXTINF:-1 tvg-id="" tvg-name="ARTE 1 SD" tvg-logo="https://i.imgur.com/AZp60Eu.jpg" group-title="VARIEDADES",ARTE 1 SD
+http://mytvip.xyz:80/JJEncP/perSuD/77184
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="http://imagensdemarca.sapo.pt/wp-content/uploads/2015/10/axn_novo2015.jpg" group-title="FILMES E SERIES",AXN HD
+http://mytvip.xyz:80/JJEncP/perSuD/76911
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="http://imagensdemarca.sapo.pt/wp-content/uploads/2015/10/axn_novo2015.jpg" group-title="FILMES E SERIES",AXN SD
+http://mytvip.xyz:80/JJEncP/perSuD/75769
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY HD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/babytv/medium.jpg" group-title="INFANTIL",BABY HD
+http://mytvip.xyz:80/JJEncP/perSuD/75770
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/babytv/medium.jpg" group-title="INFANTIL",BABY TV SD
+http://mytvip.xyz:80/JJEncP/perSuD/75771
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND CAMPINAS HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_band.jpg" group-title="REDE BANDEIRANTES",BAND CAMPINAS HD
+http://mytvip.xyz:80/JJEncP/perSuD/63394
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND DF HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_band.jpg" group-title="REDE BANDEIRANTES",BAND DF HD
+http://mytvip.xyz:80/JJEncP/perSuD/68877
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_band.jpg" group-title="REDE BANDEIRANTES",BAND HD
+http://mytvip.xyz:80/JJEncP/perSuD/75701
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_band-news.jpg" group-title="NOTICIAS",BAND NEWS HD
+http://mytvip.xyz:80/JJEncP/perSuD/75705
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_band-news.jpg" group-title="NOTICIAS",BAND NEWS SD
+http://mytvip.xyz:80/JJEncP/perSuD/75774
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RJ HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_band.jpg" group-title="REDE BANDEIRANTES",BAND RJ HD
+http://mytvip.xyz:80/JJEncP/perSuD/63391
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RS HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_band.jpg" group-title="REDE BANDEIRANTES",BAND RS HD
+http://mytvip.xyz:80/JJEncP/perSuD/63390
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_band.jpg" group-title="REDE BANDEIRANTES",BAND SD
+http://mytvip.xyz:80/JJEncP/perSuD/75775
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SERGIPE HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_band.jpg" group-title="REDE BANDEIRANTES",BAND SERGIPE HD
+http://mytvip.xyz:80/JJEncP/perSuD/63389
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_band.jpg" group-title="REDE BANDEIRANTES",BAND SP HD
+http://mytvip.xyz:80/JJEncP/perSuD/63388
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="https://www.gvt.com.br/midiaportal/tv/_images/gc/canais/bandsports-novo.jpg" group-title="ESPORTE",BAND SPORTS HD
+http://mytvip.xyz:80/JJEncP/perSuD/75704
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD" tvg-logo="https://www.gvt.com.br/midiaportal/tv/_images/gc/canais/bandsports-novo.jpg" group-title="ESPORTE",BAND SPORTS SD
+http://mytvip.xyz:80/JJEncP/perSuD/76086
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/bis-multishow-hd.jpg" group-title="VARIEDADES",BIS HD
+http://mytvip.xyz:80/JJEncP/perSuD/63373
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/bis-multishow-hd.jpg" group-title="VARIEDADES",BIS SD
+http://mytvip.xyz:80/JJEncP/perSuD/63372
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_boomerang.jpg" group-title="INFANTIL",BOOMERANG HD
+http://mytvip.xyz:80/JJEncP/perSuD/75707
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_boomerang.jpg" group-title="INFANTIL",BOOMERANG SD
+http://mytvip.xyz:80/JJEncP/perSuD/75780
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_canal-brasil.jpg" group-title="ABERTOS",CANAL BRASIL
+http://mytvip.xyz:80/JJEncP/perSuD/75781
+#EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CANAL DO BOI" tvg-logo="http://bonitonet.com.br/admin/files/33222/canal-do-boi.jpg" group-title="ABERTOS",CANAL DO BOI
+http://mytvip.xyz:80/JJEncP/perSuD/63359
+#EXTINF:-1 tvg-id="" tvg-name="CANAL IGREJA UNIVERSAL" tvg-logo="https://i.imgur.com/lQbozTR.jpg" group-title="RELIGIOSO",CANAL IGREJA UNIVERSAL
+http://mytvip.xyz:80/JJEncP/perSuD/76929
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PROVINCIAL" tvg-logo="https://i.imgur.com/GPkZnjg.jpg" group-title="ABERTOS",CANAL PROVINCIAL
+http://mytvip.xyz:80/JJEncP/perSuD/76801
+#EXTINF:-1 tvg-id="" tvg-name="CANAL RICOS" tvg-logo="https://i.imgur.com/rh3D8r5.png" group-title="ABERTOS",CANAL RICOS
+http://mytvip.xyz:80/JJEncP/perSuD/76870
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/sony-hd.jpg" group-title="VARIEDADES",CANAL SONY HD
+http://mytvip.xyz:80/JJEncP/perSuD/63355
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/sony-hd.jpg" group-title="VARIEDADES",CANAL SONY SD
+http://mytvip.xyz:80/JJEncP/perSuD/63354
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANCAO NOVA " tvg-logo="http://signis.org.br/image/resize_canvas?w=800&h=418&q=100&src=userfiles/redacao/noticias/ff82447d2dd38b1d4a746dfdf0afb708.jpg" group-title="RELIGIOSO",CANCAO NOVA 
+http://mytvip.xyz:80/JJEncP/perSuD/63351
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/2017_CARTOON_HD_2.jpg" group-title="INFANTIL",CARTOON NETWORK HD
+http://mytvip.xyz:80/JJEncP/perSuD/63347
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/2017_CARTOON_HD_2.jpg" group-title="INFANTIL",CARTOON NETWORK SD
+http://mytvip.xyz:80/JJEncP/perSuD/63346
+#EXTINF:-1 tvg-id="" tvg-name="CHEF TV HD" tvg-logo="https://i.imgur.com/3T3DqzT.jpg" group-title="VARIEDADES",CHEF TV HD
+http://mytvip.xyz:80/JJEncP/perSuD/76050
+#EXTINF:-1 tvg-id="" tvg-name="CHEF TV SD" tvg-logo="https://i.imgur.com/3T3DqzT.jpg" group-title="VARIEDADES",CHEF TV SD
+http://mytvip.xyz:80/JJEncP/perSuD/76079
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_cinemax.jpg" group-title="FILMES E SERIES",CINEMAX HD
+http://mytvip.xyz:80/JJEncP/perSuD/75709
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_cinemax.jpg" group-title="FILMES E SERIES",CINEMAX SD
+http://mytvip.xyz:80/JJEncP/perSuD/75786
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL FHD" tvg-logo="https://i.imgur.com/RSWnmo6.jpg" group-title="NOTICIAS",CNN BRASIL FHD
+http://mytvip.xyz:80/JJEncP/perSuD/80165
+#EXTINF:-1 tvg-id="CNNEspanhol.br" tvg-name="CNN BRASIL HD" tvg-logo="https://i.imgur.com/RSWnmo6.jpg" group-title="NOTICIAS",CNN BRASIL HD
+http://mytvip.xyz:80/JJEncP/perSuD/78345
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL SD" tvg-logo="https://i.imgur.com/RSWnmo6.jpg" group-title="NOTICIAS",CNN BRASIL SD
+http://mytvip.xyz:80/JJEncP/perSuD/79252
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_combate.jpg" group-title="ESPORTE",COMBATE HD
+http://mytvip.xyz:80/JJEncP/perSuD/75710
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_combate.jpg" group-title="ESPORTE",COMBATE SD
+http://mytvip.xyz:80/JJEncP/perSuD/75790
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/comedy-central.jpg" group-title="VARIEDADES",COMEDY CENTRAL HD
+http://mytvip.xyz:80/JJEncP/perSuD/63326
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/comedy-central.jpg" group-title="VARIEDADES",COMEDY CENTRAL SD
+http://mytvip.xyz:80/JJEncP/perSuD/63325
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! HD" tvg-logo="https://i.imgur.com/9Hg8ov4.jpg" group-title="VARIEDADES",CURTA! HD
+http://mytvip.xyz:80/JJEncP/perSuD/76044
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! SD" tvg-logo="https://i.imgur.com/9Hg8ov4.jpg" group-title="VARIEDADES",CURTA! SD
+http://mytvip.xyz:80/JJEncP/perSuD/75793
+#EXTINF:-1 tvg-id="" tvg-name="DAZN   HD" tvg-logo="http://blog.investimentofutebol.com/wp-content/uploads/2019/03/DAZN-604x270.jpg" group-title="CORTESIA/TEMPORARIOS",DAZN   HD
+http://mytvip.xyz:80/JJEncP/perSuD/63312
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FHD" tvg-logo="http://blog.investimentofutebol.com/wp-content/uploads/2019/03/DAZN-604x270.jpg" group-title="CORTESIA/TEMPORARIOS",DAZN FHD
+http://mytvip.xyz:80/JJEncP/perSuD/76319
+#EXTINF:-1 tvg-id="" tvg-name="DAZN HD" tvg-logo="http://blog.investimentofutebol.com/wp-content/uploads/2019/03/DAZN-604x270.jpg" group-title="CORTESIA/TEMPORARIOS",DAZN HD
+http://mytvip.xyz:80/JJEncP/perSuD/76320
+#EXTINF:-1 tvg-id="" tvg-name="DAZN4 HD" tvg-logo="http://blog.investimentofutebol.com/wp-content/uploads/2019/03/DAZN-604x270.jpg" group-title="CORTESIA/TEMPORARIOS",DAZN4 HD
+http://mytvip.xyz:80/JJEncP/perSuD/70428
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_discovery-channel.jpg" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
+http://mytvip.xyz:80/JJEncP/perSuD/75712
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_discovery-channel.jpg" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL SD
+http://mytvip.xyz:80/JJEncP/perSuD/75795
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_discovery_home&health.jpg" group-title="DOCUMENTARIOS",DISCOVERY H&H HD
+http://mytvip.xyz:80/JJEncP/perSuD/63296
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_discovery_home&health.jpg" group-title="DOCUMENTARIOS",DISCOVERY H&H SD
+http://mytvip.xyz:80/JJEncP/perSuD/63294
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="DISCOVERY ID HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/id-identidade-discovery.jpg" group-title="DOCUMENTARIOS",DISCOVERY ID HD
+http://mytvip.xyz:80/JJEncP/perSuD/63289
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="DISCOVERY ID SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/id-identidade-discovery.jpg" group-title="DOCUMENTARIOS",DISCOVERY ID SD
+http://mytvip.xyz:80/JJEncP/perSuD/75869
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/discovery-kids.jpg" group-title="INFANTIL",DISCOVERY KIDS HD
+http://mytvip.xyz:80/JJEncP/perSuD/63283
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/discovery-kids.jpg" group-title="INFANTIL",DISCOVERY KIDS SD
+http://mytvip.xyz:80/JJEncP/perSuD/63282
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_discovery-science.jpg" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE HD
+http://mytvip.xyz:80/JJEncP/perSuD/75716
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_discovery-science.jpg" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE SD
+http://mytvip.xyz:80/JJEncP/perSuD/76082
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY T&T HD" tvg-logo="https://i.imgur.com/62o6Gfq.jpg" group-title="DOCUMENTARIOS",DISCOVERY T&T HD
+http://mytvip.xyz:80/JJEncP/perSuD/75713
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY T&T SD" tvg-logo="https://i.imgur.com/62o6Gfq.jpg" group-title="DOCUMENTARIOS",DISCOVERY T&T SD
+http://mytvip.xyz:80/JJEncP/perSuD/76083
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/discovery-turbo-hd.jpg" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD
+http://mytvip.xyz:80/JJEncP/perSuD/75717
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/discovery-turbo-hd.jpg" group-title="DOCUMENTARIOS",DISCOVERY TURBO SD
+http://mytvip.xyz:80/JJEncP/perSuD/75804
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://www.gvt.com.br/midiaportal/tv/_images/gc/canais/00-Discovery-World%5bweb%5d.jpg" group-title="DOCUMENTARIOS",DISCOVERY WORLD HD
+http://mytvip.xyz:80/JJEncP/perSuD/75714
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://www.gvt.com.br/midiaportal/tv/_images/gc/canais/00-Discovery-World%5bweb%5d.jpg" group-title="DOCUMENTARIOS",DISCOVERY WORLD SD
+http://mytvip.xyz:80/JJEncP/perSuD/76084
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/disneychannel.jpg" group-title="INFANTIL",DISNEY CHANNEL HD
+http://mytvip.xyz:80/JJEncP/perSuD/75718
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/disneychannel.jpg" group-title="INFANTIL",DISNEY CHANNEL SD
+http://mytvip.xyz:80/JJEncP/perSuD/75807
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/2017_DisneyJr.jpg" group-title="INFANTIL",DISNEY JR HD
+http://mytvip.xyz:80/JJEncP/perSuD/75719
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/2017_DisneyJr.jpg" group-title="INFANTIL",DISNEY JR SD
+http://mytvip.xyz:80/JJEncP/perSuD/75809
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_disney-xd.jpg" group-title="INFANTIL",DISNEY XD HD
+http://mytvip.xyz:80/JJEncP/perSuD/75810
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_disney-xd.jpg" group-title="INFANTIL",DISNEY XD SD
+http://mytvip.xyz:80/JJEncP/perSuD/75811
+#EXTINF:-1 tvg-id="" tvg-name="E PARANÁ" tvg-logo="https://i.imgur.com/97KMvRA.jpg" group-title="ABERTOS",E PARANÁ
+http://mytvip.xyz:80/JJEncP/perSuD/76979
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/e-novo.jpg" group-title="FILMES E SERIES",E! HD
+http://mytvip.xyz:80/JJEncP/perSuD/75812
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/e-novo.jpg" group-title="FILMES E SERIES",E! SD
+http://mytvip.xyz:80/JJEncP/perSuD/75813
+#EXTINF:-1 tvg-id="" tvg-name="EI PLUS 2 ALTERNATIVE" tvg-logo="" group-title="CORTESIA/TEMPORARIOS",EI PLUS 2 ALTERNATIVE
+http://mytvip.xyz:80/JJEncP/perSuD/77188
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 2 HD" tvg-logo="https://i.imgur.com/FhKOwbC.jpg" group-title="CORTESIA/TEMPORARIOS",EIPLUS 2 HD
+http://mytvip.xyz:80/JJEncP/perSuD/76754
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 2 SD" tvg-logo="https://i.imgur.com/FhKOwbC.jpg" group-title="CORTESIA/TEMPORARIOS",EIPLUS 2 SD
+http://mytvip.xyz:80/JJEncP/perSuD/76755
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 3 HD" tvg-logo="https://i.imgur.com/FhKOwbC.jpg" group-title="CORTESIA/TEMPORARIOS",EIPLUS 3 HD
+http://mytvip.xyz:80/JJEncP/perSuD/76756
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 3 SD" tvg-logo="https://i.imgur.com/FhKOwbC.jpg" group-title="CORTESIA/TEMPORARIOS",EIPLUS 3 SD
+http://mytvip.xyz:80/JJEncP/perSuD/76757
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 4 HD" tvg-logo="https://i.imgur.com/FhKOwbC.jpg" group-title="CORTESIA/TEMPORARIOS",EIPLUS 4 HD
+http://mytvip.xyz:80/JJEncP/perSuD/76758
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 4 SD" tvg-logo="https://i.imgur.com/FhKOwbC.jpg" group-title="CORTESIA/TEMPORARIOS",EIPLUS 4 SD
+http://mytvip.xyz:80/JJEncP/perSuD/76759
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 5 HD" tvg-logo="https://i.imgur.com/FhKOwbC.jpg" group-title="CORTESIA/TEMPORARIOS",EIPLUS 5 HD
+http://mytvip.xyz:80/JJEncP/perSuD/76760
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 5 SD" tvg-logo="https://i.imgur.com/FhKOwbC.jpg" group-title="CORTESIA/TEMPORARIOS",EIPLUS 5 SD
+http://mytvip.xyz:80/JJEncP/perSuD/76761
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 6 HD" tvg-logo="https://i.imgur.com/FhKOwbC.jpg" group-title="CORTESIA/TEMPORARIOS",EIPLUS 6 HD
+http://mytvip.xyz:80/JJEncP/perSuD/76762
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 6 SD" tvg-logo="https://i.imgur.com/FhKOwbC.jpg" group-title="CORTESIA/TEMPORARIOS",EIPLUS 6 SD
+http://mytvip.xyz:80/JJEncP/perSuD/76763
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/2017_ESPN.jpg" group-title="ESPORTE",ESPN 2 HD
+http://mytvip.xyz:80/JJEncP/perSuD/75721
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/2017_ESPN.jpg" group-title="ESPORTE",ESPN 2 SD
+http://mytvip.xyz:80/JJEncP/perSuD/76085
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="https://i.imgur.com/ZgnjdcQ.jpg" group-title="ESPORTE",ESPN BRASIL HD
+http://mytvip.xyz:80/JJEncP/perSuD/75722
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="https://i.imgur.com/ZgnjdcQ.jpg" group-title="ESPORTE",ESPN BRASIL SD
+http://mytvip.xyz:80/JJEncP/perSuD/75816
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://i.imgur.com/g5nJ7dl.jpg" group-title="ESPORTE",ESPN EXTRA HD
+http://mytvip.xyz:80/JJEncP/perSuD/75817
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA SD" tvg-logo="https://i.imgur.com/g5nJ7dl.jpg" group-title="ESPORTE",ESPN EXTRA SD
+http://mytvip.xyz:80/JJEncP/perSuD/75818
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/2017_ESPN.jpg" group-title="ESPORTE",ESPN HD
+http://mytvip.xyz:80/JJEncP/perSuD/75720
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/2017_ESPN.jpg" group-title="ESPORTE",ESPN SD
+http://mytvip.xyz:80/JJEncP/perSuD/75820
+#EXTINF:-1 tvg-id="Esporteinterativo.br" tvg-name="ESPORTE INTERATIVO HD" tvg-logo="https://i.imgur.com/1wU7Fnj.jpg" group-title="CORTESIA/TEMPORARIOS",ESPORTE INTERATIVO HD
+http://mytvip.xyz:80/JJEncP/perSuD/76750
+#EXTINF:-1 tvg-id="Esporteinterativo.br" tvg-name="ESPORTE INTERATIVO HD" tvg-logo="https://i.imgur.com/1wU7Fnj.jpg" group-title="CORTESIA/TEMPORARIOS",ESPORTE INTERATIVO HD
+http://mytvip.xyz:80/JJEncP/perSuD/76752
+#EXTINF:-1 tvg-id="Esporteinterativo.br" tvg-name="ESPORTE INTERATIVO SD" tvg-logo="https://i.imgur.com/1wU7Fnj.jpg" group-title="CORTESIA/TEMPORARIOS",ESPORTE INTERATIVO SD
+http://mytvip.xyz:80/JJEncP/perSuD/76751
+#EXTINF:-1 tvg-id="Esporteinterativo.br" tvg-name="ESPORTE INTERATIVO SD" tvg-logo="https://i.imgur.com/1wU7Fnj.jpg" group-title="CORTESIA/TEMPORARIOS",ESPORTE INTERATIVO SD
+http://mytvip.xyz:80/JJEncP/perSuD/76753
+#EXTINF:-1 tvg-id="" tvg-name="FAAP" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2010/04/tnTV_FAAP-200x135.jpg" group-title="ABERTOS",FAAP
+http://mytvip.xyz:80/JJEncP/perSuD/76644
+#EXTINF:-1 tvg-id="FilmArts.br" tvg-name="FILM&ARTS SD" tvg-logo="https://i.imgur.com/mGpx9AE.jpg" group-title="FILMES E SERIES",FILM&ARTS SD
+http://mytvip.xyz:80/JJEncP/perSuD/70442
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD" tvg-logo="https://www.gvt.com.br/midiaportal/tv/_images/gc/canais/fishtv%5bweb%5d.jpg" group-title="VARIEDADES",FISH TV HD
+http://mytvip.xyz:80/JJEncP/perSuD/76056
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD" tvg-logo="https://www.gvt.com.br/midiaportal/tv/_images/gc/canais/fishtv%5bweb%5d.jpg" group-title="VARIEDADES",FISH TV SD
+http://mytvip.xyz:80/JJEncP/perSuD/75821
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://kddragonflydesigns.files.wordpress.com/2011/08/tv_food_network1.jpg" group-title="VARIEDADES",FOOD NETWORK HD
+http://mytvip.xyz:80/JJEncP/perSuD/75723
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD" tvg-logo="https://kddragonflydesigns.files.wordpress.com/2011/08/tv_food_network1.jpg" group-title="VARIEDADES",FOOD NETWORK SD
+http://mytvip.xyz:80/JJEncP/perSuD/75823
+#EXTINF:-1 tvg-id="" tvg-name="FOX  NEWS HD" tvg-logo="https://i.imgur.com/cJ3uhiY.jpg" group-title="NOTICIAS",FOX  NEWS HD
+http://mytvip.xyz:80/JJEncP/perSuD/76074
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX HD" tvg-logo="https://pmcdeadline2.files.wordpress.com/2019/03/new-fox-entertainment-logo-2019.jpg" group-title="FILMES E SERIES",FOX HD
+http://mytvip.xyz:80/JJEncP/perSuD/75724
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/fox-life.jpg" group-title="FILMES E SERIES",FOX LIFE HD
+http://mytvip.xyz:80/JJEncP/perSuD/75725
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/fox-life.jpg" group-title="FILMES E SERIES",FOX LIFE SD
+http://mytvip.xyz:80/JJEncP/perSuD/75826
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS SD" tvg-logo="https://i.imgur.com/cJ3uhiY.jpg" group-title="NOTICIAS",FOX NEWS SD
+http://mytvip.xyz:80/JJEncP/perSuD/76102
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/2017_fox-premium1_2.jpg" group-title="FILMES E SERIES",FOX PREMIUM 1 HD
+http://mytvip.xyz:80/JJEncP/perSuD/76017
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/2017_fox-premium1_2.jpg" group-title="FILMES E SERIES",FOX PREMIUM 1 SD
+http://mytvip.xyz:80/JJEncP/perSuD/76101
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/2017_fox-premium2_2.jpg" group-title="FILMES E SERIES",FOX PREMIUM 2 HD
+http://mytvip.xyz:80/JJEncP/perSuD/75827
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2 SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/2017_fox-premium2_2.jpg" group-title="FILMES E SERIES",FOX PREMIUM 2 SD
+http://mytvip.xyz:80/JJEncP/perSuD/77180
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX SD" tvg-logo="https://pmcdeadline2.files.wordpress.com/2019/03/new-fox-entertainment-logo-2019.jpg" group-title="FILMES E SERIES",FOX SD
+http://mytvip.xyz:80/JJEncP/perSuD/75832
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/fox-sports.jpg" group-title="ESPORTE",FOX SPORTS 2 HD
+http://mytvip.xyz:80/JJEncP/perSuD/75727
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/fox-sports2.jpg" group-title="ESPORTE",FOX SPORTS 2 SD
+http://mytvip.xyz:80/JJEncP/perSuD/63175
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/fox-sports.jpg" group-title="ESPORTE",FOX SPORTS HD
+http://mytvip.xyz:80/JJEncP/perSuD/75726
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/fox-sports.jpg" group-title="ESPORTE",FOX SPORTS SD
+http://mytvip.xyz:80/JJEncP/perSuD/75831
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_fx.jpg" group-title="FILMES E SERIES",FX HD
+http://mytvip.xyz:80/JJEncP/perSuD/75834
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_fx.jpg" group-title="FILMES E SERIES",FX SD
+http://mytvip.xyz:80/JJEncP/perSuD/75835
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOBINHO HD" tvg-logo="https://i.imgur.com/CjZmZSP.jpg" group-title="INFANTIL",GLOBINHO HD
+http://mytvip.xyz:80/JJEncP/perSuD/75728
+#EXTINF:-1 tvg-id="" tvg-name="GLOBINHO SD" tvg-logo="https://www.gvt.com.br/midiaportal/tv/_images/gc/canais/2017_GLOOB.jpg" group-title="INFANTIL",GLOBINHO SD
+http://mytvip.xyz:80/JJEncP/perSuD/76837
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO AMAZONAS HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO AMAZONAS HD
+http://mytvip.xyz:80/JJEncP/perSuD/76853
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA FHD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO BAHIA FHD
+http://mytvip.xyz:80/JJEncP/perSuD/77315
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO BAHIA HD
+http://mytvip.xyz:80/JJEncP/perSuD/76851
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO BAHIA SD
+http://mytvip.xyz:80/JJEncP/perSuD/77314
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAURU SP" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO BAURU SP
+http://mytvip.xyz:80/JJEncP/perSuD/76864
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO BELÉM HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO BELÉM HD
+http://mytvip.xyz:80/JJEncP/perSuD/76854
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO CAMPINAS SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO CAMPINAS SD
+http://mytvip.xyz:80/JJEncP/perSuD/76865
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO CRUZEIRO DO SUL MA" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO CRUZEIRO DO SUL MA
+http://mytvip.xyz:80/JJEncP/perSuD/76868
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO CURITIBA HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO CURITIBA HD
+http://mytvip.xyz:80/JJEncP/perSuD/76848
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO DF HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO DF HD
+http://mytvip.xyz:80/JJEncP/perSuD/76846
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO DF SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO DF SD
+http://mytvip.xyz:80/JJEncP/perSuD/77324
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO FLORIANOPOLIS HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO FLORIANOPOLIS HD
+http://mytvip.xyz:80/JJEncP/perSuD/76845
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO GOIANIA HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO GOIANIA HD
+http://mytvip.xyz:80/JJEncP/perSuD/76844
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTERIOR RJ HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO INTERIOR RJ HD
+http://mytvip.xyz:80/JJEncP/perSuD/76839
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTERNACIONAL" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO INTERNACIONAL
+http://mytvip.xyz:80/JJEncP/perSuD/76972
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO MINAS HD
+http://mytvip.xyz:80/JJEncP/perSuD/76852
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO MINAS SD
+http://mytvip.xyz:80/JJEncP/perSuD/77261
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NATAL HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO NATAL HD
+http://mytvip.xyz:80/JJEncP/perSuD/76842
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo-news.jpg" group-title="NOTICIAS",GLOBO NEWS HD
+http://mytvip.xyz:80/JJEncP/perSuD/75729
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo-news.jpg" group-title="NOTICIAS",GLOBO NEWS SD
+http://mytvip.xyz:80/JJEncP/perSuD/63123
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PERNAMBUCO HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO PERNAMBUCO HD
+http://mytvip.xyz:80/JJEncP/perSuD/77164
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PIAUI HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO PIAUI HD
+http://mytvip.xyz:80/JJEncP/perSuD/76838
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PR FHD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO PR FHD
+http://mytvip.xyz:80/JJEncP/perSuD/77323
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PR HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO PR HD
+http://mytvip.xyz:80/JJEncP/perSuD/77322
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PR SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO PR SD
+http://mytvip.xyz:80/JJEncP/perSuD/77321
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO RJ HD
+http://mytvip.xyz:80/JJEncP/perSuD/76912
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO RJ SD
+http://mytvip.xyz:80/JJEncP/perSuD/77258
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RS HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO RS HD
+http://mytvip.xyz:80/JJEncP/perSuD/77313
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RS SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO RS SD
+http://mytvip.xyz:80/JJEncP/perSuD/77312
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SANTOS" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO SANTOS
+http://mytvip.xyz:80/JJEncP/perSuD/76867
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SC FHD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO SC FHD
+http://mytvip.xyz:80/JJEncP/perSuD/77318
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SC HD" tvg-logo="" group-title="REDE GLOBO",GLOBO SC HD
+http://mytvip.xyz:80/JJEncP/perSuD/77317
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SERGIPE HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO SERGIPE HD
+http://mytvip.xyz:80/JJEncP/perSuD/77319
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SERGIPE SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO SERGIPE SD
+http://mytvip.xyz:80/JJEncP/perSuD/77320
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SOROCABA" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO SOROCABA
+http://mytvip.xyz:80/JJEncP/perSuD/76869
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO SP HD
+http://mytvip.xyz:80/JJEncP/perSuD/63086
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO SP SD
+http://mytvip.xyz:80/JJEncP/perSuD/77260
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TRIBUNA SANTOS" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO TV TRIBUNA SANTOS
+http://mytvip.xyz:80/JJEncP/perSuD/77185
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GLOBO VERDES MARES SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_globo.jpg" group-title="REDE GLOBO",GLOBO VERDES MARES SD
+http://mytvip.xyz:80/JJEncP/perSuD/76822
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB HD" tvg-logo="https://www.gvt.com.br/midiaportal/tv/_images/gc/canais/2017_GLOOB.jpg" group-title="INFANTIL",GLOOB HD
+http://mytvip.xyz:80/JJEncP/perSuD/75849
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB SD" tvg-logo="https://www.gvt.com.br/midiaportal/tv/_images/gc/canais/2017_GLOOB.jpg" group-title="INFANTIL",GLOOB SD
+http://mytvip.xyz:80/JJEncP/perSuD/75850
+#EXTINF:-1 tvg-id="" tvg-name="GNT HD" tvg-logo="https://i.imgur.com/58KiDZH.jpg" group-title="VARIEDADES",GNT HD
+http://mytvip.xyz:80/JJEncP/perSuD/75853
+#EXTINF:-1 tvg-id="" tvg-name="GNT SD" tvg-logo="https://i.imgur.com/58KiDZH.jpg" group-title="VARIEDADES",GNT SD
+http://mytvip.xyz:80/JJEncP/perSuD/75854
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL TV" tvg-logo="https://i.imgur.com/k1bi9dK.jpg" group-title="RELIGIOSO",GOSPEL TV
+http://mytvip.xyz:80/JJEncP/perSuD/76317
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/hbo2.jpg" group-title="TELECINE&HBO",HBO 2 HD
+http://mytvip.xyz:80/JJEncP/perSuD/75735
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/hbo2.jpg" group-title="TELECINE&HBO",HBO 2 SD
+http://mytvip.xyz:80/JJEncP/perSuD/75858
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/hbo-family.jpg" group-title="TELECINE&HBO",HBO FAMILY HD
+http://mytvip.xyz:80/JJEncP/perSuD/75731
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/hbo-family.jpg" group-title="TELECINE&HBO",HBO FAMILY SD
+http://mytvip.xyz:80/JJEncP/perSuD/75860
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/hbo.jpg" group-title="TELECINE&HBO",HBO HD
+http://mytvip.xyz:80/JJEncP/perSuD/75732
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS E" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/hbo-plus-e.jpg" group-title="TELECINE&HBO",HBO PLUS E
+http://mytvip.xyz:80/JJEncP/perSuD/62998
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/hbo-plus.jpg" group-title="TELECINE&HBO",HBO PLUS HD
+http://mytvip.xyz:80/JJEncP/perSuD/75733
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/hbo-plus.jpg" group-title="TELECINE&HBO",HBO PLUS SD
+http://mytvip.xyz:80/JJEncP/perSuD/75863
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/hbo.jpg" group-title="TELECINE&HBO",HBO SD
+http://mytvip.xyz:80/JJEncP/perSuD/75866
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/hbo-signature.jpg" group-title="TELECINE&HBO",HBO SIGNATURE HD
+http://mytvip.xyz:80/JJEncP/perSuD/75734
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/hbo-signature.jpg" group-title="TELECINE&HBO",HBO SIGNATURE SD
+http://mytvip.xyz:80/JJEncP/perSuD/75865
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HD" tvg-logo="https://i.imgur.com/vFNXR5k.jpg" group-title="VARIEDADES",HGTV HD
+http://mytvip.xyz:80/JJEncP/perSuD/75715
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV SD" tvg-logo="https://i.imgur.com/vFNXR5k.jpg" group-title="VARIEDADES",HGTV SD
+http://mytvip.xyz:80/JJEncP/perSuD/76081
+#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/history2.jpg" group-title="DOCUMENTARIOS",HISTORY 2 HD
+http://mytvip.xyz:80/JJEncP/perSuD/75730
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2 SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/history2.jpg" group-title="DOCUMENTARIOS",HISTORY 2 SD
+http://mytvip.xyz:80/JJEncP/perSuD/75856
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/history.jpg" group-title="DOCUMENTARIOS",HISTORY HD
+http://mytvip.xyz:80/JJEncP/perSuD/75736
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/history.jpg" group-title="DOCUMENTARIOS",HISTORY SD
+http://mytvip.xyz:80/JJEncP/perSuD/75954
+#EXTINF:-1 tvg-id="iSat.br" tvg-name="I SAT HD" tvg-logo="https://i.imgur.com/DdjgTXH.jpg" group-title="VARIEDADES",I SAT HD
+http://mytvip.xyz:80/JJEncP/perSuD/76063
+#EXTINF:-1 tvg-id="" tvg-name="IMPD" tvg-logo="https://orando-comvoce.webnode.com.br/_files/200000185-0aebb0b46e/igreja-mundial-do-poder-de-deus-impd-novamente-aberta.png" group-title="RELIGIOSO",IMPD
+http://mytvip.xyz:80/JJEncP/perSuD/77304
+#EXTINF:-1 tvg-id="" tvg-name="ITU TV" tvg-logo="https://i.imgur.com/A6luSK4.jpg" group-title="ABERTOS",ITU TV
+http://mytvip.xyz:80/JJEncP/perSuD/76810
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://www.gvt.com.br/midiaportal/tv/_images/gc/canais/lifetime%5bweb%5d.jpg" group-title="DOCUMENTARIOS",LIFETIME HD
+http://mytvip.xyz:80/JJEncP/perSuD/62974
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD" tvg-logo="https://www.gvt.com.br/midiaportal/tv/_images/gc/canais/lifetime%5bweb%5d.jpg" group-title="DOCUMENTARIOS",LIFETIME SD
+http://mytvip.xyz:80/JJEncP/perSuD/62972
+#EXTINF:-1 tvg-id="" tvg-name="M2OTV" tvg-logo="https://i.imgur.com/l5qlXBC.jpg" group-title="ABERTOS",M2OTV
+http://mytvip.xyz:80/JJEncP/perSuD/76966
+#EXTINF:-1 tvg-id="" tvg-name="MANASAT" tvg-logo="https://i.imgur.com/qHWfBZj.jpg" group-title="RELIGIOSO",MANASAT
+http://mytvip.xyz:80/JJEncP/perSuD/76938
+#EXTINF:-1 tvg-id="" tvg-name="MASTER TV" tvg-logo="https://i.imgur.com/5BHnQYu.jpg" group-title="ABERTOS",MASTER TV
+http://mytvip.xyz:80/JJEncP/perSuD/76797
+#EXTINF:-1 tvg-id="Max.br" tvg-name="MAX HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/maxup.jpg" group-title="FILMES E SERIES",MAX HD
+http://mytvip.xyz:80/JJEncP/perSuD/75737
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="MAX PRIME HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/max-prime.jpg" group-title="FILMES E SERIES",MAX PRIME HD
+http://mytvip.xyz:80/JJEncP/perSuD/75738
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="MAX PRIME SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/max-prime.jpg" group-title="FILMES E SERIES",MAX PRIME SD
+http://mytvip.xyz:80/JJEncP/perSuD/75877
+#EXTINF:-1 tvg-id="Max.br" tvg-name="MAX SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/maxup.jpg" group-title="FILMES E SERIES",MAX SD
+http://mytvip.xyz:80/JJEncP/perSuD/75880
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="MAX UP HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/maxup.jpg" group-title="FILMES E SERIES",MAX UP HD
+http://mytvip.xyz:80/JJEncP/perSuD/75739
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="MAX UP SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/maxup.jpg" group-title="FILMES E SERIES",MAX UP SD
+http://mytvip.xyz:80/JJEncP/perSuD/62953
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/megapixhd.jpg" group-title="FILMES E SERIES",MEGAPIX HD
+http://mytvip.xyz:80/JJEncP/perSuD/75740
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/megapixhd.jpg" group-title="FILMES E SERIES",MEGAPIX SD
+http://mytvip.xyz:80/JJEncP/perSuD/75882
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/MTV.jpg" group-title="VARIEDADES",MTV HD
+http://mytvip.xyz:80/JJEncP/perSuD/62941
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/MTV.jpg" group-title="VARIEDADES",MTV SD
+http://mytvip.xyz:80/JJEncP/perSuD/75884
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/multishow.jpg" group-title="VARIEDADES",MULTISHOW HD
+http://mytvip.xyz:80/JJEncP/perSuD/75742
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/multishow.jpg" group-title="VARIEDADES",MULTISHOW SD
+http://mytvip.xyz:80/JJEncP/perSuD/75886
+#EXTINF:-1 tvg-id="Musicboxbrazil.br" tvg-name="MUSIC BOX BRASIL HD" tvg-logo="https://www.boxbrazil.tv.br/wp-content/uploads/2017/11/LOGO-Music-Box-Brazil-e1511359599776-300x128.png" group-title="VARIEDADES",MUSIC BOX BRASIL HD
+http://mytvip.xyz:80/JJEncP/perSuD/76060
+#EXTINF:-1 tvg-id="Musicboxbrazil.br" tvg-name="MUSIC BOX BRASIL SD" tvg-logo="https://www.boxbrazil.tv.br/wp-content/uploads/2017/11/LOGO-Music-Box-Brazil-e1511359599776-300x128.png" group-title="VARIEDADES",MUSIC BOX BRASIL SD
+http://mytvip.xyz:80/JJEncP/perSuD/75887
+#EXTINF:-1 tvg-id="" tvg-name="MY CU JÓ" tvg-logo="" group-title="CORTESIA/TEMPORARIOS",MY CU JÓ
+http://mytvip.xyz:80/JJEncP/perSuD/77892
+#EXTINF:-1 tvg-id="" tvg-name="MYCU JO" tvg-logo="" group-title="CORTESIA/TEMPORARIOS",MYCU JO
+http://mytvip.xyz:80/JJEncP/perSuD/78187
+#EXTINF:-1 tvg-id="" tvg-name="MYCUJO" tvg-logo="" group-title="CORTESIA/TEMPORARIOS",MYCUJO
+http://mytvip.xyz:80/JJEncP/perSuD/78181
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS HD" tvg-logo="https://3.bp.blogspot.com/-y-d0fTjACJI/WbsumfRXw3I/AAAAAAAA-8k/biLnclDIaAE5T-UNcNq_Ns7qnSH2lIDKACPcBGAYYCw/s1600/nat%2Bgeo%2Bkids-ouniversodatv.png" group-title="INFANTIL",NAT GEO KIDS HD
+http://mytvip.xyz:80/JJEncP/perSuD/62921
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_natgeo.jpg" group-title="DOCUMENTARIOS",NATGEO HD
+http://mytvip.xyz:80/JJEncP/perSuD/75743
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS SD" tvg-logo="https://i.imgur.com/AXQ9k86.jpg" group-title="INFANTIL",NATGEO KIDS SD
+http://mytvip.xyz:80/JJEncP/perSuD/75890
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_natgeo.jpg" group-title="DOCUMENTARIOS",NATGEO SD
+http://mytvip.xyz:80/JJEncP/perSuD/75893
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/National%20Geographic%20Wild.jpg" group-title="DOCUMENTARIOS",NATGEO WILD HD
+http://mytvip.xyz:80/JJEncP/perSuD/75744
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/National%20Geographic%20Wild.jpg" group-title="DOCUMENTARIOS",NATGEO WILD SD
+http://mytvip.xyz:80/JJEncP/perSuD/75892
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_nick-junior.jpg" group-title="INFANTIL",NICK HD
+http://mytvip.xyz:80/JJEncP/perSuD/75745
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_nick-junior.jpg" group-title="INFANTIL",NICK JR HD
+http://mytvip.xyz:80/JJEncP/perSuD/76018
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_nick-junior.jpg" group-title="INFANTIL",NICK JR SD
+http://mytvip.xyz:80/JJEncP/perSuD/77182
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_nick-junior.jpg" group-title="INFANTIL",NICK SD
+http://mytvip.xyz:80/JJEncP/perSuD/75897
+#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="NOVO TEMPO" tvg-logo="https://i.imgur.com/Kj604J9.jpg" group-title="RELIGIOSO",NOVO TEMPO
+http://mytvip.xyz:80/JJEncP/perSuD/75403
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/canal-off.jpg" group-title="VARIEDADES",OFF HD
+http://mytvip.xyz:80/JJEncP/perSuD/75898
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/canal-off.jpg" group-title="VARIEDADES",OFF SD
+http://mytvip.xyz:80/JJEncP/perSuD/75899
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMONT CHANNEL HD" tvg-logo="http://3.bp.blogspot.com/-HU969JCRcmc/UJLCg38bluI/AAAAAAABA70/MeEcMKSekXE/s400/paramount%2Blogo.jpg" group-title="FILMES E SERIES",PARAMONT CHANNEL HD
+http://mytvip.xyz:80/JJEncP/perSuD/75746
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMONT CHANNEL SD" tvg-logo="http://3.bp.blogspot.com/-HU969JCRcmc/UJLCg38bluI/AAAAAAABA70/MeEcMKSekXE/s400/paramount%2Blogo.jpg" group-title="FILMES E SERIES",PARAMONT CHANNEL SD
+http://mytvip.xyz:80/JJEncP/perSuD/75901
+#EXTINF:-1 tvg-id="Playtv.br" tvg-name="PLAY TV HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/playtv.jpg" group-title="VARIEDADES",PLAY TV HD
+http://mytvip.xyz:80/JJEncP/perSuD/76041
+#EXTINF:-1 tvg-id="Playtv.br" tvg-name="PLAY TV SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/playtv.jpg" group-title="VARIEDADES",PLAY TV SD
+http://mytvip.xyz:80/JJEncP/perSuD/75902
+#EXTINF:-1 tvg-id="" tvg-name="POLISHOP TV" tvg-logo="" group-title="VARIEDADES",POLISHOP TV
+http://mytvip.xyz:80/JJEncP/perSuD/77186
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_premiere-hd.jpg" group-title="PREMIER",PREMIERE 2 HD
+http://mytvip.xyz:80/JJEncP/perSuD/76011
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_premiere-hd.jpg" group-title="PREMIER",PREMIERE 2 SD
+http://mytvip.xyz:80/JJEncP/perSuD/75904
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_premiere-hd.jpg" group-title="PREMIER",PREMIERE 3 HD
+http://mytvip.xyz:80/JJEncP/perSuD/76012
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_premiere-hd.jpg" group-title="PREMIER",PREMIERE 3 SD
+http://mytvip.xyz:80/JJEncP/perSuD/75906
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_premiere-hd.jpg" group-title="PREMIER",PREMIERE 4 HD
+http://mytvip.xyz:80/JJEncP/perSuD/76013
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_premiere-hd.jpg" group-title="PREMIER",PREMIERE 4 SD
+http://mytvip.xyz:80/JJEncP/perSuD/75908
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_premiere-hd.jpg" group-title="PREMIER",PREMIERE 5 HD
+http://mytvip.xyz:80/JJEncP/perSuD/76014
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_premiere-hd.jpg" group-title="PREMIER",PREMIERE 5 SD
+http://mytvip.xyz:80/JJEncP/perSuD/75910
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_premiere-hd.jpg" group-title="PREMIER",PREMIERE 6 HD
+http://mytvip.xyz:80/JJEncP/perSuD/76015
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_premiere-hd.jpg" group-title="PREMIER",PREMIERE 6 SD
+http://mytvip.xyz:80/JJEncP/perSuD/75912
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_premiere-hd.jpg" group-title="PREMIER",PREMIERE 7 HD
+http://mytvip.xyz:80/JJEncP/perSuD/76016
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_premiere-hd.jpg" group-title="PREMIER",PREMIERE 7 SD
+http://mytvip.xyz:80/JJEncP/perSuD/75914
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8 SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_premiere-hd.jpg" group-title="PREMIER",PREMIERE 8 SD
+http://mytvip.xyz:80/JJEncP/perSuD/70434
+#EXTINF:-1 tvg-id="Premiere9.br" tvg-name="PREMIERE 9 SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_premiere-hd.jpg" group-title="PREMIER",PREMIERE 9 SD
+http://mytvip.xyz:80/JJEncP/perSuD/70433
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_premiere-hd.jpg" group-title="PREMIER",PREMIERE CLUBES HD
+http://mytvip.xyz:80/JJEncP/perSuD/75747
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_premiere-hd.jpg" group-title="PREMIER",PREMIERE CLUBES SD
+http://mytvip.xyz:80/JJEncP/perSuD/75916
+#EXTINF:-1 tvg-id="Primeboxbrazil.br" tvg-name="PRIME BOX BRASIL HD" tvg-logo="https://i.imgur.com/Yu1xNjz.jpg" group-title="FILMES E SERIES",PRIME BOX BRASIL HD
+http://mytvip.xyz:80/JJEncP/perSuD/76048
+#EXTINF:-1 tvg-id="Primeboxbrazil.br" tvg-name="PRIME BOX BRASIL SD" tvg-logo="https://i.imgur.com/Yu1xNjz.jpg" group-title="FILMES E SERIES",PRIME BOX BRASIL SD
+http://mytvip.xyz:80/JJEncP/perSuD/76080
+#EXTINF:-1 tvg-id="" tvg-name="PUC TV GO" tvg-logo="https://i.imgur.com/gpcQrd8.jpg" group-title="ABERTOS",PUC TV GO
+http://mytvip.xyz:80/JJEncP/perSuD/76986
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD  HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/recordtv_2.jpg" group-title="CANAIS RECORD",RECORD  HD
+http://mytvip.xyz:80/JJEncP/perSuD/76088
+#EXTINF:-1 tvg-id="" tvg-name="RECORD  MG HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/recordtv_2.jpg" group-title="CANAIS RECORD",RECORD  MG HD
+http://mytvip.xyz:80/JJEncP/perSuD/76957
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BA  HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/recordtv_2.jpg" group-title="CANAIS RECORD",RECORD BA  HD
+http://mytvip.xyz:80/JJEncP/perSuD/62819
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BA HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/recordtv_2.jpg" group-title="CANAIS RECORD",RECORD BA HD
+http://mytvip.xyz:80/JJEncP/perSuD/76951
+#EXTINF:-1 tvg-id="" tvg-name="RECORD CAMPINAS" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/recordtv_2.jpg" group-title="CANAIS RECORD",RECORD CAMPINAS
+http://mytvip.xyz:80/JJEncP/perSuD/77166
+#EXTINF:-1 tvg-id="" tvg-name="RECORD ES HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/recordtv_2.jpg" group-title="CANAIS RECORD",RECORD ES HD
+http://mytvip.xyz:80/JJEncP/perSuD/77816
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD ES SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/recordtv_2.jpg" group-title="CANAIS RECORD",RECORD ES SD
+http://mytvip.xyz:80/JJEncP/perSuD/70333
+#EXTINF:-1 tvg-id="" tvg-name="RECORD GO HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/recordtv_2.jpg" group-title="CANAIS RECORD",RECORD GO HD
+http://mytvip.xyz:80/JJEncP/perSuD/76955
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD GO HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/recordtv_2.jpg" group-title="CANAIS RECORD",RECORD GO HD
+http://mytvip.xyz:80/JJEncP/perSuD/76777
+#EXTINF:-1 tvg-id="" tvg-name="RECORD LITORAL SANTOS" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/recordtv_2.jpg" group-title="CANAIS RECORD",RECORD LITORAL SANTOS
+http://mytvip.xyz:80/JJEncP/perSuD/77167
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD MG HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/recordtv_2.jpg" group-title="CANAIS RECORD",RECORD MG HD
+http://mytvip.xyz:80/JJEncP/perSuD/62812
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD MG HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/recordtv_2.jpg" group-title="CANAIS RECORD",RECORD MG HD
+http://mytvip.xyz:80/JJEncP/perSuD/76776
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MS HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/recordtv_2.jpg" group-title="CANAIS RECORD",RECORD MS HD
+http://mytvip.xyz:80/JJEncP/perSuD/76950
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD MT HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/recordtv_2.jpg" group-title="CANAIS RECORD",RECORD MT HD
+http://mytvip.xyz:80/JJEncP/perSuD/76856
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/recordtv_2.jpg" group-title="NOTICIAS",RECORD NEWS HD
+http://mytvip.xyz:80/JJEncP/perSuD/75918
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/recordtv_2.jpg" group-title="NOTICIAS",RECORD NEWS SD
+http://mytvip.xyz:80/JJEncP/perSuD/75919
+#EXTINF:-1 tvg-id="" tvg-name="RECORD PA HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/recordtv_2.jpg" group-title="CANAIS RECORD",RECORD PA HD
+http://mytvip.xyz:80/JJEncP/perSuD/76959
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD PA SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/recordtv_2.jpg" group-title="CANAIS RECORD",RECORD PA SD
+http://mytvip.xyz:80/JJEncP/perSuD/76772
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD PI HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/recordtv_2.jpg" group-title="CANAIS RECORD",RECORD PI HD
+http://mytvip.xyz:80/JJEncP/perSuD/76781
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD PR HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/recordtv_2.jpg" group-title="CANAIS RECORD",RECORD PR HD
+http://mytvip.xyz:80/JJEncP/perSuD/76916
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RJ HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/recordtv_2.jpg" group-title="CANAIS RECORD",RECORD RJ HD
+http://mytvip.xyz:80/JJEncP/perSuD/76961
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RS HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/recordtv_2.jpg" group-title="CANAIS RECORD",RECORD RS HD
+http://mytvip.xyz:80/JJEncP/perSuD/62803
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RS HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/recordtv_2.jpg" group-title="CANAIS RECORD",RECORD RS HD
+http://mytvip.xyz:80/JJEncP/perSuD/76963
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RS HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/recordtv_2.jpg" group-title="CANAIS RECORD",RECORD RS HD
+http://mytvip.xyz:80/JJEncP/perSuD/76780
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/recordtv_2.jpg" group-title="CANAIS RECORD",RECORD SD
+http://mytvip.xyz:80/JJEncP/perSuD/62822
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/recordtv_2.jpg" group-title="CANAIS RECORD",RECORD SP HD
+http://mytvip.xyz:80/JJEncP/perSuD/76949
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="REDE BRASIL" tvg-logo="https://portalomtvonline.files.wordpress.com/2015/08/wpid-img_20150829_032332.jpg" group-title="ABERTOS",REDE BRASIL
+http://mytvip.xyz:80/JJEncP/perSuD/62792
+#EXTINF:-1 tvg-id="RedeGenesis.br" tvg-name="REDE GENESIS" tvg-logo="https://i.imgur.com/VRvRvva.jpg" group-title="RELIGIOSO",REDE GENESIS
+http://mytvip.xyz:80/JJEncP/perSuD/76123
+#EXTINF:-1 tvg-id="" tvg-name="REDE MINAS" tvg-logo="https://i.imgur.com/ll9Le8U.jpg" group-title="ABERTOS",REDE MINAS
+http://mytvip.xyz:80/JJEncP/perSuD/76804
+#EXTINF:-1 tvg-id="" tvg-name="REDE RC" tvg-logo="https://i.imgur.com/1za6rMV.jpg" group-title="ABERTOS",REDE RC
+http://mytvip.xyz:80/JJEncP/perSuD/76796
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV  SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/redetv.jpg" group-title="ABERTOS",REDE TV  SD
+http://mytvip.xyz:80/JJEncP/perSuD/62787
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/redetv.jpg" group-title="ABERTOS",REDE TV HD
+http://mytvip.xyz:80/JJEncP/perSuD/75920
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA" tvg-logo="https://i.ytimg.com/vi/dOOael58g0o/hqdefault.jpg" group-title="RELIGIOSO",REDE VIDA
+http://mytvip.xyz:80/JJEncP/perSuD/62784
+#EXTINF:-1 tvg-id="" tvg-name="RETRO MUSIC" tvg-logo="https://i.imgur.com/PZ3RKtJ.jpg" group-title="VARIEDADES",RETRO MUSIC
+http://mytvip.xyz:80/JJEncP/perSuD/76800
+#EXTINF:-1 tvg-id="" tvg-name="RETRO TV" tvg-logo="https://i.imgur.com/dzGPlFz.jpg" group-title="ABERTOS",RETRO TV
+http://mytvip.xyz:80/JJEncP/perSuD/76968
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT  CIDADE VERDE  HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/sbt.jpg" group-title="CANAIS SBT",SBT  CIDADE VERDE  HD
+http://mytvip.xyz:80/JJEncP/perSuD/62768
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT BAHIA HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/sbt.jpg" group-title="CANAIS SBT",SBT BAHIA HD
+http://mytvip.xyz:80/JJEncP/perSuD/62779
+#EXTINF:-1 tvg-id="" tvg-name="SBT CARUARU" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/sbt.jpg" group-title="CANAIS SBT",SBT CARUARU
+http://mytvip.xyz:80/JJEncP/perSuD/76858
+#EXTINF:-1 tvg-id="" tvg-name="SBT CE" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/sbt.jpg" group-title="CANAIS SBT",SBT CE
+http://mytvip.xyz:80/JJEncP/perSuD/76794
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/sbt.jpg" group-title="CANAIS SBT",SBT HD
+http://mytvip.xyz:80/JJEncP/perSuD/75922
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT MA" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/sbt.jpg" group-title="CANAIS SBT",SBT MA
+http://mytvip.xyz:80/JJEncP/perSuD/76786
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT PARANA HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/sbt.jpg" group-title="CANAIS SBT",SBT PARANA HD
+http://mytvip.xyz:80/JJEncP/perSuD/62776
+#EXTINF:-1 tvg-id="" tvg-name="SBT PE" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/sbt.jpg" group-title="CANAIS SBT",SBT PE
+http://mytvip.xyz:80/JJEncP/perSuD/76789
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT PERNAMBUCO SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/sbt.jpg" group-title="CANAIS SBT",SBT PERNAMBUCO SD
+http://mytvip.xyz:80/JJEncP/perSuD/62778
+#EXTINF:-1 tvg-id="" tvg-name="SBT PI" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/sbt.jpg" group-title="CANAIS SBT",SBT PI
+http://mytvip.xyz:80/JJEncP/perSuD/76795
+#EXTINF:-1 tvg-id="" tvg-name="SBT RECIFE" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/sbt.jpg" group-title="CANAIS SBT",SBT RECIFE
+http://mytvip.xyz:80/JJEncP/perSuD/76859
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RJ HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/sbt.jpg" group-title="CANAIS SBT",SBT RJ HD
+http://mytvip.xyz:80/JJEncP/perSuD/62775
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RS HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/sbt.jpg" group-title="CANAIS SBT",SBT RS HD
+http://mytvip.xyz:80/JJEncP/perSuD/62774
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SERGIPE HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/sbt.jpg" group-title="CANAIS SBT",SBT SERGIPE HD
+http://mytvip.xyz:80/JJEncP/perSuD/62772
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/sbt.jpg" group-title="CANAIS SBT",SBT SP HD
+http://mytvip.xyz:80/JJEncP/perSuD/62770
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/sbt.jpg" group-title="CANAIS SBT",SBT SP SD
+http://mytvip.xyz:80/JJEncP/perSuD/62769
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY HD" tvg-logo="https://i.imgur.com/0Yavps5.jpg" group-title="FILMES E SERIES",SONY HD
+http://mytvip.xyz:80/JJEncP/perSuD/75748
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY SD" tvg-logo="https://i.imgur.com/0Yavps5.jpg" group-title="FILMES E SERIES",SONY SD
+http://mytvip.xyz:80/JJEncP/perSuD/75925
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_space-hd.jpg" group-title="FILMES E SERIES",SPACE HD
+http://mytvip.xyz:80/JJEncP/perSuD/75749
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_space-hd.jpg" group-title="FILMES E SERIES",SPACE SD
+http://mytvip.xyz:80/JJEncP/perSuD/75927
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_sporttv-2.jpg" group-title="ESPORTE",SPORTV 2 HD
+http://mytvip.xyz:80/JJEncP/perSuD/62745
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 2 SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_sporttv-2.jpg" group-title="ESPORTE",SPORTV 2 SD
+http://mytvip.xyz:80/JJEncP/perSuD/62743
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/sportv3.jpg" group-title="ESPORTE",SPORTV 3 HD
+http://mytvip.xyz:80/JJEncP/perSuD/75752
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/sportv3.jpg" group-title="ESPORTE",SPORTV 3 SD
+http://mytvip.xyz:80/JJEncP/perSuD/75931
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_sporttv.jpg" group-title="ESPORTE",SPORTV HD
+http://mytvip.xyz:80/JJEncP/perSuD/75750
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_sporttv.jpg" group-title="ESPORTE",SPORTV SD
+http://mytvip.xyz:80/JJEncP/perSuD/75933
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_studio-universal.jpg" group-title="FILMES E SERIES",STUDIO UNIVERSAL HD
+http://mytvip.xyz:80/JJEncP/perSuD/75753
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_studio-universal.jpg" group-title="FILMES E SERIES",STUDIO UNIVERSAL SD
+http://mytvip.xyz:80/JJEncP/perSuD/75935
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/syfy.jpg" group-title="FILMES E SERIES",SYFY HD
+http://mytvip.xyz:80/JJEncP/perSuD/75754
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/syfy.jpg" group-title="FILMES E SERIES",SYFY SD
+http://mytvip.xyz:80/JJEncP/perSuD/75937
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/tbs-hd.jpg" group-title="FILMES E SERIES",TBS HD
+http://mytvip.xyz:80/JJEncP/perSuD/75938
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/tbs-hd.jpg" group-title="FILMES E SERIES",TBS SD
+http://mytvip.xyz:80/JJEncP/perSuD/75939
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/tc-action-hd.jpg" group-title="TELECINE&HBO",TC ACTION HD
+http://mytvip.xyz:80/JJEncP/perSuD/75756
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/tc-action-hd.jpg" group-title="TELECINE&HBO",TC ACTION SD
+http://mytvip.xyz:80/JJEncP/perSuD/75941
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_telecine-cult.jpg" group-title="TELECINE&HBO",TC CULT HD
+http://mytvip.xyz:80/JJEncP/perSuD/75757
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_telecine-cult.jpg" group-title="TELECINE&HBO",TC CULT SD
+http://mytvip.xyz:80/JJEncP/perSuD/75943
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/tc-fun-hd.jpg" group-title="TELECINE&HBO",TC FUN HD
+http://mytvip.xyz:80/JJEncP/perSuD/75758
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/tc-fun-hd.jpg" group-title="TELECINE&HBO",TC FUN SD
+http://mytvip.xyz:80/JJEncP/perSuD/75945
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/tc-pipoca-hd.jpg" group-title="TELECINE&HBO",TC PIPOCA HD
+http://mytvip.xyz:80/JJEncP/perSuD/75759
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/tc-pipoca-hd.jpg" group-title="TELECINE&HBO",TC PIPOCA SD
+http://mytvip.xyz:80/JJEncP/perSuD/75947
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/tc-premium-hd.jpg" group-title="TELECINE&HBO",TC PREMIUM HD
+http://mytvip.xyz:80/JJEncP/perSuD/75760
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/tc-premium-hd.jpg" group-title="TELECINE&HBO",TC PREMIUM SD
+http://mytvip.xyz:80/JJEncP/perSuD/75949
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/tc-touch-hd.jpg" group-title="TELECINE&HBO",TC TOUCH HD
+http://mytvip.xyz:80/JJEncP/perSuD/75755
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/tc-touch-hd.jpg" group-title="TELECINE&HBO",TC TOUCH SD
+http://mytvip.xyz:80/JJEncP/perSuD/75951
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_tcm.jpg" group-title="FILMES E SERIES",TCM HD
+http://mytvip.xyz:80/JJEncP/perSuD/75952
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_tcm.jpg" group-title="FILMES E SERIES",TCM SD
+http://mytvip.xyz:80/JJEncP/perSuD/75953
+#EXTINF:-1 tvg-id="Terraviva.br" tvg-name="TERRA VIVA" tvg-logo="https://i.imgur.com/1cnvdkR.jpg" group-title="ABERTOS",TERRA VIVA
+http://mytvip.xyz:80/JJEncP/perSuD/76690
+#EXTINF:-1 tvg-id="Terraviva.br" tvg-name="TERRA VIVA" tvg-logo="http://www.dealood.com/content/uploads/images/March2019/terra-viva-medium.jpg" group-title="RELIGIOSO",TERRA VIVA
+http://mytvip.xyz:80/JJEncP/perSuD/62679
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="https://i.imgur.com/NhWY5xG.jpg" group-title="FILMES E SERIES",TLC HD
+http://mytvip.xyz:80/JJEncP/perSuD/75956
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="https://i.imgur.com/NhWY5xG.jpg" group-title="FILMES E SERIES",TLC SD
+http://mytvip.xyz:80/JJEncP/perSuD/75957
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_tnt-hd.jpg" group-title="FILMES E SERIES",TNT HD
+http://mytvip.xyz:80/JJEncP/perSuD/75959
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/logo_tnt-hd.jpg" group-title="FILMES E SERIES",TNT SD
+http://mytvip.xyz:80/JJEncP/perSuD/75962
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="https://i.imgur.com/rbAKIG5.jpg" group-title="FILMES E SERIES",TNT SERIES HD
+http://mytvip.xyz:80/JJEncP/perSuD/75761
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD" tvg-logo="https://i.imgur.com/rbAKIG5.jpg" group-title="FILMES E SERIES",TNT SERIES SD
+http://mytvip.xyz:80/JJEncP/perSuD/75961
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST FHD" tvg-logo="https://i.imgur.com/K3xXJlj.jpg" group-title="INFANTIL",TOONCAST FHD
+http://mytvip.xyz:80/JJEncP/perSuD/77183
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/tooncast.jpg" group-title="INFANTIL",TOONCAST HD
+http://mytvip.xyz:80/JJEncP/perSuD/62658
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST SD" tvg-logo="https://i.imgur.com/K3xXJlj.jpg" group-title="INFANTIL",TOONCAST SD
+http://mytvip.xyz:80/JJEncP/perSuD/75964
+#EXTINF:-1 tvg-id="" tvg-name="TOP MIX GOSPEL" tvg-logo="" group-title="RELIGIOSO",TOP MIX GOSPEL
+http://mytvip.xyz:80/JJEncP/perSuD/77310
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRU TV HD" tvg-logo="https://i.imgur.com/65viwKg.jpg" group-title="VARIEDADES",TRU TV HD
+http://mytvip.xyz:80/JJEncP/perSuD/76059
+#EXTINF:-1 tvg-id="" tvg-name="TRU TV SD" tvg-logo="https://i.imgur.com/65viwKg.jpg" group-title="VARIEDADES",TRU TV SD
+http://mytvip.xyz:80/JJEncP/perSuD/70431
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA " tvg-logo="https://i.imgur.com/tthT7QO.jpg" group-title="RELIGIOSO",TV APARECIDA 
+http://mytvip.xyz:80/JJEncP/perSuD/76687
+#EXTINF:-1 tvg-id="" tvg-name="TV ARACATI" tvg-logo="https://i.imgur.com/56I0mqQ.jpg" group-title="ABERTOS",TV ARACATI
+http://mytvip.xyz:80/JJEncP/perSuD/77175
+#EXTINF:-1 tvg-id="" tvg-name="TV BNO" tvg-logo="" group-title="ABERTOS",TV BNO
+http://mytvip.xyz:80/JJEncP/perSuD/80631
+#EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV CAMARA" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/tv-camara%20(2).jpg" group-title="ABERTOS",TV CAMARA
+http://mytvip.xyz:80/JJEncP/perSuD/76691
+#EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV CAMARA" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/tv-camara%20(2).jpg" group-title="ABERTOS",TV CAMARA
+http://mytvip.xyz:80/JJEncP/perSuD/62651
+#EXTINF:-1 tvg-id="" tvg-name="TV CARUARU" tvg-logo="https://i.imgur.com/RNIAEXG.jpg" group-title="ABERTOS",TV CARUARU
+http://mytvip.xyz:80/JJEncP/perSuD/76799
+#EXTINF:-1 tvg-id="" tvg-name="TV CINEC" tvg-logo="https://i.imgur.com/2jOJUSY.jpg" group-title="ABERTOS",TV CINEC
+http://mytvip.xyz:80/JJEncP/perSuD/77170
+#EXTINF:-1 tvg-id="" tvg-name="TV CRISTO VIVE SBN" tvg-logo="https://i.imgur.com/uA4lCt8.jpg" group-title="RELIGIOSO",TV CRISTO VIVE SBN
+http://mytvip.xyz:80/JJEncP/perSuD/76930
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO DO SERTÃO SD" tvg-logo="https://i.imgur.com/w4dRZTr.jpg" group-title="ABERTOS",TV DIARIO DO SERTÃO SD
+http://mytvip.xyz:80/JJEncP/perSuD/76965
+#EXTINF:-1 tvg-id="" tvg-name="TV DIGITAL BIRIGUI" tvg-logo="" group-title="ABERTOS",TV DIGITAL BIRIGUI
+http://mytvip.xyz:80/JJEncP/perSuD/80632
+#EXTINF:-1 tvg-id="" tvg-name="TV FAAP" tvg-logo="https://i.imgur.com/1jR0CnD.jpg" group-title="ABERTOS",TV FAAP
+http://mytvip.xyz:80/JJEncP/perSuD/76821
+#EXTINF:-1 tvg-id="" tvg-name="TV FATIMA" tvg-logo="https://i.imgur.com/GSA4APq.jpg" group-title="RELIGIOSO",TV FATIMA
+http://mytvip.xyz:80/JJEncP/perSuD/76872
+#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://i.imgur.com/kUWwPNO.jpg" group-title="INFANTIL",TV KIDS
+http://mytvip.xyz:80/JJEncP/perSuD/76783
+#EXTINF:-1 tvg-id="" tvg-name="TV MACEIO" tvg-logo="https://i.imgur.com/AQhix4f.jpg" group-title="ABERTOS",TV MACEIO
+http://mytvip.xyz:80/JJEncP/perSuD/76989
+#EXTINF:-1 tvg-id="" tvg-name="TV MAO AMIGA" tvg-logo="http://www.adfranca.com.br/img/assembleia_de_Deus_quadrado.png" group-title="RELIGIOSO",TV MAO AMIGA
+http://mytvip.xyz:80/JJEncP/perSuD/77305
+#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO EXTRA" tvg-logo="https://i.imgur.com/3BAJa63.jpg" group-title="RELIGIOSO",TV NOVO TEMPO EXTRA
+http://mytvip.xyz:80/JJEncP/perSuD/76688
+#EXTINF:-1 tvg-id="" tvg-name="TV POÇOS" tvg-logo="https://i.imgur.com/yThD18G.jpg" group-title="ABERTOS",TV POÇOS
+http://mytvip.xyz:80/JJEncP/perSuD/77172
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM HD" tvg-logo="http://www.mediaportal.com.br/wp-content/uploads/2014/08/logos-clientes-22.jpg" group-title="INFANTIL",TV RA TIM BUM HD
+http://mytvip.xyz:80/JJEncP/perSuD/75966
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM SD" tvg-logo="http://www.mediaportal.com.br/wp-content/uploads/2014/08/logos-clientes-22.jpg" group-title="INFANTIL",TV RA TIM BUM SD
+http://mytvip.xyz:80/JJEncP/perSuD/62634
+#EXTINF:-1 tvg-id="" tvg-name="TV REINO" tvg-logo="http://www.tvreino.com.br/images/logo%20tvreino.png" group-title="RELIGIOSO",TV REINO
+http://mytvip.xyz:80/JJEncP/perSuD/77307
+#EXTINF:-1 tvg-id="" tvg-name="TV ROSARIO MEXICO" tvg-logo="https://i.imgur.com/KXAqmnC.jpg" group-title="RELIGIOSO",TV ROSARIO MEXICO
+http://mytvip.xyz:80/JJEncP/perSuD/76934
+#EXTINF:-1 tvg-id="" tvg-name="TV SEMEAR" tvg-logo="http://adicara.com.br/arquivos/2013/03/webtvsemear.jpg" group-title="RELIGIOSO",TV SEMEAR
+http://mytvip.xyz:80/JJEncP/perSuD/77306
+#EXTINF:-1 tvg-id="" tvg-name="TV UNIAO" tvg-logo="https://i.imgur.com/gwoF2ZM.jpg" group-title="ABERTOS",TV UNIAO
+http://mytvip.xyz:80/JJEncP/perSuD/77169
+#EXTINF:-1 tvg-id="" tvg-name="TV VERDADE" tvg-logo="https://i.imgur.com/jyCEv9W.jpg" group-title="ABERTOS",TV VERDADE
+http://mytvip.xyz:80/JJEncP/perSuD/76984
+#EXTINF:-1 tvg-id="" tvg-name="TVE" tvg-logo="https://i.imgur.com/PkGPmfA.jpg" group-title="ABERTOS",TVE
+http://mytvip.xyz:80/JJEncP/perSuD/76809
+#EXTINF:-1 tvg-id="" tvg-name="TVE PARANA" tvg-logo="https://i.imgur.com/97KMvRA.jpg" group-title="ABERTOS",TVE PARANA
+http://mytvip.xyz:80/JJEncP/perSuD/76645
+#EXTINF:-1 tvg-id="" tvg-name="TVE PORTO ALEGRE" tvg-logo="" group-title="ABERTOS",TVE PORTO ALEGRE
+http://mytvip.xyz:80/JJEncP/perSuD/80629
+#EXTINF:-1 tvg-id="" tvg-name="TVN BRASIL" tvg-logo="" group-title="ABERTOS",TVN BRASIL
+http://mytvip.xyz:80/JJEncP/perSuD/80630
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://www.tvmagazine.com.br/historiadatvpaga/imagens/mva_universal2004.jpg" group-title="FILMES E SERIES",UNIVERSAL CHANNEL HD
+http://mytvip.xyz:80/JJEncP/perSuD/75762
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="https://www.tvmagazine.com.br/historiadatvpaga/imagens/mva_universal2004.jpg" group-title="FILMES E SERIES",UNIVERSAL CHANNEL SD
+http://mytvip.xyz:80/JJEncP/perSuD/75969
+#EXTINF:-1 tvg-id="VH1MegaHits.br" tvg-name="VH1 MEGA HITS HD" tvg-logo="http://3.bp.blogspot.com/-iYCLl2FGdPA/Uu0oNZvRAiI/AAAAAAAAhIc/jywjP-y9SWw/s1600/1o0row.png" group-title="VARIEDADES",VH1 MEGA HITS HD
+http://mytvip.xyz:80/JJEncP/perSuD/76039
+#EXTINF:-1 tvg-id="VH1MegaHits.br" tvg-name="VH1 MEGA HITS SD" tvg-logo="http://3.bp.blogspot.com/-iYCLl2FGdPA/Uu0oNZvRAiI/AAAAAAAAhIc/jywjP-y9SWw/s1600/1o0row.png" group-title="VARIEDADES",VH1 MEGA HITS SD
+http://mytvip.xyz:80/JJEncP/perSuD/75971
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA  SD" tvg-logo="https://i.imgur.com/Pn1HNNP.jpg" group-title="ABERTOS",VIVA  SD
+http://mytvip.xyz:80/JJEncP/perSuD/62616
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="https://i.imgur.com/Pn1HNNP.jpg" group-title="ABERTOS",VIVA HD
+http://mytvip.xyz:80/JJEncP/perSuD/75972
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/2017_WARNER.jpg" group-title="FILMES E SERIES",WARNER CHANNEL HD
+http://mytvip.xyz:80/JJEncP/perSuD/75763
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="http://lanhouseda14.leon.feralhosting.com/img/2017_WARNER.jpg" group-title="FILMES E SERIES",WARNER CHANNEL SD
+http://mytvip.xyz:80/JJEncP/perSuD/75975
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://www.gvt.com.br/midiaportal/tv/_images/gc/canais/woohoo%5bweb%5d.jpg" group-title="ESPORTE",WOOHOO HD
+http://mytvip.xyz:80/JJEncP/perSuD/62607
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO SD" tvg-logo="https://www.gvt.com.br/midiaportal/tv/_images/gc/canais/woohoo%5bweb%5d.jpg" group-title="ESPORTE",WOOHOO SD
+http://mytvip.xyz:80/JJEncP/perSuD/62606
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO" tvg-logo="http://bravi.tv/wp-content/uploads/2016/12/zoomoo-250x214.png" group-title="INFANTIL",ZOOMOO
+http://mytvip.xyz:80/JJEncP/perSuD/62594
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA" tvg-logo="https://i.imgur.com/PkGPmfA.jpg" group-title="ABERTOS",TV CULTURA
+http://mytvip.xyz:80/JJEncP/perSuD/83293
+#EXTINF:-1 tvg-id="" tvg-name="TV CARIOCA" tvg-logo="" group-title="ABERTOS",TV CARIOCA
+http://mytvip.xyz:80/JJEncP/perSuD/83788
+#EXTINF:-1 tvg-id="" tvg-name="TV AMBIENTAL" tvg-logo="" group-title="ABERTOS",TV AMBIENTAL
+http://mytvip.xyz:80/JJEncP/perSuD/83791
+#EXTINF:-1 tvg-id="" tvg-name="TV ALRN" tvg-logo="" group-title="ABERTOS",TV ALRN
+http://mytvip.xyz:80/JJEncP/perSuD/83792
+#EXTINF:-1 tvg-id="" tvg-name="TERE TV" tvg-logo="" group-title="ABERTOS",TERE TV
+http://mytvip.xyz:80/JJEncP/perSuD/83793
+#EXTINF:-1 tvg-id="" tvg-name="SIC TV" tvg-logo="" group-title="ABERTOS",SIC TV
+http://mytvip.xyz:80/JJEncP/perSuD/83794
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SAUDE" tvg-logo="" group-title="ABERTOS",CANAL SAUDE
+http://mytvip.xyz:80/JJEncP/perSuD/83796
+#EXTINF:-1 tvg-id="" tvg-name="TV SOL COMUNIDADE" tvg-logo="" group-title="ABERTOS",TV SOL COMUNIDADE
+http://mytvip.xyz:80/JJEncP/perSuD/83797
+#EXTINF:-1 tvg-id="" tvg-name="TV 25 JUNDIAI" tvg-logo="" group-title="ABERTOS",TV 25 JUNDIAI
+http://mytvip.xyz:80/JJEncP/perSuD/83798
+#EXTINF:-1 tvg-id="" tvg-name="FONTE TV" tvg-logo="" group-title="ABERTOS",FONTE TV
+http://mytvip.xyz:80/JJEncP/perSuD/83799
+#EXTINF:-1 tvg-id="" tvg-name="TV UFG" tvg-logo="" group-title="ABERTOS",TV UFG
+http://mytvip.xyz:80/JJEncP/perSuD/83800
+#EXTINF:-1 tvg-id="" tvg-name="TV MAIS" tvg-logo="" group-title="ABERTOS",TV MAIS
+http://mytvip.xyz:80/JJEncP/perSuD/83801
+#EXTINF:-1 tvg-id="" tvg-name="TV PUC GOIAS" tvg-logo="" group-title="ABERTOS",TV PUC GOIAS
+http://mytvip.xyz:80/JJEncP/perSuD/83802
+#EXTINF:-1 tvg-id="" tvg-name="MKK WEB" tvg-logo="" group-title="ABERTOS",MKK WEB
+http://mytvip.xyz:80/JJEncP/perSuD/83803
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA" tvg-logo="" group-title="ABERTOS",TV GAZETA
+http://mytvip.xyz:80/JJEncP/perSuD/83805
+#EXTINF:-1 tvg-id="" tvg-name="TV CIDADE CANAL 9" tvg-logo="" group-title="ABERTOS",TV CIDADE CANAL 9
+http://mytvip.xyz:80/JJEncP/perSuD/83806
+#EXTINF:-1 tvg-id="" tvg-name="CATVE" tvg-logo="" group-title="ABERTOS",CATVE
+http://mytvip.xyz:80/JJEncP/perSuD/83808
+#EXTINF:-1 tvg-id="" tvg-name="TV ALMG" tvg-logo="" group-title="ABERTOS",TV ALMG
+http://mytvip.xyz:80/JJEncP/perSuD/83810
+#EXTINF:-1 tvg-id="" tvg-name="2 HOMENS E MEIO [24H]" tvg-logo="https://i.imgur.com/Agqa0Er.jpg" group-title="SERIES 24 HORAS",2 HOMENS E MEIO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/75206
+#EXTINF:-1 tvg-id="" tvg-name="A COISA [24H]" tvg-logo="https://i.imgur.com/JQbYFh3.jpg" group-title="DESENHOS 24 HORAS",A COISA [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77209
+#EXTINF:-1 tvg-id="" tvg-name="A FAMILIA DRACULA [24H]" tvg-logo="https://i.imgur.com/ETwk4Dq.jpg" group-title="DESENHOS 24 HORAS",A FAMILIA DRACULA [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77241
+#EXTINF:-1 tvg-id="" tvg-name="A FAMILIA URSO [24H]" tvg-logo="https://i.imgur.com/5f8q12h.jpg" group-title="DESENHOS 24 HORAS",A FAMILIA URSO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/75247
+#EXTINF:-1 tvg-id="" tvg-name="A Feiticeira [24H-EXTRA]" tvg-logo="https://i.imgur.com/QeaRzOA.jpg" group-title="DESENHOS 24 HORAS",A Feiticeira [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76521
+#EXTINF:-1 tvg-id="" tvg-name="A FORMIGA E O TAMANDUA [24H]" tvg-logo="https://i.imgur.com/T7Typ4A.jpg" group-title="DESENHOS 24 HORAS",A FORMIGA E O TAMANDUA [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/75246
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA [24H]" tvg-logo="https://i.imgur.com/evzUMKw.jpg" group-title="SERIES 24 HORAS",A GRANDE FAMILIA [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70620
+#EXTINF:-1 tvg-id="" tvg-name="A TURMA DA MONICA [24H]" tvg-logo="https://i.imgur.com/H4EMLOy.jpg" group-title="DESENHOS 24 HORAS",A TURMA DA MONICA [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77206
+#EXTINF:-1 tvg-id="" tvg-name="A TURMA DO BAIRRO [24H]" tvg-logo="https://i.imgur.com/cWSLbSl.jpg" group-title="DESENHOS 24 HORAS",A TURMA DO BAIRRO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77243
+#EXTINF:-1 tvg-id="" tvg-name="A TURMA DO CHARLIE BROWN [24H]" tvg-logo="https://i.imgur.com/FcX7W8G.jpg" group-title="DESENHOS 24 HORAS",A TURMA DO CHARLIE BROWN [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70593
+#EXTINF:-1 tvg-id="" tvg-name="A TURMA DO PATO BILL [24H]" tvg-logo="https://i.imgur.com/U6LRAWX.jpg" group-title="DESENHOS 24 HORAS",A TURMA DO PATO BILL [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77207
+#EXTINF:-1 tvg-id="" tvg-name="A VACA E O FRANGO [24H]" tvg-logo="https://i.imgur.com/RSpOsLC.jpg" group-title="DESENHOS 24 HORAS",A VACA E O FRANGO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77208
+#EXTINF:-1 tvg-id="" tvg-name="AEON FLUX [24H]" tvg-logo="https://i.imgur.com/SjqMSha.jpg" group-title="DESENHOS 24 HORAS",AEON FLUX [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/75253
+#EXTINF:-1 tvg-id="" tvg-name="ALADIN [24H-EXTRA]" tvg-logo="https://i.imgur.com/36zru2d.jpg" group-title="DESENHOS 24 HORAS",ALADIN [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76454
+#EXTINF:-1 tvg-id="" tvg-name="ANDY PANDA [24H]" tvg-logo="https://i.imgur.com/nCCHZwl.jpg" group-title="DESENHOS 24 HORAS",ANDY PANDA [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77210
+#EXTINF:-1 tvg-id="" tvg-name="ANIMANIACS [24H]" tvg-logo="https://i.imgur.com/Esru1tM.jpg" group-title="DESENHOS 24 HORAS",ANIMANIACS [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70586
+#EXTINF:-1 tvg-id="" tvg-name="APENAS UM SHOW [24H]" tvg-logo="https://i.imgur.com/b6OYrKC.jpg" group-title="DESENHOS 24 HORAS",APENAS UM SHOW [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70599
+#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE JACKIE CHAN [24H]" tvg-logo="https://i.imgur.com/rFupthf.jpg" group-title="DESENHOS 24 HORAS",AS AVENTURAS DE JACKIE CHAN [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70543
+#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE TIMTIM [24H]" tvg-logo="https://i.imgur.com/GS61MoW.jpg" group-title="DESENHOS 24 HORAS",AS AVENTURAS DE TIMTIM [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70594
+#EXTINF:-1 tvg-id="" tvg-name="BACAMARTE E CHUMBINHO [24H]" tvg-logo="https://i.imgur.com/OzxQ3Cj.jpg" group-title="DESENHOS 24 HORAS",BACAMARTE E CHUMBINHO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77244
+#EXTINF:-1 tvg-id="" tvg-name="BATFINO [24H]" tvg-logo="https://i.imgur.com/K7YDVzg.jpg" group-title="DESENHOS 24 HORAS",BATFINO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70533
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN ANIMATED [24H]" tvg-logo="https://i.imgur.com/oXH1IWt.jpg" group-title="DESENHOS 24 HORAS",BATMAN ANIMATED [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77211
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10 [24H]" tvg-logo="https://i.imgur.com/llCfAWk.jpg" group-title="DESENHOS 24 HORAS",BEN 10 [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70544
+#EXTINF:-1 tvg-id="" tvg-name="BICUDO O LOBISOMEM [24H]" tvg-logo="https://i.imgur.com/tWM81gZ.jpg" group-title="DESENHOS 24 HORAS",BICUDO O LOBISOMEM [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70416
+#EXTINF:-1 tvg-id="" tvg-name="BILLY DILLEY [24H]" tvg-logo="https://i.imgur.com/tKJeaHD.jpg" group-title="DESENHOS 24 HORAS",BILLY DILLEY [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70600
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA [24H]" tvg-logo="https://i.imgur.com/AzfK6ND.jpg" group-title="DESENHOS 24 HORAS",BOB ESPONJA [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70596
+#EXTINF:-1 tvg-id="" tvg-name="BOB ZOOM [24H]" tvg-logo="https://i.imgur.com/B5YVPeU.jpg" group-title="DESENHOS 24 HORAS",BOB ZOOM [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70406
+#EXTINF:-1 tvg-id="" tvg-name="CADILACK DINOSSAURO [24H]" tvg-logo="https://i.imgur.com/MvV4sJm.jpg" group-title="DESENHOS 24 HORAS",CADILACK DINOSSAURO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/76403
+#EXTINF:-1 tvg-id="" tvg-name="CARANGAS E MOTOCAS [24H]" tvg-logo="https://i.imgur.com/MByrlOB.jpg" group-title="DESENHOS 24 HORAS",CARANGAS E MOTOCAS [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/71316
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO MICKEY  [24H]" tvg-logo="https://i.imgur.com/rvE0LQF.jpg" group-title="DESENHOS 24 HORAS",CASA DO MICKEY  [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/71079
+#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS NETFLIX [24H]" tvg-logo="https://i.imgur.com/Owbah7g.jpg" group-title="DESENHOS 24 HORAS",CAVALEIROS NETFLIX [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70900
+#EXTINF:-1 tvg-id="" tvg-name="CAVALO DE FOGO [24H]" tvg-logo="https://i.imgur.com/DNpvvEh.jpg" group-title="DESENHOS 24 HORAS",CAVALO DE FOGO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/71039
+#EXTINF:-1 tvg-id="" tvg-name="CAVERNA DO DRAGAO [24H]" tvg-logo="https://i.imgur.com/FOLS5g6.jpg" group-title="DESENHOS 24 HORAS",CAVERNA DO DRAGAO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70546
+#EXTINF:-1 tvg-id="" tvg-name="CAÇA FANTASMAS [24H]" tvg-logo="https://i.imgur.com/Sy7nIon.jpg" group-title="DESENHOS 24 HORAS",CAÇA FANTASMAS [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/76323
+#EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN [24H]" tvg-logo="https://i.imgur.com/qnkz1yb.jpg" group-title="SERIES 24 HORAS",CHAPOLIN [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/75207
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES DESENHO [24H-EXTRA]" tvg-logo="https://i.imgur.com/VbOJnYt.jpg" group-title="DESENHOS 24 HORAS",CHAVES DESENHO [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76456
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES [24H]" tvg-logo="https://i.imgur.com/taabdPh.jpg" group-title="SERIES 24 HORAS",CHAVES [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/75208
+#EXTINF:-1 tvg-id="" tvg-name="CLARENCIO O OTIMISTA [24H]" tvg-logo="https://i.imgur.com/xvFZdJ2.jpg" group-title="DESENHOS 24 HORAS",CLARENCIO O OTIMISTA [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70550
+#EXTINF:-1 tvg-id="" tvg-name="COELHO RICOCHETE [24H]" tvg-logo="https://i.imgur.com/dJhlflh.jpg" group-title="DESENHOS 24 HORAS",COELHO RICOCHETE [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/76443
+#EXTINF:-1 tvg-id="" tvg-name="CORRIDA MALUCA [24H]" tvg-logo="https://i.imgur.com/89oCW4a.jpg" group-title="DESENHOS 24 HORAS",CORRIDA MALUCA [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70542
+#EXTINF:-1 tvg-id="" tvg-name="CYBERCOPS [24H]" tvg-logo="https://i.imgur.com/wFrlMvj.jpg" group-title="DESENHOS 24 HORAS",CYBERCOPS [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70621
+#EXTINF:-1 tvg-id="" tvg-name="DE VOLTA PARA O FUTURO [24H]" tvg-logo="https://i.imgur.com/5auQseZ.jpg" group-title="DESENHOS 24 HORAS",DE VOLTA PARA O FUTURO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/75401
+#EXTINF:-1 tvg-id="" tvg-name="DEBY E LOIDE [24H]" tvg-logo="https://i.imgur.com/UddGvkn.jpg" group-title="DESENHOS 24 HORAS",DEBY E LOIDE [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/76522
+#EXTINF:-1 tvg-id="" tvg-name="Denis o Pimentinha [24H-EXTRA]" tvg-logo="https://i.imgur.com/6Ij3vTu.jpg" group-title="DESENHOS 24 HORAS",Denis o Pimentinha [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76457
+#EXTINF:-1 tvg-id="" tvg-name="Desenhos Biblicos [24H-EXTRA]" tvg-logo="https://i.imgur.com/H35w8I8.jpg" group-title="DESENHOS 24 HORAS",Desenhos Biblicos [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76458
+#EXTINF:-1 tvg-id="" tvg-name="Desenhos Disney [24H-EXTRA]" tvg-logo="https://i.imgur.com/gSIsHGo.jpg" group-title="DESENHOS 24 HORAS",Desenhos Disney [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76459
+#EXTINF:-1 tvg-id="" tvg-name="DIGIMON ADVENTURE [24H]" tvg-logo="https://i.imgur.com/LFMPHd6.jpg" group-title="DESENHOS 24 HORAS",DIGIMON ADVENTURE [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70623
+#EXTINF:-1 tvg-id="" tvg-name="Digimon [24H-EXTRA]" tvg-logo="https://i.imgur.com/imNqV22.jpg" group-title="DESENHOS 24 HORAS",Digimon [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76460
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio [24H-EXTRA]" tvg-logo="https://i.imgur.com/Agqa0Er.jpg" group-title="SERIES 24 HORAS",Dois Homens e Meio [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76461
+#EXTINF:-1 tvg-id="" tvg-name="DORA AVENTUREIRA [24H]" tvg-logo="https://i.imgur.com/6rEFiCG.jpg" group-title="DESENHOS 24 HORAS",DORA AVENTUREIRA [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/71038
+#EXTINF:-1 tvg-id="" tvg-name="DOUG FUNNIE [24H]" tvg-logo="https://i.imgur.com/M5mdRUD.jpg" group-title="DESENHOS 24 HORAS",DOUG FUNNIE [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70598
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER [24H-EXTRA]" tvg-logo="https://i.imgur.com/vfak0c9.jpg" group-title="DESENHOS 24 HORAS",DRAGON BALL SUPER [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76464
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z [24H-EXTRA]" tvg-logo="https://i.imgur.com/E8wscGH.jpg" group-title="DESENHOS 24 HORAS",DRAGON BALL Z [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76465
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL [24H-EXTRA]" tvg-logo="https://i.imgur.com/nhbFsMp.jpg" group-title="DESENHOS 24 HORAS",DRAGON BALL [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76463
+#EXTINF:-1 tvg-id="" tvg-name="DRAKE E JOSH [24H]" tvg-logo="https://i.imgur.com/6wAJnuX.jpg" group-title="SERIES 24 HORAS",DRAKE E JOSH [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/75209
+#EXTINF:-1 tvg-id="" tvg-name="ESQUILO SEM GRILO [24H]" tvg-logo="https://i.imgur.com/b6Q0MA1.jpg" group-title="DESENHOS 24 HORAS",ESQUILO SEM GRILO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/76325
+#EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Crianças [24H-EXTRA]" tvg-logo="https://i.imgur.com/VWKn25Q.jpg" group-title="SERIES 24 HORAS",Eu a Patroa e as Crianças [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76466
+#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS [24H]" tvg-logo="https://i.imgur.com/VWKn25Q.jpg" group-title="SERIES 24 HORAS",EU A PATROA E AS CRIANÇAS [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70581
+#EXTINF:-1 tvg-id="" tvg-name="FEITICEIRA FACEIRA [24H]" tvg-logo="https://i.imgur.com/s6gvTGP.jpg" group-title="DESENHOS 24 HORAS",FEITICEIRA FACEIRA [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/76640
+#EXTINF:-1 tvg-id="" tvg-name="FLAPJACK [24H]" tvg-logo="https://i.imgur.com/Rvh9DtK.jpg" group-title="DESENHOS 24 HORAS",FLAPJACK [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/71037
+#EXTINF:-1 tvg-id="" tvg-name="FLASH GORDON [24H]" tvg-logo="https://i.imgur.com/Q9Z0Rgs.jpg" group-title="DESENHOS 24 HORAS",FLASH GORDON [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/76639
+#EXTINF:-1 tvg-id="" tvg-name="FLISTONES [24H]" tvg-logo="https://i.imgur.com/RyODaHv.jpg" group-title="DESENHOS 24 HORAS",FLISTONES [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70536
+#EXTINF:-1 tvg-id="" tvg-name="FRANGO KUNG FU [24H]" tvg-logo="https://i.imgur.com/aCF4hDt.jpg" group-title="DESENHOS 24 HORAS",FRANGO KUNG FU [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/76348
+#EXTINF:-1 tvg-id="" tvg-name="GALAXY TRIO [24H]" tvg-logo="https://i.imgur.com/feqOe8T.jpg" group-title="DESENHOS 24 HORAS",GALAXY TRIO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/76946
+#EXTINF:-1 tvg-id="" tvg-name="GALINHA PINTADINHA  [24H]" tvg-logo="https://i.imgur.com/jol7L7n.jpg" group-title="DESENHOS 24 HORAS",GALINHA PINTADINHA  [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70404
+#EXTINF:-1 tvg-id="" tvg-name="GASPARZINHO [24H]" tvg-logo="https://i.imgur.com/oMrKobG.jpg" group-title="DESENHOS 24 HORAS",GASPARZINHO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70583
+#EXTINF:-1 tvg-id="" tvg-name="GUMMY BEARS [24H]" tvg-logo="https://i.imgur.com/4tYtZNY.jpg" group-title="DESENHOS 24 HORAS",GUMMY BEARS [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70407
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN [24H]" tvg-logo="https://i.imgur.com/Yk9aZkz.jpg" group-title="DESENHOS 24 HORAS",HEMAN [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70585
+#EXTINF:-1 tvg-id="" tvg-name="HERCULOIDES [24H]" tvg-logo="https://i.imgur.com/FiXHHKZ.jpg" group-title="DESENHOS 24 HORAS",HERCULOIDES [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/71386
+#EXTINF:-1 tvg-id="" tvg-name="HEROIS DE PIJAMA [24H]" tvg-logo="https://i.imgur.com/yXT2DoF.jpg" group-title="DESENHOS 24 HORAS",HEROIS DE PIJAMA [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70549
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA [24H-EXTRA]" tvg-logo="https://i.imgur.com/YRf4xiT.jpg" group-title="DESENHOS 24 HORAS",HOMEM ARANHA [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76469
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM DE FERRO [24H]" tvg-logo="https://i.imgur.com/eVjuD49.jpg" group-title="DESENHOS 24 HORAS",HOMEM DE FERRO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/76747
+#EXTINF:-1 tvg-id="" tvg-name="JIRAYA [24H]" tvg-logo="https://i.imgur.com/VvLNh2w.jpg" group-title="SERIES 24 HORAS",JIRAYA [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70573
+#EXTINF:-1 tvg-id="" tvg-name="JOAO GRANDAO [24H]" tvg-logo="https://i.imgur.com/dH9t6Cg.jpg" group-title="DESENHOS 24 HORAS",JOAO GRANDAO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70534
+#EXTINF:-1 tvg-id="" tvg-name="JONNY QUEST [24H]" tvg-logo="https://i.imgur.com/QZBN1ox.jpg" group-title="DESENHOS 24 HORAS",JONNY QUEST [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70557
+#EXTINF:-1 tvg-id="" tvg-name="KENAN E KEL [24H]" tvg-logo="https://i.imgur.com/c3qXAls.jpg" group-title="SERIES 24 HORAS",KENAN E KEL [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/75210
+#EXTINF:-1 tvg-id="" tvg-name="LEO O CAMINHAO [24H]" tvg-logo="https://i.imgur.com/y2MmeBw.jpg" group-title="DESENHOS 24 HORAS",LEO O CAMINHAO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70601
+#EXTINF:-1 tvg-id="" tvg-name="LOVE DEATH ROBOTS [24H]" tvg-logo="https://i.imgur.com/aoU3N5Y.jpg" group-title="DESENHOS 24 HORAS",LOVE DEATH ROBOTS [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70603
+#EXTINF:-1 tvg-id="" tvg-name="LULA LELE [24H]" tvg-logo="https://i.imgur.com/FHveneF.jpg" group-title="DESENHOS 24 HORAS",LULA LELE [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70417
+#EXTINF:-1 tvg-id="" tvg-name="MANDA CHUVA [24H]" tvg-logo="https://i.imgur.com/MpAWZGz.jpg" group-title="DESENHOS 24 HORAS",MANDA CHUVA [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70553
+#EXTINF:-1 tvg-id="" tvg-name="MARSHA E O URSO [24H]" tvg-logo="https://i.imgur.com/rsYrpXS.jpg" group-title="DESENHOS 24 HORAS",MARSHA E O URSO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70556
+#EXTINF:-1 tvg-id="" tvg-name="MICHEY AVENTURA SOBRE RODAS [24H]" tvg-logo="https://i.imgur.com/4mM21c8.jpg" group-title="DESENHOS 24 HORAS",MICHEY AVENTURA SOBRE RODAS [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70548
+#EXTINF:-1 tvg-id="" tvg-name="MICHEY E DONALD [24H]" tvg-logo="https://i.imgur.com/NnWjjnn.jpg" group-title="DESENHOS 24 HORAS",MICHEY E DONALD [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70552
+#EXTINF:-1 tvg-id="" tvg-name="MIGHTOR CLASSICO [24H]" tvg-logo="https://i.imgur.com/Ozsg0Pn.jpg" group-title="DESENHOS 24 HORAS",MIGHTOR CLASSICO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77214
+#EXTINF:-1 tvg-id="" tvg-name="MISTER MAGOO [24H]" tvg-logo="https://i.imgur.com/G7SGqCk.jpg" group-title="DESENHOS 24 HORAS",MISTER MAGOO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/76347
+#EXTINF:-1 tvg-id="" tvg-name="MONSTER RANCHER [24H]" tvg-logo="https://i.imgur.com/9wbi4mv.jpg" group-title="DESENHOS 24 HORAS",MONSTER RANCHER [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77215
+#EXTINF:-1 tvg-id="" tvg-name="MORTAL KOMBAT [24H-EXTRA]" tvg-logo="https://i.imgur.com/eiuevMp.jpg" group-title="DESENHOS 24 HORAS",MORTAL KOMBAT [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76475
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden DUB [24H-EXTRA]" tvg-logo="https://i.imgur.com/OPbemez.jpg" group-title="DESENHOS 24 HORAS",Naruto Shippuden DUB [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76478
+#EXTINF:-1 tvg-id="" tvg-name="NARUTO SHIPPUDEN [24H]" tvg-logo="https://i.imgur.com/jUSK4Ka.jpg" group-title="DESENHOS 24 HORAS",NARUTO SHIPPUDEN [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70624
+#EXTINF:-1 tvg-id="" tvg-name="NARUTO [24H-EXTRA]" tvg-logo="https://i.imgur.com/qipPPo5.jpg" group-title="DESENHOS 24 HORAS",NARUTO [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76477
+#EXTINF:-1 tvg-id="" tvg-name="NARUTO [24H]" tvg-logo="https://i.imgur.com/O2IeUuz.jpg" group-title="DESENHOS 24 HORAS",NARUTO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70591
+#EXTINF:-1 tvg-id="" tvg-name="O Fantástico Mundo de Bobby [24H-EXTRA]" tvg-logo="https://i.imgur.com/Yj9jt1c.jpg" group-title="DESENHOS 24 HORAS",O Fantástico Mundo de Bobby [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76479
+#EXTINF:-1 tvg-id="" tvg-name="O INSPETOR [24H-EXTRA]" tvg-logo="https://i.imgur.com/yirOGiS.jpg" group-title="DESENHOS 24 HORAS",O INSPETOR [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76480
+#EXTINF:-1 tvg-id="" tvg-name="O INSPETOR [24H]" tvg-logo="https://i.imgur.com/yirOGiS.jpg" group-title="DESENHOS 24 HORAS",O INSPETOR [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77216
+#EXTINF:-1 tvg-id="" tvg-name="O PEQUENO PRINCIPE [24H]" tvg-logo="https://i.imgur.com/d4zedCg.jpg" group-title="DESENHOS 24 HORAS",O PEQUENO PRINCIPE [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70587
+#EXTINF:-1 tvg-id="" tvg-name="O PODEROSO CHEFINHO [24H]" tvg-logo="https://i.imgur.com/AbEQJs1.jpg" group-title="DESENHOS 24 HORAS",O PODEROSO CHEFINHO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70565
+#EXTINF:-1 tvg-id="" tvg-name="O REI DO PEDAÇO [24H]" tvg-logo="https://i.imgur.com/lIGkruy.jpg" group-title="DESENHOS 24 HORAS",O REI DO PEDAÇO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77217
+#EXTINF:-1 tvg-id="" tvg-name="O VIRATALA [24H]" tvg-logo="https://i.imgur.com/bynHjC1.jpg" group-title="DESENHOS 24 HORAS",O VIRATALA [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70535
+#EXTINF:-1 tvg-id="" tvg-name="O XODO DA VOVO [24H]" tvg-logo="https://i.imgur.com/CsK5y77.jpg" group-title="DESENHOS 24 HORAS",O XODO DA VOVO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77218
+#EXTINF:-1 tvg-id="" tvg-name="OGGY E AS BARATAS [24H]" tvg-logo="https://i.imgur.com/wiG4ntS.jpg" group-title="DESENHOS 24 HORAS",OGGY E AS BARATAS [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77219
+#EXTINF:-1 tvg-id="" tvg-name="OPERAÇAO BIG HERO [24H]" tvg-logo="https://i.imgur.com/Hk1SLKb.jpg" group-title="DESENHOS 24 HORAS",OPERAÇAO BIG HERO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70590
+#EXTINF:-1 tvg-id="" tvg-name="OS CAVALEIROS DO ZODIACO [24H-EXTRA]" tvg-logo="https://i.imgur.com/NE9AuO0.jpg" group-title="DESENHOS 24 HORAS",OS CAVALEIROS DO ZODIACO [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76482
+#EXTINF:-1 tvg-id="" tvg-name="OS FLINTSTONES [24H-EXTRA]" tvg-logo="https://i.imgur.com/RyODaHv.jpg" group-title="DESENHOS 24 HORAS",OS FLINTSTONES [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76483
+#EXTINF:-1 tvg-id="" tvg-name="OS IMPOSSIVEIS [24H]" tvg-logo="https://i.imgur.com/jkWzFcN.jpg" group-title="DESENHOS 24 HORAS",OS IMPOSSIVEIS [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70537
+#EXTINF:-1 tvg-id="" tvg-name="OS JETSONS [24H]" tvg-logo="https://i.imgur.com/gAQVkvQ.jpg" group-title="DESENHOS 24 HORAS",OS JETSONS [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70564
+#EXTINF:-1 tvg-id="" tvg-name="OS MUZZARELAS [24H]" tvg-logo="https://i.imgur.com/RjSweBZ.jpg" group-title="DESENHOS 24 HORAS",OS MUZZARELAS [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/76322
+#EXTINF:-1 tvg-id="" tvg-name="OS NORMAIS [24H]" tvg-logo="https://i.imgur.com/DKdEf5u.jpg" group-title="SERIES 24 HORAS",OS NORMAIS [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70574
+#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS [24H-EXTRA]" tvg-logo="https://i.imgur.com/Jj7FiC1.jpg" group-title="DESENHOS 24 HORAS",OS SIMPSONS [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76484
+#EXTINF:-1 tvg-id="" tvg-name="OS SMURFS [24H]" tvg-logo="https://i.imgur.com/LhMj9GA.jpg" group-title="DESENHOS 24 HORAS",OS SMURFS [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77205
+#EXTINF:-1 tvg-id="" tvg-name="PADRINHOS MAGICOS [24H]" tvg-logo="https://i.imgur.com/eZBe7lf.jpg" group-title="DESENHOS 24 HORAS",PADRINHOS MAGICOS [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77222
+#EXTINF:-1 tvg-id="" tvg-name="PANTERA COR DE ROSA [24H]" tvg-logo="https://i.imgur.com/FDwK0xg.jpg" group-title="DESENHOS 24 HORAS",PANTERA COR DE ROSA [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/75252
+#EXTINF:-1 tvg-id="" tvg-name="Papa-Léguas [24H-EXTRA]" tvg-logo="https://i.imgur.com/O2QpBwo.jpg" group-title="DESENHOS 24 HORAS",Papa-Léguas [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76486
+#EXTINF:-1 tvg-id="" tvg-name="PATATI PATATA [24H]" tvg-logo="https://i.imgur.com/4l3Kwfk.jpg" group-title="DESENHOS 24 HORAS",PATATI PATATA [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70408
+#EXTINF:-1 tvg-id="" tvg-name="PATRULHA CANINA [24H]" tvg-logo="https://i.imgur.com/4DOeqFd.jpg" group-title="DESENHOS 24 HORAS",PATRULHA CANINA [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/71065
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig [24H-EXTRA]" tvg-logo="https://i.imgur.com/d6KuxkH.jpg" group-title="DESENHOS 24 HORAS",Peppa Pig [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76487
+#EXTINF:-1 tvg-id="" tvg-name="PEPPA PIG [24H]" tvg-logo="https://i.imgur.com/d6KuxkH.jpg" group-title="DESENHOS 24 HORAS",PEPPA PIG [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70562
+#EXTINF:-1 tvg-id="" tvg-name="PERNALONGA [24H-EXTRA]" tvg-logo="https://i.imgur.com/7xV4TTS.jpg" group-title="DESENHOS 24 HORAS",PERNALONGA [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76488
+#EXTINF:-1 tvg-id="" tvg-name="PERNALONGA [24H]" tvg-logo="https://i.imgur.com/7xV4TTS.jpg" group-title="DESENHOS 24 HORAS",PERNALONGA [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70554
+#EXTINF:-1 tvg-id="" tvg-name="PHENEAS E FERB [24H]" tvg-logo="https://i.imgur.com/5rBQwtl.jpg" group-title="DESENHOS 24 HORAS",PHENEAS E FERB [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77223
+#EXTINF:-1 tvg-id="" tvg-name="PICA PAU [24H-EXTRA]" tvg-logo="https://i.imgur.com/4L4gcTo.jpg" group-title="DESENHOS 24 HORAS",PICA PAU [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76490
+#EXTINF:-1 tvg-id="" tvg-name="PICAPAU [24H]" tvg-logo="https://i.imgur.com/4L4gcTo.jpg" group-title="DESENHOS 24 HORAS",PICAPAU [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/71196
+#EXTINF:-1 tvg-id="" tvg-name="PICOLINO [24H]" tvg-logo="https://i.imgur.com/5cuyfMS.jpg" group-title="DESENHOS 24 HORAS",PICOLINO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77224
+#EXTINF:-1 tvg-id="" tvg-name="PINGU CLASSICO [24H]" tvg-logo="https://i.imgur.com/OTJdtTT.jpg" group-title="DESENHOS 24 HORAS",PINGU CLASSICO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77204
+#EXTINF:-1 tvg-id="" tvg-name="PINGU [24H]" tvg-logo="https://i.imgur.com/ZHQ5xFq.jpg" group-title="DESENHOS 24 HORAS",PINGU [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/71317
+#EXTINF:-1 tvg-id="" tvg-name="PINGUINS DE MADAGASCAR [24H]" tvg-logo="https://i.imgur.com/0ZB65jM.jpg" group-title="DESENHOS 24 HORAS",PINGUINS DE MADAGASCAR [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77221
+#EXTINF:-1 tvg-id="" tvg-name="Pink-e-Cerebro [24H-EXTRA]" tvg-logo="https://i.imgur.com/OOuhkew.jpg" group-title="DESENHOS 24 HORAS",Pink-e-Cerebro [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76491
+#EXTINF:-1 tvg-id="" tvg-name="PIRATAS DO ESPAÇO [24H]" tvg-logo="https://i.imgur.com/RCY5cVu.jpg" group-title="DESENHOS 24 HORAS",PIRATAS DO ESPAÇO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/76321
+#EXTINF:-1 tvg-id="" tvg-name="PLIC PLOC E CHUVISCO [24H]" tvg-logo="" group-title="DESENHOS 24 HORAS",PLIC PLOC E CHUVISCO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77225
+#EXTINF:-1 tvg-id="" tvg-name="POLE POSITION [24H]" tvg-logo="https://i.imgur.com/Iijg2v4.jpg" group-title="DESENHOS 24 HORAS",POLE POSITION [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/71241
+#EXTINF:-1 tvg-id="" tvg-name="Popeye O Marinheiro [24H-EXTRA]" tvg-logo="https://i.imgur.com/aWMsBAo.jpg" group-title="DESENHOS 24 HORAS",Popeye O Marinheiro [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76493
+#EXTINF:-1 tvg-id="" tvg-name="POPEYE [24H]" tvg-logo="https://i.imgur.com/aWMsBAo.jpg" group-title="DESENHOS 24 HORAS",POPEYE [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70559
+#EXTINF:-1 tvg-id="" tvg-name="POWER STONE [24H]" tvg-logo="https://i.imgur.com/spjcBue.jpg" group-title="DESENHOS 24 HORAS",POWER STONE [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77226
+#EXTINF:-1 tvg-id="" tvg-name="PROJETO ZETA [24H]" tvg-logo="https://i.imgur.com/FeNqlqo.jpg" group-title="DESENHOS 24 HORAS",PROJETO ZETA [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77227
+#EXTINF:-1 tvg-id="" tvg-name="QUARTETO FANTASTICO [24H]" tvg-logo="https://i.imgur.com/MD4gpU9.jpg" group-title="DESENHOS 24 HORAS",QUARTETO FANTASTICO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77228
+#EXTINF:-1 tvg-id="" tvg-name="Rambo [24H-EXTRA]" tvg-logo="https://i.imgur.com/UTFEYui.jpg" group-title="DESENHOS 24 HORAS",Rambo [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76494
+#EXTINF:-1 tvg-id="" tvg-name="RICKY E MORTY [24H]" tvg-logo="https://i.imgur.com/jgHhjzX.jpg" group-title="DESENHOS 24 HORAS",RICKY E MORTY [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70555
+#EXTINF:-1 tvg-id="" tvg-name="SABRINA A BRUXINHA ADOLESCENTE [24H]" tvg-logo="" group-title="DESENHOS 24 HORAS",SABRINA A BRUXINHA ADOLESCENTE [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77229
+#EXTINF:-1 tvg-id="" tvg-name="SAILOR MOON [24H]" tvg-logo="https://i.imgur.com/7IpyehM.jpg" group-title="DESENHOS 24 HORAS",SAILOR MOON [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70575
+#EXTINF:-1 tvg-id="" tvg-name="SAMURAI JACK [24H]" tvg-logo="" group-title="DESENHOS 24 HORAS",SAMURAI JACK [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77230
+#EXTINF:-1 tvg-id="" tvg-name="SHE RA AS PRINCESAS DO PODER [24H]" tvg-logo="https://i.imgur.com/0S2aTom.jpg" group-title="DESENHOS 24 HORAS",SHE RA AS PRINCESAS DO PODER [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70551
+#EXTINF:-1 tvg-id="" tvg-name="SHE RA [24H]" tvg-logo="https://i.imgur.com/RhZctc2.jpg" group-title="DESENHOS 24 HORAS",SHE RA [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70566
+#EXTINF:-1 tvg-id="" tvg-name="SHOW DO SCOOBY DOO [24H]" tvg-logo="" group-title="DESENHOS 24 HORAS",SHOW DO SCOOBY DOO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77220
+#EXTINF:-1 tvg-id="" tvg-name="SHURATO [24H]" tvg-logo="" group-title="DESENHOS 24 HORAS",SHURATO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77245
+#EXTINF:-1 tvg-id="" tvg-name="SILVER HAWKS [24H]" tvg-logo="" group-title="DESENHOS 24 HORAS",SILVER HAWKS [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77231
+#EXTINF:-1 tvg-id="" tvg-name="SNOOPY [24H]" tvg-logo="https://i.imgur.com/J9TwMyy.jpg" group-title="DESENHOS 24 HORAS",SNOOPY [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77246
+#EXTINF:-1 tvg-id="" tvg-name="SONIC BOOM [24H]" tvg-logo="https://i.imgur.com/mbFZTYz.jpg" group-title="DESENHOS 24 HORAS",SONIC BOOM [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70597
+#EXTINF:-1 tvg-id="" tvg-name="SONIC [24H]" tvg-logo="" group-title="DESENHOS 24 HORAS",SONIC [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77232
+#EXTINF:-1 tvg-id="" tvg-name="South Park [24H-EXTRA]" tvg-logo="https://i.imgur.com/KZlNMoc.jpg" group-title="DESENHOS 24 HORAS",South Park [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76498
+#EXTINF:-1 tvg-id="" tvg-name="SPACE GOOFS [24H]" tvg-logo="https://i.imgur.com/gAZf4HV.jpg" group-title="DESENHOS 24 HORAS",SPACE GOOFS [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/76318
+#EXTINF:-1 tvg-id="" tvg-name="SPEED RACER [24H]" tvg-logo="" group-title="DESENHOS 24 HORAS",SPEED RACER [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77233
+#EXTINF:-1 tvg-id="" tvg-name="STAR WARS CLONE  [24H]" tvg-logo="" group-title="DESENHOS 24 HORAS",STAR WARS CLONE  [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77234
+#EXTINF:-1 tvg-id="" tvg-name="STAR WARS CLONE WARS [24H]" tvg-logo="https://i.imgur.com/ED2LiJM.jpg" group-title="DESENHOS 24 HORAS",STAR WARS CLONE WARS [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70592
+#EXTINF:-1 tvg-id="" tvg-name="Steven Universe [24H-EXTRA]" tvg-logo="https://i.imgur.com/ZP6K2WF.jpg" group-title="DESENHOS 24 HORAS",Steven Universe [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76499
+#EXTINF:-1 tvg-id="" tvg-name="STREET FIGHER [24H]" tvg-logo="https://i.imgur.com/mAkcVz6.jpg" group-title="DESENHOS 24 HORAS",STREET FIGHER [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70589
+#EXTINF:-1 tvg-id="" tvg-name="STREET FIGHTERS [24H]" tvg-logo="https://i.imgur.com/uBSbH4F.jpg" group-title="DESENHOS 24 HORAS",STREET FIGHTERS [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77247
+#EXTINF:-1 tvg-id="" tvg-name="SUPER DRAGS [24H]" tvg-logo="https://i.imgur.com/SsMypsm.jpg" group-title="DESENHOS 24 HORAS",SUPER DRAGS [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/71195
+#EXTINF:-1 tvg-id="" tvg-name="SUPER GALO [24H]" tvg-logo="https://i.imgur.com/2S5Lihq.jpg" group-title="DESENHOS 24 HORAS",SUPER GALO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77235
+#EXTINF:-1 tvg-id="" tvg-name="SUPER MARIO BROS [24H]" tvg-logo="https://i.imgur.com/z4N6ZW1.jpg" group-title="DESENHOS 24 HORAS",SUPER MARIO BROS [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/76307
+#EXTINF:-1 tvg-id="" tvg-name="SUPER SHOCK [24H]" tvg-logo="https://i.imgur.com/V5JVtNT.jpg" group-title="DESENHOS 24 HORAS",SUPER SHOCK [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70582
+#EXTINF:-1 tvg-id="" tvg-name="SUPERGALO [24H]" tvg-logo="https://i.imgur.com/2S5Lihq.jpg" group-title="DESENHOS 24 HORAS",SUPERGALO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/71318
+#EXTINF:-1 tvg-id="" tvg-name="TARTARUGA TOUCHE [24H]" tvg-logo="" group-title="DESENHOS 24 HORAS",TARTARUGA TOUCHE [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77236
+#EXTINF:-1 tvg-id="" tvg-name="TAZMANIA [24H]" tvg-logo="https://i.imgur.com/JIKVlj7.jpg" group-title="DESENHOS 24 HORAS",TAZMANIA [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70539
+#EXTINF:-1 tvg-id="" tvg-name="THE BATMAN [24H]" tvg-logo="" group-title="DESENHOS 24 HORAS",THE BATMAN [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77237
+#EXTINF:-1 tvg-id="" tvg-name="TICO E TECO [24H]" tvg-logo="https://i.imgur.com/50GwIXZ.jpg" group-title="DESENHOS 24 HORAS",TICO E TECO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70588
+#EXTINF:-1 tvg-id="" tvg-name="TIMAO E PUMBA [24H]" tvg-logo="https://i.imgur.com/gj9GQ7t.jpg" group-title="DESENHOS 24 HORAS",TIMAO E PUMBA [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70602
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS [24H-EXTRA]" tvg-logo="https://i.imgur.com/hKK79dm.jpg" group-title="SERIES 24 HORAS",TODO MUNDO ODEIA O CHRIS [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76504
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CRIS [24H]" tvg-logo="https://i.imgur.com/hKK79dm.jpg" group-title="SERIES 24 HORAS",TODO MUNDO ODEIA O CRIS [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/75211
+#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry [24H-EXTRA]" tvg-logo="https://i.imgur.com/yF4ZDsh.jpg" group-title="DESENHOS 24 HORAS",Tom & Jerry [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76505
+#EXTINF:-1 tvg-id="" tvg-name="TOM E JERRY CLASSICO [24H]" tvg-logo="https://i.imgur.com/bavBymp.jpg" group-title="DESENHOS 24 HORAS",TOM E JERRY CLASSICO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77203
+#EXTINF:-1 tvg-id="" tvg-name="TORO E PANCHO [24H]" tvg-logo="https://i.imgur.com/iN803kw.jpg" group-title="DESENHOS 24 HORAS",TORO E PANCHO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70540
+#EXTINF:-1 tvg-id="" tvg-name="TRES ESPIAS DEMAIS [24H]" tvg-logo="https://i.imgur.com/tVAR3TI.jpg" group-title="DESENHOS 24 HORAS",TRES ESPIAS DEMAIS [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70567
+#EXTINF:-1 tvg-id="" tvg-name="TURMA DA MONICA [24H]" tvg-logo="https://i.imgur.com/4RGqjSE.jpg" group-title="DESENHOS 24 HORAS",TURMA DA MONICA [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70532
+#EXTINF:-1 tvg-id="" tvg-name="TUTUBARAO [24H]" tvg-logo="https://i.imgur.com/kdsknyW.jpg" group-title="DESENHOS 24 HORAS",TUTUBARAO [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77238
+#EXTINF:-1 tvg-id="" tvg-name="ULTIMATE HOMEM ARANHA [24H]" tvg-logo="https://i.imgur.com/Q1jHSnt.jpg" group-title="DESENHOS 24 HORAS",ULTIMATE HOMEM ARANHA [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70595
+#EXTINF:-1 tvg-id="" tvg-name="ULTRAMAN [24H]" tvg-logo="https://i.imgur.com/XNXN2DV.jpg" group-title="SERIES 24 HORAS",ULTRAMAN [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70572
+#EXTINF:-1 tvg-id="" tvg-name="Uma Família da Pesada [24H-EXTRA]" tvg-logo="https://i.imgur.com/r5ZDnJl.jpg" group-title="DESENHOS 24 HORAS",Uma Família da Pesada [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76508
+#EXTINF:-1 tvg-id="" tvg-name="URSINHO PUF E AMIGOS [24H]" tvg-logo="https://i.imgur.com/hCLdxOA.jpg" group-title="DESENHOS 24 HORAS",URSINHO PUF E AMIGOS [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77213
+#EXTINF:-1 tvg-id="" tvg-name="URSINHOS CARINHOSOS [24H]" tvg-logo="https://i.imgur.com/zDmCyKG.jpg" group-title="DESENHOS 24 HORAS",URSINHOS CARINHOSOS [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70568
+#EXTINF:-1 tvg-id="" tvg-name="URSINHOS GUMMY [24H]" tvg-logo="https://i.imgur.com/xi4om9l.jpg" group-title="DESENHOS 24 HORAS",URSINHOS GUMMY [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77212
+#EXTINF:-1 tvg-id="" tvg-name="VALE DOS DINOSSAUROS [24H]" tvg-logo="https://i.imgur.com/87iDK3q.jpg" group-title="DESENHOS 24 HORAS",VALE DOS DINOSSAUROS [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/76286
+#EXTINF:-1 tvg-id="" tvg-name="WALLY GATOR [24H]" tvg-logo="https://i.imgur.com/GIAp6ar.jpg" group-title="DESENHOS 24 HORAS",WALLY GATOR [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/76197
+#EXTINF:-1 tvg-id="" tvg-name="WHILE THE CATS [24H]" tvg-logo="https://i.imgur.com/LTwGiTK.jpg" group-title="DESENHOS 24 HORAS",WHILE THE CATS [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70418
+#EXTINF:-1 tvg-id="" tvg-name="X MEN EVOLUTION [24H]" tvg-logo="https://i.imgur.com/AqjFNsQ.jpg" group-title="DESENHOS 24 HORAS",X MEN EVOLUTION [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70561
+#EXTINF:-1 tvg-id="" tvg-name="X MEN EVOLUTION [24H]" tvg-logo="https://i.imgur.com/AqjFNsQ.jpg" group-title="DESENHOS 24 HORAS",X MEN EVOLUTION [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70560
+#EXTINF:-1 tvg-id="" tvg-name="XMEN [24H]" tvg-logo="https://i.imgur.com/gn5mzN2.jpg" group-title="DESENHOS 24 HORAS",XMEN [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70576
+#EXTINF:-1 tvg-id="" tvg-name="XUXA SÓ PARA BAIXINHOS [24H]" tvg-logo="https://i.imgur.com/X5jWuw4.jpg" group-title="DESENHOS 24 HORAS",XUXA SÓ PARA BAIXINHOS [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70901
+#EXTINF:-1 tvg-id="" tvg-name="YOUNG SHELDON [24H]" tvg-logo="https://i.imgur.com/4ndNXAA.jpg" group-title="SERIES 24 HORAS",YOUNG SHELDON [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70584
+#EXTINF:-1 tvg-id="" tvg-name="YU-GI-OH [24H-EXTRA]" tvg-logo="https://i.imgur.com/BUnMCVA.jpg" group-title="DESENHOS 24 HORAS",YU-GI-OH [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76512
+#EXTINF:-1 tvg-id="" tvg-name="YU-YU-Hakusho [24H-EXTRA]" tvg-logo="https://i.imgur.com/FMDjtIj.jpg" group-title="DESENHOS 24 HORAS",YU-YU-Hakusho [24H-EXTRA]
+http://mytvip.xyz:80/JJEncP/perSuD/76513
+#EXTINF:-1 tvg-id="" tvg-name="ZAK STORM [24H]" tvg-logo="https://i.imgur.com/o5KkPeq.jpg" group-title="DESENHOS 24 HORAS",ZAK STORM [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70563
+#EXTINF:-1 tvg-id="" tvg-name="ZE BOLHA E JUCA BALA [24H]" tvg-logo="https://i.imgur.com/EQdHPyL.jpg" group-title="DESENHOS 24 HORAS",ZE BOLHA E JUCA BALA [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77240
+#EXTINF:-1 tvg-id="" tvg-name="ZE BUCAPE [24H]" tvg-logo="https://i.imgur.com/lPimKLH.jpg" group-title="DESENHOS 24 HORAS",ZE BUCAPE [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/77239
+#EXTINF:-1 tvg-id="" tvg-name="ZE BUSCAPE [24H]" tvg-logo="https://i.imgur.com/lPimKLH.jpg" group-title="DESENHOS 24 HORAS",ZE BUSCAPE [24H]
+http://mytvip.xyz:80/JJEncP/perSuD/70558
+#EXTINF:-1 tvg-id="" tvg-name="COMICHÃO E COCADINHA 24H" tvg-logo="https://i.imgur.com/PqjMigJ.jpg" group-title="DESENHOS 24 HORAS",COMICHÃO E COCADINHA 24H
+http://mytvip.xyz:80/JJEncP/perSuD/83261
+#EXTINF:-1 tvg-id="" tvg-name="CAPITÃO PLANETA 24H" tvg-logo="https://i.imgur.com/3HMSLmj.jpg" group-title="DESENHOS 24 HORAS",CAPITÃO PLANETA 24H
+http://mytvip.xyz:80/JJEncP/perSuD/83262
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10 FORÇA ALIENIGENA 24H" tvg-logo="https://i.imgur.com/ti2uFHG.jpg" group-title="DESENHOS 24 HORAS",BEN 10 FORÇA ALIENIGENA 24H
+http://mytvip.xyz:80/JJEncP/perSuD/83263
+#EXTINF:-1 tvg-id="" tvg-name="BEAVIS AND BUT 24H" tvg-logo="https://i.imgur.com/yjlV3XI.jpg" group-title="DESENHOS 24 HORAS",BEAVIS AND BUT 24H
+http://mytvip.xyz:80/JJEncP/perSuD/83264
+#EXTINF:-1 tvg-id="" tvg-name="CARETA E MUTRETA 24H" tvg-logo="https://i.imgur.com/MUSOtq7.jpg" group-title="DESENHOS 24 HORAS",CARETA E MUTRETA 24H
+http://mytvip.xyz:80/JJEncP/perSuD/83265
+#EXTINF:-1 tvg-id="" tvg-name="PEQUENO PONEY 24H" tvg-logo="" group-title="DESENHOS 24 HORAS",PEQUENO PONEY 24H
+http://mytvip.xyz:80/JJEncP/perSuD/83445
+#EXTINF:-1 tvg-id="" tvg-name="MEU AMIGO DA ESCOLA É UM MACACO 24H" tvg-logo="" group-title="DESENHOS 24 HORAS",MEU AMIGO DA ESCOLA É UM MACACO 24H
+http://mytvip.xyz:80/JJEncP/perSuD/83453
+#EXTINF:-1 tvg-id="" tvg-name="MEGAS XLR 24H" tvg-logo="" group-title="DESENHOS 24 HORAS",MEGAS XLR 24H
+http://mytvip.xyz:80/JJEncP/perSuD/83454
+#EXTINF:-1 tvg-id="" tvg-name="GODZILLA DESENHO 24H" tvg-logo="" group-title="DESENHOS 24 HORAS",GODZILLA DESENHO 24H
+http://mytvip.xyz:80/JJEncP/perSuD/83818
+#EXTINF:-1 tvg-id="" tvg-name="GARFIELD 24H" tvg-logo="" group-title="DESENHOS 24 HORAS",GARFIELD 24H
+http://mytvip.xyz:80/JJEncP/perSuD/83845
+#EXTINF:-1 tvg-id="" tvg-name="G.I JOE SIGMA 24H" tvg-logo="" group-title="DESENHOS 24 HORAS",G.I JOE SIGMA 24H
+http://mytvip.xyz:80/JJEncP/perSuD/84305
+#EXTINF:-1 tvg-id="" tvg-name="MEGAMAN 24H" tvg-logo="" group-title="DESENHOS 24 HORAS",MEGAMAN 24H
+http://mytvip.xyz:80/JJEncP/perSuD/84306
+#EXTINF:-1 tvg-id="" tvg-name="JAMBO E RUIVÃO 24H" tvg-logo="" group-title="DESENHOS 24 HORAS",JAMBO E RUIVÃO 24H
+http://mytvip.xyz:80/JJEncP/perSuD/84387
+#EXTINF:-1 tvg-id="" tvg-name="ILHA DOS DESAFIOS 24H" tvg-logo="" group-title="DESENHOS 24 HORAS",ILHA DOS DESAFIOS 24H
+http://mytvip.xyz:80/JJEncP/perSuD/84388
+#EXTINF:-1 tvg-id="" tvg-name="DESENHOS BIBLICOS 24H" tvg-logo="" group-title="DESENHOS 24 HORAS",DESENHOS BIBLICOS 24H
+http://mytvip.xyz:80/JJEncP/perSuD/84415
+#EXTINF:-1 tvg-id="" tvg-name="13 MAX" tvg-logo="https://i.imgur.com/OaDxnDo.jpg" group-title="INTERNACIONAL",13 MAX
+http://mytvip.xyz:80/JJEncP/perSuD/80558
+#EXTINF:-1 tvg-id="" tvg-name="3ABN LATINO " tvg-logo="https://i.imgur.com/iXHpZ6R.jpg" group-title="INTERNACIONAL",3ABN LATINO 
+http://mytvip.xyz:80/JJEncP/perSuD/80607
+#EXTINF:-1 tvg-id="" tvg-name="5RTV SANTA FÉ" tvg-logo="https://i.imgur.com/BY2WG4Q.jpg" group-title="INTERNACIONAL",5RTV SANTA FÉ
+http://mytvip.xyz:80/JJEncP/perSuD/82214
+#EXTINF:-1 tvg-id="" tvg-name="92 NEWS" tvg-logo="https://i.imgur.com/VQclh63.jpg" group-title="INTERNACIONAL",92 NEWS
+http://mytvip.xyz:80/JJEncP/perSuD/80682
+#EXTINF:-1 tvg-id="" tvg-name="A SPORTS ADUL SWIN" tvg-logo="https://i.imgur.com/UqcOQ2U.jpg" group-title="INTERNACIONAL",A SPORTS ADUL SWIN
+http://mytvip.xyz:80/JJEncP/perSuD/76749
+#EXTINF:-1 tvg-id="" tvg-name="ABC NEWS" tvg-logo="https://i.imgur.com/STCLV5M.jpg" group-title="INTERNACIONAL",ABC NEWS
+http://mytvip.xyz:80/JJEncP/perSuD/80585
+#EXTINF:-1 tvg-id="" tvg-name="ADN 40 MEXICO" tvg-logo="https://i.imgur.com/NEWTaXh.jpg" group-title="INTERNACIONAL",ADN 40 MEXICO
+http://mytvip.xyz:80/JJEncP/perSuD/80640
+#EXTINF:-1 tvg-id="" tvg-name="AL HORREYA TV ARABIC" tvg-logo="https://i.imgur.com/Kt3EY2b.jpg" group-title="INTERNACIONAL",AL HORREYA TV ARABIC
+http://mytvip.xyz:80/JJEncP/perSuD/80605
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA" tvg-logo="https://i.imgur.com/mPlflhH.jpg" group-title="INTERNACIONAL",AL JAZEERA
+http://mytvip.xyz:80/JJEncP/perSuD/76675
+#EXTINF:-1 tvg-id="" tvg-name="ARAIANA NEWS AFGHANISTAN" tvg-logo="https://i.imgur.com/apq3loY.jpg" group-title="INTERNACIONAL",ARAIANA NEWS AFGHANISTAN
+http://mytvip.xyz:80/JJEncP/perSuD/80612
+#EXTINF:-1 tvg-id="" tvg-name="AUSTRALIA CHANNEL" tvg-logo="https://i.imgur.com/y4RTfyO.jpg" group-title="INTERNACIONAL",AUSTRALIA CHANNEL
+http://mytvip.xyz:80/JJEncP/perSuD/80675
+#EXTINF:-1 tvg-id="" tvg-name="AUTOMOTO TV" tvg-logo="https://i.imgur.com/VEfm51g.jpg" group-title="INTERNACIONAL",AUTOMOTO TV
+http://mytvip.xyz:80/JJEncP/perSuD/80583
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD NEWS" tvg-logo="https://i.imgur.com/DRT89Tw.jpg" group-title="INTERNACIONAL",BBC WORLD NEWS
+http://mytvip.xyz:80/JJEncP/perSuD/80667
+#EXTINF:-1 tvg-id="" tvg-name="BETV ENG" tvg-logo="https://i.imgur.com/IDzvXYQ.jpg" group-title="INTERNACIONAL",BETV ENG
+http://mytvip.xyz:80/JJEncP/perSuD/80606
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-logo="https://i.imgur.com/O3qfsBY.jpg" group-title="INTERNACIONAL",BLOOMBERG
+http://mytvip.xyz:80/JJEncP/perSuD/75111
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-logo="https://i.imgur.com/O3qfsBY.jpg" group-title="INTERNACIONAL",BLOOMBERG
+http://mytvip.xyz:80/JJEncP/perSuD/76879
+#EXTINF:-1 tvg-id="" tvg-name="BOSTON 25 NEWS" tvg-logo="https://i.imgur.com/c8Fetmw.jpg" group-title="INTERNACIONAL",BOSTON 25 NEWS
+http://mytvip.xyz:80/JJEncP/perSuD/76815
+#EXTINF:-1 tvg-id="" tvg-name="CADENA ELITE ESP" tvg-logo="https://i.imgur.com/xdFC9ge.jpg" group-title="INTERNACIONAL",CADENA ELITE ESP
+http://mytvip.xyz:80/JJEncP/perSuD/80654
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 10 RIO NEGRO ARG" tvg-logo="https://i.imgur.com/yfUW7XG.jpg" group-title="INTERNACIONAL",CANAL 10 RIO NEGRO ARG
+http://mytvip.xyz:80/JJEncP/perSuD/80622
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 26 ARGENTINO" tvg-logo="https://i.imgur.com/hFfYmbu.jpg" group-title="INTERNACIONAL",CANAL 26 ARGENTINO
+http://mytvip.xyz:80/JJEncP/perSuD/80591
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 9 LITORAL ARGENTINA" tvg-logo="" group-title="INTERNACIONAL",CANAL 9 LITORAL ARGENTINA
+http://mytvip.xyz:80/JJEncP/perSuD/80620
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COSMO" tvg-logo="https://i.imgur.com/7UjGZUH.png" group-title="INTERNACIONAL",CANAL COSMO
+http://mytvip.xyz:80/JJEncP/perSuD/80561
+#EXTINF:-1 tvg-id="" tvg-name="CANAL M URUGUAY" tvg-logo="https://i.imgur.com/7M1cgLY.jpg" group-title="INTERNACIONAL",CANAL M URUGUAY
+http://mytvip.xyz:80/JJEncP/perSuD/80601
+#EXTINF:-1 tvg-id="" tvg-name="CANAL X" tvg-logo="https://i.imgur.com/3owfKiX.jpg" group-title="INTERNACIONAL",CANAL X
+http://mytvip.xyz:80/JJEncP/perSuD/80559
+#EXTINF:-1 tvg-id="" tvg-name="CBN NEWS" tvg-logo="https://i.imgur.com/5pMITTV.jpg" group-title="INTERNACIONAL",CBN NEWS
+http://mytvip.xyz:80/JJEncP/perSuD/80677
+#EXTINF:-1 tvg-id="" tvg-name="CBS NEWS LOS ANGELES" tvg-logo="https://i.imgur.com/rlJHlCD.jpg" group-title="INTERNACIONAL",CBS NEWS LOS ANGELES
+http://mytvip.xyz:80/JJEncP/perSuD/80672
+#EXTINF:-1 tvg-id="" tvg-name="CBSN USA" tvg-logo="" group-title="INTERNACIONAL",CBSN USA
+http://mytvip.xyz:80/JJEncP/perSuD/80610
+#EXTINF:-1 tvg-id="" tvg-name="CC-TV ENG" tvg-logo="https://i.imgur.com/0NYfygd.jpg" group-title="INTERNACIONAL",CC-TV ENG
+http://mytvip.xyz:80/JJEncP/perSuD/80604
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13 CHINA" tvg-logo="" group-title="INTERNACIONAL",CCTV13 CHINA
+http://mytvip.xyz:80/JJEncP/perSuD/80588
+#EXTINF:-1 tvg-id="" tvg-name="CERRITOS TV3 " tvg-logo="" group-title="INTERNACIONAL",CERRITOS TV3 
+http://mytvip.xyz:80/JJEncP/perSuD/80608
+#EXTINF:-1 tvg-id="" tvg-name="CGTN " tvg-logo="https://i.imgur.com/Ehwh4wV.jpg" group-title="INTERNACIONAL",CGTN 
+http://mytvip.xyz:80/JJEncP/perSuD/75117
+#EXTINF:-1 tvg-id="" tvg-name="CGTN DOCUMENTARY" tvg-logo="https://i.imgur.com/SxXJON5.jpg" group-title="INTERNACIONAL",CGTN DOCUMENTARY
+http://mytvip.xyz:80/JJEncP/perSuD/75118
+#EXTINF:-1 tvg-id="" tvg-name="CGTV" tvg-logo="https://i.imgur.com/Gwii5a7.jpg" group-title="INTERNACIONAL",CGTV
+http://mytvip.xyz:80/JJEncP/perSuD/76676
+#EXTINF:-1 tvg-id="" tvg-name="CHAINE NORD AFRICAINE ALGERIA" tvg-logo="" group-title="INTERNACIONAL",CHAINE NORD AFRICAINE ALGERIA
+http://mytvip.xyz:80/JJEncP/perSuD/80617
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 2 NEWS ISRAEL HEBREW" tvg-logo="https://i.imgur.com/Ik66EIO.jpg" group-title="INTERNACIONAL",CHANNEL 2 NEWS ISRAEL HEBREW
+http://mytvip.xyz:80/JJEncP/perSuD/80678
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 8 SINGAPURA" tvg-logo="" group-title="INTERNACIONAL",CHANNEL 8 SINGAPURA
+http://mytvip.xyz:80/JJEncP/perSuD/80594
+#EXTINF:-1 tvg-id="" tvg-name="CLASSIC ARTS" tvg-logo="" group-title="INTERNACIONAL",CLASSIC ARTS
+http://mytvip.xyz:80/JJEncP/perSuD/76681
+#EXTINF:-1 tvg-id="" tvg-name="CNA SINGAPURE ENG" tvg-logo="" group-title="INTERNACIONAL",CNA SINGAPURE ENG
+http://mytvip.xyz:80/JJEncP/perSuD/80669
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA MEXICO" tvg-logo="" group-title="INTERNACIONAL",DE PELICULA MEXICO
+http://mytvip.xyz:80/JJEncP/perSuD/80636
+#EXTINF:-1 tvg-id="" tvg-name="DEUTSCHE WELLE" tvg-logo="https://i.imgur.com/QRHpFn7.jpg" group-title="INTERNACIONAL",DEUTSCHE WELLE
+http://mytvip.xyz:80/JJEncP/perSuD/75113
+#EXTINF:-1 tvg-id="" tvg-name="Di TV SWEDEN" tvg-logo="https://i.imgur.com/YpBbDGq.jpg" group-title="INTERNACIONAL",Di TV SWEDEN
+http://mytvip.xyz:80/JJEncP/perSuD/80685
+#EXTINF:-1 tvg-id="" tvg-name="DW ESPANHOL" tvg-logo="https://i.imgur.com/V9udU1K.jpg" group-title="INTERNACIONAL",DW ESPANHOL
+http://mytvip.xyz:80/JJEncP/perSuD/80666
+#EXTINF:-1 tvg-id="" tvg-name="ECIJA COMARCA TV ESP" tvg-logo="https://i.imgur.com/3aEGFmX.jpg" group-title="INTERNACIONAL",ECIJA COMARCA TV ESP
+http://mytvip.xyz:80/JJEncP/perSuD/80658
+#EXTINF:-1 tvg-id="" tvg-name="ESPRESSEN TV SWEDEN" tvg-logo="https://i.imgur.com/fMJvCfB.jpg" group-title="INTERNACIONAL",ESPRESSEN TV SWEDEN
+http://mytvip.xyz:80/JJEncP/perSuD/80680
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="https://i.imgur.com/SXAPMek.jpg" group-title="INTERNACIONAL",FASHION TV
+http://mytvip.xyz:80/JJEncP/perSuD/75126
+#EXTINF:-1 tvg-id="" tvg-name="FOX 28  WTGS SAVANNAH" tvg-logo="" group-title="INTERNACIONAL",FOX 28  WTGS SAVANNAH
+http://mytvip.xyz:80/JJEncP/perSuD/80602
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="https://i.imgur.com/K4Fn6ib.jpg" group-title="INTERNACIONAL",FRANCE 24
+http://mytvip.xyz:80/JJEncP/perSuD/75122
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 HORAS" tvg-logo="https://i.imgur.com/K4Fn6ib.jpg" group-title="INTERNACIONAL",FRANCE 24 HORAS
+http://mytvip.xyz:80/JJEncP/perSuD/75112
+#EXTINF:-1 tvg-id="" tvg-name="GARAGE TV" tvg-logo="" group-title="INTERNACIONAL",GARAGE TV
+http://mytvip.xyz:80/JJEncP/perSuD/80569
+#EXTINF:-1 tvg-id="" tvg-name="HD FASHION" tvg-logo="" group-title="INTERNACIONAL",HD FASHION
+http://mytvip.xyz:80/JJEncP/perSuD/80570
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY LAB IT" tvg-logo="" group-title="INTERNACIONAL",HISTORY LAB IT
+http://mytvip.xyz:80/JJEncP/perSuD/82132
+#EXTINF:-1 tvg-id="" tvg-name="ICI RDI" tvg-logo="" group-title="INTERNACIONAL",ICI RDI
+http://mytvip.xyz:80/JJEncP/perSuD/80593
+#EXTINF:-1 tvg-id="" tvg-name="IRAN INTERNACIONAL" tvg-logo="https://i.imgur.com/QsiNdQf.jpg" group-title="INTERNACIONAL",IRAN INTERNACIONAL
+http://mytvip.xyz:80/JJEncP/perSuD/80687
+#EXTINF:-1 tvg-id="" tvg-name="K CINE" tvg-logo="" group-title="INTERNACIONAL",K CINE
+http://mytvip.xyz:80/JJEncP/perSuD/77179
+#EXTINF:-1 tvg-id="" tvg-name="K KIDS" tvg-logo="" group-title="INTERNACIONAL",K KIDS
+http://mytvip.xyz:80/JJEncP/perSuD/77178
+#EXTINF:-1 tvg-id="" tvg-name="Khyber News TV PAKISTAO" tvg-logo="https://i.imgur.com/cbj51NF.jpg" group-title="INTERNACIONAL",Khyber News TV PAKISTAO
+http://mytvip.xyz:80/JJEncP/perSuD/80688
+#EXTINF:-1 tvg-id="" tvg-name="KURIAKOS" tvg-logo="" group-title="INTERNACIONAL",KURIAKOS
+http://mytvip.xyz:80/JJEncP/perSuD/80598
+#EXTINF:-1 tvg-id="" tvg-name="KURIAKOS CINE" tvg-logo="https://i.imgur.com/mhudErB.jpg" group-title="INTERNACIONAL",KURIAKOS CINE
+http://mytvip.xyz:80/JJEncP/perSuD/82213
+#EXTINF:-1 tvg-id="" tvg-name="KURIAKOS KIDS" tvg-logo="" group-title="INTERNACIONAL",KURIAKOS KIDS
+http://mytvip.xyz:80/JJEncP/perSuD/80600
+#EXTINF:-1 tvg-id="" tvg-name="L1MBURG HOLANDA" tvg-logo="" group-title="INTERNACIONAL",L1MBURG HOLANDA
+http://mytvip.xyz:80/JJEncP/perSuD/80596
+#EXTINF:-1 tvg-id="" tvg-name="Lahore News" tvg-logo="https://i.imgur.com/2NpvNsb.jpg" group-title="INTERNACIONAL",Lahore News
+http://mytvip.xyz:80/JJEncP/perSuD/80689
+#EXTINF:-1 tvg-id="" tvg-name="Libya 218 News" tvg-logo="https://i.imgur.com/DCI0BuQ.jpg" group-title="INTERNACIONAL",Libya 218 News
+http://mytvip.xyz:80/JJEncP/perSuD/80683
+#EXTINF:-1 tvg-id="" tvg-name="METRO TV INDONESIA" tvg-logo="https://i.imgur.com/8RRB1Va.jpg" group-title="INTERNACIONAL",METRO TV INDONESIA
+http://mytvip.xyz:80/JJEncP/perSuD/80679
+#EXTINF:-1 tvg-id="" tvg-name="MOTORTREND IT" tvg-logo="" group-title="INTERNACIONAL",MOTORTREND IT
+http://mytvip.xyz:80/JJEncP/perSuD/82133
+#EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS" tvg-logo="" group-title="INTERNACIONAL",MULTIMEDIOS
+http://mytvip.xyz:80/JJEncP/perSuD/80566
+#EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS CDMX" tvg-logo="" group-title="INTERNACIONAL",MULTIMEDIOS CDMX
+http://mytvip.xyz:80/JJEncP/perSuD/80652
+#EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS LAGUNA MX" tvg-logo="" group-title="INTERNACIONAL",MULTIMEDIOS LAGUNA MX
+http://mytvip.xyz:80/JJEncP/perSuD/80651
+#EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS MEXICO" tvg-logo="" group-title="INTERNACIONAL",MULTIMEDIOS MEXICO
+http://mytvip.xyz:80/JJEncP/perSuD/80641
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC TOP ARG" tvg-logo="" group-title="INTERNACIONAL",MUSIC TOP ARG
+http://mytvip.xyz:80/JJEncP/perSuD/80649
+#EXTINF:-1 tvg-id="" tvg-name="NDTV 24X7 INDIAN-ENGLISH" tvg-logo="https://i.imgur.com/Mr246KY.jpg" group-title="INTERNACIONAL",NDTV 24X7 INDIAN-ENGLISH
+http://mytvip.xyz:80/JJEncP/perSuD/80674
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 24 ALBANIAN" tvg-logo="" group-title="INTERNACIONAL",NEWS 24 ALBANIAN
+http://mytvip.xyz:80/JJEncP/perSuD/80615
+#EXTINF:-1 tvg-id="" tvg-name="Newsmax TV LOCAL USA" tvg-logo="https://i.imgur.com/HJEYhhv.jpg" group-title="INTERNACIONAL",Newsmax TV LOCAL USA
+http://mytvip.xyz:80/JJEncP/perSuD/80691
+#EXTINF:-1 tvg-id="" tvg-name="NOVATV BULGARIA" tvg-logo="" group-title="INTERNACIONAL",NOVATV BULGARIA
+http://mytvip.xyz:80/JJEncP/perSuD/80595
+#EXTINF:-1 tvg-id="" tvg-name="ONDA MADRID ESP" tvg-logo="https://i.imgur.com/maMpqlI.jpg" group-title="INTERNACIONAL",ONDA MADRID ESP
+http://mytvip.xyz:80/JJEncP/perSuD/80661
+#EXTINF:-1 tvg-id="" tvg-name="RAI NEWS" tvg-logo="https://i.imgur.com/nyb97Iw.jpg" group-title="INTERNACIONAL",RAI NEWS
+http://mytvip.xyz:80/JJEncP/perSuD/75124
+#EXTINF:-1 tvg-id="" tvg-name="RAI NEWS 24" tvg-logo="" group-title="INTERNACIONAL",RAI NEWS 24
+http://mytvip.xyz:80/JJEncP/perSuD/80586
+#EXTINF:-1 tvg-id="" tvg-name="RCG 2 SALTILIO MX" tvg-logo="" group-title="INTERNACIONAL",RCG 2 SALTILIO MX
+http://mytvip.xyz:80/JJEncP/perSuD/80653
+#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID" tvg-logo="https://i.imgur.com/NzDZ44F.jpg" group-title="INTERNACIONAL",REAL MADRID
+http://mytvip.xyz:80/JJEncP/perSuD/76110
+#EXTINF:-1 tvg-id="" tvg-name="RIBERA TV" tvg-logo="https://i.imgur.com/az5ATGR.jpg" group-title="INTERNACIONAL",RIBERA TV
+http://mytvip.xyz:80/JJEncP/perSuD/82216
+#EXTINF:-1 tvg-id="" tvg-name="RPC PARAGUAY" tvg-logo="" group-title="INTERNACIONAL",RPC PARAGUAY
+http://mytvip.xyz:80/JJEncP/perSuD/80611
+#EXTINF:-1 tvg-id="" tvg-name="RT Д English" tvg-logo="" group-title="INTERNACIONAL",RT Д English
+http://mytvip.xyz:80/JJEncP/perSuD/82131
+#EXTINF:-1 tvg-id="" tvg-name="RTP BOLIVIA" tvg-logo="" group-title="INTERNACIONAL",RTP BOLIVIA
+http://mytvip.xyz:80/JJEncP/perSuD/80562
+#EXTINF:-1 tvg-id="" tvg-name="RTV Arnhem HOLANDA" tvg-logo="https://i.imgur.com/EKIyyOd.jpg" group-title="INTERNACIONAL",RTV Arnhem HOLANDA
+http://mytvip.xyz:80/JJEncP/perSuD/80695
+#EXTINF:-1 tvg-id="" tvg-name="RTV Dordrecht HOLANDA" tvg-logo="https://i.imgur.com/lvlsIQA.jpg" group-title="INTERNACIONAL",RTV Dordrecht HOLANDA
+http://mytvip.xyz:80/JJEncP/perSuD/80696
+#EXTINF:-1 tvg-id="" tvg-name="RTV Drenthe HOLANDA" tvg-logo="https://i.imgur.com/YfcRmrZ.jpg" group-title="INTERNACIONAL",RTV Drenthe HOLANDA
+http://mytvip.xyz:80/JJEncP/perSuD/80697
+#EXTINF:-1 tvg-id="" tvg-name="RTV Maastricht HOLANDA" tvg-logo="https://i.imgur.com/2MLkSng.jpg" group-title="INTERNACIONAL",RTV Maastricht HOLANDA
+http://mytvip.xyz:80/JJEncP/perSuD/80694
+#EXTINF:-1 tvg-id="" tvg-name="RTVA ANDORRA" tvg-logo="" group-title="INTERNACIONAL",RTVA ANDORRA
+http://mytvip.xyz:80/JJEncP/perSuD/80618
+#EXTINF:-1 tvg-id="" tvg-name="RUSSIA TODAY" tvg-logo="" group-title="INTERNACIONAL",RUSSIA TODAY
+http://mytvip.xyz:80/JJEncP/perSuD/80589
+#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS EXTRA 1" tvg-logo="https://i.imgur.com/odrJh6q.jpg" group-title="INTERNACIONAL",SKY NEWS EXTRA 1
+http://mytvip.xyz:80/JJEncP/perSuD/80670
+#EXTINF:-1 tvg-id="" tvg-name="SUPER TENIS" tvg-logo="" group-title="INTERNACIONAL",SUPER TENIS
+http://mytvip.xyz:80/JJEncP/perSuD/76914
+#EXTINF:-1 tvg-id="" tvg-name="TELEARANDA ESP" tvg-logo="" group-title="INTERNACIONAL",TELEARANDA ESP
+http://mytvip.xyz:80/JJEncP/perSuD/80648
+#EXTINF:-1 tvg-id="" tvg-name="TELEMAR CAMPECHE TV" tvg-logo="" group-title="INTERNACIONAL",TELEMAR CAMPECHE TV
+http://mytvip.xyz:80/JJEncP/perSuD/80646
+#EXTINF:-1 tvg-id="" tvg-name="TELEMAX ARG" tvg-logo="https://i.imgur.com/qsc9sFf.jpg" group-title="INTERNACIONAL",TELEMAX ARG
+http://mytvip.xyz:80/JJEncP/perSuD/80664
+#EXTINF:-1 tvg-id="" tvg-name="TELENORD CORRIENTES ARGENTINA" tvg-logo="" group-title="INTERNACIONAL",TELENORD CORRIENTES ARGENTINA
+http://mytvip.xyz:80/JJEncP/perSuD/80621
+#EXTINF:-1 tvg-id="" tvg-name="TELERITMO" tvg-logo="" group-title="INTERNACIONAL",TELERITMO
+http://mytvip.xyz:80/JJEncP/perSuD/80568
+#EXTINF:-1 tvg-id="" tvg-name="TELESUR" tvg-logo="" group-title="INTERNACIONAL",TELESUR
+http://mytvip.xyz:80/JJEncP/perSuD/80592
+#EXTINF:-1 tvg-id="" tvg-name="TPA 7 ESP" tvg-logo="" group-title="INTERNACIONAL",TPA 7 ESP
+http://mytvip.xyz:80/JJEncP/perSuD/80656
+#EXTINF:-1 tvg-id="" tvg-name="TRACE TOCA" tvg-logo="https://i.imgur.com/aJ3zc4Y.jpg" group-title="INTERNACIONAL",TRACE TOCA
+http://mytvip.xyz:80/JJEncP/perSuD/80626
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL HD" tvg-logo="" group-title="INTERNACIONAL",TRAVEL HD
+http://mytvip.xyz:80/JJEncP/perSuD/80571
+#EXTINF:-1 tvg-id="" tvg-name="TRT Haber  TURKEY" tvg-logo="https://i.imgur.com/LmZanKK.jpg" group-title="INTERNACIONAL",TRT Haber  TURKEY
+http://mytvip.xyz:80/JJEncP/perSuD/80684
+#EXTINF:-1 tvg-id="" tvg-name="TRT WORLD" tvg-logo="" group-title="INTERNACIONAL",TRT WORLD
+http://mytvip.xyz:80/JJEncP/perSuD/80590
+#EXTINF:-1 tvg-id="" tvg-name="TUTI AFGHANISTAN" tvg-logo="" group-title="INTERNACIONAL",TUTI AFGHANISTAN
+http://mytvip.xyz:80/JJEncP/perSuD/80613
+#EXTINF:-1 tvg-id="" tvg-name="TV ES VENEZUELA" tvg-logo="https://i.imgur.com/kYUXiTC.jpg" group-title="INTERNACIONAL",TV ES VENEZUELA
+http://mytvip.xyz:80/JJEncP/perSuD/80660
+#EXTINF:-1 tvg-id="" tvg-name="TV GALICIA" tvg-logo="https://i.imgur.com/9X2Y2TF.jpg" group-title="INTERNACIONAL",TV GALICIA
+http://mytvip.xyz:80/JJEncP/perSuD/75121
+#EXTINF:-1 tvg-id="" tvg-name="TV MANA MOCAMBIQUE" tvg-logo="" group-title="INTERNACIONAL",TV MANA MOCAMBIQUE
+http://mytvip.xyz:80/JJEncP/perSuD/80627
+#EXTINF:-1 tvg-id="" tvg-name="TV MCJ" tvg-logo="" group-title="INTERNACIONAL",TV MCJ
+http://mytvip.xyz:80/JJEncP/perSuD/80633
+#EXTINF:-1 tvg-id="" tvg-name="TV MOCAMBIQUE" tvg-logo="" group-title="INTERNACIONAL",TV MOCAMBIQUE
+http://mytvip.xyz:80/JJEncP/perSuD/80625
+#EXTINF:-1 tvg-id="" tvg-name="TV MUNICIPAL CORDOBA ESP" tvg-logo="https://i.imgur.com/vSAzylr.jpg" group-title="INTERNACIONAL",TV MUNICIPAL CORDOBA ESP
+http://mytvip.xyz:80/JJEncP/perSuD/80662
+#EXTINF:-1 tvg-id="" tvg-name="TV4 LA VALL ESP" tvg-logo="https://i.imgur.com/In9pEU9.jpg" group-title="INTERNACIONAL",TV4 LA VALL ESP
+http://mytvip.xyz:80/JJEncP/perSuD/80663
+#EXTINF:-1 tvg-id="" tvg-name="TV5MONDE" tvg-logo="https://i.imgur.com/oDychOW.jpg" group-title="INTERNACIONAL",TV5MONDE
+http://mytvip.xyz:80/JJEncP/perSuD/75967
+#EXTINF:-1 tvg-id="" tvg-name="TVG MOMENTO ESP" tvg-logo="" group-title="INTERNACIONAL",TVG MOMENTO ESP
+http://mytvip.xyz:80/JJEncP/perSuD/80657
+#EXTINF:-1 tvg-id="" tvg-name="TVM INTERNACIONAL" tvg-logo="" group-title="INTERNACIONAL",TVM INTERNACIONAL
+http://mytvip.xyz:80/JJEncP/perSuD/80628
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="" group-title="INTERNACIONAL",TVRI
+http://mytvip.xyz:80/JJEncP/perSuD/80584
+#EXTINF:-1 tvg-id="" tvg-name="UNICANAL" tvg-logo="" group-title="INTERNACIONAL",UNICANAL
+http://mytvip.xyz:80/JJEncP/perSuD/80560
+#EXTINF:-1 tvg-id="" tvg-name="UNICANAL PARAGUAY" tvg-logo="" group-title="INTERNACIONAL",UNICANAL PARAGUAY
+http://mytvip.xyz:80/JJEncP/perSuD/80557
+#EXTINF:-1 tvg-id="" tvg-name="UNO TV MX" tvg-logo="" group-title="INTERNACIONAL",UNO TV MX
+http://mytvip.xyz:80/JJEncP/perSuD/80647
+#EXTINF:-1 tvg-id="" tvg-name="Известия" tvg-logo="https://i.imgur.com/KbWvQYV.jpg" group-title="INTERNACIONAL",Известия
+http://mytvip.xyz:80/JJEncP/perSuD/80676
+#EXTINF:-1 tvg-id="" tvg-name="RPT INTERNACIONAL" tvg-logo="" group-title="INTERNACIONAL",RPT INTERNACIONAL
+http://mytvip.xyz:80/JJEncP/perSuD/83787
