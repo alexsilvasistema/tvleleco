@@ -76,3 +76,49 @@ http://51.81.254.254:80/123456/12345678/15963
 
 
 
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E " tvg-logo="http://chronostv.com/logos/img/ae.png" group-title="Canais | Filmes & Séries",A&E 
+http://chronostv.com:80/Aline9090/Aline8080/68836
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E²" tvg-logo="http://chronostv.com/logos/img/ae.png" group-title="Canais | Filmes & Séries",A&E²
+http://chronostv.com:80/Aline9090/Aline8080/72439
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://chronostv.com/logos/img/ae.png" group-title="Canais | Filmes & Séries",A&E HD
+http://chronostv.com:80/Aline9090/Aline8080/68835
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/AMC2019.png" group-title="Canais | Filmes & Séries",AMC²
+http://chronostv.com:80/Aline9090/Aline8080/72417
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/AMC2019.png" group-title="Canais | Filmes & Séries",AMC HD²
+http://chronostv.com:80/Aline9090/Aline8080/72627
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet" tvg-logo="http://chronostv.com/logos/img/animalplanet.png" group-title="Canais | Documentarios",Animal Planet
+http://chronostv.com:80/Aline9090/Aline8080/68790
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet²" tvg-logo="http://chronostv.com/logos/img/animalplanet.png" group-title="Canais | Documentarios",Animal Planet²
+http://chronostv.com:80/Aline9090/Aline8080/72425
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="http://chronostv.com/logos/img/animalplanet.png" group-title="Canais | Documentarios",Animal Planet HD
+http://chronostv.com:80/Aline9090/Aline8080/68789
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet HD²" tvg-logo="http://chronostv.com/logos/img/animalplanet.png" group-title="Canais | Documentarios",Animal Planet HD²
+http://chronostv.com:80/Aline9090/Aline8080/72644
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1" tvg-logo="http://chronostv.com/logos/img/arte1.png" group-title="Canais | Variedades",Arte 1
+http://chronostv.com:80/Aline9090/Aline8080/69149
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 HD" tvg-logo="http://chronostv.com/logos/img/arte1.png" group-title="Canais | Variedades",Arte 1 HD
+http://chronostv.com:80/Aline9090/Aline8080/69148
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD²" tvg-logo="http://chronostv.com/logos/img/arte1.png" group-title="Canais | Variedades",ARTE 1 HD²
+http://chronostv.com:80/Aline9090/Aline8080/72629
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN" tvg-logo="http://chronostv.com/logos/img/axn.png" group-title="Canais | Filmes & Séries",AXN
+http://chronostv.com:80/Aline9090/Aline8080/68840
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN²" tvg-logo="http://chronostv.com/logos/img/axn.png" group-title="Canais | Filmes & Séries",AXN²
+http://chronostv.com:80/Aline9090/Aline8080/72440
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="http://chronostv.com/logos/img/axn.png" group-title="Canais | Filmes & Séries",AXN HD
+http://chronostv.com:80/Aline9090/Aline8080/68839
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD²" tvg-logo="http://chronostv.com/logos/img/axn.png" group-title="Canais | Filmes & Séries",AXN HD²
+http://chronostv.com:80/Aline9090/Aline8080/72626
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="Baby TV" tvg-logo="http://chronostv.com/logos/img/babytv.png" group-title="Canais | Infantis",Baby TV
+http://chronostv.com:80/Aline9090/Aline8080/69032
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="Baby TV²" tvg-logo="http://chronostv.com/logos/img/babytv.png" group-title="Canais | Infantis",Baby TV²
+http://chronostv.com:80/Aline9090/Aline8080/72418
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band " tvg-logo="http://chronostv.com/logos/img/bandminas.png" group-title="Canais | Abertos",Band 
+http://chronostv.com:80/Aline9090/Aline8080/68733
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band²" tvg-logo="http://chronostv.com/logos/img/bandminas.png" group-title="Canais | Abertos",Band²
+http://chronostv.com:80/Aline9090/Aline8080/72419
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band HD" tvg-logo="http://chronostv.com/logos/img/bandminas.png" group-title="Canais | Abertos",Band HD
+http://chronostv.com:80/Aline9090/Aline8080/68729
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band HD²" tvg-logo="http://chronostv.com/logos/img/bandminas.png" group-title="Canais | Abertos",Band HD²
+http://chronostv.com:80/Aline9090/Aline8080/72570
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="Baby HD" tvg-logo="http://chronostv.com/logos/img/babytv.png" group-title="Canais | Infantis",Baby HD
+http://chronostv.com:80/Aline9090/Aline8080/69031
