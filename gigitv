@@ -1,0 +1,333 @@
+#EXTM3U size="medium"
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E HD" tvg-logo="http://painelgerenciador.com.br/logos/img/ae.png" group-title="Filmes & Series",A&E HD
+http://node7.homelinux.com:80/youtube/123456/68835
+#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="Animal Planet HD" tvg-logo="http://painelgerenciador.com.br/logos/img/animalplanet.png" group-title="Documentarios",Animal Planet HD
+http://node7.homelinux.com:80/youtube/123456/68789
+#EXTINF:-1 tvg-id="ARTE1" tvg-name="Arte 1 HD" tvg-logo="http://painelgerenciador.com.br/logos/img/arte1.png" group-title="Variedades",Arte 1 HD
+http://node7.homelinux.com:80/youtube/123456/69148
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://painelgerenciador.com.br/logos/img/axn.png" group-title="Filmes & Series",AXN HD
+http://node7.homelinux.com:80/youtube/123456/68839
+#EXTINF:-1 tvg-id="BABYTV" tvg-name="Baby HD" tvg-logo="http://painelgerenciador.com.br/logos/img/babytv.png" group-title="Canais Infantis",Baby HD
+http://node7.homelinux.com:80/youtube/123456/69031
+#EXTINF:-1 tvg-id="BANDEIRANTES" tvg-name="Band HD" tvg-logo="http://painelgerenciador.com.br/logos/img/bandminas.png" group-title="Canais Abertos",Band HD
+http://node7.homelinux.com:80/youtube/123456/68729
+#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="Band News HD" tvg-logo="http://painelgerenciador.com.br/logos/img/bandnews.png" group-title="Noticias",Band News HD
+http://node7.homelinux.com:80/youtube/123456/69071
+#EXTINF:-1 tvg-id="BANDSPORTS" tvg-name="Band Sports HD" tvg-logo="http://painelgerenciador.com.br/logos/img/bandsports.png" group-title="Esportes",Band Sports HD
+http://node7.homelinux.com:80/youtube/123456/69109
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD" tvg-logo="http://painelgerenciador.com.br/logos/img/bis.png" group-title="Variedades",BIS HD
+http://node7.homelinux.com:80/youtube/123456/69151
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="Boomerang HD" tvg-logo="http://painelgerenciador.com.br/logos/img/boomerang.png" group-title="Canais Infantis",Boomerang HD
+http://node7.homelinux.com:80/youtube/123456/69034
+#EXTINF:-1 tvg-id="CANALBRASIL" tvg-name="Canal Brasil HD" tvg-logo="http://painelgerenciador.com.br/logos/img/canalbrasil.png" group-title="Variedades",Canal Brasil HD
+http://node7.homelinux.com:80/youtube/123456/69155
+#EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="Cartoon Network HD" tvg-logo="http://painelgerenciador.com.br/logos/img/cartoonnetwork.png" group-title="Canais Infantis",Cartoon Network HD
+http://node7.homelinux.com:80/youtube/123456/69037
+#EXTINF:-1 tvg-id="" tvg-name="Chef TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/LOGOCHEFTV.jpg" group-title="Variedades",Chef TV HD
+http://node7.homelinux.com:80/youtube/123456/69158
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="Cinemax HD" tvg-logo="http://painelgerenciador.com.br/logos/img/cinemax.png" group-title="Filmes & Series",Cinemax HD
+http://node7.homelinux.com:80/youtube/123456/68842
+#EXTINF:-1 tvg-id="CNNE" tvg-name="CNN Espanhol HD" tvg-logo="http://www.positivelypat.com/wp-content/uploads/2011/11/CNN-300x187.png" group-title="Noticias",CNN Espanhol HD
+http://node7.homelinux.com:80/youtube/123456/69074
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN Internacional HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/744px-CNN-International-Logo.svg.png" group-title="Noticias",CNN Internacional HD
+http://node7.homelinux.com:80/youtube/123456/69077
+#EXTINF:-1 tvg-id="COMBATE" tvg-name="Combate HD" tvg-logo="http://painelgerenciador.com.br/logos/img/combate.png" group-title="Esportes",Combate HD
+http://node7.homelinux.com:80/youtube/123456/69113
+#EXTINF:-1 tvg-id="COMEDYCENTRAL" tvg-name="Comedy Central HD" tvg-logo="http://painelgerenciador.com.br/logos/img/comedycentral.png" group-title="Variedades",Comedy Central HD
+http://node7.homelinux.com:80/youtube/123456/69161
+#EXTINF:-1 tvg-id="CURTA" tvg-name="Curta! HD" tvg-logo="http://painelgerenciador.com.br/logos/img/canalcurta.png" group-title="Variedades",Curta! HD
+http://node7.homelinux.com:80/youtube/123456/69164
+#EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="Discovery Channel HD" tvg-logo="http://painelgerenciador.com.br/logos/img/discoverychannel.png" group-title="Documentarios",Discovery Channel HD
+http://node7.homelinux.com:80/youtube/123456/68792
+#EXTINF:-1 tvg-id="DISCOVERYCIVILIZATION" tvg-name="Discovery Civilization HD" tvg-logo="http://painelgerenciador.com.br/logos/img/discoverycivilization.png" group-title="Documentarios",Discovery Civilization HD
+http://node7.homelinux.com:80/youtube/123456/68795
+#EXTINF:-1 tvg-id="DISCOVERYHH" tvg-name="Discovery Home & Health HD" tvg-logo="http://painelgerenciador.com.br/logos/img/discoveryhomehealth.png" group-title="Documentarios",Discovery Home & Health HD
+http://node7.homelinux.com:80/youtube/123456/68798
+#EXTINF:-1 tvg-id="LIV" tvg-name="Discovery ID HD" tvg-logo="http://painelgerenciador.com.br/logos/img/investigationdiscovery.png" group-title="Documentarios",Discovery ID HD
+http://node7.homelinux.com:80/youtube/123456/68801
+#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="Discovery Kids HD" tvg-logo="http://painelgerenciador.com.br/logos/img/discoverykids.png" group-title="Canais Infantis",Discovery Kids HD
+http://node7.homelinux.com:80/youtube/123456/69040
+#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="Discovery Science HD" tvg-logo="http://painelgerenciador.com.br/logos/img/discoveryscience.png" group-title="Documentarios",Discovery Science HD
+http://node7.homelinux.com:80/youtube/123456/68807
+#EXTINF:-1 tvg-id="DISCOVERYTHEATERHD" tvg-name="Discovery Theather HD" tvg-logo="http://painelgerenciador.com.br/logos/img/discoverytheater.png" group-title="Documentarios",Discovery Theather HD
+http://node7.homelinux.com:80/youtube/123456/68810
+#EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="Discovery Turbo HD" tvg-logo="http://painelgerenciador.com.br/logos/img/discoveryturbo.png" group-title="Documentarios",Discovery Turbo HD
+http://node7.homelinux.com:80/youtube/123456/68813
+#EXTINF:-1 tvg-id="DISCOVERYWORLD" tvg-name="Discovery World HD" tvg-logo="http://painelgerenciador.com.br/logos/img/discoveryworld.png" group-title="Documentarios",Discovery World HD
+http://node7.homelinux.com:80/youtube/123456/68816
+#EXTINF:-1 tvg-id="DISNEY" tvg-name="Disney Channel HD" tvg-logo="http://painelgerenciador.com.br/logos/img/disneychannel.png" group-title="Canais Infantis",Disney Channel HD
+http://node7.homelinux.com:80/youtube/123456/69043
+#EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-name="Disney JR HD" tvg-logo="http://painelgerenciador.com.br/logos/img/disneyjunior.png" group-title="Canais Infantis",Disney JR HD
+http://node7.homelinux.com:80/youtube/123456/69046
+#EXTINF:-1 tvg-id="DISNEYXD" tvg-name="Disney XD HD" tvg-logo="http://painelgerenciador.com.br/logos/img/disneyxd.png" group-title="Canais Infantis",Disney XD HD
+http://node7.homelinux.com:80/youtube/123456/69049
+#EXTINF:-1 tvg-id="E" tvg-name="E! HD" tvg-logo="http://painelgerenciador.com.br/logos/img/e.png" group-title="Variedades",E! HD
+http://node7.homelinux.com:80/youtube/123456/69168
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 2 HD" tvg-logo="http://painelgerenciador.com.br/logos/img/espn.png" group-title="Esportes",ESPN 2 HD
+http://node7.homelinux.com:80/youtube/123456/69116
+#EXTINF:-1 tvg-id="ESPNBRASIL" tvg-name="ESPN Brasil HD" tvg-logo="http://painelgerenciador.com.br/logos/img/espnbrasil.png" group-title="Esportes",ESPN Brasil HD
+http://node7.homelinux.com:80/youtube/123456/69119
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN Extra HD" tvg-logo="http://painelgerenciador.com.br/logos/img/espnmais.png" group-title="Esportes",ESPN Extra HD
+http://node7.homelinux.com:80/youtube/123456/69121
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="http://painelgerenciador.com.br/logos/img/espn.png" group-title="Esportes",ESPN HD
+http://node7.homelinux.com:80/youtube/123456/69124
+#EXTINF:-1 tvg-id="FISHTV" tvg-name="Fish TV HD" tvg-logo="http://painelgerenciador.com.br/logos/img/fishtv.png" group-title="Variedades",Fish TV HD
+http://node7.homelinux.com:80/youtube/123456/69171
+#EXTINF:-1 tvg-id="FOODNETWORKHD" tvg-name="Food Network HD" tvg-logo="http://painelgerenciador.com.br/logos/img/foodnetwork.png" group-title="Variedades",Food Network HD
+http://node7.homelinux.com:80/youtube/123456/69174
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX HD" tvg-logo="http://painelgerenciador.com.br/logos/img/foxchannel.png" group-title="Filmes & Series",FOX HD
+http://node7.homelinux.com:80/youtube/123456/68845
+#EXTINF:-1 tvg-id="FOXLIFE" tvg-name="Fox Life HD" tvg-logo="http://painelgerenciador.com.br/logos/img/foxlife.png" group-title="Filmes & Series",Fox Life HD
+http://node7.homelinux.com:80/youtube/123456/68847
+#EXTINF:-1 tvg-id="FOXPREMIUM1" tvg-name="Fox Premium 1 HD" tvg-logo="http://painelgerenciador.com.br/logos/img/foxpremium1.png" group-title="Filmes & Series",Fox Premium 1 HD
+http://node7.homelinux.com:80/youtube/123456/68850
+#EXTINF:-1 tvg-id="FOXPREMIUM2" tvg-name="Fox Premium 2 HD" tvg-logo="http://painelgerenciador.com.br/logos/img/foxpremium2.png" group-title="Filmes & Series",Fox Premium 2 HD
+http://node7.homelinux.com:80/youtube/123456/68852
+#EXTINF:-1 tvg-id="FOXSPORTS" tvg-name="Fox Sport HD" tvg-logo="http://painelgerenciador.com.br/logos/img/foxsports.png" group-title="Esportes",Fox Sport HD
+http://node7.homelinux.com:80/youtube/123456/69126
+#EXTINF:-1 tvg-id="FOXSPORTS2" tvg-name="Fox Sports 2 HD" tvg-logo="http://painelgerenciador.com.br/logos/img/foxsports2.png" group-title="Esportes",Fox Sports 2 HD
+http://node7.homelinux.com:80/youtube/123456/69128
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://painelgerenciador.com.br/logos/img/fx.png" group-title="Filmes & Series",FX HD
+http://node7.homelinux.com:80/youtube/123456/68855
+#EXTINF:-1 tvg-id="GLOBOSP" tvg-name="Globo Centro America HD" tvg-logo="http://painelgerenciador.com.br/logos/img/globo.png" group-title="Rede Globo",Globo Centro America HD
+http://node7.homelinux.com:80/youtube/123456/68910
+#EXTINF:-1 tvg-id="GLOBOSP" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://painelgerenciador.com.br/logos/img/globo.png" group-title="Rede Globo",Globo EPTV Campinas HD
+http://node7.homelinux.com:80/youtube/123456/68912
+#EXTINF:-1 tvg-id="GLOBOSP" tvg-name="Globo SP HD" tvg-logo="http://painelgerenciador.com.br/logos/img/globo.png" group-title="Rede Globo",Globo SP HD
+http://node7.homelinux.com:80/youtube/123456/68933
+#EXTINF:-1 tvg-id="GLOBONEWS" tvg-name="Globo News HD" tvg-logo="http://painelgerenciador.com.br/logos/img/globonews.png" group-title="Noticias",Globo News HD
+http://node7.homelinux.com:80/youtube/123456/69081
+#EXTINF:-1 tvg-id="GLOBOSP" tvg-name="Globo NSC Florianopolis HD" tvg-logo="http://painelgerenciador.com.br/logos/img/globo.png" group-title="Rede Globo",Globo NSC Florianopolis HD
+http://node7.homelinux.com:80/youtube/123456/68945
+#EXTINF:-1 tvg-id="GLOBOSP" tvg-name="Globo RPC Paranaense HD" tvg-logo="http://painelgerenciador.com.br/logos/img/globo.png" group-title="Rede Globo",Globo RPC Paranaense HD
+http://node7.homelinux.com:80/youtube/123456/68961
+#EXTINF:-1 tvg-id="GLOBOSP" tvg-name="Globo TV Bahia HD" tvg-logo="http://painelgerenciador.com.br/logos/img/globo.png" group-title="Rede Globo",Globo TV Bahia HD
+http://node7.homelinux.com:80/youtube/123456/68976
+#EXTINF:-1 tvg-id="GLOBOSP" tvg-name="Globo TV Belem HD" tvg-logo="http://painelgerenciador.com.br/logos/img/globo.png" group-title="Rede Globo",Globo TV Belem HD
+http://node7.homelinux.com:80/youtube/123456/68980
+#EXTINF:-1 tvg-id="GLOBOSP" tvg-name="Globo TV Mirante HD" tvg-logo="http://painelgerenciador.com.br/logos/img/globo.png" group-title="Rede Globo",Globo TV Mirante HD
+http://node7.homelinux.com:80/youtube/123456/68990
+#EXTINF:-1 tvg-id="GLOBOSP" tvg-name="Globo TV Morena HD" tvg-logo="http://painelgerenciador.com.br/logos/img/globo.png" group-title="Rede Globo",Globo TV Morena HD
+http://node7.homelinux.com:80/youtube/123456/68992
+#EXTINF:-1 tvg-id="GLOBOSP" tvg-name="Globo TV Verdes Mares HD" tvg-logo="http://painelgerenciador.com.br/logos/img/globo.png" group-title="Rede Globo",Globo TV Verdes Mares HD
+http://node7.homelinux.com:80/youtube/123456/69011
+#EXTINF:-1 tvg-id="GLOBOSP" tvg-name="GloboTV Anhanguera HD" tvg-logo="http://painelgerenciador.com.br/logos/img/globo.png" group-title="Rede Globo",GloboTV Anhanguera HD
+http://node7.homelinux.com:80/youtube/123456/69014
+#EXTINF:-1 tvg-id="GLOOB" tvg-name="Gloob HD" tvg-logo="http://painelgerenciador.com.br/logos/img/gloob.png" group-title="Canais Infantis",Gloob HD
+http://node7.homelinux.com:80/youtube/123456/69052
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho HD" tvg-logo="http://painelgerenciador.com.br/logos/img/gloobinho.png" group-title="Canais Infantis",Gloobinho HD
+http://node7.homelinux.com:80/youtube/123456/69055
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="http://painelgerenciador.com.br/logos/img/gnt.png" group-title="Variedades",GNT HD
+http://node7.homelinux.com:80/youtube/123456/69178
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 HD" tvg-logo="http://painelgerenciador.com.br/logos/img/history2.png" group-title="Documentarios",H2 HD
+http://node7.homelinux.com:80/youtube/123456/68820
+#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBO Family HD" tvg-logo="http://painelgerenciador.com.br/logos/img/hbofamily.png" group-title="Rede HBO",HBO Family HD
+http://node7.homelinux.com:80/youtube/123456/69019
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="http://painelgerenciador.com.br/logos/img/hbo.png" group-title="Rede HBO",HBO HD
+http://node7.homelinux.com:80/youtube/123456/69022
+#EXTINF:-1 tvg-id="HBOPLUS" tvg-name="HBO Plus HD" tvg-logo="http://painelgerenciador.com.br/logos/img/hboplus.png" group-title="Rede HBO",HBO Plus HD
+http://node7.homelinux.com:80/youtube/123456/69024
+#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="HBO Signature HD" tvg-logo="http://painelgerenciador.com.br/logos/img/hbosignature.png" group-title="Rede HBO",HBO Signature HD
+http://node7.homelinux.com:80/youtube/123456/69028
+#EXTINF:-1 tvg-id="ISAT" tvg-name="i SAT HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_i-sat_m.png" group-title="Variedades",i SAT HD
+http://node7.homelinux.com:80/youtube/123456/69181
+#EXTINF:-1 tvg-id="LIFETIME" tvg-name="Lifetime HD" tvg-logo="http://painelgerenciador.com.br/logos/img/lifetime.png" group-title="Variedades",Lifetime HD
+http://node7.homelinux.com:80/youtube/123456/69185
+#EXTINF:-1 tvg-id="GLOBOSATHD" tvg-name="Mais Globosat HD" tvg-logo="http://painelgerenciador.com.br/logos/img/maisglobosat.png" group-title="Variedades",Mais Globosat HD
+http://node7.homelinux.com:80/youtube/123456/69188
+#EXTINF:-1 tvg-id="MAX" tvg-name="MAX HD" tvg-logo="http://painelgerenciador.com.br/logos/img/max.png" group-title="Filmes & Series",MAX HD
+http://node7.homelinux.com:80/youtube/123456/68859
+#EXTINF:-1 tvg-id="MAXPRIMEHD" tvg-name="Max Prime HD" tvg-logo="http://painelgerenciador.com.br/logos/img/maxprime.png" group-title="Filmes & Series",Max Prime HD
+http://node7.homelinux.com:80/youtube/123456/68861
+#EXTINF:-1 tvg-id="MAXUP" tvg-name="Max UP HD" tvg-logo="http://painelgerenciador.com.br/logos/img/maxup.png" group-title="Filmes & Series",Max UP HD
+http://node7.homelinux.com:80/youtube/123456/68865
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="Megapix HD" tvg-logo="http://painelgerenciador.com.br/logos/img/megapix.png" group-title="Filmes & Series",Megapix HD
+http://node7.homelinux.com:80/youtube/123456/68868
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV HD" tvg-logo="http://painelgerenciador.com.br/logos/img/mtv.png" group-title="Variedades",MTV HD
+http://node7.homelinux.com:80/youtube/123456/69191
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="Multishow HD" tvg-logo="http://painelgerenciador.com.br/logos/img/multishow.png" group-title="Variedades",Multishow HD
+http://node7.homelinux.com:80/youtube/123456/69194
+#EXTINF:-1 tvg-id="MUSICBOXBRAZIL" tvg-name="Music Box Brasil HD" tvg-logo="http://painelgerenciador.com.br/logos/img/musicboxbrasil.png" group-title="Variedades",Music Box Brasil HD
+http://node7.homelinux.com:80/youtube/123456/69197
+#EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="Natgeo HD" tvg-logo="http://painelgerenciador.com.br/logos/img/natgeo.png" group-title="Documentarios",Natgeo HD
+http://node7.homelinux.com:80/youtube/123456/68823
+#EXTINF:-1 tvg-id="NATGEOKIDS" tvg-name="Natgeo Kids HD" tvg-logo="http://painelgerenciador.com.br/logos/img/natgeokids.png" group-title="Canais Infantis",Natgeo Kids HD
+http://node7.homelinux.com:80/youtube/123456/69058
+#EXTINF:-1 tvg-id="NATGEOWILDHD" tvg-name="Natgeo Wild HD" tvg-logo="http://painelgerenciador.com.br/logos/img/natgeowild.png" group-title="Documentarios",Natgeo Wild HD
+http://node7.homelinux.com:80/youtube/123456/68826
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="Nick HD" tvg-logo="http://painelgerenciador.com.br/logos/img/nick.png" group-title="Canais Infantis",Nick HD
+http://node7.homelinux.com:80/youtube/123456/69061
+#EXTINF:-1 tvg-id="NICKJR" tvg-name="Nick JR HD" tvg-logo="http://painelgerenciador.com.br/logos/img/nickjr.png" group-title="Canais Infantis",Nick JR HD
+http://node7.homelinux.com:80/youtube/123456/69063
+#EXTINF:-1 tvg-id="OFFHD" tvg-name="OFF HD" tvg-logo="http://painelgerenciador.com.br/logos/img/off.png" group-title="Variedades",OFF HD
+http://node7.homelinux.com:80/youtube/123456/69203
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="Paramount Channel HD" tvg-logo="http://painelgerenciador.com.br/logos/img/paramountchannel.png" group-title="Variedades",Paramount Channel HD
+http://node7.homelinux.com:80/youtube/123456/69206
+#EXTINF:-1 tvg-id="PLAYTV" tvg-name="Play TV HD" tvg-logo="http://painelgerenciador.com.br/logos/img/playtv.png" group-title="Variedades",Play TV HD
+http://node7.homelinux.com:80/youtube/123456/69209
+#EXTINF:-1 tvg-id="PREMIERE2" tvg-name="Premiere 2 HD" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png" group-title="Premiere",Premiere 2 HD
+http://node7.homelinux.com:80/youtube/123456/69087
+#EXTINF:-1 tvg-id="PREMIERE3" tvg-name="Premiere 3 HD" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png" group-title="Premiere",Premiere 3 HD
+http://node7.homelinux.com:80/youtube/123456/69090
+#EXTINF:-1 tvg-id="PREMIERE4" tvg-name="Premiere 4 HD" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png" group-title="Premiere",Premiere 4 HD
+http://node7.homelinux.com:80/youtube/123456/69093
+#EXTINF:-1 tvg-id="PREMIERE5" tvg-name="Premiere 5 HD" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png" group-title="Premiere",Premiere 5 HD
+http://node7.homelinux.com:80/youtube/123456/69096
+#EXTINF:-1 tvg-id="PREMIERE6" tvg-name="Premiere 6 HD" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png" group-title="Premiere",Premiere 6 HD
+http://node7.homelinux.com:80/youtube/123456/69099
+#EXTINF:-1 tvg-id="PREMIERE7" tvg-name="Premiere 7 HD" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png" group-title="Premiere",Premiere 7 HD
+http://node7.homelinux.com:80/youtube/123456/69102
+#EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png" group-title="Premiere",PREMIERE CLUBES HD
+http://node7.homelinux.com:80/youtube/123456/69106
+#EXTINF:-1 tvg-id="PRIMEBOXBRAZIL" tvg-name="Prime Box Brasil HD" tvg-logo="http://painelgerenciador.com.br/logos/img/primeboxbrasil.png" group-title="Variedades",Prime Box Brasil HD
+http://node7.homelinux.com:80/youtube/123456/69213
+#EXTINF:-1 tvg-id="RECORDNEWS" tvg-name="Record News HD" tvg-logo="http://painelgerenciador.com.br/logos/img/recordnews.png" group-title="Noticias",Record News HD
+http://node7.homelinux.com:80/youtube/123456/69084
+#EXTINF:-1 tvg-id="REDETV" tvg-name="Rede TV HD" tvg-logo="http://painelgerenciador.com.br/logos/img/redetv.png" group-title="Canais Abertos",Rede TV HD
+http://node7.homelinux.com:80/youtube/123456/68762
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://painelgerenciador.com.br/logos/img/sbt.png" group-title="Canais Abertos",SBT HD
+http://node7.homelinux.com:80/youtube/123456/68766
+#EXTINF:-1 tvg-id="SONY" tvg-name="Sony HD" tvg-logo="http://painelgerenciador.com.br/logos/img/sony.png" group-title="Filmes & Series",Sony HD
+http://node7.homelinux.com:80/youtube/123456/68871
+#EXTINF:-1 tvg-id="SPACE" tvg-name="Space HD" tvg-logo="http://painelgerenciador.com.br/logos/img/space.png" group-title="Filmes & Series",Space HD
+http://node7.homelinux.com:80/youtube/123456/68874
+#EXTINF:-1 tvg-id="SPORTV2" tvg-name="SporTV 2 HD" tvg-logo="http://painelgerenciador.com.br/logos/img/sportv2.png" group-title="Esportes",SporTV 2 HD
+http://node7.homelinux.com:80/youtube/123456/69139
+#EXTINF:-1 tvg-id="SPORTV3" tvg-name="SporTV 3 HD" tvg-logo="http://painelgerenciador.com.br/logos/img/sportv3.png" group-title="Esportes",SporTV 3 HD
+http://node7.homelinux.com:80/youtube/123456/69142
+#EXTINF:-1 tvg-id="SPORTV" tvg-name="SporTV HD" tvg-logo="http://painelgerenciador.com.br/logos/img/sportv.png" group-title="Esportes",SporTV HD
+http://node7.homelinux.com:80/youtube/123456/69145
+#EXTINF:-1 tvg-id="STUDIOUNIVERSAL" tvg-name="Studio Universal HD" tvg-logo="http://painelgerenciador.com.br/logos/img/studiouniversal.png" group-title="Filmes & Series",Studio Universal HD
+http://node7.homelinux.com:80/youtube/123456/68877
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY HD" tvg-logo="http://painelgerenciador.com.br/logos/img/syfy1.png" group-title="Filmes & Series",SYFY HD
+http://node7.homelinux.com:80/youtube/123456/68880
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="http://painelgerenciador.com.br/logos/img/tbs.png" group-title="Filmes & Series",TBS HD
+http://node7.homelinux.com:80/youtube/123456/68883
+#EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="TC Action HD" tvg-logo="http://painelgerenciador.com.br/logos/img/tcaction.png" group-title="Rede Telecine",TC Action HD
+http://node7.homelinux.com:80/youtube/123456/68710
+#EXTINF:-1 tvg-id="TELECINECULT" tvg-name="TC Cult HD" tvg-logo="http://painelgerenciador.com.br/logos/img/tccult.png" group-title="Rede Telecine",TC Cult HD
+http://node7.homelinux.com:80/youtube/123456/68713
+#EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="TC Fun HD" tvg-logo="http://painelgerenciador.com.br/logos/img/tcfun.png" group-title="Rede Telecine",TC Fun HD
+http://node7.homelinux.com:80/youtube/123456/68716
+#EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="TC Pipoca HD" tvg-logo="http://painelgerenciador.com.br/logos/img/tcpipoca.png" group-title="Rede Telecine",TC Pipoca HD
+http://node7.homelinux.com:80/youtube/123456/68719
+#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="TC Premium HD" tvg-logo="http://painelgerenciador.com.br/logos/img/tcpremium.png" group-title="Rede Telecine",TC Premium HD
+http://node7.homelinux.com:80/youtube/123456/68722
+#EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="TC Touch HD" tvg-logo="http://painelgerenciador.com.br/logos/img/tctouch.png" group-title="Rede Telecine",TC Touch HD
+http://node7.homelinux.com:80/youtube/123456/68725
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM HD" tvg-logo="http://painelgerenciador.com.br/logos/img/tcm.png" group-title="Filmes & Series",TCM HD
+http://node7.homelinux.com:80/youtube/123456/68886
+#EXTINF:-1 tvg-id="THEHISTORYCHANNEL" tvg-name="The History HD" tvg-logo="http://painelgerenciador.com.br/logos/img/history.png" group-title="Documentarios",The History HD
+http://node7.homelinux.com:80/youtube/123456/68829
+#EXTINF:-1 tvg-id="TRAVELANDLIVINGCHANNEL" tvg-name="TLC HD" tvg-logo="http://painelgerenciador.com.br/logos/img/tlc.png" group-title="Filmes & Series",TLC HD
+http://node7.homelinux.com:80/youtube/123456/68889
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://painelgerenciador.com.br/logos/img/tnt.png" group-title="Filmes & Series",TNT HD
+http://node7.homelinux.com:80/youtube/123456/68892
+#EXTINF:-1 tvg-id="TNTSERIES" tvg-name="TNT Series HD" tvg-logo="http://painelgerenciador.com.br/logos/img/tntseries.png" group-title="Filmes & Series",TNT Series HD
+http://node7.homelinux.com:80/youtube/123456/68895
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="Tooncast HD" tvg-logo="http://painelgerenciador.com.br/logos/img/tooncast.png" group-title="Canais Infantis",Tooncast HD
+http://node7.homelinux.com:80/youtube/123456/69067
+#EXTINF:-1 tvg-id="TRUTV" tvg-name="True TV HD" tvg-logo="http://painelgerenciador.com.br/logos/img/trutv.png" group-title="Documentarios",True TV HD
+http://node7.homelinux.com:80/youtube/123456/68832
+#EXTINF:-1 tvg-id="TVRTIMBUM" tvg-name="TV Ra Tim Bum HD" tvg-logo="http://1.bp.blogspot.com/-GZX6dzp0hgE/T_ybE0xP4xI/AAAAAAAA5Q4/YBgCtmkvqPY/s1600/tv%2Bra%2Blogo.jpg" group-title="Canais Abertos",TV Ra Tim Bum HD
+http://node7.homelinux.com:80/youtube/123456/68784
+#EXTINF:-1 tvg-id="UNIVERSAL" tvg-name="Universal Channel HD" tvg-logo="http://painelgerenciador.com.br/logos/img/universalchannel.png" group-title="Filmes & Series",Universal Channel HD
+http://node7.homelinux.com:80/youtube/123456/68899
+#EXTINF:-1 tvg-id="VH1MEGAHITS" tvg-name="VH1 Mega Hits HD" tvg-logo="http://painelgerenciador.com.br/logos/img/vh1.png" group-title="Variedades",VH1 Mega Hits HD
+http://node7.homelinux.com:80/youtube/123456/69228
+#EXTINF:-1 tvg-id="VIVA" tvg-name="Viva HD" tvg-logo="http://painelgerenciador.com.br/logos/img/canalviva.png" group-title="Variedades",Viva HD
+http://node7.homelinux.com:80/youtube/123456/69231
+#EXTINF:-1 tvg-id="WARNER" tvg-name="Warner Channel HD" tvg-logo="http://painelgerenciador.com.br/logos/img/warnerchannel.png" group-title="Filmes & Series",Warner Channel HD
+http://node7.homelinux.com:80/youtube/123456/68902
+#EXTINF:-1 tvg-id="REDERECORD" tvg-name="Record  HD" tvg-logo="http://painelgerenciador.com.br/logos/img/record.png" group-title="Canais Abertos",Record  HD
+http://node7.homelinux.com:80/youtube/123456/68744
+#EXTINF:-1 tvg-id="GLOBOSP" tvg-name="Globo Minas HD" tvg-logo="http://painelgerenciador.com.br/logos/img/globo.png" group-title="Rede Globo",Globo Minas HD
+http://node7.homelinux.com:80/youtube/123456/68929
+#EXTINF:-1 tvg-id="GLOBOSP" tvg-name="Globo Nordeste HD" tvg-logo="http://painelgerenciador.com.br/logos/img/globo.png" group-title="Rede Globo",Globo Nordeste HD
+http://node7.homelinux.com:80/youtube/123456/68940
+#EXTINF:-1 tvg-id="GLOBOSP" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="http://painelgerenciador.com.br/logos/img/globo.png" group-title="Rede Globo",GLOBO RBS PORTO ALEGRE HD
+http://node7.homelinux.com:80/youtube/123456/68948
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2 HD" tvg-logo="http://painelgerenciador.com.br/logos/img/hbo2.png" group-title="Rede HBO",HBO 2 HD
+http://node7.homelinux.com:80/youtube/123456/69016
+#EXTINF:-1 tvg-id="" tvg-name="DAZN1 HD" tvg-logo="http://painelgerenciador.com.br/logos/img/dazn.png" group-title="Esportes",DAZN1 HD
+http://node7.homelinux.com:80/youtube/123456/71806
+#EXTINF:-1 tvg-id="REDERECORD" tvg-name="RECORD DF HD" tvg-logo="" group-title="Rede Record",RECORD DF HD
+http://node7.homelinux.com:80/youtube/123456/71812
+#EXTINF:-1 tvg-id="REDERECORD" tvg-name="RECORD BH HD" tvg-logo="" group-title="Rede Record",RECORD BH HD
+http://node7.homelinux.com:80/youtube/123456/71813
+#EXTINF:-1 tvg-id="REDERECORD" tvg-name="RECORD RJ HD" tvg-logo="" group-title="Rede Record",RECORD RJ HD
+http://node7.homelinux.com:80/youtube/123456/71811
+#EXTINF:-1 tvg-id="REDERECORD" tvg-name="RECORD SP HD" tvg-logo="" group-title="Rede Record",RECORD SP HD
+http://node7.homelinux.com:80/youtube/123456/71809
+#EXTINF:-1 tvg-id="REDERECORD" tvg-name="RECORD BA HD" tvg-logo="" group-title="Rede Record",RECORD BA HD
+http://node7.homelinux.com:80/youtube/123456/71814
+#EXTINF:-1 tvg-id="REDERECORD" tvg-name="RECORD PA HD" tvg-logo="" group-title="Rede Record",RECORD PA HD
+http://node7.homelinux.com:80/youtube/123456/71815
+#EXTINF:-1 tvg-id="REDERECORD" tvg-name="RECORD GO HD" tvg-logo="" group-title="Rede Record",RECORD GO HD
+http://node7.homelinux.com:80/youtube/123456/71816
+#EXTINF:-1 tvg-id="REDERECORD" tvg-name="RECORD RS HD" tvg-logo="" group-title="Rede Record",RECORD RS HD
+http://node7.homelinux.com:80/youtube/123456/71817
+#EXTINF:-1 tvg-id="REDERECORD" tvg-name="RECORD ES HD" tvg-logo="" group-title="Rede Record",RECORD ES HD
+http://node7.homelinux.com:80/youtube/123456/71818
+#EXTINF:-1 tvg-id="" tvg-name="LIBERTADORES HD" tvg-logo="" group-title="Esportes",LIBERTADORES HD
+http://node7.homelinux.com:80/youtube/123456/71819
+#EXTINF:-1 tvg-id="" tvg-name="### TABELA JOGOS ###" tvg-logo="" group-title="Esportes",### TABELA JOGOS ###
+http://node7.homelinux.com:80/youtube/123456/71820
+#EXTINF:-1 tvg-id="" tvg-name="JASMIN TV" tvg-logo="http://youstream.xyz/canais/img/jasmintv.png" group-title="Cortesia",JASMIN TV
+http://node7.homelinux.com:80/youtube/123456/71909
+#EXTINF:-1 tvg-id="" tvg-name="TV CAMARA" tvg-logo="http://youstream.xyz/canais/img/tv camara.png" group-title="Canais Abertos",TV CAMARA
+http://node7.homelinux.com:80/youtube/123456/71910
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA" tvg-logo="http://painelgerenciador.com.br/logos/img/tvaparecida.png" group-title="Religiosos",TV APARECIDA
+http://node7.homelinux.com:80/youtube/123456/71911
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO" tvg-logo="http://painelgerenciador.com.br/logos/img/tvnovotempo.png" group-title="Religiosos",TV NOVO TEMPO
+http://node7.homelinux.com:80/youtube/123456/71912
+#EXTINF:-1 tvg-id="" tvg-name="TV GIDEOES" tvg-logo="" group-title="Religiosos",TV GIDEOES
+http://node7.homelinux.com:80/youtube/123456/71913
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="http://painelgerenciador.com.br/logos/img/redevida.png" group-title="Religiosos",REDE VIDA
+http://node7.homelinux.com:80/youtube/123456/71914
+#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA" tvg-logo="http://painelgerenciador.com.br/logos/img/cancaonova.png" group-title="Religiosos",CANCAO NOVA
+http://node7.homelinux.com:80/youtube/123456/71915
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR" tvg-logo="" group-title="Religiosos",TV EVANGELIZAR
+http://node7.homelinux.com:80/youtube/123456/71916
+#EXTINF:-1 tvg-id="" tvg-name="TV FAAP" tvg-logo="" group-title="Cortesia",TV FAAP
+http://node7.homelinux.com:80/youtube/123456/71919
+#EXTINF:-1 tvg-id="" tvg-name="TERRA VIVA" tvg-logo="http://painelgerenciador.com.br/logos/img/terraviva.png" group-title="Cortesia",TERRA VIVA
+http://node7.homelinux.com:80/youtube/123456/71920
+#EXTINF:-1 tvg-id="" tvg-name="TV JUSTICA" tvg-logo="http://painelgerenciador.com.br/logos/img/tvjustica.png" group-title="Cortesia",TV JUSTICA
+http://node7.homelinux.com:80/youtube/123456/71921
+#EXTINF:-1 tvg-id="" tvg-name="TV SENADO" tvg-logo="http://painelgerenciador.com.br/logos/img/tvsenado.png" group-title="Cortesia",TV SENADO
+http://node7.homelinux.com:80/youtube/123456/71922
+#EXTINF:-1 tvg-id="" tvg-name="TOP TV" tvg-logo="" group-title="Cortesia",TOP TV
+http://node7.homelinux.com:80/youtube/123456/71923
+#EXTINF:-1 tvg-id="" tvg-name="TV CARIOCA" tvg-logo="" group-title="Cortesia",TV CARIOCA
+http://node7.homelinux.com:80/youtube/123456/71924
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL CARTOON" tvg-logo="http://painelgerenciador.com.br/logos/img/redegospel.png" group-title="Religiosos",GOSPEL CARTOON
+http://node7.homelinux.com:80/youtube/123456/71925
+#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO" tvg-logo="" group-title="Religiosos",TV PAI ETERNO
+http://node7.homelinux.com:80/youtube/123456/71926
+#EXTINF:-1 tvg-id="" tvg-name="RBATV (BAND PA)" tvg-logo="http://painelgerenciador.com.br/logos/img/band.png" group-title="Cortesia",RBATV (BAND PA)
+http://node7.homelinux.com:80/youtube/123456/71927
+#EXTINF:-1 tvg-id="" tvg-name="TV J.SID" tvg-logo="" group-title="Cortesia",TV J.SID
+http://node7.homelinux.com:80/youtube/123456/71928
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO DO SERTAO" tvg-logo="" group-title="Cortesia",TV DIARIO DO SERTAO
+http://node7.homelinux.com:80/youtube/123456/71929
+#EXTINF:-1 tvg-id="" tvg-name="TV UNIAO DE NATAL" tvg-logo="" group-title="Cortesia",TV UNIAO DE NATAL
+http://node7.homelinux.com:80/youtube/123456/71930
+#EXTINF:-1 tvg-id="" tvg-name="TV METROPOLE" tvg-logo="" group-title="Religiosos",TV METROPOLE
+http://node7.homelinux.com:80/youtube/123456/71931
+#EXTINF:-1 tvg-id="" tvg-name="TV CAPITAL 77" tvg-logo="" group-title="Cortesia",TV CAPITAL 77
+http://node7.homelinux.com:80/youtube/123456/71932
+#EXTINF:-1 tvg-id="" tvg-name="TV DIGITAL BIRIGUI" tvg-logo="" group-title="Cortesia",TV DIGITAL BIRIGUI
+http://node7.homelinux.com:80/youtube/123456/71933
+#EXTINF:-1 tvg-id="" tvg-name="TV BAIANA (CULTURA BA)" tvg-logo="" group-title="Cortesia",TV BAIANA (CULTURA BA)
+http://node7.homelinux.com:80/youtube/123456/71934
+#EXTINF:-1 tvg-id="" tvg-name="SUMMER TV" tvg-logo="" group-title="Cortesia",SUMMER TV
+http://node7.homelinux.com:80/youtube/123456/71935
+#EXTINF:-1 tvg-id="" tvg-name="TV PADRE CICERO" tvg-logo="" group-title="Cortesia",TV PADRE CICERO
+http://node7.homelinux.com:80/youtube/123456/71936
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL HD" tvg-logo="" group-title="Noticias",CNN BRASIL HD
+http://node7.homelinux.com:80/youtube/123456/72752
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD" tvg-logo="http://painelgerenciador.com.br/logos/img/globo.png" group-title="Rede Globo",GLOBO RJ HD
+http://node7.homelinux.com:80/youtube/123456/72755
+#EXTINF:-1 tvg-id="" tvg-name="TV RIO SUL HD" tvg-logo="http://painelgerenciador.com.br/logos/img/globo.png" group-title="Rede Globo",TV RIO SUL HD
+http://node7.homelinux.com:80/youtube/123456/72757
