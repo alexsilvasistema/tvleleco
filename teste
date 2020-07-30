@@ -1,0 +1,2211 @@
+#EXTM3U 
+#EXTINF: -1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades", A&E FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2025
+#EXTINF: -1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades", A&E FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45236
+#EXTINF: -1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades", A&E FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25400
+#EXTINF: -1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades", A&E FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29484
+#EXTINF: -1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades", A&E HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1906
+#EXTINF: -1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades", A&E HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2402
+#EXTINF: -1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades", A&E SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1907
+#EXTINF: -1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades", A&E SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2215
+#EXTINF: -1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades", BIS FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1952
+#EXTINF: -1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades", BIS FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45126
+#EXTINF: -1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades", BIS FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25467
+#EXTINF: -1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades", BIS FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29421
+#EXTINF: -1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades", BIS HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1889
+#EXTINF: -1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades", BIS HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2396
+#EXTINF: -1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades", BIS SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1890
+#EXTINF: -1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades", BIS SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2121
+#EXTINF: -1 group-title="Canais | Variedades", Canal Rural HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/35976
+#EXTINF: -1 group-title="Canais | Variedades", Canal Rural SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/35975
+#EXTINF: -1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades", Comedy Central FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2014
+#EXTINF: -1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades", Comedy Central FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45133
+#EXTINF: -1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades", Comedy Central FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25460
+#EXTINF: -1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades", Comedy Central FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29476
+#EXTINF: -1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades", Comedy Central HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1873
+#EXTINF: -1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades", Comedy Central HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2391
+#EXTINF: -1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades", Comedy Central SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1874
+#EXTINF: -1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades", Comedy Central SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2205
+#EXTINF: -1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades", Discovery H&H FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2011
+#EXTINF: -1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades", Discovery H&H FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45136
+#EXTINF: -1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades", Discovery H&H FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25396
+#EXTINF: -1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades", Discovery H&H FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29419
+#EXTINF: -1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades", Discovery H&H HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1865
+#EXTINF: -1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades", Discovery H&H HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2388
+#EXTINF: -1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades", Discovery H&H SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1866
+#EXTINF: -1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades", Discovery H&H SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2106
+#EXTINF: -1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades", Discovery Turbo FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2007
+#EXTINF: -1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades", Discovery Turbo FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45141
+#EXTINF: -1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades", Discovery Turbo FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25392
+#EXTINF: -1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades", Discovery Turbo FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29401
+#EXTINF: -1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades", Discovery Turbo HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1857
+#EXTINF: -1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades", Discovery Turbo HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2384
+#EXTINF: -1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades", Discovery Turbo SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1858
+#EXTINF: -1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades", Discovery Turbo SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2201
+#EXTINF: -1 tvg-logo="http://a5.vc/GPZ" group-title="Canais | Variedades", DogTV FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/30554
+#EXTINF: -1 tvg-logo="http://a5.vc/GPZ" group-title="Canais | Variedades", DogTV HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/33341
+#EXTINF: -1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades", E! FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2005
+#EXTINF: -1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades", E! FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45145
+#EXTINF: -1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades", E! FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25388
+#EXTINF: -1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades", E! FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29416
+#EXTINF: -1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades", E! HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1849
+#EXTINF: -1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades", E! HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2380
+#EXTINF: -1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades", E! SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1850
+#EXTINF: -1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades", E! SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2197
+#EXTINF: -1 group-title="Canais | Variedades", Fashion TV FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/48235
+#EXTINF: -1 group-title="Canais | Variedades", Fashion TV FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45150
+#EXTINF: -1 group-title="Canais | Variedades", Fashion TV HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/48236
+#EXTINF: -1 group-title="Canais | Variedades", Fashion TV SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/48237
+#EXTINF: -1 group-title="Canais | Variedades", Fashion TV FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25385
+#EXTINF: -1 tvg-logo="http://a5.vc/StA" group-title="Canais | Variedades", Fish TV FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2002
+#EXTINF: -1 tvg-logo="http://a5.vc/StA" group-title="Canais | Variedades", Fish TV FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45151
+#EXTINF: -1 tvg-logo="http://a5.vc/StA" group-title="Canais | Variedades", Fish TV FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25384
+#EXTINF: -1 tvg-logo="http://a5.vc/StA" group-title="Canais | Variedades", Fish TV FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29470
+#EXTINF: -1 tvg-logo="http://a5.vc/StA" group-title="Canais | Variedades", Fish TV HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1839
+#EXTINF: -1 tvg-logo="http://a5.vc/StA" group-title="Canais | Variedades", Fish TV SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1840
+#EXTINF: -1 tvg-logo="http://a5.vc/StA" group-title="Canais | Variedades", Fish TV SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2109
+#EXTINF: -1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | Variedades", Food Network FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2001
+#EXTINF: -1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | Variedades", Food Network FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45152
+#EXTINF: -1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | Variedades", Food Network FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25456
+#EXTINF: -1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | Variedades", Food Network FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29469
+#EXTINF: -1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | Variedades", Food Network HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1837
+#EXTINF: -1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | Variedades", Food Network HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2375
+#EXTINF: -1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | Variedades", Food Network SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1838
+#EXTINF: -1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | Variedades", Food Network SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2125
+#EXTINF: -1 tvg-logo="http://a5.vc/OVC" group-title="Canais | Variedades", Fox Life FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2000
+#EXTINF: -1 tvg-logo="http://a5.vc/OVC" group-title="Canais | Variedades", FOX Life FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45154
+#EXTINF: -1 tvg-logo="http://a5.vc/OVC" group-title="Canais | Variedades", Fox Life FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25454
+#EXTINF: -1 tvg-logo="http://a5.vc/OVC" group-title="Canais | Variedades", Fox Life HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1833
+#EXTINF: -1 tvg-logo="http://a5.vc/OVC" group-title="Canais | Variedades", Fox Life HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2373
+#EXTINF: -1 tvg-logo="http://a5.vc/OVC" group-title="Canais | Variedades", Fox Life SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1834
+#EXTINF: -1 tvg-logo="http://a5.vc/OVC" group-title="Canais | Variedades", Fox Life SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2193
+#EXTINF: -1 tvg-logo="http://a5.vc/scT" group-title="Canais | Variedades", GNT FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1994
+#EXTINF: -1 tvg-logo="http://a5.vc/scT" group-title="Canais | Variedades", GNT FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45163
+#EXTINF: -1 tvg-logo="http://a5.vc/scT" group-title="Canais | Variedades", GNT FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25379
+#EXTINF: -1 tvg-logo="http://a5.vc/scT" group-title="Canais | Variedades", GNT FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29412
+#EXTINF: -1 tvg-logo="http://a5.vc/scT" group-title="Canais | Variedades", GNT HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1813
+#EXTINF: -1 tvg-logo="http://a5.vc/scT" group-title="Canais | Variedades", GNT HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2364
+#EXTINF: -1 tvg-logo="http://a5.vc/scT" group-title="Canais | Variedades", GNT SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1814
+#EXTINF: -1 tvg-logo="http://a5.vc/scT" group-title="Canais | Variedades", GNT SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2120
+#EXTINF: -1 tvg-logo="http://a5.vc/ecn" group-title="Canais | Variedades", Lifetime FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1987
+#EXTINF: -1 tvg-logo="http://a5.vc/ecn" group-title="Canais | Variedades", Lifetime FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45171
+#EXTINF: -1 tvg-logo="http://a5.vc/ecn" group-title="Canais | Variedades", Lifetime FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25441
+#EXTINF: -1 tvg-logo="http://a5.vc/ecn" group-title="Canais | Variedades", Lifetime FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29457
+#EXTINF: -1 tvg-logo="http://a5.vc/ecn" group-title="Canais | Variedades", Lifetime HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1795
+#EXTINF: -1 tvg-logo="http://a5.vc/ecn" group-title="Canais | Variedades", Lifetime HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2356
+#EXTINF: -1 tvg-logo="http://a5.vc/ecn" group-title="Canais | Variedades", Lifetime SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1796
+#EXTINF: -1 tvg-logo="http://a5.vc/ecn" group-title="Canais | Variedades", Lifetime SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2180
+#EXTINF: -1 tvg-logo="http://a5.vc/e5K" group-title="Canais | Variedades", Mais GloboSat FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1921
+#EXTINF: -1 tvg-logo="http://a5.vc/e5K" group-title="Canais | Variedades", Mais Globosat FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45172
+#EXTINF: -1 tvg-logo="http://a5.vc/e5K" group-title="Canais | Variedades", Mais GloboSat FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25440
+#EXTINF: -1 tvg-logo="http://a5.vc/e5K" group-title="Canais | Variedades", Mais GloboSat FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29399
+#EXTINF: -1 tvg-logo="http://a5.vc/e5K" group-title="Canais | Variedades", Mais GloboSat HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1793
+#EXTINF: -1 tvg-logo="http://a5.vc/e5K" group-title="Canais | Variedades", Mais GloboSat HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2366
+#EXTINF: -1 tvg-logo="http://a5.vc/e5K" group-title="Canais | Variedades", Mais GloboSat SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1794
+#EXTINF: -1 tvg-logo="http://a5.vc/e5K" group-title="Canais | Variedades", Mais GloboSat SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2188
+#EXTINF: -1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades", MTV FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1982
+#EXTINF: -1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades", MTV FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45177
+#EXTINF: -1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades", MTV FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25435
+#EXTINF: -1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades", MTV FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29454
+#EXTINF: -1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades", MTV HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1783
+#EXTINF: -1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades", MTV HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2351
+#EXTINF: -1 tvg-logo="http://a5.vc/cnP" group-title="Canais | Variedades", MTV Live FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1981
+#EXTINF: -1 tvg-logo="http://a5.vc/cnP" group-title="Canais | Variedades", MTV Live FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45178
+#EXTINF: -1 tvg-logo="http://a5.vc/cnP" group-title="Canais | Variedades", MTV Live FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25376
+#EXTINF: -1 tvg-logo="http://a5.vc/cnP" group-title="Canais | Variedades", MTV Live HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1676
+#EXTINF: -1 tvg-logo="http://a5.vc/cnP" group-title="Canais | Variedades", MTV Live SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1677
+#EXTINF: -1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades", MTV SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1784
+#EXTINF: -1 tvg-logo="http://a5.vc/Uet" group-title="Canais | Variedades", Multishow FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1980
+#EXTINF: -1 tvg-logo="http://a5.vc/Uet" group-title="Canais | Variedades", Multishow FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45179
+#EXTINF: -1 tvg-logo="http://a5.vc/Uet" group-title="Canais | Variedades", Multishow FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25375
+#EXTINF: -1 tvg-logo="http://a5.vc/Uet" group-title="Canais | Variedades", Multishow FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29453
+#EXTINF: -1 tvg-logo="http://a5.vc/Uet" group-title="Canais | Variedades", Multishow HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1781
+#EXTINF: -1 tvg-logo="http://a5.vc/Uet" group-title="Canais | Variedades", Multishow HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2350
+#EXTINF: -1 tvg-logo="http://a5.vc/Uet" group-title="Canais | Variedades", Multishow SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1782
+#EXTINF: -1 tvg-logo="http://a5.vc/Uet" group-title="Canais | Variedades", Multishow SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2175
+#EXTINF: -1 tvg-logo="http://a5.vc/FbG" group-title="Canais | Variedades", Music Box Brasil FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1979
+#EXTINF: -1 tvg-logo="http://a5.vc/FbG" group-title="Canais | Variedades", Music Box Brasil FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25434
+#EXTINF: -1 tvg-logo="http://a5.vc/FbG" group-title="Canais | Variedades", Music Box Brasil HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1779
+#EXTINF: -1 tvg-logo="http://a5.vc/FbG" group-title="Canais | Variedades", Music Box Brasil SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1780
+#EXTINF: -1 tvg-logo="http://a5.vc/FbG" group-title="Canais | Variedades", Music Box Brazil FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45180
+#EXTINF: -1 group-title="Canais | Variedades", NHK World SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42896
+#EXTINF: -1 tvg-logo="http://a5.vc/wCS" group-title="Canais | Variedades", Off FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1973
+#EXTINF: -1 tvg-logo="http://a5.vc/wCS" group-title="Canais | Variedades", OFF FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45186
+#EXTINF: -1 tvg-logo="http://a5.vc/wCS" group-title="Canais | Variedades", Off FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25429
+#EXTINF: -1 tvg-logo="http://a5.vc/wCS" group-title="Canais | Variedades", Off FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29406
+#EXTINF: -1 tvg-logo="http://a5.vc/wCS" group-title="Canais | Variedades", Off HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1766
+#EXTINF: -1 tvg-logo="http://a5.vc/wCS" group-title="Canais | Variedades", Off HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2344
+#EXTINF: -1 tvg-logo="http://a5.vc/wCS" group-title="Canais | Variedades", Off SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1767
+#EXTINF: -1 tvg-logo="http://a5.vc/wCS" group-title="Canais | Variedades", Off SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2169
+#EXTINF: -1 tvg-logo="http://a5.vc/Fmq" group-title="Canais | Variedades", Play TV SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2167
+#EXTINF: -1 tvg-logo="http://a5.vc/Drt" group-title="Canais | Variedades", Prime Box Brasil FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1971
+#EXTINF: -1 tvg-logo="http://a5.vc/Drt" group-title="Canais | Variedades", Prime Box Brasil FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25422
+#EXTINF: -1 tvg-logo="http://a5.vc/Drt" group-title="Canais | Variedades", Prime Box Brasil HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1748
+#EXTINF: -1 tvg-logo="http://a5.vc/Drt" group-title="Canais | Variedades", Prime Box Brasil SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1749
+#EXTINF: -1 tvg-logo="http://a5.vc/Drt" group-title="Canais | Variedades", Prime Box Brazil FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45195
+#EXTINF: -1 tvg-logo="http://a5.vc/Uxs" group-title="Canais | Variedades", Status do COVID-19
+http://csrv.tv:80/PauloHenrique202/paulo85946124/41610
+#EXTINF: -1 tvg-logo="http://a5.vc/Czz" group-title="Canais | Variedades", TLC FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1964
+#EXTINF: -1 tvg-logo="http://a5.vc/Czz" group-title="Canais | Variedades", TLC FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45211
+#EXTINF: -1 tvg-logo="http://a5.vc/Czz" group-title="Canais | Variedades", TLC FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25351
+#EXTINF: -1 tvg-logo="http://a5.vc/Czz" group-title="Canais | Variedades", TLC FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29398
+#EXTINF: -1 tvg-logo="http://a5.vc/Czz" group-title="Canais | Variedades", TLC HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1706
+#EXTINF: -1 tvg-logo="http://a5.vc/Czz" group-title="Canais | Variedades", TLC HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2319
+#EXTINF: -1 tvg-logo="http://a5.vc/Czz" group-title="Canais | Variedades", TLC SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1707
+#EXTINF: -1 tvg-logo="http://a5.vc/Czz" group-title="Canais | Variedades", TLC SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2142
+#EXTINF: -1 tvg-logo="http://a5.vc/4vg" group-title="Canais | Variedades", Travel Box Brazil FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45214
+#EXTINF: -1 tvg-logo="http://a5.vc/4vg" group-title="Canais | Variedades", Travel Box Brazil FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25367
+#EXTINF: -1 tvg-logo="http://a5.vc/4vg" group-title="Canais | Variedades", Travel Box Brazil HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/48239
+#EXTINF: -1 tvg-logo="http://a5.vc/4vg" group-title="Canais | Variedades", Travel Box Brazil SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/48240
+#EXTINF: -1 tvg-logo="http://a5.vc/i2z" group-title="Canais | Variedades", VH1 FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1958
+#EXTINF: -1 tvg-logo="http://a5.vc/i2z" group-title="Canais | Variedades", VH1 FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45219
+#EXTINF: -1 tvg-logo="http://a5.vc/i2z" group-title="Canais | Variedades", VH1 FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25403
+#EXTINF: -1 tvg-logo="http://a5.vc/i2z" group-title="Canais | Variedades", VH1 FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29425
+#EXTINF: -1 tvg-logo="http://a5.vc/i2z" group-title="Canais | Variedades", VH1 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1686
+#EXTINF: -1 tvg-logo="http://a5.vc/8Xm" group-title="Canais | Variedades", VH1 MegaHits SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1685
+#EXTINF: -1 tvg-logo="http://a5.vc/8Xm" group-title="Canais | Variedades", VH1 MegaHits SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2136
+#EXTINF: -1 tvg-logo="http://a5.vc/i2z" group-title="Canais | Variedades", VH1 SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1687
+#EXTINF: -1 tvg-logo="http://a5.vc/Qin" group-title="Canais | Variedades", Viva FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1922
+#EXTINF: -1 tvg-logo="http://a5.vc/Qin" group-title="Canais | Variedades", Viva FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45220
+#EXTINF: -1 tvg-logo="http://a5.vc/Qin" group-title="Canais | Variedades", Viva FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25402
+#EXTINF: -1 tvg-logo="http://a5.vc/Qin" group-title="Canais | Variedades", Viva HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1683
+#EXTINF: -1 tvg-logo="http://a5.vc/Qin" group-title="Canais | Variedades", Viva HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2314
+#EXTINF: -1 tvg-logo="http://a5.vc/Qin" group-title="Canais | Variedades", Viva SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1684
+#EXTINF: -1 tvg-logo="http://a5.vc/Qin" group-title="Canais | Variedades", Viva SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2135
+#EXTINF: -1 tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades", WooHoo FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1956
+#EXTINF: -1 tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades", Woohoo FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45222
+#EXTINF: -1 tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades", WooHoo FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25364
+#EXTINF: -1 tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades", WooHoo FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29397
+#EXTINF: -1 tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades", WooHoo HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1679
+#EXTINF: -1 tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades", WooHoo SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1680
+#EXTINF: -1 tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades", WooHoo SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2133
+#EXTINF: -1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries", AMC FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2024
+#EXTINF: -1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries", AMC FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45237
+#EXTINF: -1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries", AMC FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25399
+#EXTINF: -1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries", AMC FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29483
+#EXTINF: -1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries", AMC HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1904
+#EXTINF: -1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries", AMC HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2401
+#EXTINF: -1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries", AMC SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1905
+#EXTINF: -1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries", AMC SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2214
+#EXTINF: -1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries", AXN FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2021
+#EXTINF: -1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries", AXN FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45240
+#EXTINF: -1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries", AXN FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25470
+#EXTINF: -1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries", AXN FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29481
+#EXTINF: -1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries", AXN HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1898
+#EXTINF: -1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries", AXN HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2399
+#EXTINF: -1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries", AXN SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1899
+#EXTINF: -1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries", AXN SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2212
+#EXTINF: -1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries", Canal Brasil FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1920
+#EXTINF: -1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries", Canal Brasil FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45128
+#EXTINF: -1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries", Canal Brasil FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25465
+#EXTINF: -1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries", Canal Brasil FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29402
+#EXTINF: -1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries", Canal Brasil HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1884
+#EXTINF: -1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries", Canal Brasil SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1885
+#EXTINF: -1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries", Canal Brasil SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2115
+#EXTINF: -1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries", Canal Sony FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2017
+#EXTINF: -1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries", Canal Sony FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45129
+#EXTINF: -1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries", Canal Sony FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25464
+#EXTINF: -1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries", Canal Sony FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29480
+#EXTINF: -1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries", Canal Sony HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1882
+#EXTINF: -1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries", Canal Sony HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2395
+#EXTINF: -1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries", Canal Sony SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1883
+#EXTINF: -1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries", Canal Sony SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2207
+#EXTINF: -1 tvg-logo="http://a5.vc/6jo" group-title="Canais | Filmes e Séries", Cine SKY 1 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/47395
+#EXTINF: -1 tvg-logo="http://a5.vc/6jo" group-title="Canais | Filmes e Séries", Cine SKY 10 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/48139
+#EXTINF: -1 tvg-logo="http://a5.vc/6jo" group-title="Canais | Filmes e Séries", Cine SKY 2 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/47396
+#EXTINF: -1 tvg-logo="http://a5.vc/6jo" group-title="Canais | Filmes e Séries", Cine SKY 3 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/47397
+#EXTINF: -1 tvg-logo="http://a5.vc/6jo" group-title="Canais | Filmes e Séries", Cine SKY 4 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/47398
+#EXTINF: -1 tvg-logo="http://a5.vc/6jo" group-title="Canais | Filmes e Séries", Cine SKY 5 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/47399
+#EXTINF: -1 tvg-logo="http://a5.vc/6jo" group-title="Canais | Filmes e Séries", Cine SKY 6 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/48135
+#EXTINF: -1 tvg-logo="http://a5.vc/6jo" group-title="Canais | Filmes e Séries", Cine SKY 7 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/48136
+#EXTINF: -1 tvg-logo="http://a5.vc/6jo" group-title="Canais | Filmes e Séries", Cine SKY 8 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/48137
+#EXTINF: -1 tvg-logo="http://a5.vc/6jo" group-title="Canais | Filmes e Séries", Cine SKY 9 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/48138
+#EXTINF: -1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries", Cinemax FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2015
+#EXTINF: -1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries", Cinemax FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45131
+#EXTINF: -1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries", Cinemax FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25462
+#EXTINF: -1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries", Cinemax FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29478
+#EXTINF: -1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries", Cinemax HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1877
+#EXTINF: -1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries", Cinemax HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2393
+#EXTINF: -1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries", Cinemax SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1878
+#EXTINF: -1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries", Cinemax SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2130
+#EXTINF: -1 tvg-logo="http://a5.vc/Hxi" group-title="Canais | Filmes e Séries", Film & Arts SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1666
+#EXTINF: -1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | Filmes e Séries", Fox FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1946
+#EXTINF: -1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | Filmes e Séries", FOX FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45153
+#EXTINF: -1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | Filmes e Séries", Fox FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25455
+#EXTINF: -1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | Filmes e Séries", Fox FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29468
+#EXTINF: -1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | Filmes e Séries", Fox HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1835
+#EXTINF: -1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | Filmes e Séries", Fox HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2374
+#EXTINF: -1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Filmes e Séries", Fox Premium 1 FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1999
+#EXTINF: -1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Filmes e Séries", Fox Premium 1 FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45155
+#EXTINF: -1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Filmes e Séries", Fox Premium 1 FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25453
+#EXTINF: -1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Filmes e Séries", Fox Premium 1 FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29415
+#EXTINF: -1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Filmes e Séries", Fox Premium 1 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1831
+#EXTINF: -1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Filmes e Séries", Fox Premium 1 HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2372
+#EXTINF: -1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Filmes e Séries", Fox Premium 1 SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1832
+#EXTINF: -1 tvg-logo="http://a5.vc/0ud" group-title="Canais | Filmes e Séries", Fox Premium 2 FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1998
+#EXTINF: -1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Filmes e Séries", Fox Premium 2 FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45156
+#EXTINF: -1 tvg-logo="http://a5.vc/0ud" group-title="Canais | Filmes e Séries", Fox Premium 2 FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25452
+#EXTINF: -1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Filmes e Séries", Fox Premium 2 FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29414
+#EXTINF: -1 tvg-logo="http://a5.vc/0ud" group-title="Canais | Filmes e Séries", Fox Premium 2 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1829
+#EXTINF: -1 tvg-logo="http://a5.vc/0ud" group-title="Canais | Filmes e Séries", Fox Premium 2 HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2371
+#EXTINF: -1 tvg-logo="http://a5.vc/0ud" group-title="Canais | Filmes e Séries", Fox Premium 2 SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1830
+#EXTINF: -1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | Filmes e Séries", Fox SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1836
+#EXTINF: -1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | Filmes e Séries", Fox SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2192
+#EXTINF: -1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Filmes e Séries", FX FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1996
+#EXTINF: -1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Filmes e Séries", FX FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45160
+#EXTINF: -1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Filmes e Séries", FX FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25450
+#EXTINF: -1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Filmes e Séries", FX FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29465
+#EXTINF: -1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Filmes e Séries", FX HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1821
+#EXTINF: -1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Filmes e Séries", FX HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2368
+#EXTINF: -1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Filmes e Séries", FX SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1822
+#EXTINF: -1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Filmes e Séries", FX SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2118
+#EXTINF: -1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries", Megapix FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1983
+#EXTINF: -1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries", Megapix FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45176
+#EXTINF: -1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries", Megapix FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25436
+#EXTINF: -1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries", Megapix FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29408
+#EXTINF: -1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries", Megapix HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1785
+#EXTINF: -1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries", Megapix HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2352
+#EXTINF: -1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries", Megapix SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1786
+#EXTINF: -1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries", Megapix SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2176
+#EXTINF: -1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries", Paramount Channel FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1972
+#EXTINF: -1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries", Paramount Channel FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25428
+#EXTINF: -1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries", Paramount Channel FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29448
+#EXTINF: -1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries", Paramount Channel HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1764
+#EXTINF: -1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries", Paramount Channel HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2343
+#EXTINF: -1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries", Paramount Channel SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1765
+#EXTINF: -1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries", Paramount Channel SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2168
+#EXTINF: -1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries", Paramount FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45187
+#EXTINF: -1 tvg-logo="http://a5.vc/SbT" group-title="Canais | Filmes e Séries", Smithsonian Channel FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1909
+#EXTINF: -1 tvg-logo="http://a5.vc/SbT" group-title="Canais | Filmes e Séries", Smithsonian Channel FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25352
+#EXTINF: -1 tvg-logo="http://a5.vc/SbT" group-title="Canais | Filmes e Séries", Smithsonian Channel HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1657
+#EXTINF: -1 tvg-logo="http://a5.vc/SbT" group-title="Canais | Filmes e Séries", Smithsonian Channel SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1656
+#EXTINF: -1 tvg-logo="http://a5.vc/SbT" group-title="Canais | Filmes e Séries", Smithsonian FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45197
+#EXTINF: -1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Filmes e Séries", Space FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1969
+#EXTINF: -1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Filmes e Séries", Space FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45198
+#EXTINF: -1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Filmes e Séries", Space FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25420
+#EXTINF: -1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Filmes e Séries", Space FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29440
+#EXTINF: -1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Filmes e Séries", Space HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1732
+#EXTINF: -1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Filmes e Séries", Space HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2333
+#EXTINF: -1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Filmes e Séries", Space SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1733
+#EXTINF: -1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Filmes e Séries", Space SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2156
+#EXTINF: -1 tvg-logo="http://a5.vc/u7I" group-title="Canais | Filmes e Séries", Studio Universal FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1968
+#EXTINF: -1 tvg-logo="http://a5.vc/u7I" group-title="Canais | Filmes e Séries", Studio Universal FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45202
+#EXTINF: -1 tvg-logo="http://a5.vc/u7I" group-title="Canais | Filmes e Séries", Studio Universal FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25416
+#EXTINF: -1 tvg-logo="http://a5.vc/u7I" group-title="Canais | Filmes e Séries", Studio Universal FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29436
+#EXTINF: -1 tvg-logo="http://a5.vc/u7I" group-title="Canais | Filmes e Séries", Studio Universal HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1724
+#EXTINF: -1 tvg-logo="http://a5.vc/u7I" group-title="Canais | Filmes e Séries", Studio Universal HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2329
+#EXTINF: -1 tvg-logo="http://a5.vc/u7I" group-title="Canais | Filmes e Séries", Studio Universal SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1725
+#EXTINF: -1 tvg-logo="http://a5.vc/u7I" group-title="Canais | Filmes e Séries", Studio Universal SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2153
+#EXTINF: -1 tvg-logo="http://a5.vc/cts" group-title="Canais | Filmes e Séries", Syfy FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1967
+#EXTINF: -1 tvg-logo="http://a5.vc/cts" group-title="Canais | Filmes e Séries", SYFY FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45203
+#EXTINF: -1 tvg-logo="http://a5.vc/cts" group-title="Canais | Filmes e Séries", Syfy FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25415
+#EXTINF: -1 tvg-logo="http://a5.vc/cts" group-title="Canais | Filmes e Séries", Syfy FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29404
+#EXTINF: -1 group-title="Canais | Filmes e Séries", Syfy HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1734
+#EXTINF: -1 tvg-logo="http://a5.vc/cts" group-title="Canais | Filmes e Séries", Syfy HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2328
+#EXTINF: -1 tvg-logo="http://a5.vc/cts" group-title="Canais | Filmes e Séries", Syfy SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1735
+#EXTINF: -1 tvg-logo="http://a5.vc/cts" group-title="Canais | Filmes e Séries", Syfy SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2152
+#EXTINF: -1 tvg-logo="http://a5.vc/Crr" group-title="Canais | Filmes e Séries", TBS FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1966
+#EXTINF: -1 tvg-logo="http://a5.vc/Crr" group-title="Canais | Filmes e Séries", TBS FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45204
+#EXTINF: -1 tvg-logo="http://a5.vc/Crr" group-title="Canais | Filmes e Séries", TBS FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25414
+#EXTINF: -1 tvg-logo="http://a5.vc/Crr" group-title="Canais | Filmes e Séries", TBS FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29435
+#EXTINF: -1 group-title="Canais | Filmes e Séries", TBS HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1722
+#EXTINF: -1 tvg-logo="http://a5.vc/Crr" group-title="Canais | Filmes e Séries", TBS HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2327
+#EXTINF: -1 tvg-logo="http://a5.vc/Crr" group-title="Canais | Filmes e Séries", TBS SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1723
+#EXTINF: -1 tvg-logo="http://a5.vc/Crr" group-title="Canais | Filmes e Séries", TBS SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2151
+#EXTINF: -1 tvg-logo="http://a5.vc/4x7" group-title="Canais | Filmes e Séries", TCM SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1721
+#EXTINF: -1 tvg-logo="http://a5.vc/4x7" group-title="Canais | Filmes e Séries", TCM SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2150
+#EXTINF: -1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Filmes e Séries", TNT FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1963
+#EXTINF: -1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Filmes e Séries", TNT FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45212
+#EXTINF: -1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Filmes e Séries", TNT FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25407
+#EXTINF: -1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Filmes e Séries", TNT FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29428
+#EXTINF: -1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Filmes e Séries", TNT HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1704
+#EXTINF: -1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Filmes e Séries", TNT HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2318
+#EXTINF: -1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Filmes e Séries", TNT SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1705
+#EXTINF: -1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Filmes e Séries", TNT SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2141
+#EXTINF: -1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries", TNT Series FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1962
+#EXTINF: -1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries", TNT Series FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25406
+#EXTINF: -1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries", TNT Series FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29427
+#EXTINF: -1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries", TNT Series HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1702
+#EXTINF: -1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries", TNT Series HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2317
+#EXTINF: -1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries", TNT Series SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1703
+#EXTINF: -1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries", TNT Series SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2140
+#EXTINF: -1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries", TNT Séries FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45213
+#EXTINF: -1 tvg-logo="http://a5.vc/4vg" group-title="Canais | Filmes e Séries", Travel Box Brazil FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/48238
+#EXTINF: -1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries", Universal TV FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1959
+#EXTINF: -1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries", Universal TV FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45218
+#EXTINF: -1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries", Universal TV FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25404
+#EXTINF: -1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries", Universal TV FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29426
+#EXTINF: -1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries", Universal TV HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1688
+#EXTINF: -1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries", Universal TV HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2315
+#EXTINF: -1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries", Universal TV SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1689
+#EXTINF: -1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries", Universal TV SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2137
+#EXTINF: -1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries", Warner Channel FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1957
+#EXTINF: -1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries", Warner Channel FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25401
+#EXTINF: -1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries", Warner Channel FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29424
+#EXTINF: -1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries", Warner Channel HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1681
+#EXTINF: -1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries", Warner Channel HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2313
+#EXTINF: -1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries", Warner Channel SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1682
+#EXTINF: -1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries", Warner Channel SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2134
+#EXTINF: -1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries", Warner FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45221
+#EXTINF: -1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários", Animal Planet FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2023
+#EXTINF: -1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários", Animal Planet FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45238
+#EXTINF: -1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários", Animal Planet FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25472
+#EXTINF: -1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários", Animal Planet FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29482
+#EXTINF: -1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários", Animal Planet HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1902
+#EXTINF: -1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários", Animal Planet HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2400
+#EXTINF: -1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários", Animal Planet SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1903
+#EXTINF: -1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários", Animal Planet SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2213
+#EXTINF: -1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários", Arte 1 FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2022
+#EXTINF: -1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários", Arte 1 FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45239
+#EXTINF: -1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários", Arte 1 FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25471
+#EXTINF: -1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários", Arte 1 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1900
+#EXTINF: -1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários", Arte 1 SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1901
+#EXTINF: -1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários", Arte 1 SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2113
+#EXTINF: -1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Documentários", Curta! FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2013
+#EXTINF: -1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Documentários", Curta! FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45135
+#EXTINF: -1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Documentários", Curta! FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25459
+#EXTINF: -1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Documentários", Curta! HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1871
+#EXTINF: -1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Documentários", Curta! SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1872
+#EXTINF: -1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Documentários", Curta! SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2204
+#EXTINF: -1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários", Discovery Channel FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1950
+#EXTINF: -1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários", Discovery Channel FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45137
+#EXTINF: -1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários", Discovery Channel FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25362
+#EXTINF: -1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários", Discovery Channel FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29475
+#EXTINF: -1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários", Discovery Channel HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1869
+#EXTINF: -1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários", Discovery Channel HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2390
+#EXTINF: -1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários", Discovery Channel SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1870
+#EXTINF: -1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários", Discovery Channel SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2203
+#EXTINF: -1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários", Discovery Science FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2009
+#EXTINF: -1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários", Discovery Science FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45139
+#EXTINF: -1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários", Discovery Science FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25394
+#EXTINF: -1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários", Discovery Science FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29472
+#EXTINF: -1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários", Discovery Science HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1861
+#EXTINF: -1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários", Discovery Science HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2386
+#EXTINF: -1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários", Discovery Science SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1862
+#EXTINF: -1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários", Discovery Science SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2123
+#EXTINF: -1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários", Discovery Theater FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2008
+#EXTINF: -1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários", Discovery Theater FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45140
+#EXTINF: -1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários", Discovery Theater FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25393
+#EXTINF: -1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários", Discovery Theater FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29471
+#EXTINF: -1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários", Discovery Theater HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1859
+#EXTINF: -1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários", Discovery Theater HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2385
+#EXTINF: -1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários", Discovery Theater SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1860
+#EXTINF: -1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários", Discovery Theater SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2124
+#EXTINF: -1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários", Discovery World FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2006
+#EXTINF: -1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários", Discovery World FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45142
+#EXTINF: -1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários", Discovery World FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25391
+#EXTINF: -1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários", Discovery World FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29400
+#EXTINF: -1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários", Discovery World HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1855
+#EXTINF: -1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários", Discovery World HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2383
+#EXTINF: -1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários", Discovery World SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1856
+#EXTINF: -1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários", Discovery World SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2122
+#EXTINF: -1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários", H2 FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1993
+#EXTINF: -1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários", H2 FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45168
+#EXTINF: -1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários", H2 FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25378
+#EXTINF: -1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários", H2 FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29463
+#EXTINF: -1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários", H2 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1811
+#EXTINF: -1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários", H2 HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2363
+#EXTINF: -1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários", H2 SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1812
+#EXTINF: -1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários", H2 SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2186
+#EXTINF: -1 tvg-logo="http://a5.vc/nug" group-title="Canais | Documentários", HGTV FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2012
+#EXTINF: -1 tvg-logo="http://a5.vc/nug" group-title="Canais | Documentários", HGTV FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45223
+#EXTINF: -1 tvg-logo="http://a5.vc/nug" group-title="Canais | Documentários", HGTV FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25397
+#EXTINF: -1 tvg-logo="http://a5.vc/nug" group-title="Canais | Documentários", HGTV FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29474
+#EXTINF: -1 tvg-logo="http://a5.vc/nug" group-title="Canais | Documentários", HGTV HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1867
+#EXTINF: -1 tvg-logo="http://a5.vc/nug" group-title="Canais | Documentários", HGTV HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2389
+#EXTINF: -1 tvg-logo="http://a5.vc/nug" group-title="Canais | Documentários", HGTV SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1868
+#EXTINF: -1 tvg-logo="http://a5.vc/nug" group-title="Canais | Documentários", HGTV SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2117
+#EXTINF: -1 tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários", History Channel FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1989
+#EXTINF: -1 tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários", History Channel FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45169
+#EXTINF: -1 tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários", History Channel FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25442
+#EXTINF: -1 tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários", History Channel FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29459
+#EXTINF: -1 tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários", History Channel HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1799
+#EXTINF: -1 tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários", History Channel HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2320
+#EXTINF: -1 tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários", History Channel SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1800
+#EXTINF: -1 tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários", History Channel SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2143
+#EXTINF: -1 tvg-logo="http://a5.vc/53O" group-title="Canais | Documentários", ID: Investigacao Discovery FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1988
+#EXTINF: -1 tvg-logo="http://a5.vc/53O" group-title="Canais | Documentários", ID: Investigacao Discovery FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45170
+#EXTINF: -1 tvg-logo="http://a5.vc/53O" group-title="Canais | Documentários", ID: Investigacao Discovery FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25377
+#EXTINF: -1 tvg-logo="http://a5.vc/53O" group-title="Canais | Documentários", ID: Investigacao Discovery HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1797
+#EXTINF: -1 tvg-logo="http://a5.vc/53O" group-title="Canais | Documentários", ID: Investigacao Discovery HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/47447
+#EXTINF: -1 tvg-logo="http://a5.vc/53O" group-title="Canais | Documentários", ID: Investigacao Discovery SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1798
+#EXTINF: -1 tvg-logo="http://a5.vc/53O" group-title="Canais | Documentários", ID: Investigacao Discovery [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2357
+#EXTINF: -1 tvg-logo="http://a5.vc/53O" group-title="Canais | Documentários", ID: Investigacao Discovery [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2119
+#EXTINF: -1 tvg-logo="http://a5.vc/53O" group-title="Canais | Documentários", ID: Investigacao Discovery [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29458
+#EXTINF: -1 group-title="Canais | Documentários", Love Nature HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/48248
+#EXTINF: -1 tvg-logo="http://a5.vc/Vsq" group-title="Canais | Documentários", NatGeo Wild FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45183
+#EXTINF: -1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários", National Geographic FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1978
+#EXTINF: -1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários", National Geographic FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45182
+#EXTINF: -1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários", National Geographic FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25433
+#EXTINF: -1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários", National Geographic FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29452
+#EXTINF: -1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários", National Geographic HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1777
+#EXTINF: -1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários", National Geographic HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2349
+#EXTINF: -1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários", National Geographic SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1778
+#EXTINF: -1 tvg-logo="http://a5.vc/Vsq" group-title="Canais | Documentários", National Geographic Wild FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1976
+#EXTINF: -1 tvg-logo="http://a5.vc/Vsq" group-title="Canais | Documentários", National Geographic Wild FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25432
+#EXTINF: -1 tvg-logo="http://a5.vc/Vsq" group-title="Canais | Documentários", National Geographic Wild FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29450
+#EXTINF: -1 tvg-logo="http://a5.vc/Vsq" group-title="Canais | Documentários", National Geographic Wild HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1774
+#EXTINF: -1 tvg-logo="http://a5.vc/Vsq" group-title="Canais | Documentários", National Geographic Wild HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2347
+#EXTINF: -1 tvg-logo="http://a5.vc/Vsq" group-title="Canais | Documentários", National Geographic Wild SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1773
+#EXTINF: -1 tvg-logo="http://a5.vc/Vsq" group-title="Canais | Documentários", National Geographic Wild SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2172
+#EXTINF: -1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários", National Geographic [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2173
+#EXTINF: -1 tvg-logo="http://a5.vc/UcW" group-title="Canais | Documentários", TruTV FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1961
+#EXTINF: -1 tvg-logo="http://a5.vc/UcW" group-title="Canais | Documentários", TruTV FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25350
+#EXTINF: -1 group-title="Canais | Documentários", TruTV HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1690
+#EXTINF: -1 tvg-logo="http://a5.vc/UcW" group-title="Canais | Documentários", TruTV SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1691
+#EXTINF: -1 tvg-logo="http://a5.vc/Te6" group-title="Canais | Infantis", BabyTV SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1897
+#EXTINF: -1 tvg-logo="http://a5.vc/Te6" group-title="Canais | Infantis", BabyTV SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2211
+#EXTINF: -1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis", Boomerang FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2018
+#EXTINF: -1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis", Boomerang FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45127
+#EXTINF: -1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis", Boomerang FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25466
+#EXTINF: -1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis", Boomerang FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29420
+#EXTINF: -1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis", Boomerang HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1886
+#EXTINF: -1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis", Boomerang HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/47445
+#EXTINF: -1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis", Boomerang SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1887
+#EXTINF: -1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis", Boomerang SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2208
+#EXTINF: -1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis", Cartoon Network FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2016
+#EXTINF: -1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis", Cartoon Network FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45130
+#EXTINF: -1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis", Cartoon Network FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25463
+#EXTINF: -1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis", Cartoon Network FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29479
+#EXTINF: -1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis", Cartoon Network HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1879
+#EXTINF: -1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis", Cartoon Network HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2394
+#EXTINF: -1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis", Cartoon Network SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1880
+#EXTINF: -1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis", Cartoon Network SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2112
+#EXTINF: -1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis", Discovery Kids FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2010
+#EXTINF: -1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis", Discovery Kids FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45138
+#EXTINF: -1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis", Discovery Kids FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25395
+#EXTINF: -1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis", Discovery Kids FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29473
+#EXTINF: -1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis", Discovery Kids HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1863
+#EXTINF: -1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis", Discovery Kids HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2387
+#EXTINF: -1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis", Discovery Kids SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1864
+#EXTINF: -1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis", Discovery Kids SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2202
+#EXTINF: -1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis", Disney Channel FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1949
+#EXTINF: -1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis", Disney Channel FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45143
+#EXTINF: -1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis", Disney Channel FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25390
+#EXTINF: -1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis", Disney Channel FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29418
+#EXTINF: -1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis", Disney Channel HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1853
+#EXTINF: -1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis", Disney Channel HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2382
+#EXTINF: -1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis", Disney Channel SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1854
+#EXTINF: -1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis", Disney Channel SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2200
+#EXTINF: -1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis", Disney Junior FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1955
+#EXTINF: -1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis", Disney Junior FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45144
+#EXTINF: -1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis", Disney Junior FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25389
+#EXTINF: -1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis", Disney Junior FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29417
+#EXTINF: -1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis", Disney Junior HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1678
+#EXTINF: -1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis", Disney Junior HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2381
+#EXTINF: -1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis", Disney Junior SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1852
+#EXTINF: -1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis", Disney Junior SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2199
+#EXTINF: -1 tvg-logo="http://a5.vc/bUA" group-title="Canais | Infantis", Disney XD FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/43772
+#EXTINF: -1 tvg-logo="http://a5.vc/bUA" group-title="Canais | Infantis", Disney XD FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45226
+#EXTINF: -1 tvg-logo="http://a5.vc/bUA" group-title="Canais | Infantis", Disney XD FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25361
+#EXTINF: -1 tvg-logo="http://a5.vc/bUA" group-title="Canais | Infantis", Disney XD HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/43773
+#EXTINF: -1 tvg-logo="http://a5.vc/bUA" group-title="Canais | Infantis", Disney XD SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1851
+#EXTINF: -1 tvg-logo="http://a5.vc/bUA" group-title="Canais | Infantis", Disney XD SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2198
+#EXTINF: -1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis", Gloob FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1942
+#EXTINF: -1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis", Gloob FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45162
+#EXTINF: -1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis", Gloob FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25448
+#EXTINF: -1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis", Gloob FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29413
+#EXTINF: -1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis", Gloob HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1817
+#EXTINF: -1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis", Gloob HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2365
+#EXTINF: -1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis", Gloob SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1818
+#EXTINF: -1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis", Gloob SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2187
+#EXTINF: -1 tvg-logo="http://a5.vc/5dW" group-title="Canais | Infantis", Gloobinho FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1995
+#EXTINF: -1 tvg-logo="http://a5.vc/5dW" group-title="Canais | Infantis", Gloobinho FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25355
+#EXTINF: -1 tvg-logo="http://a5.vc/5dW" group-title="Canais | Infantis", Gloobinho HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1816
+#EXTINF: -1 tvg-logo="http://a5.vc/5dW" group-title="Canais | Infantis", Gloobinho HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/47446
+#EXTINF: -1 tvg-logo="http://a5.vc/5dW" group-title="Canais | Infantis", Gloobinho SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1815
+#EXTINF: -1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Infantis", Nat Geo Kids FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45181
+#EXTINF: -1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Infantis", NatGeo Kids FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1977
+#EXTINF: -1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Infantis", NatGeo Kids FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25374
+#EXTINF: -1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Infantis", NatGeo Kids FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29451
+#EXTINF: -1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Infantis", NatGeo Kids HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1775
+#EXTINF: -1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Infantis", NatGeo Kids HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2348
+#EXTINF: -1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Infantis", NatGeo Kids SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1776
+#EXTINF: -1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Infantis", NatGeo Kids SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2174
+#EXTINF: -1 tvg-logo="http://a5.vc/Cey" group-title="Canais | Infantis", Nick FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1974
+#EXTINF: -1 tvg-logo="http://a5.vc/Cey" group-title="Canais | Infantis", Nick FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45185
+#EXTINF: -1 tvg-logo="http://a5.vc/Cey" group-title="Canais | Infantis", Nick FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25430
+#EXTINF: -1 tvg-logo="http://a5.vc/Cey" group-title="Canais | Infantis", Nick FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29407
+#EXTINF: -1 tvg-logo="http://a5.vc/Cey" group-title="Canais | Infantis", Nick HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1768
+#EXTINF: -1 tvg-logo="http://a5.vc/Cey" group-title="Canais | Infantis", Nick HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2345
+#EXTINF: -1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | Infantis", Nick Jr FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1975
+#EXTINF: -1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | Infantis", Nick Jr FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25431
+#EXTINF: -1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | Infantis", Nick Jr FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29449
+#EXTINF: -1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | Infantis", Nick Jr HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1770
+#EXTINF: -1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | Infantis", Nick Jr HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2346
+#EXTINF: -1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | Infantis", Nick Jr SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1771
+#EXTINF: -1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | Infantis", Nick Jr SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2171
+#EXTINF: -1 tvg-logo="http://a5.vc/Cey" group-title="Canais | Infantis", Nick Jr. FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45184
+#EXTINF: -1 tvg-logo="http://a5.vc/Cey" group-title="Canais | Infantis", Nick SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1769
+#EXTINF: -1 tvg-logo="http://a5.vc/Cey" group-title="Canais | Infantis", Nick SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2170
+#EXTINF: -1 tvg-logo="http://a5.vc/UJY" group-title="Canais | Infantis", PlayKids FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1914
+#EXTINF: -1 tvg-logo="http://a5.vc/UJY" group-title="Canais | Infantis", PlayKids HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1668
+#EXTINF: -1 tvg-logo="http://a5.vc/UJY" group-title="Canais | Infantis", PlayKids SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1667
+#EXTINF: -1 tvg-logo="http://a5.vc/R28" group-title="Canais | Infantis", Tooncast HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2316
+#EXTINF: -1 tvg-logo="http://a5.vc/R28" group-title="Canais | Infantis", Tooncast SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1701
+#EXTINF: -1 tvg-logo="http://a5.vc/R28" group-title="Canais | Infantis", Tooncast SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2139
+#EXTINF: -1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis", TV Ra Tim Bum FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1960
+#EXTINF: -1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis", TV Ra Tim Bum FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25405
+#EXTINF: -1 group-title="Canais | Infantis", TV Ra Tim Bum HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1692
+#EXTINF: -1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis", TV Ra Tim Bum HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2310
+#EXTINF: -1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis", TV Ra Tim Bum SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1693
+#EXTINF: -1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis", TV Ra Tim Bum SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2129
+#EXTINF: -1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis", TV Rá Tim Bum FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45217
+#EXTINF: -1 tvg-logo="http://a5.vc/aVc" group-title="Canais | Infantis", ZooMoo SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1653
+#EXTINF: -1 tvg-logo="http://a5.vc/aVc" group-title="Canais | Infantis", ZooMoo SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2111
+#EXTINF: -1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos", Band BA HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42973
+#EXTINF: -1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos", Band Bahia SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/30551
+#EXTINF: -1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos", Band Campinas HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42975
+#EXTINF: -1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos", Band DF HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42974
+#EXTINF: -1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos", Band Goiania FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29487
+#EXTINF: -1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos", Band Goiania HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42972
+#EXTINF: -1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos", Band Internacional HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/36646
+#EXTINF: -1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos", Band PR FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45235
+#EXTINF: -1 group-title="Canais | Abertos", Band PR HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42971
+#EXTINF: -1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos", Band RJ FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45233
+#EXTINF: -1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos", Band HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42976
+#EXTINF: -1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos", Band SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/30552
+#EXTINF: -1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos", Band Sergipe HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42977
+#EXTINF: -1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos", Band FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1953
+#EXTINF: -1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos", Band FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25398
+#EXTINF: -1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos", Band SP HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1895
+#EXTINF: -1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos", Band SP HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2398
+#EXTINF: -1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos", Band SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1896
+#EXTINF: -1 tvg-logo="http://a5.vc/bK3" group-title="Canais | Abertos", Canal do Boi SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1655
+#EXTINF: -1 tvg-logo="http://a5.vc/bK3" group-title="Canais | Abertos", Canal do Boi SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2114
+#EXTINF: -1 tvg-logo="http://a5.vc/dgd" group-title="Canais | Abertos", Futura FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1997
+#EXTINF: -1 tvg-logo="http://a5.vc/dgd" group-title="Canais | Abertos", Futura FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45159
+#EXTINF: -1 tvg-logo="http://a5.vc/dgd" group-title="Canais | Abertos", Futura FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25451
+#EXTINF: -1 tvg-logo="http://a5.vc/dgd" group-title="Canais | Abertos", Futura HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1823
+#EXTINF: -1 tvg-logo="http://a5.vc/dgd" group-title="Canais | Abertos", Futura SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1824
+#EXTINF: -1 tvg-logo="http://a5.vc/dgd" group-title="Canais | Abertos", Futura SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2189
+#EXTINF: -1 tvg-logo="http://a5.vc/aPN" group-title="Canais | Abertos", NBR SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1772
+#EXTINF: -1 group-title="Canais | Abertos", Polishop TV HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1652
+#EXTINF: -1 group-title="Canais | Abertos", Polishop TV SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/41609
+#EXTINF: -1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos", RecordTV Atalaia HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42939
+#EXTINF: -1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos", RecordTV BA HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1665
+#EXTINF: -1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos", RecordTV BA SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1664
+#EXTINF: -1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos", RecordTV Belem HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42955
+#EXTINF: -1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos", RecordTV Belem SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/48141
+#EXTINF: -1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos", RecordTV Belo Horizonte HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/48142
+#EXTINF: -1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos", RecordTV Brasília HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1663
+#EXTINF: -1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos", RecordTV Brasília SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1662
+#EXTINF: -1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos", RecordTV Cabralia HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42966
+#EXTINF: -1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos", RecordTV ES HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/48151
+#EXTINF: -1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos", RecordTV FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25371
+#EXTINF: -1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos", RecordTV Goiania FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29485
+#EXTINF: -1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos", RecordTV Goiania HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42964
+#EXTINF: -1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos", RecordTV Litoral Santos HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42965
+#EXTINF: -1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos", RecordTV MG HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1670
+#EXTINF: -1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos", RecordTV MG SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1669
+#EXTINF: -1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos", RecordTV PA HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/48143
+#EXTINF: -1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos", RecordTV PR HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42970
+#EXTINF: -1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos", RecordTV RJ HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1672
+#EXTINF: -1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos", RecordTV RJ SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1671
+#EXTINF: -1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos", RecordTV RS HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1661
+#EXTINF: -1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos", RecordTV RS HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42969
+#EXTINF: -1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos", RecordTV RS SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1660
+#EXTINF: -1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos", RecordTV S. J. do Rio Preto HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42968
+#EXTINF: -1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos", RecordTV SP FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1932
+#EXTINF: -1 group-title="Canais | Abertos", RecordTV SP FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/30565
+#EXTINF: -1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos", RecordTV SP HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1743
+#EXTINF: -1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos", RecordTV SP HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/47449
+#EXTINF: -1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos", RecordTV SP SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1747
+#EXTINF: -1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos", RecordTV Uberlandia HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42967
+#EXTINF: -1 tvg-logo="http://a5.vc/XSK" group-title="Canais | Abertos", Rede Brasil SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1742
+#EXTINF: -1 tvg-logo="http://a5.vc/0hM" group-title="Canais | Abertos", Rede Vida FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25421
+#EXTINF: -1 tvg-logo="http://a5.vc/NuR" group-title="Canais | Abertos", RedeTV! FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1918
+#EXTINF: -1 tvg-logo="http://a5.vc/NuR" group-title="Canais | Abertos", RedeTV! FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25353
+#EXTINF: -1 tvg-logo="http://a5.vc/NuR" group-title="Canais | Abertos", RedeTV! FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29405
+#EXTINF: -1 tvg-logo="http://a5.vc/NuR" group-title="Canais | Abertos", RedeTV! HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1740
+#EXTINF: -1 tvg-logo="http://a5.vc/NuR" group-title="Canais | Abertos", RedeTV! HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2335
+#EXTINF: -1 tvg-logo="http://a5.vc/NuR" group-title="Canais | Abertos", RedeTV! SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1741
+#EXTINF: -1 tvg-logo="http://a5.vc/NuR" group-title="Canais | Abertos", RedeTV! SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2116
+#EXTINF: -1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos", SBT Cidade Verde HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/48140
+#EXTINF: -1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos", SBT ES HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42901
+#EXTINF: -1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos", SBT FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1931
+#EXTINF: -1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos", SBT FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25370
+#EXTINF: -1 group-title="Canais | Abertos", SBT HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1737
+#EXTINF: -1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos", SBT HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2334
+#EXTINF: -1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos", SBT PR FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42897
+#EXTINF: -1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos", SBT  PR FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45225
+#EXTINF: -1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos", SBT PR HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42898
+#EXTINF: -1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos", SBT Recife FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45224
+#EXTINF: -1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos", SBT RJ HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42903
+#EXTINF: -1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos", SBT RS HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42902
+#EXTINF: -1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos", SBT SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1738
+#EXTINF: -1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos", SBT SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2157
+#EXTINF: -1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos", SBT Serra Dourada FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29486
+#EXTINF: -1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos", SBT Serra Dourada HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42899
+#EXTINF: -1 group-title="Canais | Abertos", SBT SP FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/30586
+#EXTINF: -1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos", SBT SP Interior SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1736
+#EXTINF: -1 group-title="Canais | Abertos", SBT TV Alterosa MG HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/35961
+#EXTINF: -1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos", SBT TV Aratu Bahia HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42900
+#EXTINF: -1 tvg-logo="http://a5.vc/uYJ" group-title="Canais | Abertos", Terra Viva SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1708
+#EXTINF: -1 tvg-logo="http://a5.vc/uYJ" group-title="Canais | Abertos", Terra Viva SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2103
+#EXTINF: -1 tvg-logo="http://a5.vc/iGX" group-title="Canais | Abertos", TV Brasil FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/48241
+#EXTINF: -1 tvg-logo="http://a5.vc/iGX" group-title="Canais | Abertos", TV Brasil FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45215
+#EXTINF: -1 tvg-logo="http://a5.vc/iGX" group-title="Canais | Abertos", TV Brasil FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/48242
+#EXTINF: -1 tvg-logo="http://a5.vc/iGX" group-title="Canais | Abertos", TV Brasil HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/48243
+#EXTINF: -1 tvg-logo="http://a5.vc/iGX" group-title="Canais | Abertos", TV Brasil SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1697
+#EXTINF: -1 tvg-logo="http://a5.vc/kpT" group-title="Canais | Abertos", TV Camara SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1696
+#EXTINF: -1 tvg-logo="http://a5.vc/8XD" group-title="Canais | Abertos", TV Cultura FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1919
+#EXTINF: -1 tvg-logo="http://a5.vc/8XD" group-title="Canais | Abertos", TV Cultura FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45134
+#EXTINF: -1 tvg-logo="http://a5.vc/8XD" group-title="Canais | Abertos", TV Cultura FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25348
+#EXTINF: -1 tvg-logo="http://a5.vc/8XD" group-title="Canais | Abertos", TV Cultura HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1674
+#EXTINF: -1 tvg-logo="http://a5.vc/8XD" group-title="Canais | Abertos", TV Cultura SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1675
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Abertos", TV Diario Fortaleza FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1910
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Abertos", TV Diario Fortaleza HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1659
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Abertos", TV Diario Fortaleza SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1658
+#EXTINF: -1 group-title="Canais | Abertos", TV Educacao FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/44571
+#EXTINF: -1 group-title="Canais | Abertos", TV Educacao HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/44570
+#EXTINF: -1 group-title="Canais | Abertos", TV Educacao SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/44588
+#EXTINF: -1 tvg-logo="http://a5.vc/lde" group-title="Canais | Abertos", TV Escola SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1695
+#EXTINF: -1 tvg-logo="http://a5.vc/QZr" group-title="Canais | Abertos", TV Gazeta FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25347
+#EXTINF: -1 tvg-logo="http://a5.vc/QZr" group-title="Canais | Abertos", TV Gazeta HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1694
+#EXTINF: -1 tvg-logo="http://a5.vc/QZr" group-title="Canais | Abertos", TV Gazeta HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2411
+#EXTINF: -1 group-title="Canais | Abertos", TV Guarulhos HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/48144
+#EXTINF: -1 group-title="Canais | Abertos", TV Justica SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1699
+#EXTINF: -1 tvg-logo="http://a5.vc/PZn" group-title="Canais | Abertos", TV Justica SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2138
+#EXTINF: -1 tvg-logo="http://a5.vc/hNk" group-title="Canais | Abertos", TV Senado SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1700
+#EXTINF: -1 tvg-logo="http://a5.vc/hNk" group-title="Canais | Abertos", TV Senado SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2128
+#EXTINF: -1 group-title="Canais | Abertos", TV Univesp HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/44589
+#EXTINF: -1 group-title="Canais | Abertos", TV Univesp SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/44590
+#EXTINF: -1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes", Band Sports FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45125
+#EXTINF: -1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes", BandSports FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2019
+#EXTINF: -1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes", BandSports FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25468
+#EXTINF: -1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes", BandSports FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29422
+#EXTINF: -1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes", BandSports HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1891
+#EXTINF: -1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes", BandSports HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2397
+#EXTINF: -1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes", BandSports SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1892
+#EXTINF: -1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes", BandSports SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2209
+#EXTINF: -1 group-title="Canais | Esportes", Campeonato Catarinense 1 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/33567
+#EXTINF: -1 group-title="Canais | Esportes", Campeonato Catarinense 2 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/33568
+#EXTINF: -1 group-title="Canais | Esportes", Campeonato Catarinense 3 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/33871
+#EXTINF: -1 group-title="Canais | Esportes", Campeonato Catarinense 4 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/33872
+#EXTINF: -1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes", Combate FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1951
+#EXTINF: -1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes", Combate FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45132
+#EXTINF: -1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes", Combate FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25461
+#EXTINF: -1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes", Combate FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29477
+#EXTINF: -1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes", Combate HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1875
+#EXTINF: -1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes", Combate HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2392
+#EXTINF: -1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes", Combate SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1876
+#EXTINF: -1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes", Combate SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2206
+#EXTINF: -1 group-title="Canais | Esportes", Copa do Nordeste 2020 1 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/33873
+#EXTINF: -1 group-title="Canais | Esportes", Copa do Nordeste 2020 2 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/33874
+#EXTINF: -1 group-title="Canais | Esportes", Copa do Nordeste 2020 3 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/33875
+#EXTINF: -1 tvg-logo="http://a5.vc/vN1" group-title="Canais | Esportes", Copa Libertadores HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/36647
+#EXTINF: -1 tvg-logo="http://a5.vc/6qb" group-title="Canais | Esportes", DAZN 1 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1642
+#EXTINF: -1 tvg-logo="http://a5.vc/6qb" group-title="Canais | Esportes", DAZN 2 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1641
+#EXTINF: -1 tvg-logo="http://a5.vc/6qb" group-title="Canais | Esportes", DAZN 3 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1640
+#EXTINF: -1 tvg-logo="http://a5.vc/6qb" group-title="Canais | Esportes", DAZN 4 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/36648
+#EXTINF: -1 tvg-logo="http://a5.vc/6qb" group-title="Canais | Esportes", DAZN 5 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/36649
+#EXTINF: -1 tvg-logo="http://a5.vc/6qb" group-title="Canais | Esportes", DAZN 6 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/36650
+#EXTINF: -1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Esportes", EI Plus 1 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29887
+#EXTINF: -1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Esportes", EI Plus 2 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29886
+#EXTINF: -1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Esportes", EI Plus 3 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29885
+#EXTINF: -1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Esportes", EI Plus 4 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29884
+#EXTINF: -1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Esportes", EI Plus 5 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29883
+#EXTINF: -1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Esportes", EI Plus 6 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29882
+#EXTINF: -1 tvg-logo="http://a5.vc/AJf" group-title="Canais | Esportes", FlaTV FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/48279
+#EXTINF: -1 tvg-logo="http://a5.vc/uKn" group-title="Canais | Esportes", FluTV FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/58354
+#EXTINF: -1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes", Fox APP HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/48153
+#EXTINF: -1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes", Fox Sports 2 FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1945
+#EXTINF: -1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes", Fox Sports 2 FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45157
+#EXTINF: -1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes", Fox Sports 2 FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25383
+#EXTINF: -1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes", Fox Sports 2 FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29467
+#EXTINF: -1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes", Fox Sports 2 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1825
+#EXTINF: -1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes", Fox Sports 2 HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2370
+#EXTINF: -1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes", Fox Sports 2 SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1826
+#EXTINF: -1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes", Fox Sports 2 SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2191
+#EXTINF: -1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes", Fox Sports FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1944
+#EXTINF: -1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes", Fox Sports FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45158
+#EXTINF: -1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes", Fox Sports FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25382
+#EXTINF: -1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes", Fox Sports FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29466
+#EXTINF: -1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes", Fox Sports HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1827
+#EXTINF: -1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes", Fox Sports HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2369
+#EXTINF: -1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes", Fox Sports SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1828
+#EXTINF: -1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes", Fox Sports SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2190
+#EXTINF: -1 group-title="Canais | Esportes", GloboEsporte.com HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/28653
+#EXTINF: -1 tvg-logo="http://a5.vc/NFI" group-title="Canais | Esportes", Mycujoo FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/53512
+#EXTINF: -1 tvg-logo="http://a5.vc/6Oc" group-title="Canais | Esportes", Vasco TV FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/33986
+#EXTINF: -1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN", ESPN 2 FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2004
+#EXTINF: -1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN", ESPN 2 FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25458
+#EXTINF: -1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN", ESPN 2 FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29394
+#EXTINF: -1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN", ESPN 2 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1846
+#EXTINF: -1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN", ESPN 2 HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2379
+#EXTINF: -1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN", ESPN 2 SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1847
+#EXTINF: -1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN", ESPN 2 SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2196
+#EXTINF: -1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN", ESPN Brasil FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1948
+#EXTINF: -1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN", ESPN Brasil FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45146
+#EXTINF: -1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN", ESPN Brasil FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25387
+#EXTINF: -1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN", ESPN Brasil FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29396
+#EXTINF: -1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN", ESPN Brasil HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1844
+#EXTINF: -1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN", ESPN Brasil HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2378
+#EXTINF: -1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN", ESPN Brasil SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1845
+#EXTINF: -1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN", ESPN Brasil SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2195
+#EXTINF: -1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN", ESPN Extra FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2003
+#EXTINF: -1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN", ESPN Extra FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45147
+#EXTINF: -1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN", ESPN Extra FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25457
+#EXTINF: -1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN", ESPN Extra FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29393
+#EXTINF: -1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN", ESPN Extra HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1842
+#EXTINF: -1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN", ESPN Extra HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2377
+#EXTINF: -1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN", ESPN Extra SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1843
+#EXTINF: -1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN", ESPN FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1947
+#EXTINF: -1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN", ESPN FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45148
+#EXTINF: -1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN", ESPN FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25386
+#EXTINF: -1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN", ESPN FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29395
+#EXTINF: -1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN", ESPN HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1841
+#EXTINF: -1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN", ESPN HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2376
+#EXTINF: -1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN", ESPN SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1848
+#EXTINF: -1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN", ESPN SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2194
+#EXTINF: -1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN", ESPN2 FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45149
+#EXTINF: -1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN", Watch ESPN APP HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/48154
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo Brasilia FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1583
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo Brasilia HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1638
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo Brasilia SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1639
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo Brasilia SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2410
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo EPTV Araraquara SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1637
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo EPTV Campinas FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1582
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo EPTV Campinas FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25360
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo EPTV Campinas HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1635
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo EPTV Campinas SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1636
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo EPTV Campinas SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2409
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo EPTV Ribeirao Preto FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1563
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo EPTV Ribeirao Preto FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25356
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo EPTV Ribeirao Preto HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1634
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo EPTV Ribeirao Preto SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1633
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo EPTV Ribeirao Preto SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2408
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo EPTV Sao Carlos SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1632
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo EPTV Sao Carlos SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2407
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo EPTV Sul de Minas FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/41120
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo EPTV Sul de Minas HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/41121
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo Goiania SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/48145
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo Inter TV Alto Litoral FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1562
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo Inter TV Alto Litoral HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1561
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo Inter TV Alto Litoral SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1560
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo Inter TV dos Vales FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1559
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo Inter TV dos Vales HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1558
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo Inter TV dos Vales SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1557
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo Inter TV Grande Minas FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1556
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo Inter TV Grande Minas HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1555
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo Inter TV Grande Minas SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1554
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo Inter TV Natal SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1631
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo Inter TV Serra Mar FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1553
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo Inter TV Serra Mar HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1552
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo Inter TV Serra Mar SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1551
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo Manaus HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42979
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo Minas FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1581
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo Minas FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25359
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo Minas HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1629
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo Minas HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2414
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo Minas SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1630
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo Minas SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2406
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo Nordeste FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1580
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo Nordeste FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25358
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo Nordeste HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1627
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo Nordeste SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1628
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo Nordeste SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2405
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo NSC TV Blumenau FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1550
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo NSC TV Blumenau HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1549
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo NSC TV Blumenau SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1548
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo NSC TV Chapeco FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1598
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo NSC TV Chapeco HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1597
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo NSC TV Chapeco SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1596
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo NSC TV Florianopolis FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1579
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo NSC TV Florianopolis HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1625
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo NSC TV Florianopolis SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1626
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo NSC TV Joinville FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1544
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo NSC TV Joinville HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1543
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo NSC TV Joinville SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1542
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo Portugal HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42978
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo RBS TV Caxias do Sul FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1547
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo RBS TV Caxias do Sul HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1546
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo RBS TV Caxias do Sul SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1545
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo RBS TV Pelotas FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1541
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo RBS TV Pelotas HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1540
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo RBS TV Pelotas SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1539
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo RBS TV Porto Alegre FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1578
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo RBS TV Porto Alegre FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25357
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo RBS TV Porto Alegre HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1623
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo RBS TV Porto Alegre SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1624
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo RBS TV Porto Alegre SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2404
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo Rede Amazonica Macapa HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42981
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo Rede Amazonica Manaus SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1622
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo Rede Amazonica Porto Velho HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42935
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo RJ FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1619
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo RJ FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45229
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo RJ FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25381
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo RJ HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1620
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo RJ HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2413
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo RJ SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1621
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo RJ SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2403
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo RPC Curitiba FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1616
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo RPC Curitiba FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45231
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo RPC Curitiba HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1617
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo RPC Curitiba SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1618
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo RPC Foz do Iguacu FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1594
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo RPC Foz do Iguacu HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1593
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo RPC Foz do Iguacu SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1595
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo SP FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1613
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo SP FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45234
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo SP FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25380
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo SP HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1614
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo SP HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2311
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo SP SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1615
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo SP SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2127
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Anhanguera FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1577
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo TV Anhanguera FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29488
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Anhanguera HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1611
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Anhanguera SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1612
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo TV Asa Branca HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42980
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Bahia FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1576
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Bahia HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1609
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Bahia SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1610
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV C. America Cuiaba SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1608
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Cabo Branco FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1538
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Cabo Branco HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1537
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Cabo Branco SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1536
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo TV Cabugi SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/48150
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Clube Teresina FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1591
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Clube Teresina HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1590
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Clube Teresina SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1592
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Gazeta Alagoas FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1567
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Gazeta Alagoas HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1566
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Gazeta Alagoas SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1568
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Gazeta Sul ES FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1565
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Gazeta Sul ES HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1564
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Gazeta Vitoria FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1588
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Gazeta Vitoria HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1587
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Gazeta Vitoria SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1589
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo TV Integracao SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/48146
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo TV Itapetininga SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/48148
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo TV Liberal Belem HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42938
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Liberal Belem SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1607
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo TV Mirante Cocais SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/48147
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Mirante Sao Luis FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1575
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Mirante Sao Luis HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1574
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Mirante Sao Luis SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1573
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Morena Campo Grande FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1572
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Morena Campo Grande HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1571
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Morena Campo Grande SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1570
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo TV Morena Ponta Pora HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/43768
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo TV Paraiba HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42963
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Rio Sul FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1535
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo TV Rio Sul FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45230
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Rio Sul HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1534
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Rio Sul SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1533
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Santa Cruz FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1532
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Santa Cruz HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1531
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Santa Cruz SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1530
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Sergipe FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1585
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Sergipe HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1584
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Sergipe SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1586
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo TV Subae HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42962
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Tem Bauru SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1606
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Tem S. J. do Rio Preto FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1569
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Tem S. J. do Rio Preto HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1604
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Tem S. J. do Rio Preto SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1603
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Tem Sorocaba SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1605
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Tribuna Santos SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1602
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Vanguarda S. J. Dos Campos SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1601
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo TV Vanguarda Taubate SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/48149
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo TV Verdes Mares Fortaleza HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42933
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo", Globo TV Verdes Mares Fortaleza SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1600
+#EXTINF: -1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo", Globo TV Verdes Mares Fortaleza [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/42934
+#EXTINF: -1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | HBO", HBO 2 FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1941
+#EXTINF: -1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | HBO", HBO 2 FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45167
+#EXTINF: -1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | HBO", HBO 2 FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25447
+#EXTINF: -1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | HBO", HBO 2 FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29460
+#EXTINF: -1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | HBO", HBO 2 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1808
+#EXTINF: -1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | HBO", HBO 2 HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2362
+#EXTINF: -1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | HBO", HBO 2 SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1809
+#EXTINF: -1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | HBO", HBO 2 SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2126
+#EXTINF: -1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO", HBO Family FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1992
+#EXTINF: -1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO", HBO Family FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45164
+#EXTINF: -1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO", HBO Family FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25446
+#EXTINF: -1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO", HBO Family FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29411
+#EXTINF: -1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO", HBO Family HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1806
+#EXTINF: -1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO", HBO Family HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2361
+#EXTINF: -1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO", HBO Family SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1807
+#EXTINF: -1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO", HBO Family SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2185
+#EXTINF: -1 tvg-logo="http://a5.vc/ezc" group-title="Canais | HBO", HBO FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1940
+#EXTINF: -1 tvg-logo="http://a5.vc/ezc" group-title="Canais | HBO", HBO FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45165
+#EXTINF: -1 tvg-logo="http://a5.vc/ezc" group-title="Canais | HBO", HBO FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25445
+#EXTINF: -1 tvg-logo="http://a5.vc/ezc" group-title="Canais | HBO", HBO FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29410
+#EXTINF: -1 tvg-logo="http://a5.vc/ezc" group-title="Canais | HBO", HBO HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1805
+#EXTINF: -1 tvg-logo="http://a5.vc/ezc" group-title="Canais | HBO", HBO HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2360
+#EXTINF: -1 group-title="Canais | HBO", HBO Mundi FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1986
+#EXTINF: -1 tvg-logo="http://a5.vc/IHD" group-title="Canais | HBO", HBO Mundi FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45173
+#EXTINF: -1 group-title="Canais | HBO", HBO Mundi FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25439
+#EXTINF: -1 tvg-logo="http://a5.vc/IHD" group-title="Canais | HBO", HBO Mundi FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29456
+#EXTINF: -1 group-title="Canais | HBO", HBO Mundi HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1791
+#EXTINF: -1 tvg-logo="http://a5.vc/IHD" group-title="Canais | HBO", HBO Mundi HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2355
+#EXTINF: -1 group-title="Canais | HBO", HBO Mundi SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1792
+#EXTINF: -1 tvg-logo="http://a5.vc/IHD" group-title="Canais | HBO", HBO Mundi SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2178
+#EXTINF: -1 tvg-logo="http://a5.vc/60H" group-title="Canais | HBO", HBO Plus FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1991
+#EXTINF: -1 tvg-logo="http://a5.vc/60H" group-title="Canais | HBO", HBO Plus FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45227
+#EXTINF: -1 tvg-logo="http://a5.vc/60H" group-title="Canais | HBO", HBO Plus FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25444
+#EXTINF: -1 tvg-logo="http://a5.vc/60H" group-title="Canais | HBO", HBO Plus FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29462
+#EXTINF: -1 tvg-logo="http://a5.vc/60H" group-title="Canais | HBO", HBO Plus HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1803
+#EXTINF: -1 tvg-logo="http://a5.vc/60H" group-title="Canais | HBO", HBO Plus HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2359
+#EXTINF: -1 tvg-logo="http://a5.vc/60H" group-title="Canais | HBO", HBO Plus SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1804
+#EXTINF: -1 tvg-logo="http://a5.vc/60H" group-title="Canais | HBO", HBO Plus SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2183
+#EXTINF: -1 group-title="Canais | HBO", HBO Pop FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1984
+#EXTINF: -1 tvg-logo="http://a5.vc/Xrj" group-title="Canais | HBO", HBO POP FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45175
+#EXTINF: -1 group-title="Canais | HBO", HBO Pop FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25437
+#EXTINF: -1 tvg-logo="http://a5.vc/Xrj" group-title="Canais | HBO", HBO Pop FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29409
+#EXTINF: -1 group-title="Canais | HBO", HBO Pop HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1787
+#EXTINF: -1 tvg-logo="http://a5.vc/Xrj" group-title="Canais | HBO", HBO Pop HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2353
+#EXTINF: -1 tvg-logo="http://a5.vc/Rjw" group-title="Canais | HBO", HBO Pop SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1788
+#EXTINF: -1 tvg-logo="http://a5.vc/Rjw" group-title="Canais | HBO", HBO Pop SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2177
+#EXTINF: -1 tvg-logo="http://a5.vc/ezc" group-title="Canais | HBO", HBO SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1810
+#EXTINF: -1 tvg-logo="http://a5.vc/ezc" group-title="Canais | HBO", HBO SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2182
+#EXTINF: -1 tvg-logo="http://a5.vc/2N4" group-title="Canais | HBO", HBO Signature FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1990
+#EXTINF: -1 tvg-logo="http://a5.vc/2N4" group-title="Canais | HBO", HBO Signature FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45166
+#EXTINF: -1 tvg-logo="http://a5.vc/2N4" group-title="Canais | HBO", HBO Signature FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25443
+#EXTINF: -1 tvg-logo="http://a5.vc/2N4" group-title="Canais | HBO", HBO Signature FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29461
+#EXTINF: -1 tvg-logo="http://a5.vc/2N4" group-title="Canais | HBO", HBO Signature HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1801
+#EXTINF: -1 tvg-logo="http://a5.vc/2N4" group-title="Canais | HBO", HBO Signature HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2358
+#EXTINF: -1 tvg-logo="http://a5.vc/2N4" group-title="Canais | HBO", HBO Signature SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1802
+#EXTINF: -1 tvg-logo="http://a5.vc/2N4" group-title="Canais | HBO", HBO Signature SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2181
+#EXTINF: -1 group-title="Canais | HBO", HBO Xtreme FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1985
+#EXTINF: -1 tvg-logo="http://a5.vc/0aN" group-title="Canais | HBO", HBO Xtreme FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45174
+#EXTINF: -1 group-title="Canais | HBO", HBO Xtreme FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25438
+#EXTINF: -1 tvg-logo="http://a5.vc/0aN" group-title="Canais | HBO", HBO Xtreme FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29455
+#EXTINF: -1 group-title="Canais | HBO", HBO Xtreme HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1789
+#EXTINF: -1 tvg-logo="http://a5.vc/0aN" group-title="Canais | HBO", HBO Xtreme HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2354
+#EXTINF: -1 group-title="Canais | HBO", HBO Xtreme SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1790
+#EXTINF: -1 tvg-logo="http://a5.vc/0aN" group-title="Canais | HBO", HBO Xtreme SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2179
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 2 FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1939
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 2 FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45188
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 2 FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25427
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 2 FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29447
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 2 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1762
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 2 HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2342
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 2 SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1763
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 2 SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2165
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 3 FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1938
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 3 FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45189
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 3 FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25426
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 3 FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29446
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 3 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1760
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 3 HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2341
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 3 SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1761
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 3 SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2164
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 4 FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1937
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 4 FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45190
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 4 FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25373
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 4 FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29445
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 4 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1758
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 4 HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2340
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 4 SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1759
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 4 SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2163
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 5 FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1936
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 5 FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45191
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 5 FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25425
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 5 FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29444
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 5 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1756
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 5 HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2339
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 5 SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1757
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 5 SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2162
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 6 FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1935
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 6 FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45192
+#EXTINF: -1 group-title="Canais | Premiere", Premiere 6 FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/30587
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 6 FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29443
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 6 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1754
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 6 HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2338
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 6 SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1755
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 6 SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2161
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 7 FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1934
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 7 FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45193
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 7 FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25372
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 7 FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29442
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 7 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1752
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 7 HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2337
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 7 SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1753
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 7 SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2160
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 8 SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2159
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere Clubes FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1933
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere Clubes FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45194
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere Clubes FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25424
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere Clubes FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29441
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere Clubes HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1750
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere Clubes HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2336
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere Clubes SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1751
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere Clubes SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2158
+#EXTINF: -1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV", SporTV 2 FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1930
+#EXTINF: -1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV", SporTV 2 FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25419
+#EXTINF: -1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV", SporTV 2 FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29439
+#EXTINF: -1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV", SporTV 2 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1729
+#EXTINF: -1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV", SporTV 2 HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2332
+#EXTINF: -1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV", SporTV 2 SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1730
+#EXTINF: -1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV", SporTV 2 SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2155
+#EXTINF: -1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV", SporTV 3 FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1929
+#EXTINF: -1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV", SporTV 3 FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25418
+#EXTINF: -1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV", SporTV 3 FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29438
+#EXTINF: -1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV", SporTV 3 HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1727
+#EXTINF: -1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV", SporTV 3 HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2331
+#EXTINF: -1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV", SporTV 3 SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1728
+#EXTINF: -1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV", SporTV 3 SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2131
+#EXTINF: -1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV", SporTV FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1928
+#EXTINF: -1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV", SporTV FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45199
+#EXTINF: -1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV", SporTV FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25417
+#EXTINF: -1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV", SporTV FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29437
+#EXTINF: -1 group-title="Canais | SporTV", SporTV HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1726
+#EXTINF: -1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV", SporTV HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2330
+#EXTINF: -1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV", SporTV SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1731
+#EXTINF: -1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV", SporTV SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2154
+#EXTINF: -1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV", SporTV2 FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45200
+#EXTINF: -1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV", SporTV3 FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45201
+#EXTINF: -1 tvg-logo="http://a5.vc/BsL" group-title="Canais | Telecine", Telecine Action FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1927
+#EXTINF: -1 tvg-logo="http://a5.vc/BsL" group-title="Canais | Telecine", Telecine Action FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45205
+#EXTINF: -1 tvg-logo="http://a5.vc/BsL" group-title="Canais | Telecine", Telecine Action FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25413
+#EXTINF: -1 tvg-logo="http://a5.vc/BsL" group-title="Canais | Telecine", Telecine Action FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29434
+#EXTINF: -1 tvg-logo="http://a5.vc/BsL" group-title="Canais | Telecine", Telecine Action HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1719
+#EXTINF: -1 tvg-logo="http://a5.vc/BsL" group-title="Canais | Telecine", Telecine Action HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2326
+#EXTINF: -1 group-title="Canais | Telecine", Telecine Action SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1720
+#EXTINF: -1 tvg-logo="http://a5.vc/BsL" group-title="Canais | Telecine", Telecine Action SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2149
+#EXTINF: -1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Telecine", Telecine Cult FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1965
+#EXTINF: -1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Telecine", Telecine Cult FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45206
+#EXTINF: -1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Telecine", Telecine Cult FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25412
+#EXTINF: -1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Telecine", Telecine Cult FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29433
+#EXTINF: -1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Telecine", Telecine Cult HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1717
+#EXTINF: -1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Telecine", Telecine Cult HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2325
+#EXTINF: -1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Telecine", Telecine Cult SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1718
+#EXTINF: -1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Telecine", Telecine Cult SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2148
+#EXTINF: -1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Telecine", Telecine Fun FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1926
+#EXTINF: -1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Telecine", Telecine Fun FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45207
+#EXTINF: -1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Telecine", Telecine Fun FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25411
+#EXTINF: -1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Telecine", Telecine Fun FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29432
+#EXTINF: -1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Telecine", Telecine Fun HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1715
+#EXTINF: -1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Telecine", Telecine Fun HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2324
+#EXTINF: -1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Telecine", Telecine Fun SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1716
+#EXTINF: -1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Telecine", Telecine Fun SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2147
+#EXTINF: -1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Telecine", Telecine Pipoca FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1925
+#EXTINF: -1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Telecine", Telecine Pipoca FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45208
+#EXTINF: -1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Telecine", Telecine Pipoca FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25410
+#EXTINF: -1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Telecine", Telecine Pipoca FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29431
+#EXTINF: -1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Telecine", Telecine Pipoca HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1713
+#EXTINF: -1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Telecine", Telecine Pipoca HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2323
+#EXTINF: -1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Telecine", Telecine Pipoca SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1714
+#EXTINF: -1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Telecine", Telecine Pipoca SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2146
+#EXTINF: -1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Telecine", Telecine Premium FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1924
+#EXTINF: -1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Telecine", Telecine Premium FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45209
+#EXTINF: -1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Telecine", Telecine Premium FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25409
+#EXTINF: -1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Telecine", Telecine Premium FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29430
+#EXTINF: -1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Telecine", Telecine Premium HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1711
+#EXTINF: -1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Telecine", Telecine Premium HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2322
+#EXTINF: -1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Telecine", Telecine Premium SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1712
+#EXTINF: -1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Telecine", Telecine Premium SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2145
+#EXTINF: -1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Telecine", Telecine Touch FHD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1923
+#EXTINF: -1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Telecine", Telecine Touch FHD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/45210
+#EXTINF: -1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Telecine", Telecine Touch FHD [H265]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/25408
+#EXTINF: -1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Telecine", Telecine Touch FHD [H265] [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/29429
+#EXTINF: -1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Telecine", Telecine Touch HD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1709
+#EXTINF: -1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Telecine", Telecine Touch HD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2321
+#EXTINF: -1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Telecine", Telecine Touch SD
+http://csrv.tv:80/PauloHenrique202/paulo85946124/1710
+#EXTINF: -1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Telecine", Telecine Touch SD [Alter]
+http://csrv.tv:80/PauloHenrique202/paulo85946124/2144
