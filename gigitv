@@ -297,3 +297,716 @@ http://psrv.io:80/live/883698111244/blendediptv.me/18486.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/22275.m3u8
 #EXTINF:-1 tvg-id="VENUS" tvg-name="Venus" tvg-logo="http://static.psrv.io/logos/canais/venus.png" group-title="Adultos" aspect-ratio="16:9",Venus
 http://psrv.io:80/live/883698111244/blendediptv.me/33399.m3u8
+
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://static.psrv.io/logos/canais/amc.png" group-title="Filmes e Series" aspect-ratio="16:9",AMC HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18736.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://static.psrv.io/logos/canais/axn.png" group-title="Filmes e Series" aspect-ratio="16:9",AXN HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18730.m3u8
+#EXTINF:-1 tvg-id="CANAL BRASIL" tvg-name="Canal Brasil HD" tvg-logo="http://static.psrv.io/logos/canais/canalbrasil.png" group-title="Filmes e Series" aspect-ratio="16:9",Canal Brasil HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18716.m3u8
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="Cinemax HD" tvg-logo="http://static.psrv.io/logos/canais/cinemax.png" group-title="Filmes e Series" aspect-ratio="16:9",Cinemax HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18709.m3u8
+#EXTINF:-1 tvg-id="FOX" tvg-name="Fox Channel HD" tvg-logo="http://static.psrv.io/logos/canais/fox.png" group-title="Filmes e Series" aspect-ratio="16:9",Fox Channel HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18667.m3u8
+#EXTINF:-1 tvg-id="FOX PREMIUM 1" tvg-name="Fox Premium 1 HD" tvg-logo="http://static.psrv.io/logos/canais/foxpremium1.png" group-title="Filmes e Series" aspect-ratio="16:9",Fox Premium 1 HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18663.m3u8
+#EXTINF:-1 tvg-id="FOX PREMIUM 2" tvg-name="Fox Premium 2 HD" tvg-logo="http://static.psrv.io/logos/canais/foxpremium2.png" group-title="Filmes e Series" aspect-ratio="16:9",Fox Premium 2 HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18661.m3u8
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://static.psrv.io/logos/canais/fx.png" group-title="Filmes e Series" aspect-ratio="16:9",FX HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18653.m3u8
+#EXTINF:-1 tvg-id="HBO XTREME" tvg-name="Max Prime HD" tvg-logo="http://static.psrv.io/logos/canais/maxprime.png" group-title="Filmes e Series" aspect-ratio="16:9",Max Prime HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18621.m3u8
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="Megapix HD" tvg-logo="http://static.psrv.io/logos/canais/megapix.png" group-title="Filmes e Series" aspect-ratio="16:9",Megapix HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18617.m3u8
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="Paramount Channel HD" tvg-logo="http://static.psrv.io/logos/canais/paramount.png" group-title="Filmes e Series" aspect-ratio="16:9",Paramount Channel HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18596.m3u8
+#EXTINF:-1 tvg-id="SONY" tvg-name="Sony Channel HD" tvg-logo="http://static.psrv.io/logos/canais/sony.png" group-title="Filmes e Series" aspect-ratio="16:9",Sony Channel HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18714.m3u8
+#EXTINF:-1 tvg-id="SPACE" tvg-name="Space HD" tvg-logo="http://static.psrv.io/logos/canais/space.png" group-title="Filmes e Series" aspect-ratio="16:9",Space HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18564.m3u8
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="Studio Universal HD" tvg-logo="http://static.psrv.io/logos/canais/studiouniversal.png" group-title="Filmes e Series" aspect-ratio="16:9",Studio Universal HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18556.m3u8
+#EXTINF:-1 tvg-id="SYFY" tvg-name="Syfy HD" tvg-logo="http://static.psrv.io/logos/canais/syfy.png" group-title="Filmes e Series" aspect-ratio="16:9",Syfy HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18566.m3u8
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="http://static.psrv.io/logos/canais/tbs.png" group-title="Filmes e Series" aspect-ratio="16:9",TBS HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18554.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://static.psrv.io/logos/canais/tnt.png" group-title="Filmes e Series" aspect-ratio="16:9",TNT HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18536.m3u8
+#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT Series HD" tvg-logo="http://static.psrv.io/logos/canais/tntseries.png" group-title="Filmes e Series" aspect-ratio="16:9",TNT Series HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18534.m3u8
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="Universal Channel HD" tvg-logo="http://static.psrv.io/logos/canais/universalchannel.png" group-title="Filmes e Series" aspect-ratio="16:9",Universal Channel HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18520.m3u8
+#EXTINF:-1 tvg-id="WARNER" tvg-name="Warner Channel HD" tvg-logo="http://static.psrv.io/logos/canais/warner.png" group-title="Filmes e Series" aspect-ratio="16:9",Warner Channel HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18513.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="http://static.psrv.io/logos/canais/hbo.png" group-title="Filmes e Series" aspect-ratio="16:9",HBO HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18637.m3u8
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://static.psrv.io/logos/canais/hbo2.png" group-title="Filmes e Series" aspect-ratio="16:9",HBO 2 HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18640.m3u8
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO Plus HD" tvg-logo="http://static.psrv.io/logos/canais/hboplus.png" group-title="Filmes e Series" aspect-ratio="16:9",HBO Plus HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18635.m3u8
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO Family HD" tvg-logo="http://static.psrv.io/logos/canais/hbofamily.png" group-title="Filmes e Series" aspect-ratio="16:9",HBO Family HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18638.m3u8
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO Signature HD" tvg-logo="http://static.psrv.io/logos/canais/hbosignature.png" group-title="Filmes e Series" aspect-ratio="16:9",HBO Signature HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18633.m3u8
+#EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO Pop HD" tvg-logo="https://canaismax.com/img/canais/cc4f0ce37f3250f4684cc49221d4e419.png" group-title="Filmes e Series" aspect-ratio="16:9",HBO Pop HD
+http://psrv.io:80/live/883698111244/blendediptv.me/45148.m3u8
+#EXTINF:-1 tvg-id="HBO MUNDI" tvg-name="HBO Mundi HD" tvg-logo="https://canaismax.com/img/canais/e7a60609d36071d225eae42151773901.png" group-title="Filmes e Series" aspect-ratio="16:9",HBO Mundi HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18623.m3u8
+#EXTINF:-1 tvg-id="HBO XTREME" tvg-name="HBO Xtreme HD" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" group-title="Filmes e Series" aspect-ratio="16:9",HBO Xtreme HD
+http://psrv.io:80/live/883698111244/blendediptv.me/45144.m3u8
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="Telecine Premium HD" tvg-logo="http://static.psrv.io/logos/canais/telecinepremium.png" group-title="Filmes e Series" aspect-ratio="16:9",Telecine Premium HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18543.m3u8
+#EXTINF:-1 tvg-id="TC ACTION" tvg-name="Telecine Action HD" tvg-logo="http://static.psrv.io/logos/canais/telecineaction.png" group-title="Filmes e Series" aspect-ratio="16:9",Telecine Action HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18551.m3u8
+#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="Telecine Touch HD" tvg-logo="http://static.psrv.io/logos/canais/telecinetouch.png" group-title="Filmes e Series" aspect-ratio="16:9",Telecine Touch HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18541.m3u8
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="Telecine Pipoca HD" tvg-logo="http://static.psrv.io/logos/canais/telecinepipoca.png" group-title="Filmes e Series" aspect-ratio="16:9",Telecine Pipoca HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18545.m3u8
+#EXTINF:-1 tvg-id="TC FUN" tvg-name="Telecine Fun HD" tvg-logo="http://static.psrv.io/logos/canais/telecinefun.png" group-title="Filmes e Series" aspect-ratio="16:9",Telecine Fun HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18547.m3u8
+#EXTINF:-1 tvg-id="TC CULT" tvg-name="Telecine Cult HD" tvg-logo="http://static.psrv.io/logos/canais/telecinecult.png" group-title="Filmes e Series" aspect-ratio="16:9",Telecine Cult HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 1" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Filmes e Series" aspect-ratio="16:9",Cine Sky 1
+http://psrv.io:80/live/883698111244/blendediptv.me/50883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 2" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Filmes e Series" aspect-ratio="16:9",Cine Sky 2
+http://psrv.io:80/live/883698111244/blendediptv.me/50884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 3" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Filmes e Series" aspect-ratio="16:9",Cine Sky 3
+http://psrv.io:80/live/883698111244/blendediptv.me/52433.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 4" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Filmes e Series" aspect-ratio="16:9",Cine Sky 4
+http://psrv.io:80/live/883698111244/blendediptv.me/52434.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 5" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Filmes e Series" aspect-ratio="16:9",Cine Sky 5
+http://psrv.io:80/live/883698111244/blendediptv.me/52435.m3u8
+#EXTINF:-1 tvg-id="AEE" tvg-name="A&E HD" tvg-logo="http://static.psrv.io/logos/canais/a&e.png" group-title="Variedades" aspect-ratio="16:9",A&E HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18738.m3u8
+#EXTINF:-1 tvg-id="BIS" tvg-name="Bis HD" tvg-logo="http://static.psrv.io/logos/canais/bis.png" group-title="Variedades" aspect-ratio="16:9",Bis HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18721.m3u8
+#EXTINF:-1 tvg-id="CHEF TV" tvg-name="Chef TV HD" tvg-logo="https://associacaoneo.com.br/wp-content/uploads/2015/03/AF_Logotipo_priorit%C3%A1rio_150dpis_RGB-460x260_c.png" group-title="Variedades" aspect-ratio="16:9",Chef TV HD
+http://psrv.io:80/live/883698111244/blendediptv.me/49378.m3u8
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="Comedy Central HD" tvg-logo="http://static.psrv.io/logos/canais/comedycentral.png" group-title="Variedades" aspect-ratio="16:9",Comedy Central HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18705.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY HOME E HEALTH" tvg-name="Discovery H&H HD" tvg-logo="http://static.psrv.io/logos/canais/discoveryh&h.png" group-title="Variedades" aspect-ratio="16:9",Discovery H&H HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18697.m3u8
+#EXTINF:-1 tvg-id="DOGTV" tvg-name="Dog TV HD" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/96x86_ICON_CHN_dog_DogTv.png" group-title="Variedades" aspect-ratio="16:9",Dog TV HD
+http://psrv.io:80/live/883698111244/blendediptv.me/28000.m3u8
+#EXTINF:-1 tvg-id="E!" tvg-name="E! HD" tvg-logo="http://static.psrv.io/logos/canais/e!.png" group-title="Variedades" aspect-ratio="16:9",E! HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18681.m3u8
+#EXTINF:-1 tvg-id="FASHION TV" tvg-name="Fashion TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="Variedades" aspect-ratio="16:9",Fashion TV HD
+http://psrv.io:80/live/883698111244/blendediptv.me/49293.m3u8
+#EXTINF:-1 tvg-id="FISH TV" tvg-name="Fish TV HD" tvg-logo="http://static.psrv.io/logos/canais/fishtv.png" group-title="Variedades" aspect-ratio="16:9",Fish TV HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18671.m3u8
+#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="Food Network HD" tvg-logo="http://static.psrv.io/logos/canais/foodnetwork.png" group-title="Variedades" aspect-ratio="16:9",Food Network HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18669.m3u8
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="Fox Life HD" tvg-logo="http://static.psrv.io/logos/canais/foxlife.png" group-title="Variedades" aspect-ratio="16:9",Fox Life HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18665.m3u8
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="http://static.psrv.io/logos/canais/gnt.png" group-title="Variedades" aspect-ratio="16:9",GNT HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18645.m3u8
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/hgtv-logo-png-3.png" group-title="Variedades" aspect-ratio="16:9",HGTV HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18699.m3u8
+#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-name="ID: Investigacao Discovery HD" tvg-logo="http://static.psrv.io/logos/canais/id.png" group-title="Variedades" aspect-ratio="16:9",ID: Investigacao Discovery HD
+http://psrv.io:80/live/883698111244/blendediptv.me/49283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KPOP Stars HD" tvg-logo="https://img.pngio.com/kpop-png-tumblr-kpop-png-250_250.png" group-title="Variedades" aspect-ratio="16:9",KPOP Stars HD
+http://psrv.io:80/live/883698111244/blendediptv.me/50771.m3u8
+#EXTINF:-1 tvg-id="LIFETIME" tvg-name="Life Time HD" tvg-logo="http://static.psrv.io/logos/canais/lifetime.png" group-title="Variedades" aspect-ratio="16:9",Life Time HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18627.m3u8
+#EXTINF:-1 tvg-id="MAIS GLOBOSAT" tvg-name="Mais GloboSat HD" tvg-logo="http://static.psrv.io/logos/canais/maisglobosat.png" group-title="Variedades" aspect-ratio="16:9",Mais GloboSat HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18625.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV HD" tvg-logo="http://static.psrv.io/logos/canais/mtv.png" group-title="Variedades" aspect-ratio="16:9",MTV HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18615.m3u8
+#EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV Live HD" tvg-logo="http://static.psrv.io/logos/canais/mtvlive.png" group-title="Variedades" aspect-ratio="16:9",MTV Live HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18507.m3u8
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="Multishow HD" tvg-logo="http://static.psrv.io/logos/canais/multishow.png" group-title="Variedades" aspect-ratio="16:9",Multishow HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18613.m3u8
+#EXTINF:-1 tvg-id="MUSIC BOX BRASIL" tvg-name="Music Box Brasil HD" tvg-logo="http://static.psrv.io/logos/canais/musicboxbrazil.png" group-title="Variedades" aspect-ratio="16:9",Music Box Brasil HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18611.m3u8
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF HD" tvg-logo="http://static.psrv.io/logos/canais/off.png" group-title="Variedades" aspect-ratio="16:9",OFF HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18598.m3u8
+#EXTINF:-1 tvg-id="SHOPTIME" tvg-name="Shop Time HD" tvg-logo="https://static.pontoslivelo.com.br/content/img/parceiros-de-pontos/shoptime-marca.png" group-title="Variedades" aspect-ratio="16:9",Shop Time HD
+http://psrv.io:80/live/883698111244/blendediptv.me/28404.m3u8
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD" tvg-logo="http://static.psrv.io/logos/canais/tlc.png" group-title="Variedades" aspect-ratio="16:9",TLC HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18538.m3u8
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1 HD" tvg-logo="http://static.psrv.io/logos/canais/vh1.png" group-title="Variedades" aspect-ratio="16:9",VH1 HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18518.m3u8
+#EXTINF:-1 tvg-id="VIVA" tvg-name="Viva HD" tvg-logo="http://static.psrv.io/logos/canais/viva.png" group-title="Variedades" aspect-ratio="16:9",Viva HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18515.m3u8
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="Woohoo HD" tvg-logo="http://static.psrv.io/logos/canais/woohoo.png" group-title="Variedades" aspect-ratio="16:9",Woohoo HD
+http://psrv.io:80/live/883698111244/blendediptv.me/49631.m3u8
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="Animal Planet HD" tvg-logo="http://static.psrv.io/logos/canais/animalplanet.png" group-title="Documentarios" aspect-ratio="16:9",Animal Planet HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18734.m3u8
+#EXTINF:-1 tvg-id="ARTE 1" tvg-name="Arte 1 HD" tvg-logo="http://static.psrv.io/logos/canais/arte1.png" group-title="Documentarios" aspect-ratio="16:9",Arte 1 HD
+http://psrv.io:80/live/883698111244/blendediptv.me/27884.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="Discovery Channel HD" tvg-logo="http://static.psrv.io/logos/canais/discoverychannel.png" group-title="Documentarios" aspect-ratio="16:9",Discovery Channel HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18701.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="Discovery Science HD" tvg-logo="http://static.psrv.io/logos/canais/discoveryscience.png" group-title="Documentarios" aspect-ratio="16:9",Discovery Science HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18693.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY THEATER" tvg-name="Discovery Theater HD" tvg-logo="http://static.psrv.io/logos/canais/discoverytheater.png" group-title="Documentarios" aspect-ratio="16:9",Discovery Theater HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18691.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="Discovery Turbo HD" tvg-logo="http://static.psrv.io/logos/canais/discoveryturbo.png" group-title="Documentarios" aspect-ratio="16:9",Discovery Turbo HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18689.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY WORLD" tvg-name="Discovery World HD" tvg-logo="http://static.psrv.io/logos/canais/discoveryworld.png" group-title="Documentarios" aspect-ratio="16:9",Discovery World HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18687.m3u8
+#EXTINF:-1 tvg-id="HISTORY CHANNEL" tvg-name="History Channel HD" tvg-logo="http://static.psrv.io/logos/canais/history.png" group-title="Documentarios" aspect-ratio="16:9",History Channel HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18631.m3u8
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 HD" tvg-logo="http://static.psrv.io/logos/canais/h2.png" group-title="Documentarios" aspect-ratio="16:9",H2 HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18643.m3u8
+#EXTINF:-1 tvg-id="NATGEO WILD" tvg-name="NatGeo Wild HD" tvg-logo="http://static.psrv.io/logos/canais/natgeowild.png" group-title="Documentarios" aspect-ratio="16:9",NatGeo Wild HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18606.m3u8
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="Cartoon Network HD" tvg-logo="http://static.psrv.io/logos/canais/cartoon.png" group-title="Infantis" aspect-ratio="16:9",Cartoon Network HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18711.m3u8
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="Disney Channel HD" tvg-logo="http://static.psrv.io/logos/canais/disney.png" group-title="Infantis" aspect-ratio="16:9",Disney Channel HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18685.m3u8
+#EXTINF:-1 tvg-id="DISNEY XD" tvg-name="Disney XD HD" tvg-logo="http://static.psrv.io/logos/canais/disneyxd.png" group-title="Infantis" aspect-ratio="16:9",Disney XD HD
+http://psrv.io:80/live/883698111244/blendediptv.me/49285.m3u8
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="Disney Junior HD" tvg-logo="http://static.psrv.io/logos/canais/disneyjr.png" group-title="Infantis" aspect-ratio="16:9",Disney Junior HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18509.m3u8
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="Nickelodeon HD" tvg-logo="http://static.psrv.io/logos/canais/nick.png" group-title="Infantis" aspect-ratio="16:9",Nickelodeon HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18600.m3u8
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="Nick Jr HD" tvg-logo="http://static.psrv.io/logos/canais/nickjr.png" group-title="Infantis" aspect-ratio="16:9",Nick Jr HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18602.m3u8
+#EXTINF:-1 tvg-id="NATGEO KIDS" tvg-name="NatGeo Kids HD" tvg-logo="http://static.psrv.io/logos/canais/natgeokids.png" group-title="Infantis" aspect-ratio="16:9",NatGeo Kids HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18607.m3u8
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="Tooncast HD" tvg-logo="http://static.psrv.io/logos/canais/tooncast.png" group-title="Infantis" aspect-ratio="16:9",Tooncast HD
+http://psrv.io:80/live/883698111244/blendediptv.me/49376.m3u8
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="Boomerang HD" tvg-logo="http://static.psrv.io/logos/canais/boomerang.png" group-title="Infantis" aspect-ratio="16:9",Boomerang HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18718.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="Discovery Kids HD" tvg-logo="http://static.psrv.io/logos/canais/discoverykids.png" group-title="Infantis" aspect-ratio="16:9",Discovery Kids HD
+http://psrv.io:80/live/883698111244/blendediptv.me/22325.m3u8
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BabyTV HD" tvg-logo="http://static.psrv.io/logos/canais/babytv.png" group-title="Infantis" aspect-ratio="16:9",BabyTV HD
+http://psrv.io:80/live/883698111244/blendediptv.me/49379.m3u8
+#EXTINF:-1 tvg-id="GLOOB" tvg-name="Gloob HD" tvg-logo="http://static.psrv.io/logos/canais/gloob.png" group-title="Infantis" aspect-ratio="16:9",Gloob HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18649.m3u8
+#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="Gloobinho HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/GloobinhoLogo.png" group-title="Infantis" aspect-ratio="16:9",Gloobinho HD
+http://psrv.io:80/live/883698111244/blendediptv.me/50815.m3u8
+#EXTINF:-1 tvg-id="TV RA TIM BUM" tvg-name="TV Ra-Tim-Bum HD" tvg-logo="http://static.psrv.io/logos/canais/ratimbum.png" group-title="Infantis" aspect-ratio="16:9",TV Ra-Tim-Bum HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18524.m3u8
+#EXTINF:-1 tvg-id="BAND" tvg-name="Band RJ HD" tvg-logo="http://static.psrv.io/logos/canais/band.png" group-title="Abertos" aspect-ratio="16:9",Band RJ HD
+http://psrv.io:80/live/883698111244/blendediptv.me/52351.m3u8
+#EXTINF:-1 tvg-id="BAND" tvg-name="Band SP HD" tvg-logo="http://static.psrv.io/logos/canais/band.png" group-title="Abertos" aspect-ratio="16:9",Band SP HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18727.m3u8
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo RJ HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo RJ HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18416.m3u8
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo SP HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo SP HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18410.m3u8
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Brasilia HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo Brasilia HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18434.m3u8
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Mirante Sao Luis HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo TV Mirante Sao Luis HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18370.m3u8
+#EXTINF:-1 tvg-id="REDETV!" tvg-name="RedeTV! HD" tvg-logo="http://static.psrv.io/logos/canais/redetv.png" group-title="Abertos" aspect-ratio="16:9",RedeTV! HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18572.m3u8
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV SP HD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos" aspect-ratio="16:9",RecordTV SP HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18575.m3u8
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV Rio HD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos" aspect-ratio="16:9",RecordTV Rio HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18503.m3u8
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV DF HD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos" aspect-ratio="16:9",RecordTV DF HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18494.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos" aspect-ratio="16:9",SBT HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18569.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos" aspect-ratio="16:9",SBT SP HD
+http://psrv.io:80/live/883698111244/blendediptv.me/49620.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT RJ HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos" aspect-ratio="16:9",SBT RJ HD
+http://psrv.io:80/live/883698111244/blendediptv.me/22458.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT RJ HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos" aspect-ratio="16:9",SBT RJ HD
+http://psrv.io:80/live/883698111244/blendediptv.me/49618.m3u8
+#EXTINF:-1 tvg-id="TV CULTURA" tvg-name="TV Cultura HD" tvg-logo="http://static.psrv.io/logos/canais/tvcultura.png" group-title="Abertos" aspect-ratio="16:9",TV Cultura HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18505.m3u8
+#EXTINF:-1 tvg-id="TV GAZETA" tvg-name="TV Gazeta SP HD" tvg-logo="http://static.psrv.io/logos/canais/tvgazeta.png" group-title="Abertos" aspect-ratio="16:9",TV Gazeta SP HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18526.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Nova Era HD [Temporario]" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7faf25d0fff391c39eb21e2374503e89.png" group-title="Abertos" aspect-ratio="16:9",TV Nova Era HD [Temporario]
+http://psrv.io:80/live/883698111244/blendediptv.me/50812.m3u8
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BandSports HD" tvg-logo="http://static.psrv.io/logos/canais/bandsports.png" group-title="Esportes" aspect-ratio="16:9",BandSports HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18723.m3u8
+#EXTINF:-1 tvg-id="COMBATE" tvg-name="Combate HD" tvg-logo="http://static.psrv.io/logos/canais/combate.png" group-title="Esportes" aspect-ratio="16:9",Combate HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18707.m3u8
+#EXTINF:-1 tvg-id="ESPORTE INTERATIVO" tvg-name="EI Plus 1 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/esporte-interativo-logo-0.png" group-title="Esportes" aspect-ratio="16:9",EI Plus 1 HD
+http://psrv.io:80/live/883698111244/blendediptv.me/22978.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="http://static.psrv.io/logos/canais/espn.png" group-title="Esportes" aspect-ratio="16:9",ESPN HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18673.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD" tvg-logo="http://static.psrv.io/logos/canais/espn2.png" group-title="Esportes" aspect-ratio="16:9",ESPN 2 HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18678.m3u8
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN Brasil HD" tvg-logo="http://static.psrv.io/logos/canais/espnbrasil.png" group-title="Esportes" aspect-ratio="16:9",ESPN Brasil HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18676.m3u8
+#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN Extra HD" tvg-logo="http://static.psrv.io/logos/canais/espnextra.png" group-title="Esportes" aspect-ratio="16:9",ESPN Extra HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18674.m3u8
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="Fox Sports HD" tvg-logo="http://static.psrv.io/logos/canais/foxsports1.png" group-title="Esportes" aspect-ratio="16:9",Fox Sports HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18659.m3u8
+#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="Fox Sports 2 HD" tvg-logo="http://static.psrv.io/logos/canais/foxsports2.png" group-title="Esportes" aspect-ratio="16:9",Fox Sports 2 HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18657.m3u8
+#EXTINF:-1 tvg-id="SPORTV" tvg-name="SporTV HD" tvg-logo="http://static.psrv.io/logos/canais/sportv.png" group-title="Esportes" aspect-ratio="16:9",SporTV HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18558.m3u8
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SporTV 2 HD" tvg-logo="http://static.psrv.io/logos/canais/sportv2.png" group-title="Esportes" aspect-ratio="16:9",SporTV 2 HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18561.m3u8
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SporTV 3 HD" tvg-logo="http://static.psrv.io/logos/canais/sportv3.png" group-title="Esportes" aspect-ratio="16:9",SporTV 3 HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18559.m3u8
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="Premiere Clubes HD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere Clubes HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18582.m3u8
+#EXTINF:-1 tvg-id="PREMIERE 2" tvg-name="Premiere 2 HD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 2 HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18594.m3u8
+#EXTINF:-1 tvg-id="PREMIERE 3" tvg-name="Premiere 3 HD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 3 HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18592.m3u8
+#EXTINF:-1 tvg-id="PREMIERE 4" tvg-name="Premiere 4 HD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 4 HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18590.m3u8
+#EXTINF:-1 tvg-id="PREMIERE 5" tvg-name="Premiere 5 HD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 5 HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18588.m3u8
+#EXTINF:-1 tvg-id="PREMIERE 6" tvg-name="Premiere 6 HD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 6 HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18586.m3u8
+#EXTINF:-1 tvg-id="PREMIERE 7" tvg-name="Premiere 7 HD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 7 HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18584.m3u8
+#EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BandNews HD" tvg-logo="http://static.psrv.io/logos/canais/bandnews.png" group-title="Noticias" aspect-ratio="16:9",BandNews HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18725.m3u8
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN Brasil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="Noticias" aspect-ratio="16:9",CNN Brasil HD
+http://psrv.io:80/live/883698111244/blendediptv.me/47358.m3u8
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="Globo News HD" tvg-logo="http://static.psrv.io/logos/canais/globonews.png" group-title="Noticias" aspect-ratio="16:9",Globo News HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18651.m3u8
+#EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="Record News HD" tvg-logo="http://static.psrv.io/logos/canais/recordnews.png" group-title="Noticias" aspect-ratio="16:9",Record News HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18577.m3u8
+#EXTINF:-1 tvg-id="TV CANCAO NOVA" tvg-name="Cancao Nova HD" tvg-logo="http://static.psrv.io/logos/canais/cancaonova.png" group-title="Religiosos" aspect-ratio="16:9",Cancao Nova HD
+http://psrv.io:80/live/883698111244/blendediptv.me/48700.m3u8
+#EXTINF:-1 tvg-id="REDE VIDA" tvg-name="Rede Vida HD" tvg-logo="http://static.psrv.io/logos/canais/redevida.png" group-title="Religiosos" aspect-ratio="16:9",Rede Vida HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18504.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tv Aperiper HD" tvg-logo="http://z4.vc/X0C" group-title="Religiosos" aspect-ratio="16:9",Tv Aperiper HD
+http://psrv.io:80/live/883698111244/blendediptv.me/22473.m3u8
+#EXTINF:-1 tvg-id="PLAYBOY" tvg-name="PlayBoy HD" tvg-logo="http://static.psrv.io/logos/canais/playboy.png" group-title="Adultos" aspect-ratio="16:9",PlayBoy HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18787.m3u8
+#EXTINF:-1 tvg-id="PLAYBOY" tvg-name="PlayBoy HD" tvg-logo="http://static.psrv.io/logos/canais/playboy.png" group-title="Adultos" aspect-ratio="16:9",PlayBoy HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18487.m3u8
+#EXTINF:-1 tvg-id="SEXY HOT" tvg-name="Sexy Hot HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sexyhotb.png" group-title="Adultos" aspect-ratio="16:9",Sexy Hot HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18485.m3u8
+#EXTINF:-1 tvg-id="VENUS" tvg-name="Venus HD" tvg-logo="http://static.psrv.io/logos/canais/venus.png" group-title="Adultos" aspect-ratio="16:9",Venus HD
+http://psrv.io:80/live/883698111244/blendediptv.me/18484.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIVATE HD" tvg-logo="https://onlines.tv/wp-content/uploads/2018/12/152302558372_logo_privatetvhd_ok1.png" group-title="Adultos" aspect-ratio="16:9",PRIVATE HD
+http://psrv.io:80/live/883698111244/blendediptv.me/33392.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Redlight HD" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/3/39/Redlight_HD_%282010-.n.v.%29.png" group-title="Adultos" aspect-ratio="16:9",Redlight HD
+http://psrv.io:80/live/883698111244/blendediptv.me/27886.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",3%
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32198
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",[US] ADULT SWIM - Black Jesus
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/33789
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",[US]Eric Andre Show
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/34022
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",[US]Mr. Pickles
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/34023
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",[US]Rick and Morty
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/34024
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",[US]Squidbillies
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/34025
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",[US]Tim and Eric
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/34026
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",[US]Venture Bros.
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/34027
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",[US]Williams Stream
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/34028
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",2 HOMENS E MEIO
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32181
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",2 HOMENS E MEIO 2 TEMP
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32182
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",3 Palavrinhas
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32038
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",A historia de Deus com Morgan Freeman 1
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32039
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",A historia de Deus com Morgan Freeman 2
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32040
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",A Maldicao da Residencia
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32041
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",ALOK SHOW
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32214
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",American Horror 3
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32042
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",American Horror 4
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32043
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",American Horror 5
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32044
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",American Horror 6
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32045
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",American Horror 7
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32046
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",ANIMAIS SELVAGENS
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32220
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Apenas Um Show
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32047
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Arrow
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32199
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",As aventuras de Jackie Chan
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/37
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",As Tartarugas Ninja
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32048
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",As Telefonistas 1
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32049
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",As Telefonistas 2
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32050
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",As Telefonistas 3
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32051
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",AS VISOES DA RAVEN
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32208
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Ash vs Evil Dead
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32200
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Assedio
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32052
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Bates Motel 1
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32053
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Bates Motel 2
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32054
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Bates Motel 3
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32055
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Bates Motel 4
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32056
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Bates Motel 5
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32057
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",BIG BANG A TEORIA 8 TEMP
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32179
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",BILLY E MAND
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32188
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Black Lighting
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32201
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Black Lightning
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32058
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Bob Esponja
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/19
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",BOB ESPONJA
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32197
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Bob Zoom
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32059
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Cacadores de Sombra  1
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32060
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Cacadores de Sombra  2
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32061
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Cacadores de Sombra  3
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32062
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Carcereiros
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32063
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Cascão Maratona
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32064
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Cavaleiros do Zodiaco
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32065
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Cavaleiros dos Zodiacos Saga Doze Casas
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/20
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Cavalo de Fogo
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32066
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Caverna do Dragão
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32067
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",CHAPOLIN COLORADO
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32209
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Chaves
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32068
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Chicago Med 1
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32069
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Chicago Med 2
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32070
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Chicago Med 3
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32071
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Classicos Disney
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/21
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",CORAGEM CAO COVARDE
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32190
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Coragem o Cão Covarde
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/22
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Corrida Maluca
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/38
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",CORRIDA MALUCA
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32196
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Damnation
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32072
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Dark Matter
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32073
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Deceptions
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32074
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Demolidor 1
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32075
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Demolidor 2
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32076
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Demolidor 3
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32077
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",DENIS PIMENTINHA
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32184
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",DESASTRES AEREOS
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32174
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Desenhos Mickey Mouse
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32078 Tico E Teco
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",DIARIOS DE 1 VAMPIRO
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32090
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Diarios de Horrores
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32079
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Diários de Um Vampiro
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32202
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Diarios de Um Vampiro 1
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32080
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Doctor Who 1
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32081
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Doctor Who 2
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32082
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Doctor Who 3
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32083
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Doctor Who 4
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32084
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Doctor Who 5
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32085
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Doctor Who 6
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32086
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Doctor Who 7
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32087
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Doctor Who 8
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32088
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",DOCUMENTARIO DISCOVERY
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32218
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Dois Homens e Meio
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/23
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Dragon Ball 24H
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/24
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Dragon Ball Super
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/34021
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Dupla Identidade
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32089
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Elite
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32091
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",EU A PATROA E AS CRIANÇAS 1 TEMPORADA
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32164
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",EU A PATROA E AS CRIANÇAS 2 TEMPORADA
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32165
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",EU A PATROA E AS CRIANÇAS 3 TEMPORADA
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32166
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Familia da Pesada (Family Guy)
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/25
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Familia Soprano 1
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32092
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Familia Soprano 2
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32093
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Familia Soprano 3
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32094
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Familia Soprano 4
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32095
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Familia Soprano 5
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32096
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",FAMILIA URSO
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32186
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Farine e Cocaine
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32097
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Fear The Walking Dead 1
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32098
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Fear The Walking Dead 2
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32099
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Fear The Walking Dead 3
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32100
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Formiga Atomic
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/26
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Frequency
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32101
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Fugitivos
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32102
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",FUTURAMA
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/27
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Future Man
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32103
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Galinha Pintadinha
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/28
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Galinha Pintadinha
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32104
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Gamebros
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32105
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",GAMES OF THRONES
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32178
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Ghoul
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32106
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",GIRFIELD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32205
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Gothan 1
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32107
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Greys Anatomy 1
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32108
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Hannibal 1
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32109
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",HOMEM ARANHA
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32185
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Impuros
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32110
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Irmaos de Guerra
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32111
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",IRON MAIDEN
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32212
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",JACKASS
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32180
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Jaspion & Jonny Quest
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32112
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Jogos Sagrados
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32113
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Jose do Egito
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32114
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Justiceiro 1
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32115
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Kenan e Kel
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/39
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",KOREIA DO NORTE 24
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32210
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",LA CASA  PAPEL 3
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32171
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",La Casa Papel 1
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32116
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",La Casa Papel 2
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32117
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Legend of Tomorrow  2
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32118
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Legend of Tomorrow 1
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32119
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Lluke Cage 1
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32120
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",LONEY TUNES
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32191
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Lucifer 1
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32121
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Lucifer 2
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32122
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Lucifer 3
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32123
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Luke Cage 2
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32124
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Luluzinha
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/29
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Luluzinha
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32125
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Macgyver 1
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32126
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",MANA SHOW
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32213
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",MANDA CHUVA
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32207
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Maquina Mortifera 1
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32127
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Masha e o Urso
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32128
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Mecanismo
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32129
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",MICHAEL JACKSON SHOW
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32215
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Mickey e Donald
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Mindhunter
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32130
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Narcos 1
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32131
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Narcos 2
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32132
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",O Homem Do Castelo Alto 1
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32133
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",O Homem Do Castelo Alto 2
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32134
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",O Homem Do Castelo Alto 3
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32135
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",O Mascara
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/40
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",O Negocio 1
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32136
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",O Negocio 2
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32137
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",O Negocio 3
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32138
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",O Negocio 4
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32139
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",OS SIMPSON  27 TEMPORADA
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32175
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Os Trapalhões
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/31
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",OS TRAPALHOES
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32206
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",OS VINGADORES
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32195
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Outsiders 1
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32140
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Outsiders 2
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32141
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",padrinhos magicos
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32203
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Padrinhos Magicos e Pica Pau
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32142
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",PATATI PATATA
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32194
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",PATRULHA CANINA
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32172
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",PEARL JAM SHOW
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32216
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Pica Pau Tom e Jerry
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32143
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Planeta Terra
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32144
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",POCOYO
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32145
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",POLICIA 24 HORAS
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32173
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Prison Break 3
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32146
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Prison Break 4
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32147
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Prison Break 5
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32148
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",RED HOT CHILI PEPPERS SHOW
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32211
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",ROMA
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32219
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Sete Segundos
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32149
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",SHOW GOSPEL
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32183
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",SIMPSON 1
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32176
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",South Parks
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/33
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",SPEED RACER
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32187
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Star Trek 1
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32150
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Star Trek 2
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32151
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Stranger Things 2
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32152
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",STREET FIGTHER
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32189
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",SUPER WINGS
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32170
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Supernatural 1
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32153
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",The Big Bang Theory
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/41
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",The Big Bang Theory 1
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32154
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",THE BIG BANG THEORY 1 TEMPORADA
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32177
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",The Big Bang Theory 2
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32155
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",The Big Bang Theory 3
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32156
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Thundercats
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/34
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Tico e Teco
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/42
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Todo Mundo Odeia o Cris
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/35
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",TODO MUNDO ODEIA O CRIS  %
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32221
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",TRATO FEITO
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32217
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",tres porquinhos
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32193
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Turma da Monica
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32157
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Um Maluco no Pedaço
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/36
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",UM MALUCO NO PEDAÇO 1 TEMPORADA
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32167
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",UM MALUCO NO PEDACO 2 TEMP
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32168
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",UM MALUCO NO PEDACO 3 TEMP
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32169
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",ursinhos carinhosos e  tom & jerry
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32158
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Vikings 1
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32159
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Vikings 3
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32160
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Vikings 4
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32161
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Vikings 5
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32162
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",Vikins 2
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32163
+#EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",X MAN
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32204
