@@ -433,12 +433,590 @@ http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32163
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32204
 
 
-
-#EXTINF:-1 tvg-logo="https://is.gd/yUNi6G" group-title="Variedades",TV Aratu
-https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://is.gd/yUNi6G" group-title="Variedades",Canal 29
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://is.gd/yUNi6G" group-title="Variedades",SBT Interior
 http://srv3.zoeweb.tv:1935/z133-live/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://is.gd/yUNi6G" group-title="Variedades",TV Serra Dourada (SBT GO)
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/7QG" group-title="Canais | Filmes e Series", A&E FHD
+http://mixsrv.me:80/RArYb/c3gsj/643
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/7QG" group-title="Canais | Filmes e Series", A&E HD
+http://mixsrv.me:80/RArYb/c3gsj/51
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/7QG" group-title="Canais | Filmes e Series", A&E SD
+http://mixsrv.me:80/RArYb/c3gsj/69585
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/yLN" group-title="Canais | Filmes e Series", AMC HD
+http://mixsrv.me:80/RArYb/c3gsj/70008
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/yLN" group-title="Canais | Filmes e Series", AMC SD
+http://mixsrv.me:80/RArYb/c3gsj/69580
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/9vj" group-title="Canais | Filmes e Series", AXN HD
+http://mixsrv.me:80/RArYb/c3gsj/70009
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/9vj" group-title="Canais | Filmes e Series", AXN SD
+http://mixsrv.me:80/RArYb/c3gsj/69587
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/qwa" group-title="Canais | Filmes e Series", Canal Sony HD
+http://mixsrv.me:80/RArYb/c3gsj/70014
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/qwa" group-title="Canais | Filmes e Series", Canal Sony SD
+http://mixsrv.me:80/RArYb/c3gsj/69630
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/bLG" group-title="Canais | Filmes e Series", Cinemax FHD
+http://mixsrv.me:80/RArYb/c3gsj/69552
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/bLG" group-title="Canais | Filmes e Series", Cinemax HD
+http://mixsrv.me:80/RArYb/c3gsj/70015
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/bLG" group-title="Canais | Filmes e Series", Cinemax SD
+http://mixsrv.me:80/RArYb/c3gsj/70016
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/r3N" group-title="Canais | Filmes e Series", Film&Arts FHD
+http://mixsrv.me:80/RArYb/c3gsj/70087
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/PQo" group-title="Canais | Filmes e Series", Fox FHD
+http://mixsrv.me:80/RArYb/c3gsj/69536
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/PQo" group-title="Canais | Filmes e Series", Fox HD
+http://mixsrv.me:80/RArYb/c3gsj/69669
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/jn4" group-title="Canais | Filmes e Series", Fox Life FHD
+http://mixsrv.me:80/RArYb/c3gsj/69538
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/jn4" group-title="Canais | Filmes e Series", Fox Life HD
+http://mixsrv.me:80/RArYb/c3gsj/69647
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/jn4" group-title="Canais | Filmes e Series", Fox Life SD
+http://mixsrv.me:80/RArYb/c3gsj/69772
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/hgB" group-title="Canais | Filmes e Series", Fox Premium 1 HD
+http://mixsrv.me:80/RArYb/c3gsj/69670
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/DCa" group-title="Canais | Filmes e Series", Fox Premium 2 HD
+http://mixsrv.me:80/RArYb/c3gsj/69648
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/PQo" group-title="Canais | Filmes e Series", Fox SD
+http://mixsrv.me:80/RArYb/c3gsj/69626
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/J0K" group-title="Canais | Filmes e Series", Megapix FHD
+http://mixsrv.me:80/RArYb/c3gsj/69562
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/J0K" group-title="Canais | Filmes e Series", Megapix HD
+http://mixsrv.me:80/RArYb/c3gsj/69659
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/J0K" group-title="Canais | Filmes e Series", Megapix SD
+http://mixsrv.me:80/RArYb/c3gsj/69610
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/lcJ" group-title="Canais | Filmes e Series", Paramount Channel FHD
+http://mixsrv.me:80/RArYb/c3gsj/69555
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/lcJ" group-title="Canais | Filmes e Series", Paramount Channel HD
+http://mixsrv.me:80/RArYb/c3gsj/69681
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/z6h" group-title="Canais | Filmes e Series", Space FHD
+http://mixsrv.me:80/RArYb/c3gsj/70021
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/z6h" group-title="Canais | Filmes e Series", Space HD
+http://mixsrv.me:80/RArYb/c3gsj/69667
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/z6h" group-title="Canais | Filmes e Series", Space SD
+http://mixsrv.me:80/RArYb/c3gsj/69629
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/6ky" group-title="Canais | Filmes e Series", Studio Universal FHD
+http://mixsrv.me:80/RArYb/c3gsj/899
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/W56" group-title="Canais | Filmes e Series", SyFy FHD
+http://mixsrv.me:80/RArYb/c3gsj/69557
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/5wG" group-title="Canais | Filmes e Series", TBS SD
+http://mixsrv.me:80/RArYb/c3gsj/69798
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/mbk" group-title="Canais | Filmes e Series", TCM HD
+http://mixsrv.me:80/RArYb/c3gsj/924
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/mbk" group-title="Canais | Filmes e Series", TCM SD
+http://mixsrv.me:80/RArYb/c3gsj/69607
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/844" group-title="Canais | Filmes e Series", TNT HD
+http://mixsrv.me:80/RArYb/c3gsj/69655
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/844" group-title="Canais | Filmes e Series", TNT SD
+http://mixsrv.me:80/RArYb/c3gsj/69646
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/TAq" group-title="Canais | Filmes e Series", TNT Séries HD
+http://mixsrv.me:80/RArYb/c3gsj/70029
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/hET" group-title="Canais | Filmes e Series", Universal Channel FHD
+http://mixsrv.me:80/RArYb/c3gsj/910
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/hET" group-title="Canais | Filmes e Series", Universal Channel HD
+http://mixsrv.me:80/RArYb/c3gsj/111
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/hET" group-title="Canais | Filmes e Series", Universal Channel SD
+http://mixsrv.me:80/RArYb/c3gsj/110
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/GHz" group-title="Canais | Filmes e Series", Warner Channel HD
+http://mixsrv.me:80/RArYb/c3gsj/69654
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/GHz" group-title="Canais | Filmes e Series", Warner Channel SD
+http://mixsrv.me:80/RArYb/c3gsj/112
+
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/11G" group-title="Canais | Cine Sky", Cine Sky 1
+http://mixsrv.me:80/RArYb/c3gsj/73144
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/11G" group-title="Canais | Cine Sky", Cine Sky 10
+http://mixsrv.me:80/RArYb/c3gsj/75488
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/11G" group-title="Canais | Cine Sky", Cine Sky 2
+http://mixsrv.me:80/RArYb/c3gsj/73145
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/11G" group-title="Canais | Cine Sky", Cine Sky 3
+http://mixsrv.me:80/RArYb/c3gsj/73146
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/11G" group-title="Canais | Cine Sky", Cine Sky 4
+http://mixsrv.me:80/RArYb/c3gsj/73147
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/11G" group-title="Canais | Cine Sky", Cine Sky 5
+http://mixsrv.me:80/RArYb/c3gsj/73148
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/11G" group-title="Canais | Cine Sky", Cine Sky 6
+http://mixsrv.me:80/RArYb/c3gsj/74525
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/11G" group-title="Canais | Cine Sky", Cine Sky 7
+http://mixsrv.me:80/RArYb/c3gsj/74526
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/11G" group-title="Canais | Cine Sky", Cine Sky 8
+http://mixsrv.me:80/RArYb/c3gsj/75378
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/11G" group-title="Canais | Cine Sky", Cine Sky 9
+http://mixsrv.me:80/RArYb/c3gsj/75487
+
+
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Cs1" group-title="Canais | Abertos", Band TV BSB HD
+http://mixsrv.me:80/RArYb/c3gsj/74603
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Cs1" group-title="Canais | Abertos", Band TV Campinas HD
+http://mixsrv.me:80/RArYb/c3gsj/74599
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Cs1" group-title="Canais | Abertos", Band TV HD
+http://mixsrv.me:80/RArYb/c3gsj/11
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Cs1" group-title="Canais | Abertos", Band TV RJ HD
+http://mixsrv.me:80/RArYb/c3gsj/74600
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Cs1" group-title="Canais | Abertos", Band TV RS HD
+http://mixsrv.me:80/RArYb/c3gsj/74601
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Cs1" group-title="Canais | Abertos", Band TV Sergipe HD
+http://mixsrv.me:80/RArYb/c3gsj/74602
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/4NA" group-title="Canais | Abertos", Canal do Boi SD
+http://mixsrv.me:80/RArYb/c3gsj/70154
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/eyT" group-title="Canais | Abertos", Futura HD
+http://mixsrv.me:80/RArYb/c3gsj/70148
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/eyT" group-title="Canais | Abertos", Futura SD
+http://mixsrv.me:80/RArYb/c3gsj/70159
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/uEp" group-title="Canais | Abertos", Record Cabrália Bahia HD
+http://mixsrv.me:80/RArYb/c3gsj/70032
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/uEp" group-title="Canais | Abertos", Record GO HD
+http://mixsrv.me:80/RArYb/c3gsj/186
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/uEp" group-title="Canais | Abertos", Record MG HD
+http://mixsrv.me:80/RArYb/c3gsj/190
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/uEp" group-title="Canais | Abertos", Record Paranaíba Uberlândia MG HD
+http://mixsrv.me:80/RArYb/c3gsj/69671
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/uEp" group-title="Canais | Abertos", Record RJ HD
+http://mixsrv.me:80/RArYb/c3gsj/69672
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/uEp" group-title="Canais | Abertos", Record RJ TV Rio Sul HD
+http://mixsrv.me:80/RArYb/c3gsj/602
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/uEp" group-title="Canais | Abertos", Record RS HD
+http://mixsrv.me:80/RArYb/c3gsj/187
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/uEp" group-title="Canais | Abertos", Record SP FHD
+http://mixsrv.me:80/RArYb/c3gsj/69673
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/uEp" group-title="Canais | Abertos", Record SP HD
+http://mixsrv.me:80/RArYb/c3gsj/173
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/uEp" group-title="Canais | Abertos", Record SP SD
+http://mixsrv.me:80/RArYb/c3gsj/174
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/uEp" group-title="Canais | Abertos", Record São José do Rio Preto HD
+http://mixsrv.me:80/RArYb/c3gsj/75136
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/uEp" group-title="Canais | Abertos", Record TV Atalaia Sergipe HD
+http://mixsrv.me:80/RArYb/c3gsj/75137
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/p3q" group-title="Canais | Abertos", Rede TV FHD
+http://mixsrv.me:80/RArYb/c3gsj/69677
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/p3q" group-title="Canais | Abertos", Rede TV HD
+http://mixsrv.me:80/RArYb/c3gsj/69678
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/p3q" group-title="Canais | Abertos", Rede TV SD
+http://mixsrv.me:80/RArYb/c3gsj/69680
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/SKu" group-title="Canais | Abertos", SBT Brasília HD
+http://mixsrv.me:80/RArYb/c3gsj/75127
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/SKu" group-title="Canais | Abertos", SBT ES HD
+http://mixsrv.me:80/RArYb/c3gsj/75130
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/SKu" group-title="Canais | Abertos", SBT ES SD
+http://mixsrv.me:80/RArYb/c3gsj/75129
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/SKu" group-title="Canais | Abertos", SBT Paraná HD
+http://mixsrv.me:80/RArYb/c3gsj/75133
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/SKu" group-title="Canais | Abertos", SBT RJ FHD
+http://mixsrv.me:80/RArYb/c3gsj/69682
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/SKu" group-title="Canais | Abertos", SBT RJ HD
+http://mixsrv.me:80/RArYb/c3gsj/75125
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/SKu" group-title="Canais | Abertos", SBT RS HD
+http://mixsrv.me:80/RArYb/c3gsj/75126
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/SKu" group-title="Canais | Abertos", SBT SP HD
+http://mixsrv.me:80/RArYb/c3gsj/69683
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/SKu" group-title="Canais | Abertos", SBT TV Aperiper Sergipe HD
+http://mixsrv.me:80/RArYb/c3gsj/75128
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/SKu" group-title="Canais | Abertos", SBT TV Serra Dourada FHD
+http://mixsrv.me:80/RArYb/c3gsj/75134
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/SKu" group-title="Canais | Abertos", SBT TV Serra Dourada HD
+http://mixsrv.me:80/RArYb/c3gsj/75135
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/CBH" group-title="Canais | Abertos", TV Cultura FHD
+http://mixsrv.me:80/RArYb/c3gsj/73648
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/CBH" group-title="Canais | Abertos", TV Cultura HD
+http://mixsrv.me:80/RArYb/c3gsj/73649
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/CBH" group-title="Canais | Abertos", TV Cultura SD
+http://mixsrv.me:80/RArYb/c3gsj/73650
+
+#EXTINF:-1 tvg-logo="http://static.mixsrv.me/logos/tvsenado.png" group-title="Canais | Abertos", Tv Senado
+http://mixsrv.me:80/RArYb/c3gsj/74607
+
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/Bis.png" group-title="Canais | Variedades", BIS HD
+http://mixsrv.me:80/RArYb/c3gsj/69761
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/Bis.png" group-title="Canais | Variedades", BIS SD
+http://mixsrv.me:80/RArYb/c3gsj/69762
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/Canal%20Brasil.png" group-title="Canais | Variedades", Canal Brasil HD
+http://mixsrv.me:80/RArYb/c3gsj/70011
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/Canal%20Brasil.png" group-title="Canais | Variedades", Canal Brasil SD
+http://mixsrv.me:80/RArYb/c3gsj/70012
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/Comedy%20Central.png" group-title="Canais | Variedades", Comedy Central FHD
+http://mixsrv.me:80/RArYb/c3gsj/841
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/Comedy%20Central.png" group-title="Canais | Variedades", Comedy Central HD
+http://mixsrv.me:80/RArYb/c3gsj/74609
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/Comedy%20Central.png" group-title="Canais | Variedades", Comedy Central SD
+http://mixsrv.me:80/RArYb/c3gsj/69765
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/E%21%20Entertainment.png" group-title="Canais | Variedades", E! FHD
+http://mixsrv.me:80/RArYb/c3gsj/74610
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/E%21%20Entertainment.png" group-title="Canais | Variedades", E! HD
+http://mixsrv.me:80/RArYb/c3gsj/919
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/E%21%20Entertainment.png" group-title="Canais | Variedades", E! SD
+http://mixsrv.me:80/RArYb/c3gsj/920
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/Fish%20TV.png" group-title="Canais | Variedades", Fish TV HD
+http://mixsrv.me:80/RArYb/c3gsj/69767
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/Fish%20TV.png" group-title="Canais | Variedades", Fish TV SD
+http://mixsrv.me:80/RArYb/c3gsj/69768
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/Food%20Network.png" group-title="Canais | Variedades", Food Network FHD
+http://mixsrv.me:80/RArYb/c3gsj/848
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/Food%20Network.png" group-title="Canais | Variedades", Food Network HD
+http://mixsrv.me:80/RArYb/c3gsj/69770
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/Food%20Network.png" group-title="Canais | Variedades", Food Network SD
+http://mixsrv.me:80/RArYb/c3gsj/69771
+
+#EXTINF:-1 tvg-logo="http://static.mixsrv.me/logos/gnt.png" group-title="Canais | Variedades", GNT FHD
+http://mixsrv.me:80/RArYb/c3gsj/74612
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/GNT.png" group-title="Canais | Variedades", GNT SD
+http://mixsrv.me:80/RArYb/c3gsj/69774
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/Lifetime.png" group-title="Canais | Variedades", Lifetime FHD
+http://mixsrv.me:80/RArYb/c3gsj/69775
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/Lifetime.png" group-title="Canais | Variedades", Lifetime HD
+http://mixsrv.me:80/RArYb/c3gsj/151
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/Globosat.png" group-title="Canais | Variedades", Mais Globosat HD
+http://mixsrv.me:80/RArYb/c3gsj/153
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/Globosat.png" group-title="Canais | Variedades", Mais Globosat SD
+http://mixsrv.me:80/RArYb/c3gsj/69778
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/MTV.png" group-title="Canais | Variedades", MTV FHD
+http://mixsrv.me:80/RArYb/c3gsj/69779
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/MTV.png" group-title="Canais | Variedades", MTV HD
+http://mixsrv.me:80/RArYb/c3gsj/69780
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/MTV%20HD.png" group-title="Canais | Variedades", MTV SD
+http://mixsrv.me:80/RArYb/c3gsj/155
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/Multishow%20HD.png" group-title="Canais | Variedades", Multishow HD
+http://mixsrv.me:80/RArYb/c3gsj/162
+
+#EXTINF:-1 tvg-logo="http://static.mixsrv.me/logos/musicboxbrazil.png" group-title="Canais | Variedades", Music Box Brazil HD
+http://mixsrv.me:80/RArYb/c3gsj/74614
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/Music%20Box%20Brazil.png" group-title="Canais | Variedades", Music Box Brazil SD
+http://mixsrv.me:80/RArYb/c3gsj/69784
+
+#EXTINF:-1 tvg-logo="http://static.mixsrv.me/logos/off.png" group-title="Canais | Variedades", Off FHD
+http://mixsrv.me:80/RArYb/c3gsj/74615
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/Canal%20Off.png" group-title="Canais | Variedades", Off SD
+http://mixsrv.me:80/RArYb/c3gsj/69797
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/Play%20TV.png" group-title="Canais | Variedades", Play TV SD
+http://mixsrv.me:80/RArYb/c3gsj/70003
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/Prime%20Box%20Brazil.png" group-title="Canais | Variedades", Prime Box Brazil HD
+http://mixsrv.me:80/RArYb/c3gsj/944
+
+#EXTINF:-1 tvg-logo="http://static.mixsrv.me/logos/tlc.png" group-title="Canais | Variedades", TLC FHD
+http://mixsrv.me:80/RArYb/c3gsj/74616
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/TLC.png" group-title="Canais | Variedades", TLC HD
+http://mixsrv.me:80/RArYb/c3gsj/70006
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/TLC.png" group-title="Canais | Variedades", TLC SD
+http://mixsrv.me:80/RArYb/c3gsj/70007
+
+#EXTINF:-1 tvg-logo="http://static.mixsrv.me/logos/vh1.png" group-title="Canais | Variedades", VH1 FHD
+http://mixsrv.me:80/RArYb/c3gsj/74617
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/Viva%20HD.png" group-title="Canais | Variedades", Viva HD
+http://mixsrv.me:80/RArYb/c3gsj/634
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/Viva.png" group-title="Canais | Variedades", Viva SD
+http://mixsrv.me:80/RArYb/c3gsj/69800
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/WooHoo.png" group-title="Canais | Variedades", WooHoo SD
+http://mixsrv.me:80/RArYb/c3gsj/70151
+
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/9Nk" group-title="Canais | Telecine", Telecine Action FHD
+http://mixsrv.me:80/RArYb/c3gsj/69551
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/9Nk" group-title="Canais | Telecine", Telecine Action HD
+http://mixsrv.me:80/RArYb/c3gsj/70024
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/9Nk" group-title="Canais | Telecine", Telecine Action SD
+http://mixsrv.me:80/RArYb/c3gsj/69609
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/G4z" group-title="Canais | Telecine", Telecine Cult FHD
+http://mixsrv.me:80/RArYb/c3gsj/69563
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/G4z" group-title="Canais | Telecine", Telecine Cult HD
+http://mixsrv.me:80/RArYb/c3gsj/69661
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/G4z" group-title="Canais | Telecine", Telecine Cult SD
+http://mixsrv.me:80/RArYb/c3gsj/69619
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/qld" group-title="Canais | Telecine", Telecine Fun FHD
+http://mixsrv.me:80/RArYb/c3gsj/69550
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/qld" group-title="Canais | Telecine", Telecine Fun HD
+http://mixsrv.me:80/RArYb/c3gsj/70025
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/qld" group-title="Canais | Telecine", Telecine Fun SD
+http://mixsrv.me:80/RArYb/c3gsj/69620
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/N3h" group-title="Canais | Telecine", Telecine Pipoca FHD
+http://mixsrv.me:80/RArYb/c3gsj/69549
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/N3h" group-title="Canais | Telecine", Telecine Pipoca HD
+http://mixsrv.me:80/RArYb/c3gsj/70026
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/N3h" group-title="Canais | Telecine", Telecine Pipoca SD
+http://mixsrv.me:80/RArYb/c3gsj/69640
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/FXE" group-title="Canais | Telecine", Telecine Premium FHD
+http://mixsrv.me:80/RArYb/c3gsj/69548
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/FXE" group-title="Canais | Telecine", Telecine Premium HD
+http://mixsrv.me:80/RArYb/c3gsj/70027
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/FXE" group-title="Canais | Telecine", Telecine Premium SD
+http://mixsrv.me:80/RArYb/c3gsj/69639
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Gmf" group-title="Canais | Telecine", Telecine Touch FHD
+http://mixsrv.me:80/RArYb/c3gsj/69547
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Gmf" group-title="Canais | Telecine", Telecine Touch HD
+http://mixsrv.me:80/RArYb/c3gsj/70028
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Gmf" group-title="Canais | Telecine", Telecine Touch SD
+http://mixsrv.me:80/RArYb/c3gsj/69638
+
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/hgB" group-title="Canais | Legendados", FOX Premium 1 SD [L]
+http://mixsrv.me:80/RArYb/c3gsj/73125
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/QkO" group-title="Canais | Legendados", HBO FHD [L]
+http://mixsrv.me:80/RArYb/c3gsj/73132
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/dwN" group-title="Canais | Legendados", HBO Plus FHD [L]
+http://mixsrv.me:80/RArYb/c3gsj/73133
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/4YP" group-title="Canais | Legendados", HBO Signature SD [L]
+http://mixsrv.me:80/RArYb/c3gsj/73127
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Mu7" group-title="Canais | Legendados", Telecine Premium FHD [L]
+http://mixsrv.me:80/RArYb/c3gsj/73135
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/1ms" group-title="Canais | Documentarios", Animal Planet FHD
+http://mixsrv.me:80/RArYb/c3gsj/69519
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/1ms" group-title="Canais | Documentarios", Animal Planet HD
+http://mixsrv.me:80/RArYb/c3gsj/69520
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/1ms" group-title="Canais | Documentarios", Animal Planet SD
+http://mixsrv.me:80/RArYb/c3gsj/69521
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/Curta%21.png" group-title="Canais | Documentarios", Curta! HD
+http://mixsrv.me:80/RArYb/c3gsj/611
+
+#EXTINF:-1 tvg-logo="http://imgs-mix.fun/server/Curta%21.png" group-title="Canais | Documentarios", Curta! SD
+http://mixsrv.me:80/RArYb/c3gsj/127
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/pDP" group-title="Canais | Documentarios", Discovery Channel FHD
+http://mixsrv.me:80/RArYb/c3gsj/69524
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/pDP" group-title="Canais | Documentarios", Discovery Channel HD
+http://mixsrv.me:80/RArYb/c3gsj/69525
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/pDP" group-title="Canais | Documentarios", Discovery Channel SD
+http://mixsrv.me:80/RArYb/c3gsj/69526
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/f9O" group-title="Canais | Documentarios", Discovery H&H FHD
+http://mixsrv.me:80/RArYb/c3gsj/69527
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/f9O" group-title="Canais | Documentarios", Discovery H&H HD
+http://mixsrv.me:80/RArYb/c3gsj/69528
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/f9O" group-title="Canais | Documentarios", Discovery H&H SD
+http://mixsrv.me:80/RArYb/c3gsj/69529
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Qmm" group-title="Canais | Documentarios", Discovery HGTV HD
+http://mixsrv.me:80/RArYb/c3gsj/614
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Qmm" group-title="Canais | Documentarios", Discovery HGTV SD
+http://mixsrv.me:80/RArYb/c3gsj/299
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/MVk" group-title="Canais | Documentarios", Discovery Science FHD
+http://mixsrv.me:80/RArYb/c3gsj/69530
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/MVk" group-title="Canais | Documentarios", Discovery Science HD
+http://mixsrv.me:80/RArYb/c3gsj/69531
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/MVk" group-title="Canais | Documentarios", Discovery Science SD
+http://mixsrv.me:80/RArYb/c3gsj/69532
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/ZyN" group-title="Canais | Documentarios", Discovery Theater FHD
+http://mixsrv.me:80/RArYb/c3gsj/69533
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/MVk" group-title="Canais | Documentarios", Discovery Theater HD
+http://mixsrv.me:80/RArYb/c3gsj/69537
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/MVk" group-title="Canais | Documentarios", Discovery Theater SD
+http://mixsrv.me:80/RArYb/c3gsj/69534
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Gd0" group-title="Canais | Documentarios", Discovery Turbo FHD
+http://mixsrv.me:80/RArYb/c3gsj/69566
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Gd0" group-title="Canais | Documentarios", Discovery Turbo HD
+http://mixsrv.me:80/RArYb/c3gsj/69567
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Gd0" group-title="Canais | Documentarios", Discovery Turbo SD
+http://mixsrv.me:80/RArYb/c3gsj/621
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Kd6" group-title="Canais | Documentarios", Discovery World FHD
+http://mixsrv.me:80/RArYb/c3gsj/69568
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Kd6" group-title="Canais | Documentarios", Discovery World HD
+http://mixsrv.me:80/RArYb/c3gsj/69569
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Rbt" group-title="Canais | Documentarios", H2 FHD
+http://mixsrv.me:80/RArYb/c3gsj/69571
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Rbt" group-title="Canais | Documentarios", H2 HD
+http://mixsrv.me:80/RArYb/c3gsj/69572
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Rbt" group-title="Canais | Documentarios", H2 SD
+http://mixsrv.me:80/RArYb/c3gsj/69573
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/g8e" group-title="Canais | Documentarios", ID - Investigação Discovery FHD
+http://mixsrv.me:80/RArYb/c3gsj/69574
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/g8e" group-title="Canais | Documentarios", ID - Investigação Discovery HD
+http://mixsrv.me:80/RArYb/c3gsj/69576
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/g8e" group-title="Canais | Documentarios", ID - Investigação Discovery SD
+http://mixsrv.me:80/RArYb/c3gsj/69577
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Iyv" group-title="Canais | Documentarios", NatGeo FHD
+http://mixsrv.me:80/RArYb/c3gsj/69578
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Iyv" group-title="Canais | Documentarios", NatGeo HD
+http://mixsrv.me:80/RArYb/c3gsj/69579
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Iyv" group-title="Canais | Documentarios", NatGeo SD
+http://mixsrv.me:80/RArYb/c3gsj/69581
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/QzO" group-title="Canais | Documentarios", NatGeo Wild FHD
+http://mixsrv.me:80/RArYb/c3gsj/69582
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/QzO" group-title="Canais | Documentarios", NatGeo Wild HD
+http://mixsrv.me:80/RArYb/c3gsj/69584
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/QzO" group-title="Canais | Documentarios", NatGeo Wild SD
+http://mixsrv.me:80/RArYb/c3gsj/69586
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Png" group-title="Canais | Documentarios", The History Channel FHD
+http://mixsrv.me:80/RArYb/c3gsj/907
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Png" group-title="Canais | Documentarios", The History Channel HD
+http://mixsrv.me:80/RArYb/c3gsj/69589
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Png" group-title="Canais | Documentarios", The History Channel SD
+http://mixsrv.me:80/RArYb/c3gsj/69590
