@@ -1,23 +1,7 @@
 #EXTM3U size="medium"
 
-#EXTINF:-1 group-title="Aberta" tvg-name="Sbt Pernambuco" tvg-logo="",Sbt
+#EXTINF:-1 group-title="Aberta" tvg-name="Sbt" tvg-logo="",Sbt
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1149121645_b216000_sleng.m3u8
-
-#EXTINF:-1 group-title="Aberta" tvg-name="Sbt2" tvg-logo="",Sbt2
-https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist.m3u8
-
-#EXTINF:-1 group-title="Aberta" tvg-name="SBT3 " tvg-logo="",Sbt3
-http://proxyts.canais.vip:8084/hls1/sbt.m3u8
-
-#EXTINF:-1 group-title="Aberta" tvg-name="SBTGO " tvg-logo="",SBTGO
-https://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/chunklist_w1903704781_b1000000.m3u8
-
-#EXTINF:-1 group-title="Aberta" tvg-name="SBTPIAUI " tvg-logo="",SBTPIAUI
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
-
-#EXTINF:-1 group-title="Aberta" tvg-name="SBTINTERIORSP " tvg-logo="",SBTINTERIORSP
-https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist.m3u8
-
 
 #EXTINF:-1 tvg-logo="" group-title="Canais 24 Horas",3%
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/32198
