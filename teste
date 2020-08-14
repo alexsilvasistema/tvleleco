@@ -486,4 +486,7 @@ http://192.99.150.31:9485/stream?
 #EXTINF:-1 group-title="RADIO" tvg-name="Radio" tvg-logo="",Radio Sertanejo Universitário 
 http://192.99.150.31:9191/stream?
 
-
+#EXTINF:-1 tvg-id="PremiereClubes" tvg-name="Premiere Clubes HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Canais | Premiere",Premiere Clubes HD
+http://udq.me:80/live/9MHcc/D956v/838.m3u8
+#EXTINF:-1 tvg-id="PremiereClubes" tvg-name="Premiere Clubes SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Canais | Premiere",Premiere Clubes SD
+http://udq.me:80/live/9MHcc/D956v/837.m3u8
