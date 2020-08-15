@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" group-title="Canais @ Esportes",Premiere Clubes HD
+http://esrv.cc:80/o6mHVD/gzLQn9/358
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" group-title="Canais @ Esportes",Premiere Clubes SD
+http://esrv.cc:80/o6mHVD/gzLQn9/359
