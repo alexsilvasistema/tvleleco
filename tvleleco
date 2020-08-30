@@ -4230,3 +4230,360 @@ https://content.jwplatform.com/videos/zOiGNrbJ-MRd0W8Lh.mp4
 https://content.jwplatform.com/videos/IcFB29uh-MRd0W8Lh.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Dragon Ball Super",Dragon Ball Super S01E80
 https://content.jwplatform.com/videos/iUvwMg3p-MRd0W8Lh.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TV
+#EXTM3U
+#EXTINF:-1 tvg-id="abertos" tvg-name="CANAIS"tvg-logo="https://ia601507.us.archive.org/30/items/iptv-legendado/LOGOTIPO%202.png" group-title="CANAIS |",[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]
+#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="Canais | Abertos",Cultura
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/40073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT  " tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Alternativos",SBT  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/51044.m3u8
+#EXTINF:-1 tvg-id="100% Vida" tvg-name="SBT" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/61970.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37048.m3u8
+#EXTINF:-1 tvg-id="SBT Interior SP" tvg-name="SBT INTERIOR SP" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/42912.m3u8
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD  " tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Alternativos",RECORD  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/51012.m3u8
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORDTV" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RECORDTV
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37051.m3u8
+#EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37127.m3u8
+#EXTINF:-1 tvg-id="Band SP" tvg-name="Band SP" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/68522.m3u8
+#EXTINF:-1 tvg-id="POLICIA 24H" tvg-name="POLICIA 24H" tvg-logo="https://i.imgur.com/EodXEuG.jpg" group-title="Canais | 24 Horas Variados",POLICIA 24H
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/63276.m3u8
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",RedeTV!
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37012.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV  " tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Alternativos",REDE TV  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/51024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA  " tvg-logo="https://i.imgur.com/yuEWxEV.png" group-title="Canais | Alternativos",REDE VIDA  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/51032.m3u8
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil" tvg-logo="http://i.imgur.com/8NoMJrr.png" group-title="Canais | Abertos",Canal Brasil
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37122.m3u8
+#EXTINF:-1 tvg-id="Canal do Boi" tvg-name="Canal do Boi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="Canais | Abertos",Canal do Boi
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50645.m3u8
+#EXTINF:-1 tvg-id="TV Justiça" tvg-name="TV Justiça" tvg-logo="https://www.jota.info/wp-content/uploads/2018/01/1502123023_2017-08-07_tvjustica-1024x725.jpg" group-title="Canais | Variedades",TV Justiça
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/56402.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVídeoNews" tvg-logo="https://www.tvideonews.com.br/gallery_gen/e8799046fa884df3e56cd9355c991f1a_275.75466036592x320.png" group-title="Canais | Noticias",TVídeoNews
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/57777.m3u8
+#EXTINF:-1 tvg-id="Polishop TV" tvg-name="Polishop TV" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/polishop-logo.png" group-title="Canais | Variedades",Polishop TV
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/61690.m3u8
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="Music Box Brazil" tvg-logo="http://i.imgur.com/ubp029X.png" group-title="Canais | Variedades",Music Box Brazil
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRASIL  " tvg-logo="http://i.imgur.com/ubp029X.png" group-title="Canais | Alternativos",MUSIC BOX BRASIL  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50859.m3u8
+#EXTINF:-1 tvg-id="Ideal TV" tvg-name="Ideal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ideal_TV_logo.svg/986px-Ideal_TV_logo.svg.png" group-title="Canais | Abertos",Ideal TV
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/63404.m3u8
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura" tvg-logo="https://macmagazine.com.br/wp-content/uploads/2014/10/29-futura.png" group-title="Canais | Abertos",Futura
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/40074.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Câmara" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a21e5d497fe0f1fc302afd7f02082730.jpg" group-title="Canais | Variedades",TV Câmara
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/40189.m3u8
+#EXTINF:-1 tvg-id="TV A Crítica " tvg-name="TV A Crítica" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",TV A Crítica
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/64768.m3u8
+NOTICIARIO
+#EXTINF:-1 tvg-id="abertos" tvg-name="CANAIS"tvg-logo="https://ia601507.us.archive.org/30/items/iptv-legendado/LOGOTIPO%202.png" group-title="CANAIS |",[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]NOTICIARIOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]
+#EXTINF:-1 tvg-id="RECORD News" tvg-name="RECORD News" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",RECORD News
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/41529.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS  " tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Alternativos",RECORD NEWS  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/51009.m3u8
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="GloboNews" tvg-logo="http://i.imgur.com/GIbRutN.png" group-title="Canais | Noticias",GloboNews
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37093.m3u8
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://i.imgur.com/FWygjkw.jpg" group-title="Canais | Noticias",CNN BRASIL
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/65040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BandNews  " tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Alternativos",BandNews  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50655.m3u8
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BandNews" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Noticias",BandNews
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37126.m3u8
+REALITIES SHOWS
+#EXTINF:-1 tvg-id="abertos" tvg-name="CANAIS"tvg-logo="https://ia601507.us.archive.org/30/items/iptv-legendado/LOGOTIPO%202.png" group-title="CANAIS |",[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]REALITIES SHOWS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]
+#EXTINF:-1 tvg-id="VH1 Mega Hits" tvg-name="VH1 Mega Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/LOGO_VH1_MEGA_HITS.svg/1200px-LOGO_VH1_MEGA_HITS.svg.png" group-title="Canais | Variedades",VH1 Mega Hits
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/68120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/MTVLIVE/large_white.png" group-title="Canais | Variedades",MTV Live
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/40519.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Canais | Variedades",MTV
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37071.m3u8
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Variedades",MULTISHOW
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37070.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW  " tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Alternativos",MULTISHOW  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50858.m3u8
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Canais | Variedades",OFF
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37063.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIMEBOX BRASIL  " tvg-logo="http://i.imgur.com/tjEoZDA.png" group-title="Canais | Alternativos",PRIMEBOX BRASIL  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/51004.m3u8
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brazil" tvg-logo="http://i.imgur.com/tjEoZDA.png" group-title="Canais | Filmes e Series",Prime Box Brazil
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37053.m3u8
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://images.mi.tv/channels/br_tlc_m.png" group-title="Canais | Variedades",TLC
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37036.m3u8
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva" tvg-logo="http://i.imgur.com/CZMldQu.png" group-title="Canais | Variedades",Viva
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/36997.m3u8
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="Woohoo" tvg-logo="http://i.imgur.com/7FamS9P.png" group-title="Canais | Variedades",Woohoo
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37025.m3u8
+CANAIS FILMES E SERIES
+#EXTINF:-1 tvg-id="abertos" tvg-name="CANAIS"tvg-logo="https://ia601507.us.archive.org/30/items/iptv-legendado/LOGOTIPO%202.png" group-title="CANAIS |",[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]CANAIS FILMES E SERIES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="AXN  " tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Alternativos",AXN  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50647.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Filmes e Series",AXN
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37132.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="A&E  " tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Alternativos",A&E  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50628.m3u8
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",A&E
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC  " tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-canais-1agosto/medium_amc.jpg" group-title="Canais | Alternativos",AMC  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50640.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-canais-1agosto/medium_amc.jpg" group-title="Canais | Filmes e Series",AMC
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/41087.m3u8
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/CINEMAX_LA.png" group-title="Canais | Filmes e Series",CINEMAX
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX  " tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Alternativos",FX  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50771.m3u8
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Filmes e Series",FX
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX  " tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Alternativos",FOX  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE  " tvg-logo="http://i.imgur.com/5s5gHix.png" group-title="Canais | Alternativos",FOX LIFE  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50749.m3u8
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE" tvg-logo="http://i.imgur.com/5s5gHix.png" group-title="Canais | Variedades",FOX LIFE
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37100.m3u8
+#EXTINF:-1 tvg-id="FOX CHANNEL" tvg-name="FOX CHANNEL" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",FOX CHANNEL
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37101.m3u8
+#EXTINF:-1 tvg-id="FOX PREMIUM 1" tvg-name="FOX PREMIUM 1" tvg-logo="https://i.imgur.com/ANiatwo.png" group-title="Canais | Filmes e Series",FOX PREMIUM 1
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37335.m3u8
+#EXTINF:-1 tvg-id="FOX PREMIUM 2" tvg-name="FOX PREMIUM 2" tvg-logo="https://i.imgur.com/WgobCjU.png" group-title="Canais | Filmes e Series",FOX PREMIUM 2
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37336.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Canais | Filmes e Series",HBO
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/65114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO  " tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Canais | Alternativos",HBO  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50795.m3u8
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Canais | Filmes e Series",HBO 2
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2  " tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Canais | Alternativos",HBO 2  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50789.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi  " tvg-logo="http://urlcurta.ml/KRVHG" group-title="Canais | Alternativos",HBO Mundi  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50849.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Canais | Filmes e Series",HBO Mundi
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37076.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP  " tvg-logo="http://i.imgur.com/tcr0CGl.png" group-title="Canais | Alternativos",HBO POP  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50852.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="http://i.imgur.com/tcr0CGl.png" group-title="Canais | Filmes e Series",HBO POP
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37073.m3u8
+#EXTINF:-1 tvg-id="100% Vida" tvg-name="HBO Xtreme E" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Canais | Filmes e Series",HBO Xtreme E
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37074.m3u8
+#EXTINF:-1 tvg-id="MaxPrime" tvg-name="HBO Xtreme" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Canais | Filmes e Series",HBO Xtreme
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme  " tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Canais | Alternativos",HBO Xtreme  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50845.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS *E  " tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais | Alternativos",HBO PLUS *E  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50793.m3u8
+#EXTINF:-1 tvg-id="100% Vida" tvg-name="HBO Plus E" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais | Filmes e Series",HBO Plus E
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37083.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS  " tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais | Alternativos",HBO PLUS  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50794.m3u8
+#EXTINF:-1 tvg-id="100% Vida" tvg-name="HBO Plus" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais | Filmes e Series",HBO Plus
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37084.m3u8
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Canais | Filmes e Series",HBO Signature
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE  " tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Canais | Alternativos",HBO SIGNATURE  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50797.m3u8
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Canais | Filmes e Series",HBO FAMILY
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY  " tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Canais | Alternativos",HBO FAMILY  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50791.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX  " tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Alternativos",MEGAPIX  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50854.m3u8
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Filmes e Series",MEGAPIX
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL  " tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Canais | Alternativos",PARAMOUNT CHANNEL  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50945.m3u8
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Canais | Filmes e Series",PARAMOUNT CHANNEL
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37062.m3u8
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="http://i.imgur.com/2lKk7Jw.png" group-title="Canais | Filmes e Series",Syfy
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37042.m3u8
+#EXTINF:-1 tvg-id="Sony Channel" tvg-name="Sony Channel" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Canais | Filmes e Series",Sony Channel
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL  " tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Canais | Alternativos",STUDIO UNIVERSAL  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/51081.m3u8
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Canais | Filmes e Series",STUDIO UNIVERSAL
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37043.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPACE  " tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Canais | Alternativos",SPACE  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/51048.m3u8
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Canais | Filmes e Series",SPACE
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37046.m3u8
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/250px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Canais | Filmes e Series",TCM
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37037.m3u8
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="TELECINE CULT" tvg-logo="https://i.imgur.com/XvhwDTh.png" group-title="Canais | Filmes e Series",TELECINE CULT
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37039.m3u8
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="TELECINE ACTION" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Filmes e Series",TELECINE ACTION
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE ACTION
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/51084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE FUN
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/51088.m3u8
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="TELECINE FUN" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Filmes e Series",TELECINE FUN
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37005.m3u8
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Canais | Filmes e Series",TELECINE PIPOCA
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37038.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE PIPOCA
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/51090.m3u8
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Canais | Filmes e Series",TELECINE PREMIUM
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/36994.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE PREMIUM
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/51109.m3u8
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="TELECINE TOUCH" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Canais | Filmes e Series",TELECINE TOUCH
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/36995.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE TOUCH
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/51115.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Canais | Filmes e Series",TNT
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT  " tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Canais | Alternativos",TNT  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/51120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES  " tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Alternativos",TNT SERIES  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/51122.m3u8
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Séries" tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Filmes e Series",TNT Séries
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37034.m3u8
+#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal TV" tvg-logo="http://i.imgur.com/Aag8ICV.png" group-title="Canais | Filmes e Series",Universal TV
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37027.m3u8
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="http://i.imgur.com/xvZ66AU.png" group-title="Canais | Filmes e Series",Warner Channel
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/36996.m3u8
+CANAIS DOCUMENTARIOS
+#EXTINF:-1 tvg-id="abertos" tvg-name="CANAIS"tvg-logo="https://ia601507.us.archive.org/30/items/iptv-legendado/LOGOTIPO%202.png" group-title="CANAIS |",[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]CANAIS DE DOCUMENTARIOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | Documentarios",ANIMAL PLANET
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET  " tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | Alternativos",ANIMAL PLANET  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arte 1  " tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Canais | Alternativos",Arte 1  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50643.m3u8
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1" tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Canais | Variedades",Arte 1
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37133.m3u8
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Canais | Variedades",BIS
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CURTA  " tvg-logo="https://i.imgur.com/IlzIxvv.png" group-title="Canais | Alternativos",CURTA  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50676.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL  " tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais | Alternativos",COMEDY CENTRAL  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50675.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",Discovery Channel
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL  " tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Alternativos",DISCOVERY CHANNEL  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50701.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Documentarios",DISCOVERY TURBO
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37112.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY WORLD" tvg-name="DISCOVERY WORLD" tvg-logo="https://i.imgur.com/hGhgbMQ.png" group-title="Canais | Documentarios",DISCOVERY WORLD
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/64498.m3u8
+#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="ID: Investigação Discovery" tvg-logo="https://i.imgur.com/7wEq3VK.png" group-title="Canais | Documentarios",ID: Investigação Discovery
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37114.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY HOME & HEALTH" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Canais | Documentarios",DISCOVERY HOME & HEALTH
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/36984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HELTH  " tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Canais | Alternativos",DISCOVERY HOME & HELTH  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50705.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO  " tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Alternativos",DISCOVERY TURBO  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50711.m3u8
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://i.imgur.com/yN8C90X.png" group-title="Canais | Variedades",E!
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37108.m3u8
+#EXTINF:-1 tvg-id="Film&Arts" tvg-name="Film&Arts" tvg-logo="http://wp.tvmap.com.br/Images/ch/608.jpg" group-title="Canais | Filmes e Series",Film&Arts
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/41374.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK  " tvg-logo="https://media.cdnandroid.com/b8/d5/6e/20/imagen-food-network-brasil-0thumb.jpg" group-title="Canais | Alternativos",FOOD NETWORK  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50745.m3u8
+#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="FOOD NETWORK" tvg-logo="https://i.imgur.com/bcdE7nj.png" group-title="Canais | Variedades",FOOD NETWORK
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37102.m3u8
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="Canais | Variedades",GNT
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GNT  " tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="Canais | Alternativos",GNT  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50781.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="H2  " tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Alternativos",H2  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50787.m3u8
+#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",HISTORY
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37081.m3u8
+#EXTINF:-1 tvg-id="HISTORY 2" tvg-name="HISTORY 2" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",HISTORY 2
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/42915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL  " tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Alternativos",HISTORY CHANNEL  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50799.m3u8
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="http://i.imgur.com/tsFolbI.png" group-title="Canais | Variedades",Lifetime
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37077.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME  " tvg-logo="http://i.imgur.com/tsFolbI.png" group-title="Canais | Alternativos",LIFETIME  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50834.m3u8
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="Canais | Documentarios",National Geographic
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37068.m3u8
+#EXTINF:-1 tvg-id="National Geographic Wild" tvg-name="National Geographic Wild" tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Documentarios",National Geographic Wild
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO  " tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="Canais | Alternativos",NATGEO  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD  " tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Alternativos",NATGEO WILD  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50925.m3u8
+CANAIS DESENHOS
+#EXTINF:-1 tvg-id="abertos" tvg-name="CANAIS"tvg-logo="https://ia601507.us.archive.org/30/items/iptv-legendado/LOGOTIPO%202.png" group-title="CANAIS |",[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]CANAIS DESENHOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="BabyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Infantil",BabyTV
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/36993.m3u8
+#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/OjpivgX.jpg" group-title="Canais | Noticias",Bloomberg
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/69341.m3u8
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="Canais | Infantil",Boomerang
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37123.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Infantil",Cartoon Network
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37121.m3u8
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Canais | Infantil",Disney Channel
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL  " tvg-logo="https://i.imgur.com/sQSxcnd.png" group-title="Canais | Alternativos",DISNEY CHANNEL  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50714.m3u8
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Canais | Infantil",Disney Channel
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/64786.m3u8
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://i.imgur.com/HNCqSdX.png" group-title="Canais | Infantil",Disney Junior
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37110.m3u8
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Infantil",Discovery Kids
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37113.m3u8
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Canais | Infantil",Disney XD
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD  " tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Canais | Alternativos",DISNEY XD  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50718.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS  " tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Alternativos",DISCOVERY KIDS  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR  " tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Canais | Alternativos",NICK JR  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50934.m3u8
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr." tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Canais | Infantil",Nick Jr.
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37065.m3u8
+#EXTINF:-1 tvg-id="Nick" tvg-name="Nick" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Infantil",Nick
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37064.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON  " tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Alternativos",NICKELODEON  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS  " tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | Alternativos",NATGEO KIDS  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50904.m3u8
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NatGeo Kids" tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | Infantil",NatGeo Kids
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37067.m3u8
+#EXTINF:-1 tvg-id="Gloobinho" tvg-name="Gloobinho" tvg-logo="https://i.imgur.com/KC9T8wA.png" group-title="Canais | Infantil",Gloobinho
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/63720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO  " tvg-logo="https://i.imgur.com/KC9T8wA.png" group-title="Canais | Alternativos",GLOOBINHO  
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/50774.m3u8
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Infantil",Gloob
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37089.m3u8
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://i.imgur.com/USRKuyc.png" group-title="Canais | Infantil",Tooncast
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37033.m3u8
+#EXTINF:-1 tvg-id="100% Vida" tvg-name="TV Ra Tim Bum" tvg-logo="https://i.imgur.com/0MrTbLP.png" group-title="Canais | Infantil",TV Ra Tim Bum
+http://tv.minhalista.me:80/live/SoemiaSogra2020/dsea0gi594r/37015.m3u8
