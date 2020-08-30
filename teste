@@ -1,4 +1,3 @@
-TV
 #EXTM3U
 #EXTINF:-1 tvg-id="abertos" tvg-name="CANAIS"tvg-logo="https://ia601507.us.archive.org/30/items/iptv-legendado/LOGOTIPO%202.png" group-title="CANAIS |",[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="Canais | Abertos",Cultura
