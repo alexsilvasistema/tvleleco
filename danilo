@@ -593,7 +593,3 @@ https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/28059.m3u8
 #EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",SBT BAHIA2
 http://srv.tvprodigital.net:80/192324/192324/30428
-#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",SBT BAHIA3
-http://pe1b.distv.net:80/viaweb2/viaweb2/1525
-#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",SBT BAHIA4
-http://pfsv.io:80/49010635/iptv4k/34018
