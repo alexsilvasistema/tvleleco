@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1,Globo - TV Bahia
+http://a.srvbr.me:8880/778654/778654/5071
+
+#EXTINF:-1,Globo - TV Bahia2
+http://195.181.163.183:2200/PY-N/TV_Bahia_HD-br/index.m3u8
+
+#EXTINF:-1,Record BA - Record Bahia
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+
+#EXTINF:-1,SBT TV ARATU - SBT TV Aratu
+http://psrv.io:80/live/883698111244/blendediptv.me/28059.m3u8
+
+#EXTINF:-1,BAND BAHIA - BAND BAHIA
+http://psrv.io:80/live/883698111244/blendediptv.me/28060.m3u8
+
+#EXTINF:-1,Globo - TV Bahia3
+http://psrv.io:80/live/883698111244/blendediptv.me/18406.m3u8
+
+#EXTINF:-1,Record BA - Record Bahia2
+http://psrv.io:80/live/883698111244/blendediptv.me/50772.m3u8
