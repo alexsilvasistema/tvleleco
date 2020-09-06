@@ -597,9 +597,9 @@ http://srv.tvprodigital.net:80/192324/192324/30428
 #EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",ANACONDA
 https://content.jwplatform.com/videos/ivTz0FV0-Ay5r7f3Q.mp4
 #EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",MERCENARIOS1
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1d1MoTjN1jGKe75hc52s_h7LZzALUb-AR
+http://u9in.club:8080/movie/180982/180982/66831.mkv
 #EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",MERCENARIOS2
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1AS_w1FyqJeg0cPZlWVut4cYV7Hsazbpi
+http://u9in.club:8080/movie/180982/180982/66830.mkv
 #EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",MERCENARIOS3
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=16E0ujhDTeqhKUslYhSbiZECvM383ynZZ
+http://u9in.club:8080/movie/180982/180982/66833.mkv
 
