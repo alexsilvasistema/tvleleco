@@ -593,3 +593,13 @@ https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/28059.m3u8
 #EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",SBT BAHIA2
 http://srv.tvprodigital.net:80/192324/192324/30428
+
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",ANACONDA
+https://content.jwplatform.com/videos/ivTz0FV0-Ay5r7f3Q.mp4
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",MERCENARIOS1
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1d1MoTjN1jGKe75hc52s_h7LZzALUb-AR
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",MERCENARIOS2
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1AS_w1FyqJeg0cPZlWVut4cYV7Hsazbpi
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",MERCENARIOS3
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=16E0ujhDTeqhKUslYhSbiZECvM383ynZZ
+
