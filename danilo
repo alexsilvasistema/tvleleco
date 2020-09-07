@@ -1,50 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="abertos" tvg-name="CANAIS"tvg-logo="https://ia601507.us.archive.org/30/items/iptv-legendado/LOGOTIPO%202.png" group-title="CANAIS | SBT",[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHD¹" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sbt_br.jpg" group-title="CANAIS | SBT",SBT SP FHD¹
-http://trendhd.online:80/mathesusteste10/11018321sp/68185
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD¹" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sbt_br.jpg" group-title="CANAIS | SBT",SBT SP HD¹
-http://trendhd.online:80/mathesusteste10/11018321sp/68186
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD²" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sbt_br.jpg" group-title="CANAIS | SBT",SBT SP HD²
-http://trendhd.online:80/mathesusteste10/11018321sp/68187
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP SD¹" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sbt_br.jpg" group-title="CANAIS | SBT",SBT SP SD¹
-http://trendhd.online:80/mathesusteste10/11018321sp/68188
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP SD²" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sbt_br.jpg" group-title="CANAIS | SBT",SBT SP SD²
-http://trendhd.online:80/mathesusteste10/11018321sp/68189
-
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD¹" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo.jpg" group-title="CANAIS | REDE GLOBO",GLOBO SP FHD¹
-http://trendhd.online:80/mathesusteste10/11018321sp/67442
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD²" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo.jpg" group-title="CANAIS | REDE GLOBO",GLOBO SP FHD²
-http://trendhd.online:80/mathesusteste10/11018321sp/67443
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD¹" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo.jpg" group-title="CANAIS | REDE GLOBO",GLOBO SP HD¹
-http://trendhd.online:80/mathesusteste10/11018321sp/67444
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD²" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo.jpg" group-title="CANAIS | REDE GLOBO",GLOBO SP HD²
-http://trendhd.online:80/mathesusteste10/11018321sp/67445
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD¹" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo.jpg" group-title="CANAIS | REDE GLOBO",GLOBO SP SD¹
-http://trendhd.online:80/mathesusteste10/11018321sp/67446
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD²" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo.jpg" group-title="CANAIS | REDE GLOBO",GLOBO SP SD²
-http://trendhd.online:80/mathesusteste10/11018321sp/67447
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD FHD¹" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_record.jpg" group-title="CANAIS | RECORD",RECORD FHD¹
-http://trendhd.online:80/mathesusteste10/11018321sp/67770
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD HD¹" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_record.jpg" group-title="CANAIS | RECORD",RECORD HD¹
-http://trendhd.online:80/mathesusteste10/11018321sp/67771
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SD¹" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_record.jpg" group-title="CANAIS | RECORD",RECORD SD¹
-http://trendhd.online:80/mathesusteste10/11018321sp/67772
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SD²" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_record.jpg" group-title="CANAIS | RECORD",RECORD SD²
-http://trendhd.online:80/mathesusteste10/11018321sp/67773
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP FHD²" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_record.jpg" group-title="CANAIS | RECORD",RECORD SP FHD²
-http://trendhd.online:80/mathesusteste10/11018321sp/67774
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP HD¹" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_record.jpg" group-title="CANAIS | RECORD",RECORD SP HD¹
-http://trendhd.online:80/mathesusteste10/11018321sp/67775
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP HD²" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_record.jpg" group-title="CANAIS | RECORD",RECORD SP HD²
-http://trendhd.online:80/mathesusteste10/11018321sp/67776
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP SD¹" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_record.jpg" group-title="CANAIS | RECORD",RECORD SP SD¹
-http://trendhd.online:80/mathesusteste10/11018321sp/67777
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP SD²" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_record.jpg" group-title="CANAIS | RECORD",RECORD SP SD²
-http://trendhd.online:80/mathesusteste10/11018321sp/67778
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD¹" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_brasil.jpg" group-title="CANAIS | ABERTOS",CANAL BRASIL HD¹
-http://trendhd.online:80/mathesusteste10/11018321sp/67614
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD¹" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_brasil.jpg" group-title="CANAIS | ABERTOS",CANAL BRASIL SD¹
-http://trendhd.online:80/mathesusteste10/11018321sp/67615
 
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV FHD²" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/rede_tv.jpg" group-title="CANAIS | ABERTOS",REDE TV FHD²
 http://trendhd.online:80/mathesusteste10/11018321sp/67623
@@ -67,22 +21,6 @@ http://trendhd.online:80/mathesusteste10/11018321sp/67631
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA SD²" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_cultura_nacional.jpg" group-title="CANAIS | ABERTOS",TV CULTURA SD²
 http://trendhd.online:80/mathesusteste10/11018321sp/67632
 
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND FHD¹" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/band_bahia.jpg" group-title="CANAIS | BAND",BAND FHD¹
-http://trendhd.online:80/mathesusteste10/11018321sp/67640
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HD¹" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/band_bahia.jpg" group-title="CANAIS | BAND",BAND HD¹
-http://trendhd.online:80/mathesusteste10/11018321sp/67641
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HD¹" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/band_bahia.jpg" group-title="CANAIS | BAND",BAND HD¹
-http://trendhd.online:80/mathesusteste10/11018321sp/67642
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND  SP FHD¹" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/band_bahia.jpg" group-title="CANAIS | BAND",BAND  SP FHD¹
-http://trendhd.online:80/mathesusteste10/11018321sp/67643
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND  SP HD¹" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/band_bahia.jpg" group-title="CANAIS | BAND",BAND  SP HD¹
-http://trendhd.online:80/mathesusteste10/11018321sp/67644
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD²" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/band_bahia.jpg" group-title="CANAIS | BAND",BAND SP HD²
-http://trendhd.online:80/mathesusteste10/11018321sp/67645
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP SD¹" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/band_bahia.jpg" group-title="CANAIS | BAND",BAND SP SD¹
-http://trendhd.online:80/mathesusteste10/11018321sp/67646
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP SD²" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/band_bahia.jpg" group-title="CANAIS | BAND",BAND SP SD²
-http://trendhd.online:80/mathesusteste10/11018321sp/67647
 
 #EXTINF:-1 tvg-id="abertos" tvg-name="CANAIS"tvg-logo="https://ia601507.us.archive.org/30/items/iptv-legendado/LOGOTIPO%202.png" group-title="CANAIS | SBT",[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]NOTICIARIOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS  FHD¹" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/globo_news.jpg" group-title="CANAIS | NOTICIAS",GLOBO NEWS  FHD¹
@@ -99,37 +37,6 @@ http://trendhd.online:80/mathesusteste10/11018321sp/67577
 http://trendhd.online:80/mathesusteste10/11018321sp/67578
 
 
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD¹" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_record_news_sudeste.jpg" group-title="CANAIS | NOTICIAS",RECORD NEWS SD¹
-http://trendhd.online:80/mathesusteste10/11018321sp/67581
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD²" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_record_news_sudeste.jpg" group-title="CANAIS | NOTICIAS",RECORD NEWS SD²
-http://trendhd.online:80/mathesusteste10/11018321sp/67582
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD¹" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_record_news_sudeste.jpg" group-title="CANAIS | NOTICIAS",RECORD NEWS HD¹
-http://trendhd.online:80/mathesusteste10/11018321sp/67580
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS FHD¹" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_record_news_sudeste.jpg" group-title="CANAIS | NOTICIAS",RECORD NEWS FHD¹
-http://trendhd.online:80/mathesusteste10/11018321sp/67579
-
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD¹" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/band_news.jpg" group-title="CANAIS | NOTICIAS",BAND NEWS SD¹
-http://trendhd.online:80/mathesusteste10/11018321sp/67566
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD²" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/band_news.jpg" group-title="CANAIS | NOTICIAS",BAND NEWS SD²
-http://trendhd.online:80/mathesusteste10/11018321sp/67567
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD¹" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/band_news.jpg" group-title="CANAIS | NOTICIAS",BAND NEWS HD¹
-http://trendhd.online:80/mathesusteste10/11018321sp/67565
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD¹" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/band_news.jpg" group-title="CANAIS | NOTICIAS",BAND NEWS FHD¹
-http://trendhd.online:80/mathesusteste10/11018321sp/67563
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD²" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/band_news.jpg" group-title="CANAIS | NOTICIAS",BAND NEWS FHD²
-http://trendhd.online:80/mathesusteste10/11018321sp/67564
-
-#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL SD¹" tvg-logo="https://i.ibb.co/dt3wYWZ/cnn-brasi.png" group-title="CANAIS | NOTICIAS",CNN BRASIL SD¹
-http://trendhd.online:80/mathesusteste10/11018321sp/67571
-#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL HD¹" tvg-logo="https://i.ibb.co/dt3wYWZ/cnn-brasi.png" group-title="CANAIS | NOTICIAS",CNN BRASIL HD¹
-http://trendhd.online:80/mathesusteste10/11018321sp/67569
-#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL HD²" tvg-logo="https://i.ibb.co/dt3wYWZ/cnn-brasi.png" group-title="CANAIS | NOTICIAS",CNN BRASIL HD²
-http://trendhd.online:80/mathesusteste10/11018321sp/67570
-#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL FHD²" tvg-logo="https://i.ibb.co/dt3wYWZ/cnn-brasi.png" group-title="CANAIS | NOTICIAS",CNN BRASIL FHD²
-http://trendhd.online:80/mathesusteste10/11018321sp/67568
-
-#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL SD¹" tvg-logo="https://cdn.mitvstatic.com/channels/br_cnn-international-hd_m.png" group-title="CANAIS | NOTICIAS",CNN INTERNACIONAL SD¹
-http://trendhd.online:80/mathesusteste10/11018321sp/67572
 
 
 #EXTINF:-1 tvg-id="abertos" tvg-name="CANAIS"tvg-logo="https://ia601507.us.archive.org/30/items/iptv-legendado/LOGOTIPO%202.png" group-title="CANAIS | SBT",[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]DOCUMENTARIOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]
@@ -951,3 +858,27 @@ http://trendhd.online:80/mathesusteste10/11018321sp/68140
 http://trendhd.online:80/mathesusteste10/11018321sp/68141
 #EXTINF:-1 tvg-id="Zoomoo [Alter]" tvg-name="ZOOMOO SD²" tvg-logo="https://i.ibb.co/M9JB8Ng/Zoomoo-logo.png" group-title="CANAIS | INFANTIL",ZOOMOO SD²
 http://trendhd.online:80/mathesusteste10/11018321sp/68142
+
+
+
+
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",TV BAHIA1
+http://a.srvbr.me:8880/778654/778654/5071
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",TV BAHIA2
+http://195.181.163.183:2200/PY-N/TV_Bahia_HD-br/index.m3u8
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",RECORD BAHIA
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",SBT BAHIA1
+http://psrv.io:80/live/883698111244/blendediptv.me/28059.m3u8
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",SBT BAHIA2
+http://srv.tvprodigital.net:80/192324/192324/30428
+
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",ANACONDA
+https://content.jwplatform.com/videos/ivTz0FV0-Ay5r7f3Q.mp4
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",MERCENARIOS1
+https://content.jwplatform.com/videos/Q1TgFpzN-FOZQdhMy.mp4
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",MERCENARIOS2
+https://content.jwplatform.com/videos/qslIdD66-0uvDYoAG.mp4
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",MERCENARIOS3
+https://content.jwplatform.com/videos/Hc6aulp2-0uvDYoAG.mp4
