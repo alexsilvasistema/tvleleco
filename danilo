@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",TV BAHIA1
+http://a.srvbr.me:8880/778654/778654/5071
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",TV BAHIA2
+http://195.181.163.183:2200/PY-N/TV_Bahia_HD-br/index.m3u8
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",RECORD BAHIA
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",SBT BAHIA1
+http://psrv.io:80/live/883698111244/blendediptv.me/28059.m3u8
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",SBT BAHIA2
+http://srv.tvprodigital.net:80/192324/192324/30428
