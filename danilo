@@ -1,18 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",TV BAHIA1
-http://a.srvbr.me:8880/778654/778654/5071
-#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",TV BAHIA2
-http://a.srvbr.me:8880/live/779782/779782/5071.ts?TeamIptv
-#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",TV BAHIA3
-http://rtrmsrv22.gq:80/live/816368/816368/128.ts
-#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",TV BAHIA4
-http://rtrmsrv22.gq:80/live/816368/816368/1036431.ts
-#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",TV BAHIA5
-http://srvcliente.me:80/nivaldo2020/nivaldo2020/12
-#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",TV BAHIA6
-http://srvcliente.me:80/nivaldo2020/nivaldo2020/2953
-
 #EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",RECORD BAHIA
 https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
 
