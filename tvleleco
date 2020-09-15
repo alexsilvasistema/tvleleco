@@ -74,3 +74,40 @@ http://a.srvbr.me:8880/778654/778654/769
 #EXTINF:-1 group-title="JOGOS" tvg-name="JOGOS" tvg-logo="",PFC 9
 http://a.srvbr.me:8880/778654/778654/768
 
+
+
+
+#EXTINF:-1 group-title="VARIOS CANAIS" tvg-name="VARIOS CANAIS" tvg-logo="",A&E
+http://a.srvbr.me:8880/201901/201901/898
+#EXTINF:-1 group-title="VARIOS CANAIS" tvg-name="VARIOS CANAIS" tvg-logo="",A&E HD
+http://a.srvbr.me:8880/201901/201901/4203
+#EXTINF:-1 group-title="VARIOS CANAIS" tvg-name="VARIOS CANAIS" tvg-logo="",A&E [PLUS]
+http://a.srvbr.me:8880/201901/201901/4167
+#EXTINF:-1 group-title="VARIOS CANAIS" tvg-name="VARIOS CANAIS" tvg-logo="",AMC
+http://a.srvbr.me:8880/201901/201901/5077
+#EXTINF:-1 group-title="VARIOS CANAIS" tvg-name="VARIOS CANAIS" tvg-logo="",AMC HD
+http://a.srvbr.me:8880/201901/201901/5076
+#EXTINF:-1 group-title="VARIOS CANAIS" tvg-name="VARIOS CANAIS" tvg-logo="",AMC [PLUS]
+http://a.srvbr.me:8880/201901/201901/4644
+#EXTINF:-1 group-title="VARIOS CANAIS" tvg-name="VARIOS CANAIS" tvg-logo="",AXN
+http://a.srvbr.me:8880/201901/201901/893
+#EXTINF:-1 group-title="VARIOS CANAIS" tvg-name="VARIOS CANAIS" tvg-logo="",AXN HD
+http://a.srvbr.me:8880/201901/201901/892
+#EXTINF:-1 group-title="VARIOS CANAIS" tvg-name="VARIOS CANAIS" tvg-logo="",AXN HD [PLUS]
+http://a.srvbr.me:8880/201901/201901/4165
+#EXTINF:-1 group-title="VARIOS CANAIS" tvg-name="VARIOS CANAIS" tvg-logo="",Animal Planet
+http://a.srvbr.me:8880/201901/201901/897
+#EXTINF:-1 group-title="VARIOS CANAIS" tvg-name="VARIOS CANAIS" tvg-logo="",Animal Planet HD
+http://a.srvbr.me:8880/201901/201901/896
+#EXTINF:-1 group-title="VARIOS CANAIS" tvg-name="VARIOS CANAIS" tvg-logo="",Animal Planet Full HD
+http://a.srvbr.me:8880/201901/201901/5436
+#EXTINF:-1 group-title="VARIOS CANAIS" tvg-name="VARIOS CANAIS" tvg-logo="",Animal Planet [PLUS]
+http://a.srvbr.me:8880/201901/201901/4166
+#EXTINF:-1 group-title="VARIOS CANAIS" tvg-name="VARIOS CANAIS" tvg-logo="",Globo SP HD
+http://a.srvbr.me:8880/201901/201901/5095
+
+
+
+
+
+
