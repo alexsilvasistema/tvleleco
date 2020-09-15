@@ -1,5 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",GLOBO BAHIA
+http://farrokhdwight.hopto.org:25461/live/BLOqD0dqi83a9B/HOB2KcXZ1Qgx/162.ts|user-agent=Oi Internet
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",GLOBO BAHIA2
+http://farrokhdwight.hopto.org:25461/live/BLOqD0dqi83a9B/HOB2KcXZ1Qgx/394.ts|user-agent=Oi Internet
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",GLOBO BAHIA3
+http://tv.fitiptv.com:7899/c6ZyBLobtg/6o1jgMg40P/111251
+
+
+
+
 #EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",RECORD BAHIA
 https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
 
