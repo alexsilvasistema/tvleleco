@@ -11,7 +11,8 @@ http://srv.tvprodigital.net:80/192324/192324/30428
 http://pe4.distv.net:8080/JU/@JU/66
 #EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",SBT BAHIA4
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28059
-
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",A FAZENDA
+https://amd01eng.akamaized.net/hls/live/2008102/fazenda/master_720.m3u8
 
 
 #EXTINF:-1 tvg-id="Cultura HD" tvg-name="Cultura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="Canais | Abertos",Cultura HD
