@@ -76,68 +76,6 @@ http://192.99.150.31:9191/stream?
 
 
 
-#EXTINF:-1 group-title="JOGOS" tvg-name="JOGOS" tvg-logo="",Premiere Clubes HD
-http://a.srvbr.me:8880/778654/778654/780
-#EXTINF:-1 group-title="JOGOS" tvg-name="JOGOS" tvg-logo="",Premiere Clubes Full HD
-http://a.srvbr.me:8880/778654/778654/5455
-#EXTINF:-1 group-title="JOGOS" tvg-name="JOGOS" tvg-logo="",Premiere Clubes HD [ALTERNATIVO]
-http://a.srvbr.me:8880/778654/778654/1852
-#EXTINF:-1 group-title="JOGOS" tvg-name="JOGOS" tvg-logo="",PFC 2
-http://a.srvbr.me:8880/778654/778654/779
-#EXTINF:-1 group-title="JOGOS" tvg-name="JOGOS" tvg-logo="",PFC 2 HD
-http://a.srvbr.me:8880/778654/778654/778
-#EXTINF:-1 group-title="JOGOS" tvg-name="JOGOS" tvg-logo="",PFC 2 Full HD
-http://a.srvbr.me:8880/778654/778654/5454
-#EXTINF:-1 group-title="JOGOS" tvg-name="JOGOS" tvg-logo="",PFC 2 [ALTERNATIVO]
-http://a.srvbr.me:8880/778654/778654/1853
-#EXTINF:-1 group-title="JOGOS" tvg-name="JOGOS" tvg-logo="",PFC 3
-http://a.srvbr.me:8880/778654/778654/777
-#EXTINF:-1 group-title="JOGOS" tvg-name="JOGOS" tvg-logo="",PFC 3 HD
-http://a.srvbr.me:8880/778654/778654/776
-#EXTINF:-1 group-title="JOGOS" tvg-name="JOGOS" tvg-logo="",PFC 3 Full HD
-http://a.srvbr.me:8880/778654/778654/5453
-#EXTINF:-1 group-title="JOGOS" tvg-name="JOGOS" tvg-logo="",PFC 3 [ALTERNATIVO]
-http://a.srvbr.me:8880/778654/778654/1854
-#EXTINF:-1 group-title="JOGOS" tvg-name="JOGOS" tvg-logo="",PFC 4
-http://a.srvbr.me:8880/778654/778654/775
-#EXTINF:-1 group-title="JOGOS" tvg-name="JOGOS" tvg-logo="",PFC 4 HD
-http://a.srvbr.me:8880/778654/778654/774
-#EXTINF:-1 group-title="JOGOS" tvg-name="JOGOS" tvg-logo="",PFC 4 Full HD
-http://a.srvbr.me:8880/778654/778654/5452
-#EXTINF:-1 group-title="JOGOS" tvg-name="JOGOS" tvg-logo="",PFC 4 [ALTERNATIVO]
-http://a.srvbr.me:8880/778654/778654/1855
-#EXTINF:-1 group-title="JOGOS" tvg-name="JOGOS" tvg-logo="",PFC 5
-http://a.srvbr.me:8880/778654/778654/773
-#EXTINF:-1 group-title="JOGOS" tvg-name="JOGOS" tvg-logo="",PFC 5 HD
-http://a.srvbr.me:8880/778654/778654/772
-#EXTINF:-1 group-title="JOGOS" tvg-name="JOGOS" tvg-logo="",PFC 5 Full HD
-http://a.srvbr.me:8880/778654/778654/5451
-#EXTINF:-1 group-title="JOGOS" tvg-name="JOGOS" tvg-logo="",PFC 5 [ALTERNATIVO]
-http://a.srvbr.me:8880/778654/778654/1856
-#EXTINF:-1 group-title="JOGOS" tvg-name="JOGOS" tvg-logo="",PFC 6
-http://a.srvbr.me:8880/778654/778654/771
-#EXTINF:-1 group-title="JOGOS" tvg-name="JOGOS" tvg-logo="",PFC 6 HD
-http://a.srvbr.me:8880/778654/778654/4123
-#EXTINF:-1 group-title="JOGOS" tvg-name="JOGOS" tvg-logo="",PFC 6 Full HD
-http://a.srvbr.me:8880/778654/778654/5450
-#EXTINF:-1 group-title="JOGOS" tvg-name="JOGOS" tvg-logo="",PFC 6 [ALTERNATIVO]
-http://a.srvbr.me:8880/778654/778654/5330
-#EXTINF:-1 group-title="JOGOS" tvg-name="JOGOS" tvg-logo="",PFC 7
-http://a.srvbr.me:8880/778654/778654/770
-#EXTINF:-1 group-title="JOGOS" tvg-name="JOGOS" tvg-logo="",PFC 7 HD
-http://a.srvbr.me:8880/778654/778654/4122
-#EXTINF:-1 group-title="JOGOS" tvg-name="JOGOS" tvg-logo="",PFC 7 Full HD
-http://a.srvbr.me:8880/778654/778654/5449
-#EXTINF:-1 group-title="JOGOS" tvg-name="JOGOS" tvg-logo="",PFC 7 [ALTERNATIVO]
-http://a.srvbr.me:8880/778654/778654/5331
-#EXTINF:-1 group-title="JOGOS" tvg-name="JOGOS" tvg-logo="",PFC 8
-http://a.srvbr.me:8880/778654/778654/769
-#EXTINF:-1 group-title="JOGOS" tvg-name="JOGOS" tvg-logo="",PFC 9
-http://a.srvbr.me:8880/778654/778654/768
-
-
-
-
 #EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",RECORD BAHIA
 https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
 
