@@ -1,0 +1,89 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",RECORD BAHIA
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",SBT BAHIA1
+http://psrv.io:80/live/roberto/roberto123/28059.m3u8
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",SBT BAHIA2
+http://srv.tvprodigital.net:80/192324/192324/30428
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",SBT BAHIA3
+http://pe4.distv.net:8080/JU/@JU/66
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",SBT BAHIA4
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28059
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Bahia HD" tvg-logo="http://logos.servidor.tv/globotvbahia.jpg" group-title="ESPECIAL",Globo Bahia HD
+http://canais.servidor.tv:8080/roberto1934/sereia2054/260
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Bahia HD+" tvg-logo="http://logos.servidor.tv/globotvbahia.jpg" group-title="ESPECIAL",Globo Bahia HD+
+http://canais.servidor.tv:8080/roberto1934/sereia2054/2707
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="Record BA HD" tvg-logo="http://logos.servidor.tv/record.png" group-title="ESPECIAL",Record BA HD
+http://canais.servidor.tv:8080/roberto1934/sereia2054/29777
+
+
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 2 HD
+http://canais.servidor.tv:8080/roberto1934/sereia2054/1511
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 2 HD+
+http://canais.servidor.tv:8080/roberto1934/sereia2054/172
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 3 HD
+http://canais.servidor.tv:8080/roberto1934/sereia2054/1510
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 3 HD+
+http://canais.servidor.tv:8080/roberto1934/sereia2054/170
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 4 HD
+http://canais.servidor.tv:8080/roberto1934/sereia2054/1509
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 4 HD+
+http://canais.servidor.tv:8080/roberto1934/sereia2054/168
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 5 HD
+http://canais.servidor.tv:8080/roberto1934/sereia2054/1508
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 5 HD+
+http://canais.servidor.tv:8080/roberto1934/sereia2054/166
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 6 HD
+http://canais.servidor.tv:8080/roberto1934/sereia2054/1507
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 6 HD+
+http://canais.servidor.tv:8080/roberto1934/sereia2054/164
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 7 HD
+http://canais.servidor.tv:8080/roberto1934/sereia2054/1506
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 7 HD+
+http://canais.servidor.tv:8080/roberto1934/sereia2054/162
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD" tvg-logo="http://canaishd.servidor.tv:8080/images/FVOQsOCLYJSd5iqMj8vbolVmWoLzHs3J.jpg" group-title="Canais: Esporte",Premiere Clubes HD
+http://canais.servidor.tv:8080/roberto1934/sereia2054/1447
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD+" tvg-logo="http://canaishd.servidor.tv:8080/images/FVOQsOCLYJSd5iqMj8vbolVmWoLzHs3J.jpg" group-title="Canais: Esporte",Premiere Clubes HD+
+http://canais.servidor.tv:8080/roberto1934/sereia2054/159
+
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="http://logos.servidor.tv/combate.jpg" group-title="Canais: Esporte",Combate HD
+http://canais.servidor.tv:8080/roberto1934/sereia2054/1489
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD+" tvg-logo="http://logos.servidor.tv/combate.jpg" group-title="Canais: Esporte",Combate HD+
+http://canais.servidor.tv:8080/roberto1934/sereia2054/342
+
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO 2 HD" tvg-logo="http://logos.servidor.tv/hbo2.png" group-title="Canais: Filme e Série",HBO 2 HD
+http://canais.servidor.tv:8080/roberto1934/sereia2054/1460
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO 2 HD+" tvg-logo="http://logos.servidor.tv/hbo2.png" group-title="Canais: Filme e Série",HBO 2 HD+
+http://canais.servidor.tv:8080/roberto1934/sereia2054/231
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD" tvg-logo="http://logos.servidor.tv/hbofamily.png" group-title="Canais: Filme e Série",HBO Family HD
+http://canais.servidor.tv:8080/roberto1934/sereia2054/1464
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD+" tvg-logo="http://logos.servidor.tv/hbofamily.png" group-title="Canais: Filme e Série",HBO Family HD+
+http://canais.servidor.tv:8080/roberto1934/sereia2054/229
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="http://logos.servidor.tv/hbo.png" group-title="Canais: Filme e Série",HBO HD
+http://canais.servidor.tv:8080/roberto1934/sereia2054/1463
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD+" tvg-logo="http://logos.servidor.tv/hbo.png" group-title="Canais: Filme e Série",HBO HD+
+http://canais.servidor.tv:8080/roberto1934/sereia2054/227
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi HD" tvg-logo="http://logos.servidor.tv/hbomundi.jpg" group-title="Canais: Filme e Série",HBO Mundi HD
+http://canais.servidor.tv:8080/roberto1934/sereia2054/1457
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi HD+" tvg-logo="http://logos.servidor.tv/hbomundi.jpg" group-title="Canais: Filme e Série",HBO Mundi HD+
+http://canais.servidor.tv:8080/roberto1934/sereia2054/211
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD" tvg-logo="http://logos.servidor.tv/hboplus.png" group-title="Canais: Filme e Série",HBO Plus HD
+http://canais.servidor.tv:8080/roberto1934/sereia2054/1462
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD+" tvg-logo="http://logos.servidor.tv/hboplus.png" group-title="Canais: Filme e Série",HBO Plus HD+
+http://canais.servidor.tv:8080/roberto1934/sereia2054/226
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop HD" tvg-logo="http://logos.servidor.tv/hbopop.jpg" group-title="Canais: Filme e Série",HBO Pop HD
+http://canais.servidor.tv:8080/roberto1934/sereia2054/1455
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop HD+" tvg-logo="http://logos.servidor.tv/hbopop.jpg" group-title="Canais: Filme e Série",HBO Pop HD+
+http://canais.servidor.tv:8080/roberto1934/sereia2054/207
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO Signature HD" tvg-logo="http://logos.servidor.tv/hbosignature.png" group-title="Canais: Filme e Série",HBO Signature HD
+http://canais.servidor.tv:8080/roberto1934/sereia2054/1461
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO Signature HD+" tvg-logo="http://logos.servidor.tv/hbosignature.png" group-title="Canais: Filme e Série",HBO Signature HD+
+http://canais.servidor.tv:8080/roberto1934/sereia2054/224
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme HD" tvg-logo="http://logos.servidor.tv/hboxtreme.jpg" group-title="Canais: Filme e Série",HBO Xtreme HD
+http://canais.servidor.tv:8080/roberto1934/sereia2054/1456
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme HD+" tvg-logo="http://logos.servidor.tv/hboxtreme.jpg" group-title="Canais: Filme e Série",HBO Xtreme HD+
+http://canais.servidor.tv:8080/roberto1934/sereia2054/209
+
+
