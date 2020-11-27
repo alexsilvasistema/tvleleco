@@ -1,0 +1,33 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="Discovery Science HD" tvg-logo="http://logos.servidor.tv/discoveryscience.jpg" group-title="Canais: Documentário",Discovery Science HD
+http://canaishd.servidor.tv:8080/rebeca/rebecah17/1482
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="Discovery Science HD+" tvg-logo="http://logos.servidor.tv/discoveryscience.jpg" group-title="Canais: Documentário",Discovery Science HD+
+http://canaishd.servidor.tv:8080/rebeca/rebecah17/330
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="http://logos.servidor.tv/discoverytheater.png" group-title="Canais: Documentário",Discovery Theater HD
+http://canaishd.servidor.tv:8080/rebeca/rebecah17/1486
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD+" tvg-logo="http://logos.servidor.tv/discoverytheater.png" group-title="Canais: Documentário",Discovery Theater HD+
+http://canaishd.servidor.tv:8080/rebeca/rebecah17/329
+#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="Discovery Turbo HD" tvg-logo="http://logos.servidor.tv/discoveryturbo.jpg" group-title="Canais: Documentário",Discovery Turbo HD
+http://canaishd.servidor.tv:8080/rebeca/rebecah17/1481
+#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="Discovery Turbo HD+" tvg-logo="http://logos.servidor.tv/discoveryturbo.jpg" group-title="Canais: Documentário",Discovery Turbo HD+
+http://canaishd.servidor.tv:8080/rebeca/rebecah17/328
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World HD" tvg-logo="http://logos.servidor.tv/discoveryworld.jpg" group-title="Canais: Documentário",Discovery World HD
+http://canaishd.servidor.tv:8080/rebeca/rebecah17/1485
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World HD+" tvg-logo="http://logos.servidor.tv/discoveryworld.jpg" group-title="Canais: Documentário",Discovery World HD+
+http://canaishd.servidor.tv:8080/rebeca/rebecah17/326
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="Disney Channel HD" tvg-logo="http://logos.servidor.tv/disneychannel.png" group-title="Canais: Infantil",Disney Channel HD
+http://canaishd.servidor.tv:8080/rebeca/rebecah17/1480
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="Disney Channel HD+" tvg-logo="http://logos.servidor.tv/disneychannel.png" group-title="Canais: Infantil",Disney Channel HD+
+http://canaishd.servidor.tv:8080/rebeca/rebecah17/325
+#EXTINF:-1 tvg-id="DisneyJunior" tvg-name="Disney Júnior HD" tvg-logo="http://logos.servidor.tv/disneyjr.png" group-title="Canais: Infantil",Disney Júnior HD
+http://canaishd.servidor.tv:8080/rebeca/rebecah17/1478
+#EXTINF:-1 tvg-id="DisneyJunior" tvg-name="Disney Júnior HD+" tvg-logo="http://logos.servidor.tv/disneyjr.png" group-title="Canais: Infantil",Disney Júnior HD+
+http://canaishd.servidor.tv:8080/rebeca/rebecah17/323
+#EXTINF:-1 tvg-id="Disney XD HD [Alter]" tvg-name="Disney XD HD" tvg-logo="http://logos.servidor.tv/disneyxd.png" group-title="Canais: Infantil",Disney XD HD
+http://canaishd.servidor.tv:8080/rebeca/rebecah17/1517
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD HD+" tvg-logo="http://logos.servidor.tv/disneyxd.png" group-title="Canais: Infantil",Disney XD HD+
+http://canaishd.servidor.tv:8080/rebeca/rebecah17/683
+#EXTINF:-1 tvg-id="DOGTV (BR)" tvg-name="DOG TV HD" tvg-logo="http://logos.servidor.tv/63a48035d178489bb3e9d42c8d5284bc.png" group-title="Canais: Variedade e Música",DOG TV HD
+http://canaishd.servidor.tv:8080/rebeca/rebecah17/33239
