@@ -14,24 +14,6 @@ http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18406
 
 
 
-
-#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 2 HD
-http://pdsrv.io:80/wilson02/wilson02/8149
-#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 4 HD
-http://pdsrv.io:80/wilson02/wilson02/6091
-#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 4 HD+
-http://pdsrv.io:80/wilson02/wilson02/11552
-#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 5 HD
-http://pdsrv.io:80/wilson02/wilson02/6090
-#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 6 HD
-http://pdsrv.io:80/wilson02/wilson02/10259
-#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 6 HD+
-http://pdsrv.io:80/wilson02/wilson02/11550
-#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 7 HD+
-http://pdsrv.io:80/wilson02/wilson02/10258
-
-
-
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="http://logos.servidor.tv/ae.jpg" group-title="Canais: Filme e Série",A&E HD
 http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/1521
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD+" tvg-logo="http://logos.servidor.tv/ae.jpg" group-title="Canais: Filme e Série",A&E HD+
@@ -800,3 +782,914 @@ http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/32628
 http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/32601
 #EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZooMoo HD+" tvg-logo="http://logos.servidor.tv/zoomoo.png" group-title="Canais: Infantil",ZooMoo HD+
 http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/377
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Canais" tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png",RedeTV! 4K
+http://pdsrv.io:80/wilson02/wilson02/33751
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png",Globo RJ HD
+http://pdsrv.io:80/wilson02/wilson02/6113
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png",Globo RJ HD+
+http://pdsrv.io:80/wilson02/wilson02/34526
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png",Globo 4K
+http://pdsrv.io:80/wilson02/wilson02/33749
+#EXTINF:-1 group-title="Canais" tvg-logo="https://listaiptv.gratis/logos/imagens/band.png",Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:-1 group-title="Canais" tvg-logo="https://listaiptv.gratis/logos/imagens/band.png",Band HD+
+http://pdsrv.io:80/wilson02/wilson02/61314
+#EXTINF:-1 group-title="Canais" tvg-logo="https://listaiptv.gratis/logos/imagens/band.png",Band 4K
+http://pdsrv.io:80/wilson02/wilson02/33747
+#EXTINF:-1 group-title="Canais" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT - TV Serra Dourada - (GO)
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/sbt.jpg",SBT
+http://pdsrv.io:80/wilson02/wilson02/60887
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/sbt.jpg",SBT 4K
+http://pdsrv.io:80/wilson02/wilson02/33757
+#EXTINF:-1 group-title="Canais" tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png",Record RJ
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+#EXTINF:-1 group-title="Canais" tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png",Record 4K
+http://pdsrv.io:80/wilson02/wilson02/33750
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/cartoon.jpg",Cartoon Network HD
+http://pdsrv.io:80/wilson02/wilson02/7817
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/cartoon.jpg",Cartoon Network HD+
+http://pdsrv.io:80/wilson02/wilson02/13210
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/cartoon.jpg",Cartoon Network 4K
+http://pdsrv.io:80/wilson02/wilson02/33761
+#EXTINF:-1 group-title="Canais" tvg-logo="https://i.ya-webdesign.com/images/disney-junior-logo-png-2.png",Disney Jr SD
+http://pdsrv.io:80/wilson02/wilson02/61111
+#EXTINF:-1 group-title="Canais" tvg-logo="https://i.ya-webdesign.com/images/disney-junior-logo-png-2.png",Disney Jr HD
+http://pdsrv.io:80/wilson02/wilson02/61112
+#EXTINF:-1 group-title="Canais" tvg-logo="https://i.ya-webdesign.com/images/disney-junior-logo-png-2.png",Disney Jr HD+
+http://pdsrv.io:80/wilson02/wilson02/61247
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Channel_Logo_.png",Disney Channel SD
+http://pdsrv.io:80/sara2020/sara2020/4385
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Channel_Logo_.png",Disney Channel HD
+http://pdsrv.io:80/sara2020/sara2020/7902
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/800px-Disney_XD_logo_svg.png",Disney XD SD
+http://pdsrv.io:80/wilson02/wilson02/4383
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/800px-Disney_XD_logo_svg.png",Disney XD HD+
+http://pdsrv.io:80/wilson02/wilson02/61114
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png",BOOMERANG HD
+http://pdsrv.io:80/wilson02/wilson02/61102
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png",BOOMERANG HD+
+http://pdsrv.io:80/wilson02/wilson02/11534
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-2016_Discovery_Kids_logo.svg_.png",DISCOVERY KIDS SD
+http://pdsrv.io:80/wilson02/wilson02/4388
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-2016_Discovery_Kids_logo.svg_.png",DISCOVERY KIDS HD
+http://pdsrv.io:80/wilson02/wilson02/7538
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-2016_Discovery_Kids_logo.svg_.png",DISCOVERY KIDS HD+
+http://pdsrv.io:80/wilson02/wilson02/11532
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/nick.jpg",Nickelodeon SD
+http://pdsrv.io:80/wilson02/wilson02/4345
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/nick.jpg",Nickelodeon HD
+http://pdsrv.io:80/wilson02/wilson02/61123
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/nick.jpg",Nickelodeon HD+
+http://pdsrv.io:80/wilson02/wilson02/11527
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nickjr.png",NickJr SD
+http://pdsrv.io:80/wilson02/wilson02/4346
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nickjr.png",NickJr HD
+http://pdsrv.io:80/wilson02/wilson02/10260
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/tooncast.jpg",Tooncast HD
+http://pdsrv.io:80/wilson02/wilson02/4310
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/tooncast.jpg",Tooncast HD
+http://pdsrv.io:80/wilson02/wilson02/61129
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/comedycentral.jpg",Comedy Central SD
+http://pdsrv.io:80/wilson02/wilson02/4391
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/comedycentral.jpg",Comedy Central HD
+http://pdsrv.io:80/wilson02/wilson02/10292
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/comedycentral.jpg",Comedy Central HD+
+http://pdsrv.io:80/wilson02/wilson02/24920
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tbs.png",TBS HD+
+http://pdsrv.io:80/wilson02/wilson02/7873
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tcm.png",TCM SD
+http://pdsrv.io:80/wilson02/wilson02/4321
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tcm.png",TCM HD
+http://pdsrv.io:80/wilson02/wilson02/61004
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/tlc.jpg",TLC SD
+http://pdsrv.io:80/wilson02/wilson02/4313
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo_foodnetwork.png",FOOD NETWORK HD
+http://pdsrv.io:80/wilson02/wilson02/61163
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo_foodnetwork.png",FOOD NETWORK HD+
+http://pdsrv.io:80/wilson02/wilson02/61179
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/multishow.png",MULTISHOW  HD
+http://pdsrv.io:80/wilson02/wilson02/6867
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/multishow.png",MULTISHOW  HD+
+http://pdsrv.io:80/wilson02/wilson02/13201
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/multishow.png",MULTISHOW 4K
+http://pdsrv.io:80/wilson02/wilson02/33760
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/foxsports1.jpg",FOX SPORTS 4K
+http://pdsrv.io:80/wilson02/wilson02/63144
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_sports_2.png",FOX SPORTS 2 HD+
+http://pdsrv.io:80/wilson02/wilson02/8151
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_sports_2.png",FOX SPORTS 2 4K
+http://pdsrv.io:80/wilson02/wilson02/33763
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_HD_LatAm.png",FOX HD
+http://pdsrv.io:80/wilson02/wilson02/6122
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_HD_LatAm.png",FOX HD+
+http://pdsrv.io:80/wilson02/wilson02/9141
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/fx.jpg",FX SD
+http://pdsrv.io:80/wilson02/wilson02/4371
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/fx.jpg",FX HD
+http://pdsrv.io:80/wilson02/wilson02/6116
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/fx.jpg",FX HD+
+http://pdsrv.io:80/wilson02/wilson02/13199
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOXlife_HD_Logo.png",FOX LIFE HD
+http://pdsrv.io:80/wilson02/wilson02/6876
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOXlife_HD_Logo.png",FOX LIFE HD+
+http://pdsrv.io:80/wilson02/wilson02/61200
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium1.png",FOX PREMIUM HD
+http://pdsrv.io:80/wilson02/wilson02/47749
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium1.png",FOX PREMIUM HD+
+http://pdsrv.io:80/wilson02/wilson02/61201
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium2.png",FOX PREMIUM HD
+http://pdsrv.io:80/wilson02/wilson02/10278
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium2.png",FOX PREMIUM HD+
+http://pdsrv.io:80/wilson02/wilson02/11529
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png",STUDIO UNIVERSAL HD
+http://pdsrv.io:80/wilson02/wilson02/7874
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png",STUDIO UNIVERSAL HD+
+http://pdsrv.io:80/wilson02/wilson02/13194
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Warner-azul.png",WARNER CHANNEL SD
+http://pdsrv.io:80/wilson02/wilson02/4307
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Warner-azul.png",WARNER CHANNEL HD
+http://pdsrv.io:80/wilson02/wilson02/6072
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Warner-azul.png",WARNER CHANNEL HD+
+http://pdsrv.io:80/wilson02/wilson02/11525
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/syfy.png",SYFY SD
+http://pdsrv.io:80/wilson02/wilson02/4323
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/syfy.png",SYFY HD
+http://pdsrv.io:80/wilson02/wilson02/7795
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/syfy.png",SYFY HD+
+http://pdsrv.io:80/wilson02/wilson02/13195
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/tnt.jpg",TNT HD
+http://pdsrv.io:80/wilson02/wilson02/6074
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/tnt.jpg",TNT HD+
+http://pdsrv.io:80/wilson02/wilson02/13181
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/tnt.jpg",TNT 4K
+http://pdsrv.io:80/wilson02/wilson02/33755
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/tnt.jpg",TNT SERIES HD+
+http://pdsrv.io:80/wilson02/wilson02/6073
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/tnt.jpg",TNT SERIES HD+
+http://pdsrv.io:80/wilson02/wilson02/13186
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/tnt.jpg",TNT SERIES 4K
+http://pdsrv.io:80/wilson02/wilson02/33765
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/space.jpg",Space SD
+http://pdsrv.io:80/wilson02/wilson02/4328
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/space.jpg",Space HD
+http://pdsrv.io:80/wilson02/wilson02/6085
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/space.jpg",Space HD+
+http://pdsrv.io:80/wilson02/wilson02/13197
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/space.jpg",Space 4K
+http://pdsrv.io:80/wilson02/wilson02/33767
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/megapix.jpg",Megapix HD+
+http://pdsrv.io:80/wilson02/wilson02/8146
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/megapix.jpg",Megapix 4K
+http://pdsrv.io:80/wilson02/wilson02/33762
+#EXTINF:-1 group-title="Canais" tvg-logo="https://canaismax.com/img/canais/assistir-cinemax-hd-ao-vivo.jpg",CINEMAX HD
+http://pdsrv.io:80/wilson02/wilson02/7802
+#EXTINF:-1 group-title="Canais" tvg-logo="https://canaismax.com/img/canais/assistir-cinemax-hd-ao-vivo.jpg",CINEMAX HD+
+http://pdsrv.io:80/wilson02/wilson02/10993
+#EXTINF:-1 group-title="Canais" tvg-logo="https://skyassineonline.com.br/img/channels/lg-249-canal-sony-hd.png",CANAL SONY SD
+http://pdsrv.io:80/wilson02/wilson02/60993
+#EXTINF:-1 group-title="Canais" tvg-logo="https://skyassineonline.com.br/img/channels/lg-249-canal-sony-hd.png",CANAL SONY HD
+http://pdsrv.io:80/wilson02/wilson02/6961
+#EXTINF:-1 group-title="Canais" tvg-logo="https://skyassineonline.com.br/img/channels/lg-249-canal-sony-hd.png",CANAL SONY HD+
+http://pdsrv.io:80/wilson02/wilson02/13202
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png",A&E HD
+http://pdsrv.io:80/wilson02/wilson02/8139
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png",A&E HD+
+http://pdsrv.io:80/wilson02/wilson02/7691
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png",AMC SD
+http://pdsrv.io:80/wilson02/wilson02/7448
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png",AMC HD
+http://pdsrv.io:80/wilson02/wilson02/9343
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/telecinepipoca.jpg",Telecine PIPOCA HD
+http://pdsrv.io:80/wilson02/wilson02/6078
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/telecinepipoca.jpg",Telecine PIPOCA HD+
+http://pdsrv.io:80/wilson02/wilson02/8144
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png",Telecine FUN HD
+http://pdsrv.io:80/wilson02/wilson02/6079
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png",Telecine FUN HD+
+http://pdsrv.io:80/wilson02/wilson02/11561
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png",Telecine CULT HD
+http://pdsrv.io:80/wilson02/wilson02/10247
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png",Telecine CULT HD+
+http://pdsrv.io:80/wilson02/wilson02/8143
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png",Telecine ACTION HD
+http://pdsrv.io:80/wilson02/wilson02/6080
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png",Telecine ACTION HD+
+http://pdsrv.io:80/wilson02/wilson02/8141
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/telecinepremium.jpg",Telecine PREMIUM HD
+http://pdsrv.io:80/wilson02/wilson02/6077
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/telecinepremium.jpg",Telecine PREMIUM HD+
+http://pdsrv.io:80/wilson02/wilson02/8140
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/telecinepremium.jpg",Telecine PREMIUM 4K
+http://pdsrv.io:80/wilson02/wilson02/47746
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/telecinepremium.jpg",Telecine TOUCH HD
+http://pdsrv.io:80/wilson02/wilson02/6076
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/telecinepremium.jpg",Telecine TOUCH HD+
+http://pdsrv.io:80/wilson02/wilson02/25016
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbo.jpg",HBO HD
+http://pdsrv.io:80/wilson02/wilson02/6108
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbo.jpg",HBO HD+
+http://pdsrv.io:80/wilson02/wilson02/11566
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbo.jpg",HBO 4K
+http://pdsrv.io:80/wilson02/wilson02/47745
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbo2.jpg",HBO 2
+http://pdsrv.io:80/wilson02/wilson02/6110
+#EXTINF:-1 group-title="Canais" tvg-logo="https://guiadefilmes.com.br//static/canais/1585602694_hbo_mundi.png",HBO Mundi HD
+http://pdsrv.io:80/wilson02/wilson02/10266
+#EXTINF:-1 group-title="Canais" tvg-logo="https://guiadefilmes.com.br//static/canais/1585602694_hbo_mundi.png",HBO Mundi HD+
+http://pdsrv.io:80/wilson02/wilson02/61209
+#EXTINF:-1 group-title="Canais" tvg-logo="https://guiadefilmes.com.br//static/canais/1585602694_hbo_mundi.png",HBO Mundi LEG HD+
+http://pdsrv.io:80/wilson02/wilson02/58501
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbopop.jpg",HBO Pop HD
+http://pdsrv.io:80/wilson02/wilson02/10265
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbopop.jpg",HBO Pop HD+
+http://pdsrv.io:80/wilson02/wilson02/25015
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbopop.jpg",HBO Pop LEG HD+
+http://pdsrv.io:80/wilson02/wilson02/58503
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hboplus.jpg",HBO PLUS HD
+http://pdsrv.io:80/wilson02/wilson02/60980
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hboplus.jpg",HBO PLUS HD+
+http://pdsrv.io:80/wilson02/wilson02/13190
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hboplus.jpg",HBO PLUS LEG HD+
+http://pdsrv.io:80/wilson02/wilson02/47753
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png",HBO FAMILY HD
+http://pdsrv.io:80/wilson02/wilson02/6109
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png",HBO FAMILY HD+
+http://pdsrv.io:80/wilson02/wilson02/11568
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hboxtreme.jpg",HBO Xtreme
+http://pdsrv.io:80/wilson02/wilson02/60986
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/paramount_channel.png",PARAMOUNT SD
+http://pdsrv.io:80/wilson02/wilson02/6946
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/paramount_channel.png",PARAMOUNT HD
+http://pdsrv.io:80/wilson02/wilson02/6945
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/paramount_channel.png",PARAMOUNT HD+
+http://pdsrv.io:80/wilson02/wilson02/13185
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png",STUDIO UNIVERSAL SD
+http://pdsrv.io:80/wilson02/wilson02/4324
+#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPN-Logo-small.png",ESPN SD
+http://pdsrv.io:80/wilson02/wilson02/4380
+#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPN-Logo-small.png",ESPN HD
+http://pdsrv.io:80/wilson02/wilson02/6124
+#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPN-Logo-small.png",ESPN 4K
+http://pdsrv.io:80/sara2020/sara2020/33766
+#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png",²ESPN 4K
+http://pdsrv.io:80/wilson02/wilson02/6143
+#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPN-Logo-small.png",ESPN 2 HD
+http://pdsrv.io:80/wilson02/wilson02/33766
+#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPN-Logo-small.png",ESPN 2 HD+
+http://pdsrv.io:80/wilson02/wilson02/61257
+#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/combate.png",Combate HD
+http://pdsrv.io:80/sara2020/sara2020/6172
+#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/combate.png",Combate² HD
+http://pdsrv.io:80/wilson02/wilson02/6172
+#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/combate.png",Combate HD+
+http://pdsrv.io:80/wilson02/wilson02/61255
+#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/combate.png",Combate 4K
+http://pdsrv.io:80/sara2020/sara2020/33748
+#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV HD
+http://pdsrv.io:80/wilson02/wilson02/20544
+#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV HD+
+http://pdsrv.io:80/wilson02/wilson02/11563
+#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV 4K
+http://pdsrv.io:80/wilson02/wilson02/33759
+#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV 2 HD
+http://pdsrv.io:80/wilson02/wilson02/6084
+#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV 2 HD+
+http://pdsrv.io:80/wilson02/wilson02/11539
+#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV 3 HD
+http://pdsrv.io:80/wilson02/wilson02/61064
+#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV 3 HD+
+http://pdsrv.io:80/wilson02/wilson02/11538
+#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 2 HD
+http://pdsrv.io:80/wilson02/wilson02/8149
+#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 4 HD
+http://pdsrv.io:80/wilson02/wilson02/6091
+#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 4 HD+
+http://pdsrv.io:80/wilson02/wilson02/11552
+#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 5 HD
+http://pdsrv.io:80/wilson02/wilson02/6090
+#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 6 HD
+http://pdsrv.io:80/wilson02/wilson02/10259
+#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 6 HD+
+http://pdsrv.io:80/wilson02/wilson02/11550
+#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 7 HD+
+http://pdsrv.io:80/wilson02/wilson02/10258
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="DISCOVERY KIDS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-2016_Discovery_Kids_logo.svg_.png" group-title="Canais",DISCOVERY KIDS HD
+http://pdsrv.io:80/wilson02/wilson02/7538
+#EXTINF:-1 tvg-name="DISCOVERY KIDS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-2016_Discovery_Kids_logo.svg_.png" group-title="Canais",DISCOVERY KIDS HD+
+http://pdsrv.io:80/wilson02/wilson02/11532
+
+
+tvg-logo="" group-title="Canais"
+#EXTINF:-1 tvg-logo="https://www.wallpaperup.com/uploads/wallpapers/2013/07/12/117398/00621faac041f47b83422dcf96814abe-700.jpg" group-title="Canais" ,History Channel HD
+http://canaishd.servidor.tv:8080/lori/12345/1459
+#EXTINF:-1 tvg-logo="https://www.wallpaperup.com/uploads/wallpapers/2013/07/12/117398/00621faac041f47b83422dcf96814abe-700.jpg" group-title="Canais" ,History Channel HD+
+http://canaishd.servidor.tv:8080/lori/12345/95
+
+#EXTINF:-1 tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/05/Produ%C3%A7%C3%A3o-local-Anatomia-do-Crime-estreia-no-Investiga%C3%A7%C3%A3o-Discovery.jpg" group-title="Canais",Investigacao Discovery HD
+http://srvcliente.me:80/gege123/gege123/326
+#EXTINF:-1 tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/05/Produ%C3%A7%C3%A3o-local-Anatomia-do-Crime-estreia-no-Investiga%C3%A7%C3%A3o-Discovery.jpg" group-title="Canais",Investigacao Discovery HD+
+http://srvcliente.me:80/gege123/gege123/333
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41B9xWJ9sjL.png" group-title="Canais",Lifetime SD
+http://pdsrv.io:80/bruno1/bruno1/7876
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41B9xWJ9sjL.png" group-title="Canais",Lifetime HD
+http://pdsrv.io:80/bruno1/bruno1/7525
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2F1vmbIsCJU/hqdefault.jpg" group-title="Canais",MAX PRIME
+http://randomserver.site:2086/crystal/12345/92673
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2F1vmbIsCJU/hqdefault.jpg" group-title="Canais",2C: MAX UP HD
+http://pdsrv.io:80/bruno1/bruno1/47755
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2F1vmbIsCJU/hqdefault.jpg" group-title="Canais",MAX UP HD+
+http://pdsrv.io:80/bruno1/bruno1/47756
+
+#EXTINF:-1 group-title="Canais" tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png",Multishow SD
+http://pdsrv.io:80/bruno1/bruno1/4352
+#EXTINF:-1 group-title="Canais" tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png",Multishow HD
+http://pdsrv.io:80/bruno1/bruno1/6867
+
+
+#EXTINF:-1 group-title="Canais" tvg-logo="https://pbs.twimg.com/profile_images/1278334074856312834/9Kfku0xb_400x400.jpg",MTV SD
+http://pdsrv.io:80/bruno1/bruno1/61174
+#EXTINF:-1 group-title="Canais" tvg-logo="https://pbs.twimg.com/profile_images/1278334074856312834/9Kfku0xb_400x400.jpg",MTV HD
+http://pdsrv.io:80/bruno1/bruno1/7524
+
+#EXTINF:-1 group-title="Canais" tvg-logo="https://i2.wp.com/oportaln10.com.br/entretenimento/wp-content/uploads/2017/04/Nat-Geo.jpg",NATGEO SD
+http://pdsrv.io:80/bruno1/bruno1/61094
+#EXTINF:-1 group-title="Canais" tvg-logo="https://i2.wp.com/oportaln10.com.br/entretenimento/wp-content/uploads/2017/04/Nat-Geo.jpg",NATGEO HD
+http://pdsrv.io:80/bruno1/bruno1/61095
+#EXTINF:-1 group-title="Canais" tvg-logo="https://i2.wp.com/oportaln10.com.br/entretenimento/wp-content/uploads/2017/04/Nat-Geo.jpg",NATGEO HD+
+http://pdsrv.io:80/bruno1/bruno1/61240
+
+#EXTINF:-1 group-title="Canais" tvg-logo="https://1.bp.blogspot.com/-DgveMCDNfjo/WNBaDEEcgYI/AAAAAAAA2e8/Zd-w9I1cJAALRnORwacicLQ_JmC1T_5xACLcB/s1600/maxresdefault%2B%25281%2529.jpg",NATGEO WILD SD
+http://pdsrv.io:80/bruno1/bruno1/4349
+#EXTINF:-1 group-title="Canais" tvg-logo="https://1.bp.blogspot.com/-DgveMCDNfjo/WNBaDEEcgYI/AAAAAAAA2e8/Zd-w9I1cJAALRnORwacicLQ_JmC1T_5xACLcB/s1600/maxresdefault%2B%25281%2529.jpg",NATGEO WILD HD
+http://pdsrv.io:80/bruno1/bruno1/6099
+#EXTINF:-1 group-title="Canais" tvg-logo="https://1.bp.blogspot.com/-DgveMCDNfjo/WNBaDEEcgYI/AAAAAAAA2e8/Zd-w9I1cJAALRnORwacicLQ_JmC1T_5xACLcB/s1600/maxresdefault%2B%25281%2529.jpg",NATGEO WILD HD+
+http://pdsrv.io:80/bruno1/bruno1/61241
+
+#EXTINF:-1 group-title="Canais" tvg-logo="https://4.bp.blogspot.com/-gSAbcysifSU/WGgA35SwA0I/AAAAAAAAzlE/Xy79Vjg_4EEgO1C8oIaSCzdjcAroVLruACPcB/s1600/NATGEO.jpg",NATIONAL GEOGRAPHIC SD
+http://pdsrv.io:80/bruno1/bruno1/4348
+#EXTINF:-1 group-title="Canais" tvg-logo="https://4.bp.blogspot.com/-gSAbcysifSU/WGgA35SwA0I/AAAAAAAAzlE/Xy79Vjg_4EEgO1C8oIaSCzdjcAroVLruACPcB/s1600/NATGEO.jpg",NATIONAL GEOGRAPHIC HD
+http://pdsrv.io:80/bruno1/bruno1/6098
+
+#EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="Canais" , Discovery Channel SD
+http://pdsrv.io:80/wilson02/wilson02/4385
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png", Discovery Channel HD
+http://pdsrv.io:80/wilson02/wilson02/6132
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png", Discovery Channel HD+
+http://pdsrv.io:80/wilson02/wilson02/11548
+#EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="Canais" , Discovery Channel 4K
+http://pdsrv.io:80/wilson02/wilson02/33754
+
+
+#EXTINF:-1 ,Discovery Civilization HD
+http://srvcliente.me:80/gege123/gege123/3169
+#EXTINF:-1 ,Discovery Civilization HD+
+http://srvcliente.me:80/gege123/gege123/23150
+#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/discoveryhomeihealth.jpg" group-title="Canais" , Discovery H&H HD
+http://pdsrv.io:80/wilson02/wilson02/61081
+#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/discoveryhomeihealth.jpg" group-title="Canais" , Discovery H&H HD+
+http://pdsrv.io:80/wilson02/wilson02/11533
+#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/discoveryhomeihealth.jpg" group-title="Canais" , Discovery H&H HD+²
+http://pdsrv.io:80/wilson02/wilson02/61231
+
+#EXTINF:-1 tvg-name="DISCOVERY THEATER" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png" group-title="Canais", Discovery Theater SD
+http://pdsrv.io:80/bruno1/bruno1/10289
+#EXTINF:-1 tvg-name="DISCOVERY THEATER" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png" group-title="Canais", Discovery Theater HD
+http://pdsrv.io:80/wilson02/wilson02/6130
+#EXTINF:-1 tvg-name="DISCOVERY THEATER" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png" group-title="Canais", Discovery Theater HD+
+http://pdsrv.io:80/wilson02/wilson02/61233
+
+#EXTINF:-1 tvg-name="DISCOVERY TURBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="Canais", Discovery Turbo SD
+http://pdsrv.io:80/wilson02/wilson02/4386
+#EXTINF:-1 tvg-name="DISCOVERY TURBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="Canais", Discovery Turbo HD
+http://pdsrv.io:80/bruno1/bruno1/6877
+#EXTINF:-1 tvg-name="DISCOVERY TURBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="Canais", Discovery Turbo HD+
+http://srvcliente.me:80/gege123/gege123/23148
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png", 2 DISCOVERY TURBO HD+
+http://pdsrv.io:80/wilson02/wilson02/11531
+
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Science.png", Discovery Science HD
+http://pdsrv.io:80/wilson02/wilson02/7861
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Science.png", Discovery Science HD+
+http://pdsrv.io:80/wilson02/wilson02/13206
+
+
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_World.png", Discovery World SD
+http://pdsrv.io:80/wilson02/wilson02/10288
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_World.png", Discovery World HD
+http://pdsrv.io:80/wilson02/wilson02/6128
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_World.png", Discovery World HD+
+http://pdsrv.io:80/wilson02/wilson02/61235
+
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png", Animal Planet HD
+http://pdsrv.io:80/wilson02/wilson02/6142
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png", Animal Planet HD+
+http://pdsrv.io:80/wilson02/wilson02/13205
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png", Animal Planet 4K
+http://pdsrv.io:80/wilson02/wilson02/33758
+#EXTINF:-1 group-title="Canais" vg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo.png", BAND Sports HD
+http://pdsrv.io:80/wilson02/wilson02/6138
+#EXTINF:-1 group-title="Canais" vg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo.png", BAND Sports HD+
+http://pdsrv.io:80/wilson02/wilson02/11535
+
+#EXTINF:-1 tvg-name="CNN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="Canais",CNN Brasil HD
+http://pdsrv.io:80/wilson02/wilson02/61147
+#EXTINF:-1 tvg-name="CNN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="Canais",CNN Brasil HD+
+http://srvcliente.me:80/gege123/gege123/23536
+
+
+
+
+
+#EXTINF:-1 tvg-name="OS FLINTSTONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS Classicos",CAVERNA DO DRAGAO
+http://pdsrv.io:80/bruno1/bruno1/60786
+#EXTINF:-1 tvg-name="OS FLINTSTONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS Classicos",OS FLINTSTONES
+http://pdsrv.io:80/wilson02/wilson02/34910
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS Classicos",Jaspion 24HRS
+http://pdsrv.io:80/bruno1/bruno1/34895
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS Classicos",JIRAYA O Incrível Ninja 24HRS
+http://pdsrv.io:80/bruno1/bruno1/34896
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS Classicos",24H CHANGEMAN
+http://pdsrv.io:80/bruno1/bruno1/60783
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS Classicos",PERNALONGA 24HRS
+http://pdsrv.io:80/bruno1/bruno1/34915
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS Classicos",Chapolin Colorado
+http://srvcliente.me:80/gege123/gege123/23544
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS Classicos",Chaves 24HRS!
+http://srvcliente.me:80/gege123/gege123/23545
+
+#EXTINF:-1 tvg-id="" tvg-name="Thundercats" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS Classicos",Thundercats 24HRS
+http://pdsrv.io:80/wilson02/wilson02/34929
+#EXTINF:-1 tvg-id="" tvg-name="TRAPALHÕES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS Classicos",TRAPALHÕES 24Hors
+http://pdsrv.io:80/wilson02/wilson02/60728
+
+
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H POLÍCIA 24 HORAS
+http://pdsrv.io:80/bruno1/bruno1/62244
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",Mr.Bean 24HRS¹
+http://pdsrv.io:80/bruno1/bruno1/34902
+EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", A Grande Familia 24HRS
+http://pdsrv.io:80/wilson02/wilson02/34942
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",THE BIG BANG THEORY T01 Á T05
+http://pdsrv.io:80/bruno1/bruno1/63308
+#EXTINF:-1 tvg-name="Dois Homens e Meio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",Dois Homens e Meio
+http://pdsrv.io:80/wilson02/wilson02/34878
+#EXTINF:-1 tvg-name="Dois Homens e Meio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",24H DOIS HOMENS E MEIO T01 A 06
+http://pdsrv.io:80/bruno1/bruno1/68363
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", 24H OS SIMPSON 2000/2010
+http://pdsrv.io:80/wilson02/wilson02/60785
+#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",OS SIMPSONS 24HRS
+http://pdsrv.io:80/wilson02/wilson02/34911
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", TODO MUNDO ODEIA O CHRIS 24HRS
+http://pdsrv.io:80/wilson02/wilson02/34931
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H Todo Mundo Odeia O Chris
+http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/715099
+
+#EXTINF:-1 tvg-name="Xena 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",Xena
+http://pdsrv.io:80/wilson02/wilson02/34938
+#EXTINF:-1 tvg-id="" tvg-name="NARUTO 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",NARUTO CLASSICO
+http://pdsrv.io:80/wilson02/wilson02/34903
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", Naruto Classico
+http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/715098
+#EXTINF:-1 tvg-name="AVATAR A LENDA DE KORA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",AVATAR A LENDA DE KORA
+http://pdsrv.io:80/wilson02/wilson02/58591
+#EXTINF:-1  tvg-name="AVATAR A LENDA DE KORA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",AVATAR: A Lenda De Kora
+http://pdsrv.io:80/bruno1/bruno1/58591
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://i.pinimg.com/originals/ce/27/87/ce27870499a90e05363c91afe6b04aed.png", Avatar - Lenda de Ang
+http://lista.titanuhd.top:8880/tata1234/tata1234/476
+#EXTINF:-1 tvg-name="OS CAVALEIROS DO ZODIACO" tvg-logo="https://i.ibb.co/XWnRVMS/AAAABXOCbya6-Yl-WMXZgw4l-G4-SJnlce4-Itcy-J-w-Viw4-Oxz-Fv-NSYQj6-HY-8-Na-TRO-ne-S0-F9-XNMMd-S9-UTLDf.png" group-title="CANAIS 24HRS",OS CAVALEIROS DO ZODIACO
+http://pdsrv.io:80/sara2020/sara2020/34909
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",DRAGON BALL
+http://pdsrv.io:80/wilson02/wilson02/34880
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",DRAGON BALL Z
+http://pdsrv.io:80/wilson02/wilson02/34882
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",DRAGON BALL SUPER
+http://pdsrv.io:80/wilson02/wilson02/34881
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",POKEMON 24HRS
+http://pdsrv.io:80/bruno1/bruno1/34919
+#EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",YU-YU-Hakusho 24HRS
+http://pdsrv.io:80/bruno1/bruno1/63148
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H Yugioh Clássico
+http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/755672
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",YU-GI-OH 24HRS
+http://pdsrv.io:80/bruno1/bruno1/63147
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", AS AVENTURAS DE JACKIE CHAN
+http://lista.titanuhd.top:8880/tata1234/tata1234/4107
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H As Aventuras De Jackie Chan
+http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/717108
+
+#EXTINF:-1 tvg-id="" tvg-name="Super Choque 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",Super Choque 24HRS
+http://pdsrv.io:80/wilson02/wilson02/34947
+
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H A Pantera Cor De Rosa
+http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/755668
+#EXTINF:-1 tvg-id="" tvg-name="Super Choque 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",Super Choque 24HRS
+http://pdsrv.io:80/wilson02/wilson02/34947
+#EXTINF:-1 tvg-name="Superman 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",Superman 24HRS
+http://pdsrv.io:80/wilson02/wilson02/34927
+#EXTINF:-1 tvg-name="O MASKARA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",O MASKARA 24HRS
+http://pdsrv.io:80/sara2020/sara2020/34907
+#EXTINF:-1 tvg-name="O SHOW DO GARFIELD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",O SHOW DO GARFIELD
+http://pdsrv.io:80/sara2020/sara2020/60720
+#EXTINF:-1 tvg-name="FUTURAMA" tvg-logo="https://img.quizur.com/f/img5e9d39c3ca5034.14591752.jpeg?lastEdited=1587362397" group-title="CANAIS 24HRS", FUTURAMA
+http://lista.titanuhd.top:8880/tata1234/tata1234/470
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", iCarly
+http://lista.titanuhd.top:8880/tata1234/tata1234/473
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", Kenan e Kel
+http://lista.titanuhd.top:8880/tata1234/tata1234/435
+
+
+#EXTINF:-1 tvg-name="TARTARUGAS NINJAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",TARTARUGAS NINJAS
+http://pdsrv.io:80/wilson02/wilson02/34928
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",Chaves Desenho 24HRS!
+http://srvcliente.me:80/gege123/gege123/23546
+EXTINF:-1 group-title="24HRS KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", As Meninas Superpoderosas 24HRS
+http://pdsrv.io:80/wilson02/wilson02/34865
+EXTINF:-1 group-title="24HRS KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", BOB ESPONJA 24HRS
+http://pdsrv.io:80/wilson02/wilson02/34867
+#EXTINF:-1 tvg-name="Peppa Pig" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",Peppa Pig
+http://pdsrv.io:80/wilson02/wilson02/34914
+#EXTINF:-1 tvg-id="" tvg-name="Phineas e Ferb 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",Phineas e Ferb
+http://pdsrv.io:80/wilson02/wilson02/34916
+#EXTINF:-1 tvg-name="Tom & Jerry 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",Tom & Jerry 24HRS
+http://pdsrv.io:80/wilson02/wilson02/34932
+#EXTINF:-1 tvg-name="TOM & JERRY CLASSICO 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",TOM & JERRY CLASSICO 24HRS
+http://pdsrv.io:80/wilson02/wilson02/60776
+#EXTINF:-1 tvg-name="PICA PAU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",PICA PAU
+http://pdsrv.io:80/wilson02/wilson02/34917
+#EXTINF:-1 tvg-name="PLAY KIDS" tvg-logo="https://4.bp.blogspot.com/-HfSPbHu76Zc/WYB6u2Jg7yI/AAAAAAAAIEs/9b7qmq0dNTgdh8hFgUuKsBZ9f_thDdR6ACLcBGAs/s1600/playkidslogo.png" group-title="24HRS KIDS",PLAY KIDS HD
+http://pdsrv.io:80/wilson02/wilson02/32164
+#EXTINF:-1 tvg-name="POKEMON 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",POKEMON 24HRS
+http://pdsrv.io:80/wilson02/wilson02/34919
+#EXTINF:-1 tvg-name="POLLY POCKET 24hrs³" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",POLLY POCKET
+http://pdsrv.io:80/wilson02/wilson02/60722
+#EXTINF:-1 tvg-id="" tvg-name="Popeye O Marinheiro 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",Popeye O Marinheiro
+http://pdsrv.io:80/wilson02/wilson02/34920
+#EXTINF:-1 tvg-name="Steven Universe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",Steven Universe
+http://pdsrv.io:80/wilson02/wilson02/34926
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",24H PATRULHA CANINA T01
+http://pdsrv.io:80/bruno1/bruno1/60779
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",24H PATRULHA CANINA T02
+http://pdsrv.io:80/bruno1/bruno1/60780
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",24H PATRULHA CANINA T03
+http://pdsrv.io:80/bruno1/bruno1/60781
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",24H PATRULHA CANINA T04
+http://pdsrv.io:80/bruno1/bruno1/60782
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",Phineas e Ferb 24HRS
+http://pdsrv.io:80/bruno1/bruno1/34916
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",PICA PAU 24HRS
+http://pdsrv.io:80/bruno1/bruno1/34917
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",Pink-e-Cerebro 24HRS
+http://pdsrv.io:80/bruno1/bruno1/34918
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/635px-france24.png" group-title="Canais Noticias" , France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-bloomberg_television_logo.svg_.png" group-title="Canais Noticias" , Bloomberg TV
+https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/wfxt_boston_25_logo.png" group-title="Canais Noticias" , Boston 25 News
+https://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="Canais Noticias" , Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-da-globo-news-1469983466154_615x300.png" group-title="Canais Noticias" , Globo News HD
+http://pdsrv.io:80/wilson02/wilson02/7442
+#EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-da-globo-news-1469983466154_615x300.png" group-title="Canais Noticias" , Globo News HD+
+http://pdsrv.io:80/wilson02/wilson02/25010
+
+
+
+
+//Filmes
+
+#EXTINF:-1 tvg-name="O Incrível Hulk (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8RddLhz0bHigZwltYlngPZJII0.jpg" group-title="Marvel",O Incrível Hulk (2008)
+http://pdsrv.io:80/movie/wilson02/wilson02/34658.mp4
+#EXTINF:-1 tvg-name="Homem de Ferro (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7w6s8TdJ0Wdayz2MCHZA5wIk9nq.jpg" group-title="Marvel",Homem de Ferro (2008)
+http://pdsrv.io:80/movie/wilson02/wilson02/34654.mp4
+#EXTINF:-1 tvg-name="Homem de Ferro 2 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7NFIOapixCJV3zA3sF823KVrNL.jpg" group-title="Marvel",Homem de Ferro 2 (2010)
+http://pdsrv.io:80/movie/wilson02/wilson02/34655.mp4
+#EXTINF:-1 tvg-name="Homem de Ferro 3 - 2013" tvg-logo="http://srv.tvprodigital.net:25461/images/5193e13315529a73af627d5741d22e32.jpg" group-title="Marvel",Homem de Ferro 3 - 2013
+http://pdsrv.io:80/movie/wilson02/wilson02/34656.mp4
+#EXTINF:-1 tvg-name="Capitão América: O Primeiro Vingador - 2011" tvg-logo="http://srv.tvprodigital.net:25461/images/6ab25257a320d8285cf01f825afa601b.jpg" group-title="Marvel",Capitão América: O Primeiro Vingador - 2011
+http://pdsrv.io:80/movie/wilson02/wilson02/34647.mp4
+
+#EXTINF:-1 tvg-name="Thor (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rimMyzCkPR2buxVL7be1ceuNeH.jpg" group-title="Marvel",Thor (2011)
+http://pdsrv.io:80/movie/wilson02/wilson02/34661.mp4
+#EXTINF:-1 tvg-name="Os Vingadores (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="Marvel",Os Vingadores (2012)
+http://pdsrv.io:80/movie/wilson02/wilson02/34659.mp4
+
+#EXTINF:-1 tvg-name="Thor: O Mundo Sombrio (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oip30thvJBpJRveA13Rtd2am5Qg.jpg" group-title="Marvel",Thor: O Mundo Sombrio (2013)
+http://pdsrv.io:80/movie/wilson02/wilson02/34662.mp4
+
+#EXTINF:-1 tvg-name="Capitão América 2: O Soldado Invernal - 2014" tvg-logo="http://srv.tvprodigital.net:25461/images/874202010b1cd1487158e6e76ee0f739.jpg" group-title="Marvel",Capitão América 2: O Soldado Invernal - 2014
+http://pdsrv.io:80/movie/wilson02/wilson02/34648.mp4
+
+#EXTINF:-1 tvg-name="Vingadores: Era de Ultron" tvg-logo="http://srv.tvprodigital.net:25461/images/337b9ed64ab3828bc740f1afd6918388.jpg" group-title="Marvel",Vingadores: Era de Ultron - 2015
+http://pdsrv.io:80/movie/wilson02/wilson02/34664.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Formiga - 2015" tvg-logo="http://srv.tvprodigital.net:25461/images/bf13583b6f65fac764aba56decbfb9ec.jpg" group-title="Marvel",Homem-Formiga - 2015
+http://pdsrv.io:80/movie/wilson02/wilson02/34657.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Guardiões da Galáxia - 2014" tvg-logo="http://srv.tvprodigital.net:25461/images/24d695f0e1e7e66a246f670cc5f4c86e.jpg" group-title="Marvel",Guardiões da Galáxia - 2014
+http://pdsrv.io:80/movie/wilson02/wilson02/34650.mp4
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Marvel" , P2 Guardiões da Galáxia Vol. 1
+https://playplus.azureedge.net/RCFServer2/ondemand/GRDOESDGLXIA.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guardiões da Galáxia Vol. 2 - 2017" tvg-logo="http://srv.tvprodigital.net:25461/images/92f32e72f2b85d1430989d90cf5f04c7.jpg" group-title="Marvel",Guardiões da Galáxia Vol. 2 - 2017
+http://pdsrv.io:80/movie/wilson02/wilson02/34651.mp4
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Marvel" , P2 Guardiões da Galáxia Vol. 2
+https://s-delivery20.mxdcontent.net/v/7646eae22d31768a4fd265dee38f592d.mp4
+
+#EXTINF:-1 tvg-name="Doutor Estranho - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsAQmTOCyMDgmiPp9J4aZTvvOJP.jpg" group-title="Marvel",Doutor Estranho - 2016
+http://pdsrv.io:80/movie/wilson02/wilson02/34649.mp4
+
+#EXTINF:-1 tvg-name="Capitão América: Guerra Civil - 2016" tvg-logo="http://srv.tvprodigital.net:25461/images/a0f456e2a78ed434191fd1807c161373.jpg" group-title="Marvel",Capitão América: Guerra Civil - 2016
+http://pdsrv.io:80/movie/wilson02/wilson02/34646.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha: De Volta ao Lar (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Fgs1ewIZiBBTto1XDHeBN0D8ug.jpg" group-title="Marvel",Homem-Aranha: De Volta ao Lar (2017)
+http://pdsrv.io:80/movie/wilson02/wilson02/34653.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Thor: Ragnarok (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLpIFiuWF1bKnBqi7LqnJcLHtN.jpg" group-title="Marvel",Thor: Ragnarok (2017)
+http://pdsrv.io:80/movie/wilson02/wilson02/34663.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Formiga e a Vespa - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azH25XpelbpzSEg8JoQVJQsFNF7.jpg" group-title="Marvel",Homem-Formiga e a Vespa - 2018
+http://pdsrv.io:80/movie/wilson02/wilson02/34652.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yQUnpc1BXgesJrfcdoRa6jTAnA.jpg" group-title="Marvel",Pantera Negra (2018)
+http://pdsrv.io:80/movie/wilson02/wilson02/34660.mp4
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Marvel" ,Vingadores: Ultimato - 2019
+http://anhanga.lhmtv.gq/filmes/avengersendgamenew-dub-1080p.mp4
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Marvel" ,Vingadores: Ultimato - 2019
+http://pdsrv.io:80/movie/wilson02/wilson02/34666.mp4
+
+#EXTINF:-1 group-title="Marvel",DEADPOOL 2
+http://webtvcde.com/Filmes/Dublados/Deadpool2.mkv
+
+#EXTINF:-1 tvg-name="Capitã Marvel - 2019" tvg-logo="http://srv.tvprodigital.net:25461/images/565626019eafe06e76ca175b34840339.jpg" group-title="Marvel",Capitã Marvel - 2019
+http://pdsrv.io:80/movie/wilson02/wilson02/34645.mp4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Logan (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0CtZbae9cXj8bkWdCHzUHx5lsR.jpg" group-title="Marvel",Logan (2017)
+http://pdsrv.io:80/movie/wilson02/wilson02/35705.mp4
+
+
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Marvel" ,X-Men: Fenix Negra
+http://pdsrv.io:80/movie/wilson02/wilson02/42430.mp4
+
+
+#EXTINF:-1 tvg-logo="https://hyperpix.net/wp-content/uploads/2019/07/shrek-logo-font-download.jpg" group-title="Coletanea: Shrek",Shrek 1 (2001)
+http://srvcliente.me:80/movie/gege123/gege123/1894.mp4
+#EXTINF:-1 tvg-logo="https://hyperpix.net/wp-content/uploads/2019/07/shrek-logo-font-download.jpg" group-title="Coletanea: Shrek",Shrek 2 (2004)
+http://srvcliente.me:80/movie/gege123/gege123/1895.mp4
+#EXTINF:-1 tvg-logo="https://hyperpix.net/wp-content/uploads/2019/07/shrek-logo-font-download.jpg" group-title="Coletanea: Shrek",Shrek 3 (2007)
+http://srvcliente.me:80/movie/gege123/gege123/1896.mp4
+#EXTINF:-1 tvg-logo="https://hyperpix.net/wp-content/uploads/2019/07/shrek-logo-font-download.jpg" group-title="Coletanea: Shrek",Shrek 4: Para Sempre (2010)
+http://srvcliente.me:80/movie/gege123/gege123/1897.mp4
+
+#EXTINF:-1 tvg-name="O Rei Leão (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miTUFemBRhBEhdwA6r22AzI2YxD.jpg" group-title="ANIMACAO - FILMES",O Rei Leão (1994)
+http://pdsrv.io:80/movie/wilson02/wilson02/35752.mp4
+#EXTINF:-1 tvg-name="O Rei Leão II: O Reino de Simba (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2j5JYBIm5cGyfpWc7xtE02jjUiv.jpg" group-title="ANIMACAO - FILMES",O Rei Leão II: O Reino de Simba (1998)
+http://pdsrv.io:80/movie/wilson02/wilson02/35753.mp4
+#EXTINF:-1 tvg-name="O Rei Leão 3: Hakuna Matata (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtX3wirmv2VkQi1u4C9cSdHTXQn.jpg" group-title="ANIMACAO - FILMES",O Rei Leão 3: Hakuna Matata (2004)
+http://pdsrv.io:80/movie/wilson02/wilson02/35754.mp4
+#EXTINF:-1 tvg-name="Procurando Dory (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MOyKnmtE2hd778bIybw9v8HkiP.jpg" group-title="ANIMACAO - FILMES",Procurando Dory (2016)
+http://pdsrv.io:80/movie/wilson02/wilson02/35761.mp4
+#EXTINF:-1 tvg-name="Procurando Nemo (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djbivExXSZb0sTO8uYaaQC5vMRM.jpg" group-title="ANIMACAO - FILMES",Procurando Nemo (2003)
+http://pdsrv.io:80/movie/wilson02/wilson02/35762.mp4
+#EXTINF:-1 tvg-name="Zootopia (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZAnKuEhztoOFi8PSUMPUcFLn2u.jpg" group-title="ANIMACAO - FILMES",Zootopia (2016)
+http://pdsrv.io:80/movie/wilson02/wilson02/35771.mp4
+#EXTINF:-1 tvg-name="Toy Story 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxvFpBEBJkvZS9EHLpaLsc1tDKs.jpg" group-title="ANIMACAO - FILMES",Toy Story 2 (1999)
+http://pdsrv.io:80/movie/wilson02/wilson02/35106.mp4
+#EXTINF:-1 tvg-name="Toy Story 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a83hHwstUsEEjE55kTgDkZMFweR.jpg" group-title="ANIMACAO - FILMES",Toy Story 3 (2010)
+http://pdsrv.io:80/movie/wilson02/wilson02/35103.mp4
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="ANIMACAO - FILMES" ,TOY STORY 4
+http://pdsrv.io:80/movie/wilson02/wilson02/36536.mp4
+
+#EXTINF:-1 tvg-name="Emoji: O Filme - 2017" tvg-logo="http://srv.tvprodigital.net:25461/images/1ca86c14c255bf1815ac9f8af9bcdc25.jpg" group-title="ANIMACAO - FILMES",Emoji: O Filme - 2017
+http://pdsrv.io:80/movie/wilson02/wilson02/35785.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Carros " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vis4PBCmXL29nx7e6ELaFjZM8NL.jpg" group-title="ANIMACAO - FILMES",Carros 
+http://pdsrv.io:80/movie/wilson02/wilson02/35925.mp4
+#EXTINF:-1 tvg-name="Carros 3 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVPFdORefTKXKFiSktrXbiFDNAK.jpg" group-title="ANIMACAO - FILMES",Carros 3 (2017)
+http://pdsrv.io:80/movie/wilson02/wilson02/35928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lego Batman: O Filme (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVf6lTFzDsBZUbYbk8m9dk9SipX.jpg" group-title="ANIMACAO - FILMES",Lego Batman: O Filme (2017)
+http://pdsrv.io:80/movie/wilson02/wilson02/35931.mp4
+#EXTINF:-1 tvg-name="Angry Birds 2: O Filme (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMqAjEyj234escPleCthcmh84ka.jpg" group-title="ANIMACAO - FILMES",Angry Birds 2: O Filme (2019)
+http://pdsrv.io:80/movie/wilson02/wilson02/36428.mp4
+#EXTINF:-1 tvg-name="Os Incríveis 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3EEb7o6NxK0pl0WsOswCos663y.jpg" group-title="ANIMACAO - FILMES",Os Incríveis 2 (2018)
+http://pdsrv.io:80/movie/wilson02/wilson02/36511.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo 2 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikhU4KSoE6lihqWVGgSNkYemfvT.jpg" group-title="ANIMACAO - FILMES",A Era do Gelo 2 (2006)
+http://pdsrv.io:80/movie/wilson02/wilson02/40700.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dlqC2gJs02gc23XvyOjoz52ToRI.jpg" group-title="ANIMACAO - FILMES",A Era do Gelo (2002)
+http://pdsrv.io:80/movie/wilson02/wilson02/40701.mp4
+
+#EXTINF:-1 tvg-name="Coraline e o Mundo Secreto (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rYaWdrlvoZoXhPn9yzSdrQCzWnS.jpg" group-title="ANIMACAO - FILMES",Coraline e o Mundo Secreto (2009)
+http://pdsrv.io:80/movie/wilson02/wilson02/40716.mp4
+
+#EXTINF:-1 tvg-name="Aladdin (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/380Fyz8DSyNkh4Q8NLxZs2f2C6a.jpg" group-title="CLASSICOS DISNEY",Aladdin (1992)
+http://pdsrv.io:80/movie/wilson02/wilson02/40703.mp4
+#EXTINF:-1 tvg-name="Branca de Neve e os Sete Anões (1937)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5l0dsoLXP2eifLQ0lFCYNC5Lcv0.jpg" group-title="CLASSICOS DISNEY",Branca de Neve e os Sete Anões (1937)
+http://pdsrv.io:80/movie/wilson02/wilson02/40711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k69nGBs0nw1L3ZnAibCl9u5eNvo.jpg" group-title="CLASSICOS DISNEY",A Bela e a Fera (1991)
+http://pdsrv.io:80/movie/wilson02/wilson02/40722.mp4
+#EXTINF:-1 tvg-name="Lilo & Stitch 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcn7a7ENxi5TBTlka4wYLzmKQIp.jpg" group-title="CLASSICOS DISNEY",Lilo & Stitch 2: Stitch Deu Defeito (2005)
+http://pdsrv.io:80/movie/wilson02/wilson02/44703.mp4
+
+#EXTINF:-1 tvg-name="Moana: Um Mar de Aventuras (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/428rxQhNdZHMiiS4HVVExCPFzAs.jpg" group-title="DISNEY - FILMES",Moana: Um Mar de Aventuras (2016)
+http://pdsrv.io:80/movie/wilson02/wilson02/35933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Dama e o Vagabundo - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BBhQumi9j9TngO9wxy9SJa3iUW.jpg" group-title="DISNEY - FILMES",A Dama e o Vagabundo - 2019
+http://pdsrv.io:80/movie/wilson02/wilson02/44316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Frozen 2 HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXsndsv3WOoxszmdlvTWeY688eK.jpg" group-title="DISNEY - FILMES",Frozen 2 HD
+http://pdsrv.io:80/movie/wilson02/wilson02/43664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aladdin (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1d8HShFOmSWDwvqtvPEZqzlZbYl.jpg" group-title="DISNEY - FILMES",Aladdin (2019)
+http://pdsrv.io:80/movie/wilson02/wilson02/35736.mp4
+
+
+#EXTINF:-1 tvg-name="Luccas Neto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCHCa1y3JpR5KynKtsR53ngFAql.jpg" group-title="INFANTIS - FILMES",Luccas Neto em: Perdidos na Noite de Natal (2018)
+http://pdsrv.io:80/movie/wilson02/wilson02/40970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luccas Neto em: O Fim do Natal (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvbG8HGZADCUBhZyy8f029KviKW.jpg" group-title="INFANTIS - FILMES",Luccas Neto em: O Fim do Natal (2019)
+http://pdsrv.io:80/movie/wilson02/wilson02/43193.mp4
+#EXTINF:-1 tvg-name="Luccas Neto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYgZa09ICwAB2TkonMfXRT4Dj8E.jpg" group-title="INFANTIS - FILMES",Luccas Neto em: Acampamento de Férias 2 (2020)
+http://pdsrv.io:80/movie/wilson02/wilson02/43192.mp4
+
+#EXTINF:-1 group-title="ANIME - FILMES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7NeAtW9lS4XOoXkf8UL1pzwfsA.jpg", Dragon Ball Super: Broly (2018)
+http://pdsrv.io:80/movie/wilson02/wilson02/36461.mp4
+#EXTINF:-1 group-title="ANIME - FILMES" tvg-logo="https://animenew.com.br/wp-content/uploads/2014/03/cdz-lenda-do-Santu%C3%A1rio.jpg",Os Cavaleiros do Zodíaco: A Lenda do Santuário
+http://canaishd.servidor.tv:8080/movie/lori/12345/32444.mp4
+
+#EXTINF:-1 group-title="EMPREENDEDORISMO - FILMES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YpHj6aV1yKWP20hKj1KUiLaIbi.jpg", Fome de Poder (2016)
+http://pdsrv.io:80/movie/wilson02/wilson02/36467.mp4
+
+
+#EXTINF:-1 tvg-logo="https://assets.fontsinuse.com/static/use-media-items/6/5995/full-1024x908/56701cba/toy-story-logo-1024x908.jpeg?resolution=0" group-title="Coletanea: Toy Story",Toy Story 1 - Um Mundo de Aventuras (1995)
+http://srvcliente.me:80/movie/gege123/gege123/1268.mp4
+#EXTINF:-1 tvg-logo="https://assets.fontsinuse.com/static/use-media-items/6/5995/full-1024x908/56701cba/toy-story-logo-1024x908.jpeg?resolution=0" group-title="Coletanea: Toy Story",Toy Story 1: Um Mundo de Aventuras (1995)
+http://srvcliente.me:80/movie/gege123/gege123/1839.mp4
+#EXTINF:-1 tvg-logo="https://assets.fontsinuse.com/static/use-media-items/6/5995/full-1024x908/56701cba/toy-story-logo-1024x908.jpeg?resolution=0" group-title="Coletanea: Toy Story",Toy Story 2 (1999)
+http://srvcliente.me:80/movie/gege123/gege123/1840.mp4
+#EXTINF:-1 tvg-logo="https://assets.fontsinuse.com/static/use-media-items/6/5995/full-1024x908/56701cba/toy-story-logo-1024x908.jpeg?resolution=0" group-title="Coletanea: Toy Story",Toy Story 2 (1999)
+http://srvcliente.me:80/movie/gege123/gege123/1269.mp4
+#EXTINF:-1 tvg-logo="https://assets.fontsinuse.com/static/use-media-items/6/5995/full-1024x908/56701cba/toy-story-logo-1024x908.jpeg?resolution=0" group-title="Coletanea: Toy Story",Toy Story 3 (2010)
+http://srvcliente.me:80/movie/gege123/gege123/1841.mp4
+#EXTINF:-1 tvg-logo="https://assets.fontsinuse.com/static/use-media-items/6/5995/full-1024x908/56701cba/toy-story-logo-1024x908.jpeg?resolution=0" group-title="Coletanea: Toy Story",Toy Story 3 (2010)
+http://srvcliente.me:80/movie/gege123/gege123/1270.mp4
+#EXTINF:-1 tvg-logo="https://assets.fontsinuse.com/static/use-media-items/6/5995/full-1024x908/56701cba/toy-story-logo-1024x908.jpeg?resolution=0" group-title="Coletanea: Toy Story",Toy Story 4 (2019)
+http://srvcliente.me:80/movie/gege123/gege123/1098.mp4
+
+#EXTINF:-1 tvg-name="O Hobbit: Uma Jornada Inesperada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aeLKztQXPkSccTySEmyCqBvZfsO.jpg" group-title="Coletanea: Hobbit",O Hobbit: Uma Jornada Inesperada - 2012
+http://pdsrv.io:80/movie/wilson02/wilson02/44805.mp4
+#EXTINF:-1 tvg-name="O Hobbit: A Desolação de Smaug" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfYd1E0hapNp030Z4rWlJLRtlqm.jpg" group-title="Coletanea: Hobbit",O Hobbit: A Desolação de Smaug - 2013
+http://pdsrv.io:80/movie/wilson02/wilson02/44806.mp4
+#EXTINF:-1 tvg-name="O Hobbit: A Batalha dos Cinco Exércitos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0ddJa85vxeyG47inckazn7Yknu.jpg" group-title="Coletanea: Hobbit",O Hobbit: A Batalha dos Cinco Exércitos - 2014
+http://pdsrv.io:80/movie/wilson02/wilson02/44807.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71DTQQqJfQL._AC_SX466_.jpg" group-title="Coletanea: Star Wars",STAR WARS - A AMEAÇA FANTASMA (1999)
+http://webtvcde.com/Filmes/Dublados/Star.Wars/Star.Wars.Episode.I.The.Phantom.Menace.1999.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71DTQQqJfQL._AC_SX466_.jpg" group-title="Coletanea: Star Wars",STAR WARS 2 - O ATAQUE DOS CLONES (2002)
+http://webtvcde.com/Filmes/Dublados/Star.Wars/Star.Wars.Episode.II.Attack.of.the.Clones.2002.mkv
+#EXTINF:-1 group-title="Coletanea: Star Wars" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71DTQQqJfQL._AC_SX466_.jpg",STAR WARS 3 - A VINGANÇA DOS SITH (2005)
+http://webtvcde.com/Filmes/Dublados/Star.Wars/Star.Wars.Episode.III.Revenge.of.the.Sith.2005.mkv
+#EXTINF:-1 group-title="Coletanea: Star Wars" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71DTQQqJfQL._AC_SX466_.jpg",Star Wars: Episódio 3 - A Vingança dos Sith (2005)
+http://srvcliente.me:80/movie/gege123/gege123/1877.mp4
+#EXTINF:-1 group-title="Coletanea: Star Wars" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71DTQQqJfQL._AC_SX466_.jpg",STAR WARS 4 - UMA NOVA ESPERANÇA
+http://webtvcde.com/Filmes/Dublados/Star.Wars/Star.Wars.IV.A.New.Hope.1977.mkv
+#EXTINF:-1 group-title="Coletanea: Star Wars" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71DTQQqJfQL._AC_SX466_.jpg",Star Wars 5: O Império Contra-Ataca (1980)
+http://srvcliente.me:80/movie/gege123/gege123/1873.mp4
+#EXTINF:-1 group-title="Coletanea: Star Wars" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71DTQQqJfQL._AC_SX466_.jpg",STAR WARS 6 - O RETORNO DE JEDI
+http://webtvcde.com/Filmes/Dublados/Star.Wars/Star.Wars.Episode.VI.Return.of.the.Jedi.1983.mkv
+#EXTINF:-1 group-title="Coletanea: Star Wars" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71DTQQqJfQL._AC_SX466_.jpg",Star Wars 7: O Despertar da Força (2015)
+http://srvcliente.me:80/movie/gege123/gege123/1878.mp4
+#EXTINF:-1 group-title="Coletanea: Star Wars" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71DTQQqJfQL._AC_SX466_.jpg",Star Wars 8: Os Ultimos Jedi (2018)
+http://srvcliente.me:80/movie/gege123/gege123/2381.mp4
+#EXTINF:-1 group-title="Coletanea: Star Wars" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71DTQQqJfQL._AC_SX466_.jpg",Star Wars 9: A Ascensão Skywalker (2019)
+http://srvcliente.me:80/movie/gege123/gege123/742.mp4
+
+#EXTINF:-1 group-title="Coletanea: Star Trek" tvg-logo="https://ucip.org/wp-content/uploads/2019/07/startrek-title-card.jpg",Star Trek 1 (2009)
+http://srvcliente.me:80/movie/gege123/gege123/2379.mp4
+#EXTINF:-1 group-title="Coletanea: Star Trek" tvg-logo="https://ucip.org/wp-content/uploads/2019/07/startrek-title-card.jpg",Star Trek 2: Além da Escuridão (2013)
+http://srvcliente.me:80/movie/gege123/gege123/2378.mp4
+#EXTINF:-1 group-title="Coletanea: Star Trek" tvg-logo="https://ucip.org/wp-content/uploads/2019/07/startrek-title-card.jpg",Star Trek 3: Sem Fronteiras (2016)
+http://srvcliente.me:80/movie/gege123/gege123/2380.mp4
+
+#EXTINF:-1 group-title="Coletanea: De Volta P/ Futuro" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/BackFuturePoster.jpg",De Volta Pro Futuro 1
+http://webtvcde.com/Filmes/Dublados/Volta/De%20volta%20para%20o%20futuro%201.mkv
+#EXTINF:-1 group-title="Coletanea: De Volta P/ Futuro" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0c/BackFuture2Poster.jpg",De Volta Pro Futuro 2
+http://webtvcde.com/Filmes/Dublados/Volta/De%20volta%20para%20o%20futuro%202.mkv
+#EXTINF:-1 group-title="Coletanea: De Volta P/ Futuro" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8c/BackFuture3Poster.jpg",De Volta Pro Futuro 3
+http://webtvcde.com/Filmes/Dublados/Volta/De%20volta%20para%20o%20futuro%203.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Minha Mãe é Uma Peça 3 HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zw77BFPGJ73Lig8GwRzYj1XHq53.jpg" group-title="NACIONAIS - FILMES",Minha Mãe é Uma Peça 3 HD
+http://pdsrv.io:80/movie/wilson02/wilson02/44779.mp4
+
+#EXTINF:-1 group-title="LANCAMENTOS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOoERCQCGrgFHOrco7wLy6CAYfp.jpg",John Wick 3: Parabellum (2019)
+http://pdsrv.io:80/movie/wilson02/wilson02/36584.mp4
+#EXTINF:-1 group-title="LANCAMENTOS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/io4qQplxQPBb6FbG8H0R9Mlleh9.jpg",Projeto Gemini (2019)
+http://pdsrv.io:80/movie/wilson02/wilson02/36647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Panteras (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jdMSIPbwK0wgjuOQz0AvkYQ4M3.jpg" group-title="LANCAMENTOS",As Panteras (2019)
+http://pdsrv.io:80/movie/wilson02/wilson02/40836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rambo: Até o Fim - 2019" tvg-logo="http://srv.tvprodigital.net:80/images/cac058ca7f31fbc1650dfae1b645f076.jpg" group-title="LANCAMENTOS",Rambo: Até o Fim - 2019
+http://pdsrv.io:80/movie/wilson02/wilson02/40989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zumbilândia: Atire Duas Vezes (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8T7xy6usNhTWphfQTH7vmr4tOC.jpg" group-title="FILMES - LANCAMENTOS",Zumbilândia: Atire Duas Vezes (2019)
+http://pdsrv.io:80/movie/wilson02/wilson02/36623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: A Ascensão Skywalker HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFx2i2pg1BoaD7grcpGDyHM1eML.jpg" group-title="FILMES - LANCAMENTOS",Star Wars: A Ascensão Skywalker HD
+http://pdsrv.io:80/movie/wilson02/wilson02/44775.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Rambo: Até o Fim - 2019" tvg-logo="http://srv.tvprodigital.net:80/images/cac058ca7f31fbc1650dfae1b645f076.jpg" group-title="ACAO - FILMES",Rambo: Até o Fim - 2019
+http://pdsrv.io:80/movie/wilson02/wilson02/40989.mp4
+#EXTINF:-1 tvg-name="Busca Implacável - 2008" tvg-logo="http://srv.tvprodigital.net:80/images/8d0d5af094a7c98dd922f2618dd3d9f5.jpg" group-title="ACAO - FILMES",Busca Implacável - 2008
+http://pdsrv.io:80/movie/wilson02/wilson02/35695.mp4
+#EXTINF:-1 tvg-name="Busca Implacável 2 - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/T8BSCqbbPZ5VM3rFbj4UqdcLv7.jpg" group-title="ACAO - FILMES",Busca Implacável 2 - 2012
+http://pdsrv.io:80/movie/wilson02/wilson02/35693.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="John Wick: De Volta ao Jogo - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rboZslo3eQWKBQ3QvlO6wGV0J3K.jpg" group-title="ACAO - FILMES",John Wick: De Volta ao Jogo - 2014
+http://pdsrv.io:80/movie/wilson02/wilson02/35698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="John Wick 2: Um Novo Dia para Matar - 2017" tvg-logo="http://srv.tvprodigital.net:25461/images/e12c75bf60061f3a93f702c6c40ccd8d.jpg" group-title="ACAO - FILMES",John Wick 2: Um Novo Dia para Matar - 2017
+http://pdsrv.io:80/movie/wilson02/wilson02/35648.mp4
+
+
+#EXTINF:-1 group-title="AVENTURA - FILMES",JUMANJI: BEM VINDO A SELVA
+http://webtvcde.com/Filmes/Dublados/Jumanji.Bem.Vindo.a.Selva.2018.1080p.mkv
+
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos" ,A Hora do Rush
+http://anhanga.lhmtv.gq/filmes/rush-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos" ,A Hora do Rush 2
+http://anhanga.lhmtv.gq/filmes/rush2-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos" ,Cidade de Deus
+http://anhanga.lhmtv.gq/filmes/cidadededeus-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos" ,Forrest Gump – O Contador de Historias
+http://anhanga.lhmtv.gq/filmes/forrestgump-dub-720p.mp4
+#EXTINF:-1 tvg-name="O Curioso Caso de Benjamin Button" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fNRILGSHFzZ9BLUgkraGEHRaBb.jpg" group-title="Classicos",O Curioso Caso de Benjamin Button
+http://pdsrv.io:80/movie/wilson02/wilson02/40683.mkv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 1990" ,O Poderoso Chefao
+http://aranami.lhmtv.gq/filmes/O-Poderoso-Chefao-1.mp4
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 1990" ,O Poderoso Chefao 2
+http://aranami.lhmtv.gq/filmes/O-Poderoso-Chefao-2.mp4
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 90" ,O Poderoso Chefao 3
+http://aranami.lhmtv.gq/filmes/O-Poderoso-Chefao-3.mp4
+
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 1990" ,Rocky
+
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , Harry Potter 1 Pedra Filosofal
+https://playplus.azureedge.net/RCFServer1/ondemand/HRYPTR01.mp4
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , ²Harry Potter 1 Pedra Filosofal
+http://pdsrv.io:80/movie/wilson02/wilson02/40732.mp4
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , Harry Potter 2 Câmara secreta
+https://playplus.azureedge.net/RCFServer1/ondemand/HRYPTR02.mp4
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , ²Harry Potter 2 Câmara secreta
+http://pdsrv.io:80/movie/wilson02/wilson02/40735.mp4
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , Harry Potter 3 Prisioneiro de Azkaban
+https://playplus.azureedge.net/RCFServer1/ondemand/HRYPTR03.mp4?attachment=true
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , ²Harry Potter 3 Prisioneiro de Azkaban
+http://pdsrv.io:80/movie/wilson02/wilson02/40734.mp4
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , Harry Potter 4 Calice de Fogo
+https://playplus.azureedge.net/RCFServer1/ondemand/HRYPTR04.mp4?attachment=true
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , ²Harry Potter 4 Calice de Fogo
+http://pdsrv.io:80/movie/wilson02/wilson02/40733.mp4
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , Harry Potter 5 Ordem da Fênix
+https://playplus.azureedge.net/RCFServer1/ondemand/HRYPTR05.mp4?attachment=true
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , ²Harry Potter 5 Ordem da Fênix
+http://pdsrv.io:80/movie/wilson02/wilson02/40736.mp4
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , Harry Potter 6 Enigma do Principe
+https://playplus.azureedge.net/RCFServer1/ondemand/HRYPTR06.mp4?attachment=true
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , ²Harry Potter 6 Enigma do Principe
+http://pdsrv.io:80/movie/wilson02/wilson02/40738.mp4
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , Harry Potter 7 Relíquias da Morte: Parte 1
+https://playplus.azureedge.net/RCFServer1/ondemand/HRYPTR07.mp4?attachment=true
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , ²Harry Potter 7 Relíquias da Morte: Parte 1
+http://pdsrv.io:80/movie/wilson02/wilson02/40737.mp4
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , Harry Potter  Relíquias da Morte: Parte 2
+https://playplus.azureedge.net/RCFServer1/ondemand/HRYPTR08.mp4?attachment=true
+
+#EXTINF:-1 tvg-name="Animais Fantásticos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcIfTb2nNWnyV9WHL2jh0HEjNw2.jpg" group-title="Coletanea: Harry Potter",Animais Fantásticos: Os Crimes de Grindelwald - 2018
+http://pdsrv.io:80/movie/wilson02/wilson02/40766.mp4
+
+#EXTINF:-1 tvg-name="Matrix - 1999" tvg-logo="http://srv.tvprodigital.net:25461/images/625b4cf6933d9db7bad637e2d443eba4.jpg" group-title="Classicos",Matrix - 1999
+http://pdsrv.io:80/movie/wilson02/wilson02/35650.mp4
+
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Stargirl" , Stargirl S1|EP01
+
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Batwoman" , Batwoman S1EP01
+https://playplus.azureedge.net/RCServer12/ondemand/BATWMNS01EP01.mp4
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Batwoman" , Batwoman S1EP01
+https://playplus.azureedge.net/RCServer12/ondemand/BATWMNS01EP02.mp4
+
+
+
+
