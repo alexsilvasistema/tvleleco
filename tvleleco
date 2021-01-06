@@ -2,25 +2,6 @@
 
 
 
-#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",RECORD BAHIA
-https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
-#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",SBT
-http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/1512
-#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",Band
-http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
-#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",Globo RIO
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",Globo Rio 2
-https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
-#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",Globo bahia
-http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/260
-#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",Globo bahia 2
-http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/2707
-
-
-
-
-
 
 #EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",A FAZENDA
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/afazenda.m3u8
@@ -388,5 +369,104 @@ http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
 
 #EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",CANCAO NOVA 2
 http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-b.m3u8?iptv2018?sd=10&rebase=on
+
+
+
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",RECORD BAHIA
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",SBT
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/1512
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",Globo RIO
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",Globo Rio 2
+https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",Globo bahia
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/260
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",Globo bahia 2
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/2707
+
+
+
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 2 HD
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/1511
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 2 HD+
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/172
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 3 HD
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/1510
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 3 HD+
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/170
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 4 HD
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/1509
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 4 HD+
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/168
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 5 HD
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/1508
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 5 HD+
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/166
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 6 HD
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/1507
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 6 HD+
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/164
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 7 HD
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/1506
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 7 HD+
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/162
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD" tvg-logo="http://canaishd.servidor.tv:8080/images/FVOQsOCLYJSd5iqMj8vbolVmWoLzHs3J.jpg" group-title="Canais: Esporte",Premiere Clubes HD
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/1447
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD+" tvg-logo="http://canaishd.servidor.tv:8080/images/FVOQsOCLYJSd5iqMj8vbolVmWoLzHs3J.jpg" group-title="Canais: Esporte",Premiere Clubes HD+
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/159
+
+
+
+#EXTINF:-1 tvg-id="babytv.br" tvg-name="Baby TV SD" tvg-logo="http://logos.servidor.tv/babytv.png" group-title="Canais: Infantil",Baby TV SD
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/367
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD" tvg-logo="http://logos.servidor.tv/boomerang.png" group-title="Canais: Infantil",Boomerang HD
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/1492
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD+" tvg-logo="http://logos.servidor.tv/boomerang.png" group-title="Canais: Infantil",Boomerang HD+
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/355
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="http://logos.servidor.tv/cartoonnetwork.jpg" group-title="Canais: Infantil",Cartoon Network HD
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/1491
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD+" tvg-logo="http://logos.servidor.tv/cartoonnetwork.jpg" group-title="Canais: Infantil",Cartoon Network HD+
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/349
+v#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel HD" tvg-logo="http://logos.servidor.tv/disneychannel.png" group-title="Canais: Infantil",Disney Channel HD
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/1480
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel HD+" tvg-logo="http://logos.servidor.tv/disneychannel.png" group-title="Canais: Infantil",Disney Channel HD+
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/325
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Júnior HD" tvg-logo="http://logos.servidor.tv/disneyjr.png" group-title="Canais: Infantil",Disney Júnior HD
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/1478
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Júnior HD+" tvg-logo="http://logos.servidor.tv/disneyjr.png" group-title="Canais: Infantil",Disney Júnior HD+
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/323
+#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="Disney XD HD" tvg-logo="http://logos.servidor.tv/disneyxd.png" group-title="Canais: Infantil",Disney XD HD
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/1517
+#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="Disney XD HD+" tvg-logo="http://logos.servidor.tv/disneyxd.png" group-title="Canais: Infantil",Disney XD HD+
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/683
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD" tvg-logo="http://logos.servidor.tv/gloob.jpg" group-title="Canais: Infantil",Gloob HD
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/1499
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD+" tvg-logo="http://logos.servidor.tv/gloob.jpg" group-title="Canais: Infantil",Gloob HD+
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/686
+#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="Gloobinho HD" tvg-logo="http://logos.servidor.tv/gloobinho.png" group-title="Canais: Infantil",Gloobinho HD
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/1515
+#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="Gloobinho HD+" tvg-logo="http://logos.servidor.tv/gloobinho.png" group-title="Canais: Infantil",Gloobinho HD+
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/237
+#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="Nat Geo Kids HD" tvg-logo="http://logos.servidor.tv/natgeokids.png" group-title="Canais: Infantil",Nat Geo Kids HD
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/1451
+#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="Nat Geo Kids HD+" tvg-logo="http://logos.servidor.tv/natgeokids.png" group-title="Canais: Infantil",Nat Geo Kids HD+
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/195
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick JR HD" tvg-logo="http://logos.servidor.tv/nickjr.png" group-title="Canais: Infantil",Nick JR HD
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/1503
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick JR HD+" tvg-logo="http://logos.servidor.tv/nickjr.png" group-title="Canais: Infantil",Nick JR HD+
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/187
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon HD" tvg-logo="http://logos.servidor.tv/nick.jpg" group-title="Canais: Infantil",Nickelodeon HD
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/1449
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon HD+" tvg-logo="http://logos.servidor.tv/nick.jpg" group-title="Canais: Infantil",Nickelodeon HD+
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/188
+#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="Rá Tim Bum HD" tvg-logo="http://logos.servidor.tv/tvratimbum.png" group-title="Canais: Infantil",Rá Tim Bum HD
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/72
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast HD" tvg-logo="http://logos.servidor.tv/217f9f912144f6e0002eafd178774f57.png" group-title="Canais: Infantil",Tooncast HD
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/33263
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZooMoo HD+" tvg-logo="http://logos.servidor.tv/zoomoo.png" group-title="Canais: Infantil",ZooMoo HD+
+http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/377
 
 
