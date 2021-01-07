@@ -790,44 +790,22 @@ http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/377
 
 
 
-#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H POLÍCIA 24 HORAS
-http://pdsrv.io:80/bruno1/bruno1/62244
-#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",Mr.Bean 24HRS¹
-http://pdsrv.io:80/bruno1/bruno1/34902
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",THE BIG BANG THEORY T01 Á T05
-http://pdsrv.io:80/bruno1/bruno1/63308
-#EXTINF:-1 tvg-name="Dois Homens e Meio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",24H DOIS HOMENS E MEIO T01 A 06
-http://pdsrv.io:80/bruno1/bruno1/68363
 #EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H Todo Mundo Odeia O Chris
 http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/715099
 
 
 #EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", Naruto Classico
 http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/715098
-#EXTINF:-1  tvg-name="AVATAR A LENDA DE KORA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",AVATAR: A Lenda De Kora
-http://pdsrv.io:80/bruno1/bruno1/58591
 #EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://i.pinimg.com/originals/ce/27/87/ce27870499a90e05363c91afe6b04aed.png", Avatar - Lenda de Ang
 http://lista.titanuhd.top:8880/tata1234/tata1234/476
-#EXTINF:-1 tvg-name="OS CAVALEIROS DO ZODIACO" tvg-logo="https://i.ibb.co/XWnRVMS/AAAABXOCbya6-Yl-WMXZgw4l-G4-SJnlce4-Itcy-J-w-Viw4-Oxz-Fv-NSYQj6-HY-8-Na-TRO-ne-S0-F9-XNMMd-S9-UTLDf.png" group-title="CANAIS 24HRS",OS CAVALEIROS DO ZODIACO
-http://pdsrv.io:80/sara2020/sara2020/34909
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",POKEMON 24HRS
-http://pdsrv.io:80/bruno1/bruno1/34919
-#EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",YU-YU-Hakusho 24HRS
-http://pdsrv.io:80/bruno1/bruno1/63148
 #EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H Yugioh Clássico
 http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/755672
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",YU-GI-OH 24HRS
-http://pdsrv.io:80/bruno1/bruno1/63147
 #EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", AS AVENTURAS DE JACKIE CHAN
 http://lista.titanuhd.top:8880/tata1234/tata1234/4107
 #EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H As Aventuras De Jackie Chan
 http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/717108
 #EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H A Pantera Cor De Rosa
 http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/755668
-#EXTINF:-1 tvg-name="O MASKARA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",O MASKARA 24HRS
-http://pdsrv.io:80/sara2020/sara2020/34907
-#EXTINF:-1 tvg-name="O SHOW DO GARFIELD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",O SHOW DO GARFIELD
-http://pdsrv.io:80/sara2020/sara2020/60720
 #EXTINF:-1 tvg-name="FUTURAMA" tvg-logo="https://img.quizur.com/f/img5e9d39c3ca5034.14591752.jpeg?lastEdited=1587362397" group-title="CANAIS 24HRS", FUTURAMA
 http://lista.titanuhd.top:8880/tata1234/tata1234/470
 #EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", iCarly
@@ -835,125 +813,4 @@ http://lista.titanuhd.top:8880/tata1234/tata1234/473
 #EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", Kenan e Kel
 http://lista.titanuhd.top:8880/tata1234/tata1234/435
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",Chaves Desenho 24HRS!
-http://srvcliente.me:80/gege123/gege123/23546
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",24H PATRULHA CANINA T01
-http://pdsrv.io:80/bruno1/bruno1/60779
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",24H PATRULHA CANINA T02
-http://pdsrv.io:80/bruno1/bruno1/60780
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",24H PATRULHA CANINA T03
-http://pdsrv.io:80/bruno1/bruno1/60781
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",24H PATRULHA CANINA T04
-http://pdsrv.io:80/bruno1/bruno1/60782
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",Phineas e Ferb 24HRS
-http://pdsrv.io:80/bruno1/bruno1/34916
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",PICA PAU 24HRS
-http://pdsrv.io:80/bruno1/bruno1/34917
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",Pink-e-Cerebro 24HRS
-http://pdsrv.io:80/bruno1/bruno1/34918
-
-
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Marvel" ,Vingadores: Ultimato - 2019
-http://anhanga.lhmtv.gq/filmes/avengersendgamenew-dub-1080p.mp4
-
-#EXTINF:-1 group-title="Marvel",DEADPOOL 2
-http://webtvcde.com/Filmes/Dublados/Deadpool2.mkv
-
-
-#EXTINF:-1 tvg-logo="https://hyperpix.net/wp-content/uploads/2019/07/shrek-logo-font-download.jpg" group-title="Coletanea: Shrek",Shrek 1 (2001)
-http://srvcliente.me:80/movie/gege123/gege123/1894.mp4
-#EXTINF:-1 tvg-logo="https://hyperpix.net/wp-content/uploads/2019/07/shrek-logo-font-download.jpg" group-title="Coletanea: Shrek",Shrek 2 (2004)
-http://srvcliente.me:80/movie/gege123/gege123/1895.mp4
-#EXTINF:-1 tvg-logo="https://hyperpix.net/wp-content/uploads/2019/07/shrek-logo-font-download.jpg" group-title="Coletanea: Shrek",Shrek 3 (2007)
-http://srvcliente.me:80/movie/gege123/gege123/1896.mp4
-#EXTINF:-1 tvg-logo="https://hyperpix.net/wp-content/uploads/2019/07/shrek-logo-font-download.jpg" group-title="Coletanea: Shrek",Shrek 4: Para Sempre (2010)
-http://srvcliente.me:80/movie/gege123/gege123/1897.mp4
-
-#EXTINF:-1 group-title="ANIME - FILMES" tvg-logo="https://animenew.com.br/wp-content/uploads/2014/03/cdz-lenda-do-Santu%C3%A1rio.jpg",Os Cavaleiros do Zodíaco: A Lenda do Santuário
-http://canaishd.servidor.tv:8080/movie/lori/12345/32444.mp4
-
-
-#EXTINF:-1 tvg-logo="https://assets.fontsinuse.com/static/use-media-items/6/5995/full-1024x908/56701cba/toy-story-logo-1024x908.jpeg?resolution=0" group-title="Coletanea: Toy Story",Toy Story 1 - Um Mundo de Aventuras (1995)
-http://srvcliente.me:80/movie/gege123/gege123/1268.mp4
-#EXTINF:-1 tvg-logo="https://assets.fontsinuse.com/static/use-media-items/6/5995/full-1024x908/56701cba/toy-story-logo-1024x908.jpeg?resolution=0" group-title="Coletanea: Toy Story",Toy Story 1: Um Mundo de Aventuras (1995)
-http://srvcliente.me:80/movie/gege123/gege123/1839.mp4
-#EXTINF:-1 tvg-logo="https://assets.fontsinuse.com/static/use-media-items/6/5995/full-1024x908/56701cba/toy-story-logo-1024x908.jpeg?resolution=0" group-title="Coletanea: Toy Story",Toy Story 2 (1999)
-http://srvcliente.me:80/movie/gege123/gege123/1840.mp4
-#EXTINF:-1 tvg-logo="https://assets.fontsinuse.com/static/use-media-items/6/5995/full-1024x908/56701cba/toy-story-logo-1024x908.jpeg?resolution=0" group-title="Coletanea: Toy Story",Toy Story 2 (1999)
-http://srvcliente.me:80/movie/gege123/gege123/1269.mp4
-#EXTINF:-1 tvg-logo="https://assets.fontsinuse.com/static/use-media-items/6/5995/full-1024x908/56701cba/toy-story-logo-1024x908.jpeg?resolution=0" group-title="Coletanea: Toy Story",Toy Story 3 (2010)
-http://srvcliente.me:80/movie/gege123/gege123/1841.mp4
-#EXTINF:-1 tvg-logo="https://assets.fontsinuse.com/static/use-media-items/6/5995/full-1024x908/56701cba/toy-story-logo-1024x908.jpeg?resolution=0" group-title="Coletanea: Toy Story",Toy Story 3 (2010)
-http://srvcliente.me:80/movie/gege123/gege123/1270.mp4
-#EXTINF:-1 tvg-logo="https://assets.fontsinuse.com/static/use-media-items/6/5995/full-1024x908/56701cba/toy-story-logo-1024x908.jpeg?resolution=0" group-title="Coletanea: Toy Story",Toy Story 4 (2019)
-http://srvcliente.me:80/movie/gege123/gege123/1098.mp4
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71DTQQqJfQL._AC_SX466_.jpg" group-title="Coletanea: Star Wars",STAR WARS - A AMEAÇA FANTASMA (1999)
-http://webtvcde.com/Filmes/Dublados/Star.Wars/Star.Wars.Episode.I.The.Phantom.Menace.1999.mkv
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71DTQQqJfQL._AC_SX466_.jpg" group-title="Coletanea: Star Wars",STAR WARS 2 - O ATAQUE DOS CLONES (2002)
-http://webtvcde.com/Filmes/Dublados/Star.Wars/Star.Wars.Episode.II.Attack.of.the.Clones.2002.mkv
-#EXTINF:-1 group-title="Coletanea: Star Wars" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71DTQQqJfQL._AC_SX466_.jpg",STAR WARS 3 - A VINGANÇA DOS SITH (2005)
-http://webtvcde.com/Filmes/Dublados/Star.Wars/Star.Wars.Episode.III.Revenge.of.the.Sith.2005.mkv
-#EXTINF:-1 group-title="Coletanea: Star Wars" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71DTQQqJfQL._AC_SX466_.jpg",Star Wars: Episódio 3 - A Vingança dos Sith (2005)
-http://srvcliente.me:80/movie/gege123/gege123/1877.mp4
-#EXTINF:-1 group-title="Coletanea: Star Wars" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71DTQQqJfQL._AC_SX466_.jpg",STAR WARS 4 - UMA NOVA ESPERANÇA
-http://webtvcde.com/Filmes/Dublados/Star.Wars/Star.Wars.IV.A.New.Hope.1977.mkv
-#EXTINF:-1 group-title="Coletanea: Star Wars" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71DTQQqJfQL._AC_SX466_.jpg",Star Wars 5: O Império Contra-Ataca (1980)
-http://srvcliente.me:80/movie/gege123/gege123/1873.mp4
-#EXTINF:-1 group-title="Coletanea: Star Wars" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71DTQQqJfQL._AC_SX466_.jpg",STAR WARS 6 - O RETORNO DE JEDI
-http://webtvcde.com/Filmes/Dublados/Star.Wars/Star.Wars.Episode.VI.Return.of.the.Jedi.1983.mkv
-#EXTINF:-1 group-title="Coletanea: Star Wars" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71DTQQqJfQL._AC_SX466_.jpg",Star Wars 7: O Despertar da Força (2015)
-http://srvcliente.me:80/movie/gege123/gege123/1878.mp4
-#EXTINF:-1 group-title="Coletanea: Star Wars" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71DTQQqJfQL._AC_SX466_.jpg",Star Wars 8: Os Ultimos Jedi (2018)
-http://srvcliente.me:80/movie/gege123/gege123/2381.mp4
-#EXTINF:-1 group-title="Coletanea: Star Wars" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71DTQQqJfQL._AC_SX466_.jpg",Star Wars 9: A Ascensão Skywalker (2019)
-http://srvcliente.me:80/movie/gege123/gege123/742.mp4
-
-
-#EXTINF:-1 group-title="Coletanea: De Volta P/ Futuro" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/BackFuturePoster.jpg",De Volta Pro Futuro 1
-http://webtvcde.com/Filmes/Dublados/Volta/De%20volta%20para%20o%20futuro%201.mkv
-#EXTINF:-1 group-title="Coletanea: De Volta P/ Futuro" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0c/BackFuture2Poster.jpg",De Volta Pro Futuro 2
-http://webtvcde.com/Filmes/Dublados/Volta/De%20volta%20para%20o%20futuro%202.mkv
-#EXTINF:-1 group-title="Coletanea: De Volta P/ Futuro" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8c/BackFuture3Poster.jpg",De Volta Pro Futuro 3
-http://webtvcde.com/Filmes/Dublados/Volta/De%20volta%20para%20o%20futuro%203.mkv
-
-
-#EXTINF:-1 group-title="AVENTURA - FILMES",JUMANJI: BEM VINDO A SELVA
-http://webtvcde.com/Filmes/Dublados/Jumanji.Bem.Vindo.a.Selva.2018.1080p.mkv
-
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos" ,A Hora do Rush
-http://anhanga.lhmtv.gq/filmes/rush-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos" ,A Hora do Rush 2
-http://anhanga.lhmtv.gq/filmes/rush2-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos" ,Cidade de Deus
-http://anhanga.lhmtv.gq/filmes/cidadededeus-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos" ,Forrest Gump – O Contador de Historias
-http://anhanga.lhmtv.gq/filmes/forrestgump-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 1990" ,O Poderoso Chefao
-http://aranami.lhmtv.gq/filmes/O-Poderoso-Chefao-1.mp4
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 1990" ,O Poderoso Chefao 2
-http://aranami.lhmtv.gq/filmes/O-Poderoso-Chefao-2.mp4
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 90" ,O Poderoso Chefao 3
-http://aranami.lhmtv.gq/filmes/O-Poderoso-Chefao-3.mp4
-
-
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , Harry Potter 1 Pedra Filosofal
-https://playplus.azureedge.net/RCFServer1/ondemand/HRYPTR01.mp4
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , Harry Potter 2 Câmara secreta
-https://playplus.azureedge.net/RCFServer1/ondemand/HRYPTR02.mp4
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , Harry Potter 3 Prisioneiro de Azkaban
-https://playplus.azureedge.net/RCFServer1/ondemand/HRYPTR03.mp4?attachment=true
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , Harry Potter 4 Calice de Fogo
-https://playplus.azureedge.net/RCFServer1/ondemand/HRYPTR04.mp4?attachment=true
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , Harry Potter 5 Ordem da Fênix
-https://playplus.azureedge.net/RCFServer1/ondemand/HRYPTR05.mp4?attachment=true
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , Harry Potter 6 Enigma do Principe
-https://playplus.azureedge.net/RCFServer1/ondemand/HRYPTR06.mp4?attachment=true
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , Harry Potter 7 Relíquias da Morte: Parte 1
-https://playplus.azureedge.net/RCFServer1/ondemand/HRYPTR07.mp4?attachment=true
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , Harry Potter  Relíquias da Morte: Parte 2
-https://playplus.azureedge.net/RCFServer1/ondemand/HRYPTR08.mp4?attachment=true
 
