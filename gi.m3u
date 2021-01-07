@@ -1,0 +1,28 @@
+#EXTM3U
+
+
+http://canais.servidor.tv:8080/usuarioquatro/1672gw28h/32624
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil HD" tvg-logo="http://logos.servidor.tv/cnnbrasil.png" group-title="Canais: Notícia",CNN Brasil HD
+http://canais.servidor.tv:8080/usuarioquatro/1672gw28h/21417
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil HD+" tvg-logo="http://logos.servidor.tv/cnnbrasil.png" group-title="Canais: Notícia",CNN Brasil HD+
+http://canais.servidor.tv:8080/usuarioquatro/1672gw28h/21418
+#EXTINF:-1 tvg-id="cnnespanol.us" tvg-name="CNN Espanhol SD" tvg-logo="http://logos.servidor.tv/CNN.png" group-title="Canais: Notícia",CNN Espanhol SD
+http://canais.servidor.tv:8080/usuarioquatro/1672gw28h/345
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN Internacional SD" tvg-logo="http://logos.servidor.tv/CNN.png" group-title="Canais: Notícia",CNN Internacional SD
+http://canais.servidor.tv:8080/usuarioquatro/1672gw28h/344
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="http://logos.servidor.tv/combate.jpg" group-title="Canais: Esporte",Combate HD
+http://canais.servidor.tv:8080/usuarioquatro/1672gw28h/1489
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD+" tvg-logo="http://logos.servidor.tv/combate.jpg" group-title="Canais: Esporte",Combate HD+
+http://canais.servidor.tv:8080/usuarioquatro/1672gw28h/342
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="http://logos.servidor.tv/comedycentral.jpg" group-title="Canais: Filme e Série",Comedy Central HD
+http://canais.servidor.tv:8080/usuarioquatro/1672gw28h/1488
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central HD+" tvg-logo="http://logos.servidor.tv/comedycentral.jpg" group-title="Canais: Filme e Série",Comedy Central HD+
+http://canais.servidor.tv:8080/usuarioquatro/1672gw28h/340
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="Cultura HD" tvg-logo="http://logos.servidor.tv/cultura.jpg" group-title="Canais: Abertos",Cultura HD
+http://canais.servidor.tv:8080/usuarioquatro/1672gw28h/29772
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! SD" tvg-logo="http://logos.servidor.tv/curta.png" group-title="Canais: Variedade e Música",Curta! SD
+http://canais.servidor.tv:8080/usuarioquatro/1672gw28h/338
+#EXTINF:-1 tvg-id="" tvg-name="DAZN HD" tvg-logo="http://logos.servidor.tv/dazn.jpg" group-title="Canais: Esporte",DAZN HD
+http://canais.servidor.tv:8080/usuarioquatro/1672gw28h/2716
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel HD" tvg-logo="http://logos.servidor.tv/discoverychannel.png" group-title="Canais: Documentário",Discovery Channel HD
+http://canais.servidor.tv:8080/usuarioquatro/1672gw28h/1487
