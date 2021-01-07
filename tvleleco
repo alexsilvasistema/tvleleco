@@ -2,10 +2,6 @@
 
 
 
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",A FAZENDA
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/afazenda.m3u8
-
 #EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",GLOBO RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
@@ -45,62 +41,17 @@ https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 #EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",RECORD SP
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",Fox Sports HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/foxsports1.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",Fox Sports 2 HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/foxsports2.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",PREMIERE HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/premiereclubes.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",PREMIERE2 HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/premiere2.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",PREMIERE3 HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/premiere3.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="", PREMIERE4 HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/premiere4.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",PREMIERE5 HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/premiere5.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",PREMIERE6 HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/premiere6.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",PREMIERE7 HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/premiere7.m3u8
-
 #EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",ESPN EXTRA
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-b.m3u8
 
 #EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",ESPN BRASIL
 http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
 
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",COMBATE HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/combate.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",SPORTV HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/sportv1.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",SPORTV2 HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/sportv2.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",SPORTV3 HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/sportv3.m3u8
-
 #EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",ESPN HD
 http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_240_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",ESPN2 HD
 http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-b.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",CARTOON network
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/cartoon.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",TOONCAST HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/tooncast.m3u8
 
 #EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",DISNEY JR
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
@@ -111,113 +62,14 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
 #EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",DISNEY CHANNEL HD
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
 
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",GLOOB
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/gloob.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",BOOMERANG FHD
-http://pfsv.io:80/live/ibqJejmTr5/9Q1kvPkuRn/138.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",DISCOVERY KIDS HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/discoverykids.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",TELECINE PREMIUM HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/telecinepremium.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",TELECINE ACTION HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/telecineaction.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",TELECINE PIPOCA HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/telecinepipoca.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",TELECINE CULT HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/telecinecult.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",TELECINE FUN HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/telecinefun.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",TELECINE TOUCH HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/telecinetouch.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",HBO PLUS HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/hboplus.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",HBO HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/hbo.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",HBO 2 HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/hbo2.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",HBO MUNDI HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/hbomundi.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",HBO SIGNATURE HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/hbosignature.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",HBO EXTREME HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/hboxtreme.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",WARNER HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/warner.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",MEGAPIX HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/megapix.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",SPACE HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/space.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",FOX PREMIUM 1-HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/foxpremium1.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",FOX PREMIUM 2 SD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/foxpremium2.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",FOX HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/fox.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",TNT HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/tnt.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",TNT SERIES HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/tntseries.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",DISCOREVY H&H HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/discoveryhomeihealth.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",DISCOREVY HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/discovery.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",ANIMAL PLANET-1080-H264
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/animalplanet.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",HGTV HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/hgtv.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",VIVA 
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/viva.m3u8
-
 #EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",Multishow
 https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/playlist.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",GLOBO NEWS HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/globonews.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",GNT HD
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/gnt.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",BAND NEWS
-http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/bandnews.m3u8
 
 #EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",record NEWS
 http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
 
 #EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",CNN
 https://streaming.cnnbrasil.com.br/cnndigital_main_Output2.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",Fazenda 2020 24hrs
-https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/Cq0Fq6l_IBLW7PLm_tXfW2oxrpzrMZ1xdrdM3-fGKQX3NG7jgozvLFjUPhhWxP42dIed_7Se8YxWhLsRcMUQuRhGMmQta57064uRou2B15PLshgeDwj-iSLtwWaUeB-HuenSHPEWCdpThzhi9xTaEnH_rCSyGKe_QClH8zj-DcJGTO9Y-oN5eSgHgEMKD4OKpFLj5mR-DP06lMOVkGqZdJD6y-y7gVVRsgiHPM1lyLZ1LpEMh-vkg79MqUh6PNLN41Qz_u0s8RdBT_pwfDquh8aP-iQ3A-Ycg1Mb45YmXC_16Lw53JUaiDdwQuxaXxVfMVWMIDlG7DUNGfW0akLNIaooGuUkv4QprxwLAstqEHRttcmgRuUrDPsLj3pBdHEdl_-subFQw3nVkuUTqQ2d9p-f70wR-t1pNlVB9JaFwSZgt6Qld36OeDMydEjPQ8N7YdgNKGjdNqB9Qg5TCy2KSEcPTibaCbUaF1B4g5G4nN6HZO8Ir3yEPD0ST02af2kvCsW1ktFXi_iwax0wOfst3e1ZToSST3Q8I44ycRJ5seiIea03lAMoYoiOHWztACJUjpjsn7veBrUXLygTrfm_5Bq6NhdAUces8TJ4azfDxseUZ_hyBda6nrs4f29Q-tjQdEq5ODWFQs6CSSU8DkP0Q7MM8BJspRERwaBPvzHcy8R4T0UgVNs0jtlcCZRwAYyNPzd27xcyxIpnnO6B3hQk9nY-vN3BKjJddWXic0K2LmSXd8z43PjrHMSekOPUbMYomuTrLsbBKNt5OjZnmKu9G61ma88a-eFI3ZUP6WYbyim4JZtWXFpmTMW_ihSYqs0qfUAKrw6pr_q0N4mjuZMFweVByMGBy940zMwWXE1bqhZdDFZg4QGH044PY1riJ-B4tak-5saIsZoJFW4pwT8y5xIQczZvgCj9mRpnv7_GFKEVKhoMKjc9zhhgHAPcLoF4.m3u8
-
-#EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",TVSUL 
-https://tv.bitstreaming.info:1936/redetvsultvstation/redetvsultvstation/playlist.m3u8
 
 #EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",TVJN Filmes
 https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w455959427.m3u8
