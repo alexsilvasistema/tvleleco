@@ -1,23 +1,30 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="" group-title="fantasia", Lobo Adolescente - O Garoto do Futuro
-https://onedrive.live.com/download?resid=1C08357F9036C2F6!1203&authkey=!AGj1r6iNeqIAgZ4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sPch30g/image.png" group-title="acao", Três Homens em Conflito
-https://onedrive.live.com/download?resid=1C08357F9036C2F6!1212&authkey=!AAx5DtVTs6hi_kk
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cc621bq/image.png" group-title="ficção científica", Viagem Ao Centro da Terra
-https://onedrive.live.com/download?resid=1C08357F9036C2F6!1237&authkey=!AOJ42aIcHiLXmOo
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Fn2VJNM/76t76tyg.jpg" group-title="ficção científica", O Núcleo - Missão ao Centro Da Terra
-https://onedrive.live.com/download?resid=1C08357F9036C2F6!1240&authkey=!AAc6t7L1rT-A26Y
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DKZrBMk/image.png" group-title="acao", Busca Implacável
-https://onedrive.live.com/download?resid=1C08357F9036C2F6!1417&authkey=!AA_FuORwOvH-s78
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TmRPbdv/76t76tyg.jpg" group-title="acao", Busca Implacável 2
-https://onedrive.live.com/download?resid=1C08357F9036C2F6!1374&authkey=!ANJoioSLIdRvVmk
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LSn12J3/image.png" group-title="acao", Busca Implacável 3
-https://onedrive.live.com/download?resid=1C08357F9036C2F6!1379&authkey=!ACp-9bEEQvaaicI
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 2 HD
+http://canaishd.servidor.tv:8080/83431597/83431597a/1511
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 2 HD+
+http://canaishd.servidor.tv:8080/83431597/83431597a/172
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 3 HD
+http://canaishd.servidor.tv:8080/83431597/83431597a/1510
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 3 HD+
+http://canaishd.servidor.tv:8080/83431597/83431597a/170
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 4 HD
+http://canaishd.servidor.tv:8080/83431597/83431597a/1509
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 4 HD+
+http://canaishd.servidor.tv:8080/83431597/83431597a/168
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 5 HD
+http://canaishd.servidor.tv:8080/83431597/83431597a/1508
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 5 HD+
+http://canaishd.servidor.tv:8080/83431597/83431597a/166
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 6 HD
+http://canaishd.servidor.tv:8080/83431597/83431597a/1507
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 6 HD+
+http://canaishd.servidor.tv:8080/83431597/83431597a/164
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 7 HD
+http://canaishd.servidor.tv:8080/83431597/83431597a/1506
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 7 HD+
+http://canaishd.servidor.tv:8080/83431597/83431597a/162
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD" tvg-logo="http://canaishd.servidor.tv:8080/images/FVOQsOCLYJSd5iqMj8vbolVmWoLzHs3J.jpg" group-title="Canais: Esporte",Premiere Clubes HD
+http://canaishd.servidor.tv:8080/83431597/83431597a/1447
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD+" tvg-logo="http://canaishd.servidor.tv:8080/images/FVOQsOCLYJSd5iqMj8vbolVmWoLzHs3J.jpg" group-title="Canais: Esporte",Premiere Clubes HD+
+http://canaishd.servidor.tv:8080/83431597/83431597a/159
