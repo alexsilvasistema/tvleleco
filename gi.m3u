@@ -1,28 +1,173 @@
 #EXTM3U
-
-
-http://canais.servidor.tv:8080/usuarioquatro/1672gw28h/32624
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="http://logos.servidor.tv/ae.jpg" group-title="Canais: Filme e Série",A&E HD
+http://canais.servidor.tv:8080/rebeca/rebecah17/1521
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD+" tvg-logo="http://logos.servidor.tv/ae.jpg" group-title="Canais: Filme e Série",A&E HD+
+http://canais.servidor.tv:8080/rebeca/rebecah17/375
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda HD" tvg-logo="http://logos.servidor.tv/afazenda.png" group-title="Canais: 24 Horas",A Fazenda HD
+http://canais.servidor.tv:8080/rebeca/rebecah17/33187
+#EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas" tvg-logo="http://logos.servidor.tv/3palavrinhas.png" group-title="Canais: 24 Horas",3 Palavrinhas
+http://canais.servidor.tv:8080/rebeca/rebecah17/33087
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Família" tvg-logo="http://logos.servidor.tv/agrandefamilia.png" group-title="Canais: 24 Horas",A Grande Família
+http://canais.servidor.tv:8080/rebeca/rebecah17/33117
+#EXTINF:-1 tvg-id="" tvg-name="Aeroporto Área Restrita" tvg-logo="http://logos.servidor.tv/aeroporto24h.jpg" group-title="Canais: 24 Horas",Aeroporto Área Restrita
+http://canais.servidor.tv:8080/rebeca/rebecah17/32595
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="http://logos.servidor.tv/amc.jpg" group-title="Canais: Filme e Série",AMC HD
+http://canais.servidor.tv:8080/rebeca/rebecah17/1498
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD+" tvg-logo="http://logos.servidor.tv/amc.jpg" group-title="Canais: Filme e Série",AMC HD+
+http://canais.servidor.tv:8080/rebeca/rebecah17/373
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="http://logos.servidor.tv/animalplanet.png" group-title="Canais: Documentário",Animal Planet HD
+http://canais.servidor.tv:8080/rebeca/rebecah17/1497
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD+" tvg-logo="http://logos.servidor.tv/animalplanet.png" group-title="Canais: Documentário",Animal Planet HD+
+http://canais.servidor.tv:8080/rebeca/rebecah17/371
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 HD+" tvg-logo="http://logos.servidor.tv/arte1.jpg" group-title="Canais: Variedade e Música",Arte 1 HD+
+http://canais.servidor.tv:8080/rebeca/rebecah17/15
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Jackie Chan" tvg-logo="http://canaishd.servidor.tv:8080/images/c21badd84a757ee66ed3fff17ff244b7.jpg" group-title="Canais: 24 Horas",As Aventuras de Jackie Chan
+http://canais.servidor.tv:8080/rebeca/rebecah17/32589
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="http://logos.servidor.tv/axn.jpg" group-title="Canais: Filme e Série",AXN HD
+http://canais.servidor.tv:8080/rebeca/rebecah17/1496
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD+" tvg-logo="http://logos.servidor.tv/axn.jpg" group-title="Canais: Filme e Série",AXN HD+
+http://canais.servidor.tv:8080/rebeca/rebecah17/369
+#EXTINF:-1 tvg-id="babytv.br" tvg-name="Baby TV SD" tvg-logo="http://logos.servidor.tv/babytv.png" group-title="Canais: Infantil",Baby TV SD
+http://canais.servidor.tv:8080/rebeca/rebecah17/367
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band HD" tvg-logo="http://logos.servidor.tv/band.png" group-title="Canais: Abertos",Band HD
+http://canais.servidor.tv:8080/rebeca/rebecah17/489
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band HD+" tvg-logo="http://logos.servidor.tv/band.png" group-title="Canais: Abertos",Band HD+
+http://canais.servidor.tv:8080/rebeca/rebecah17/484
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD" tvg-logo="http://logos.servidor.tv/bandnews.png" group-title="Canais: Notícia",Band News HD
+http://canais.servidor.tv:8080/rebeca/rebecah17/1494
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD+" tvg-logo="http://logos.servidor.tv/bandnews.png" group-title="Canais: Notícia",Band News HD+
+http://canais.servidor.tv:8080/rebeca/rebecah17/363
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD" tvg-logo="http://logos.servidor.tv/bandsports.png" group-title="Canais: Esporte",Band Sports HD
+http://canais.servidor.tv:8080/rebeca/rebecah17/1495
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD+" tvg-logo="http://logos.servidor.tv/bandsports.png" group-title="Canais: Esporte",Band Sports HD+
+http://canais.servidor.tv:8080/rebeca/rebecah17/360
+#EXTINF:-1 tvg-id="" tvg-name="Beastars" tvg-logo="http://logos.servidor.tv/beastars.png" group-title="Canais: 24 Horas",Beastars
+http://canais.servidor.tv:8080/rebeca/rebecah17/33088
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="http://logos.servidor.tv/bis.png" group-title="Canais: Variedade e Música",BIS HD
+http://canais.servidor.tv:8080/rebeca/rebecah17/1493
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD+" tvg-logo="http://logos.servidor.tv/bis.png" group-title="Canais: Variedade e Música",BIS HD+
+http://canais.servidor.tv:8080/rebeca/rebecah17/358
+#EXTINF:-1 tvg-id="" tvg-name="Bleach" tvg-logo="http://logos.servidor.tv/bleach.png" group-title="Canais: 24 Horas",Bleach
+http://canais.servidor.tv:8080/rebeca/rebecah17/33089
+#EXTINF:-1 tvg-id="aande.br" tvg-name="Boa Vontade SD" tvg-logo="http://logos.servidor.tv/boavontade.jpg" group-title="Canais: Religião",Boa Vontade SD
+http://canais.servidor.tv:8080/rebeca/rebecah17/22508
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="http://canaishd.servidor.tv:8080/images/94336a363c529a5350ce2e50ccb49e5b.jpg" group-title="Canais: 24 Horas",Bob Esponja
+http://canais.servidor.tv:8080/rebeca/rebecah17/32590
+#EXTINF:-1 tvg-id="" tvg-name="Boku no Hero Academia" tvg-logo="http://logos.servidor.tv/bokunoheroacademia.png" group-title="Canais: 24 Horas",Boku no Hero Academia
+http://canais.servidor.tv:8080/rebeca/rebecah17/33090
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD" tvg-logo="http://logos.servidor.tv/boomerang.png" group-title="Canais: Infantil",Boomerang HD
+http://canais.servidor.tv:8080/rebeca/rebecah17/1492
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD+" tvg-logo="http://logos.servidor.tv/boomerang.png" group-title="Canais: Infantil",Boomerang HD+
+http://canais.servidor.tv:8080/rebeca/rebecah17/355
+#EXTINF:-1 tvg-id="" tvg-name="Boruto" tvg-logo="http://logos.servidor.tv/boruto.png" group-title="Canais: 24 Horas",Boruto
+http://canais.servidor.tv:8080/rebeca/rebecah17/33091
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil HD" tvg-logo="http://logos.servidor.tv/canalbrasil.jpg" group-title="Canais: Filme e Série",Canal Brasil HD
+http://canais.servidor.tv:8080/rebeca/rebecah17/353
+#EXTINF:-1 tvg-id="canaldoboi.br" tvg-name="Canal do Boi HD" tvg-logo="http://logos.servidor.tv/canaldoboi.png" group-title="Canais: Abertos",Canal do Boi HD
+http://canais.servidor.tv:8080/rebeca/rebecah17/29771
+#EXTINF:-1 tvg-id="canalrural.br" tvg-name="Canal Rural HD" tvg-logo="http://logos.servidor.tv/canalrural.gif" group-title="Canais: Abertos",Canal Rural HD
+http://canais.servidor.tv:8080/rebeca/rebecah17/29770
+#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="Canção Nova SD" tvg-logo="http://canaishd.servidor.tv:8080/images/754f20fd138da4ac2265060e8284d736.png" group-title="Canais: Religião",Canção Nova SD
+http://canais.servidor.tv:8080/rebeca/rebecah17/33237
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="http://logos.servidor.tv/cartoonnetwork.jpg" group-title="Canais: Infantil",Cartoon Network HD
+http://canais.servidor.tv:8080/rebeca/rebecah17/1491
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD+" tvg-logo="http://logos.servidor.tv/cartoonnetwork.jpg" group-title="Canais: Infantil",Cartoon Network HD+
+http://canais.servidor.tv:8080/rebeca/rebecah17/349
+#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragão" tvg-logo="http://logos.servidor.tv/cavernadodragao.png" group-title="Canais: 24 Horas",Caverna do Dragão
+http://canais.servidor.tv:8080/rebeca/rebecah17/33092
+#EXTINF:-1 tvg-id="" tvg-name="Chaves" tvg-logo="http://canaishd.servidor.tv:8080/images/lQFO5cPoYfKrACayWItroAi1Wdp_small.jpg" group-title="Canais: 24 Horas",Chaves
+http://canais.servidor.tv:8080/rebeca/rebecah17/32626
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1" tvg-logo="https://i.imgur.com/coKcRXM.png" group-title="Canais: CINE SKY",CINE SKY 1
+http://canais.servidor.tv:8080/rebeca/rebecah17/33230
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2" tvg-logo="http://canaishd.servidor.tv:8080/images/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: CINE SKY",CINE SKY 2
+http://canais.servidor.tv:8080/rebeca/rebecah17/33231
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 3" tvg-logo="http://canaishd.servidor.tv:8080/images/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: CINE SKY",CINE SKY 3
+http://canais.servidor.tv:8080/rebeca/rebecah17/33232
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 4" tvg-logo="http://canaishd.servidor.tv:8080/images/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: CINE SKY",CINE SKY 4
+http://canais.servidor.tv:8080/rebeca/rebecah17/33233
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 5" tvg-logo="http://canaishd.servidor.tv:8080/images/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: CINE SKY",CINE SKY 5
+http://canais.servidor.tv:8080/rebeca/rebecah17/33234
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 6" tvg-logo="http://canaishd.servidor.tv:8080/images/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: CINE SKY",CINE SKY 6
+http://canais.servidor.tv:8080/rebeca/rebecah17/33235
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 7" tvg-logo="http://canaishd.servidor.tv:8080/images/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: CINE SKY",CINE SKY 7
+http://canais.servidor.tv:8080/rebeca/rebecah17/33236
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://logos.servidor.tv/cinemax.png" group-title="Canais: Filme e Série",Cinemax HD
+http://canais.servidor.tv:8080/rebeca/rebecah17/1490
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD+" tvg-logo="http://logos.servidor.tv/cinemax.png" group-title="Canais: Filme e Série",Cinemax HD+
+http://canais.servidor.tv:8080/rebeca/rebecah17/347
+#EXTINF:-1 tvg-id="" tvg-name="Clássicos Walt Disney" tvg-logo="http://canaishd.servidor.tv:8080/images/054cb580da77a3a7cf0579d0fc2dcbc0.jpg" group-title="Canais: 24 Horas",Clássicos Walt Disney
+http://canais.servidor.tv:8080/rebeca/rebecah17/32624
 #EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil HD" tvg-logo="http://logos.servidor.tv/cnnbrasil.png" group-title="Canais: Notícia",CNN Brasil HD
-http://canais.servidor.tv:8080/usuarioquatro/1672gw28h/21417
+http://canais.servidor.tv:8080/rebeca/rebecah17/21417
 #EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil HD+" tvg-logo="http://logos.servidor.tv/cnnbrasil.png" group-title="Canais: Notícia",CNN Brasil HD+
-http://canais.servidor.tv:8080/usuarioquatro/1672gw28h/21418
+http://canais.servidor.tv:8080/rebeca/rebecah17/21418
 #EXTINF:-1 tvg-id="cnnespanol.us" tvg-name="CNN Espanhol SD" tvg-logo="http://logos.servidor.tv/CNN.png" group-title="Canais: Notícia",CNN Espanhol SD
-http://canais.servidor.tv:8080/usuarioquatro/1672gw28h/345
+http://canais.servidor.tv:8080/rebeca/rebecah17/345
 #EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN Internacional SD" tvg-logo="http://logos.servidor.tv/CNN.png" group-title="Canais: Notícia",CNN Internacional SD
-http://canais.servidor.tv:8080/usuarioquatro/1672gw28h/344
+http://canais.servidor.tv:8080/rebeca/rebecah17/344
 #EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="http://logos.servidor.tv/combate.jpg" group-title="Canais: Esporte",Combate HD
-http://canais.servidor.tv:8080/usuarioquatro/1672gw28h/1489
+http://canais.servidor.tv:8080/rebeca/rebecah17/1489
 #EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD+" tvg-logo="http://logos.servidor.tv/combate.jpg" group-title="Canais: Esporte",Combate HD+
-http://canais.servidor.tv:8080/usuarioquatro/1672gw28h/342
+http://canais.servidor.tv:8080/rebeca/rebecah17/342
 #EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="http://logos.servidor.tv/comedycentral.jpg" group-title="Canais: Filme e Série",Comedy Central HD
-http://canais.servidor.tv:8080/usuarioquatro/1672gw28h/1488
+http://canais.servidor.tv:8080/rebeca/rebecah17/1488
 #EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central HD+" tvg-logo="http://logos.servidor.tv/comedycentral.jpg" group-title="Canais: Filme e Série",Comedy Central HD+
-http://canais.servidor.tv:8080/usuarioquatro/1672gw28h/340
+http://canais.servidor.tv:8080/rebeca/rebecah17/340
 #EXTINF:-1 tvg-id="cultura.br" tvg-name="Cultura HD" tvg-logo="http://logos.servidor.tv/cultura.jpg" group-title="Canais: Abertos",Cultura HD
-http://canais.servidor.tv:8080/usuarioquatro/1672gw28h/29772
+http://canais.servidor.tv:8080/rebeca/rebecah17/29772
 #EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! SD" tvg-logo="http://logos.servidor.tv/curta.png" group-title="Canais: Variedade e Música",Curta! SD
-http://canais.servidor.tv:8080/usuarioquatro/1672gw28h/338
+http://canais.servidor.tv:8080/rebeca/rebecah17/338
 #EXTINF:-1 tvg-id="" tvg-name="DAZN HD" tvg-logo="http://logos.servidor.tv/dazn.jpg" group-title="Canais: Esporte",DAZN HD
-http://canais.servidor.tv:8080/usuarioquatro/1672gw28h/2716
+http://canais.servidor.tv:8080/rebeca/rebecah17/2716
 #EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel HD" tvg-logo="http://logos.servidor.tv/discoverychannel.png" group-title="Canais: Documentário",Discovery Channel HD
-http://canais.servidor.tv:8080/usuarioquatro/1672gw28h/1487
+http://canais.servidor.tv:8080/rebeca/rebecah17/1487
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel HD+" tvg-logo="http://logos.servidor.tv/discoverychannel.png" group-title="Canais: Documentário",Discovery Channel HD+
+http://canais.servidor.tv:8080/rebeca/rebecah17/337
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health HD" tvg-logo="http://logos.servidor.tv/discoveryhomehealth.jpg" group-title="Canais: Variedade e Música",Discovery Home & Health HD
+http://canais.servidor.tv:8080/rebeca/rebecah17/1518
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health HD+" tvg-logo="http://logos.servidor.tv/discoveryhomehealth.jpg" group-title="Canais: Variedade e Música",Discovery Home & Health HD+
+http://canais.servidor.tv:8080/rebeca/rebecah17/334
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids HD" tvg-logo="http://logos.servidor.tv/discoverykids.jpg" group-title="Canais: Infantil",Discovery Kids HD
+http://canais.servidor.tv:8080/rebeca/rebecah17/1483
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids HD+" tvg-logo="http://logos.servidor.tv/discoverykids.jpg" group-title="Canais: Infantil",Discovery Kids HD+
+http://canais.servidor.tv:8080/rebeca/rebecah17/332
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science HD" tvg-logo="http://logos.servidor.tv/discoveryscience.jpg" group-title="Canais: Documentário",Discovery Science HD
+http://canais.servidor.tv:8080/rebeca/rebecah17/1482
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science HD+" tvg-logo="http://logos.servidor.tv/discoveryscience.jpg" group-title="Canais: Documentário",Discovery Science HD+
+http://canais.servidor.tv:8080/rebeca/rebecah17/330
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater HD" tvg-logo="http://logos.servidor.tv/discoverytheater.png" group-title="Canais: Documentário",Discovery Theater HD
+http://canais.servidor.tv:8080/rebeca/rebecah17/1486
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater HD+" tvg-logo="http://logos.servidor.tv/discoverytheater.png" group-title="Canais: Documentário",Discovery Theater HD+
+http://canais.servidor.tv:8080/rebeca/rebecah17/329
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo HD" tvg-logo="http://logos.servidor.tv/discoveryturbo.jpg" group-title="Canais: Documentário",Discovery Turbo HD
+http://canais.servidor.tv:8080/rebeca/rebecah17/1481
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo HD+" tvg-logo="http://logos.servidor.tv/discoveryturbo.jpg" group-title="Canais: Documentário",Discovery Turbo HD+
+http://canais.servidor.tv:8080/rebeca/rebecah17/328
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World HD" tvg-logo="http://logos.servidor.tv/discoveryworld.jpg" group-title="Canais: Documentário",Discovery World HD
+http://canais.servidor.tv:8080/rebeca/rebecah17/1485
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World HD+" tvg-logo="http://logos.servidor.tv/discoveryworld.jpg" group-title="Canais: Documentário",Discovery World HD+
+http://canais.servidor.tv:8080/rebeca/rebecah17/326
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Channel HD" tvg-logo="http://logos.servidor.tv/disneychannel.png" group-title="Canais: Infantil",Disney Channel HD
+http://canais.servidor.tv:8080/rebeca/rebecah17/1480
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel HD+" tvg-logo="http://logos.servidor.tv/disneychannel.png" group-title="Canais: Infantil",Disney Channel HD+
+http://canais.servidor.tv:8080/rebeca/rebecah17/325
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Júnior HD" tvg-logo="http://logos.servidor.tv/disneyjr.png" group-title="Canais: Infantil",Disney Júnior HD
+http://canais.servidor.tv:8080/rebeca/rebecah17/1478
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Júnior HD+" tvg-logo="http://logos.servidor.tv/disneyjr.png" group-title="Canais: Infantil",Disney Júnior HD+
+http://canais.servidor.tv:8080/rebeca/rebecah17/323
+#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="Disney XD HD" tvg-logo="http://logos.servidor.tv/disneyxd.png" group-title="Canais: Infantil",Disney XD HD
+http://canais.servidor.tv:8080/rebeca/rebecah17/1517
+#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="Disney XD HD+" tvg-logo="http://logos.servidor.tv/disneyxd.png" group-title="Canais: Infantil",Disney XD HD+
+http://canais.servidor.tv:8080/rebeca/rebecah17/683
+#EXTINF:-1 tvg-id="dogtv.br" tvg-name="DOG TV HD" tvg-logo="http://canaishd.servidor.tv:8080/images/63a48035d178489bb3e9d42c8d5284bc.png" group-title="Canais: Variedade e Música",DOG TV HD
+http://canais.servidor.tv:8080/rebeca/rebecah17/33239
+#EXTINF:-1 tvg-id="dogtv.br" tvg-name="DOG TV HD+" tvg-logo="http://canaishd.servidor.tv:8080/images/63a48035d178489bb3e9d42c8d5284bc.png" group-title="Canais: Variedade e Música",DOG TV HD+
+http://canais.servidor.tv:8080/rebeca/rebecah17/33238
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio" tvg-logo="http://logos.servidor.tv/doishomensemeio.png" group-title="Canais: 24 Horas",Dois Homens e Meio
+http://canais.servidor.tv:8080/rebeca/rebecah17/33113
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball" tvg-logo="http://logos.servidor.tv/dragonball.png" group-title="Canais: 24 Horas",Dragon Ball
+http://canais.servidor.tv:8080/rebeca/rebecah17/33093
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT" tvg-logo="http://logos.servidor.tv/dragonballgt.png" group-title="Canais: 24 Horas",Dragon Ball GT
+http://canais.servidor.tv:8080/rebeca/rebecah17/33094
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Heroes" tvg-logo="http://canaishd.servidor.tv:8080/images/a0ecbc19e5c854d3115005d7ae47990c.png" group-title="Canais: 24 Horas",Dragon Ball Heroes
+http://canais.servidor.tv:8080/rebeca/rebecah17/32594
