@@ -790,73 +790,26 @@ http://canaishd.servidor.tv:8080/ux1kw2/6b0v1p/377
 
 
 
-
-
-#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 2 HD
-http://pdsrv.io:80/wilson02/wilson02/8149
-#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 4 HD
-http://pdsrv.io:80/wilson02/wilson02/6091
-#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 4 HD+
-http://pdsrv.io:80/wilson02/wilson02/11552
-#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 5 HD
-http://pdsrv.io:80/wilson02/wilson02/6090
-#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 6 HD
-http://pdsrv.io:80/wilson02/wilson02/10259
-#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 6 HD+
-http://pdsrv.io:80/wilson02/wilson02/11550
-#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 7 HD+
-http://pdsrv.io:80/wilson02/wilson02/10258
-
-
-
-
-#EXTINF:-1 tvg-name="OS FLINTSTONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS Classicos",OS FLINTSTONES
-http://pdsrv.io:80/wilson02/wilson02/34910
-#EXTINF:-1 tvg-id="" tvg-name="Thundercats" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS Classicos",Thundercats 24HRS
-http://pdsrv.io:80/wilson02/wilson02/34929
-#EXTINF:-1 tvg-id="" tvg-name="TRAPALHÕES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS Classicos",TRAPALHÕES 24Hors
-http://pdsrv.io:80/wilson02/wilson02/60728
 #EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H POLÍCIA 24 HORAS
 http://pdsrv.io:80/bruno1/bruno1/62244
 #EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",Mr.Bean 24HRS¹
 http://pdsrv.io:80/bruno1/bruno1/34902
-EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", A Grande Familia 24HRS
-http://pdsrv.io:80/wilson02/wilson02/34942
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",THE BIG BANG THEORY T01 Á T05
 http://pdsrv.io:80/bruno1/bruno1/63308
-#EXTINF:-1 tvg-name="Dois Homens e Meio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",Dois Homens e Meio
-http://pdsrv.io:80/wilson02/wilson02/34878
 #EXTINF:-1 tvg-name="Dois Homens e Meio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",24H DOIS HOMENS E MEIO T01 A 06
 http://pdsrv.io:80/bruno1/bruno1/68363
-#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", 24H OS SIMPSON 2000/2010
-http://pdsrv.io:80/wilson02/wilson02/60785
-#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",OS SIMPSONS 24HRS
-http://pdsrv.io:80/wilson02/wilson02/34911
-#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", TODO MUNDO ODEIA O CHRIS 24HRS
-http://pdsrv.io:80/wilson02/wilson02/34931
 #EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H Todo Mundo Odeia O Chris
 http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/715099
 
-#EXTINF:-1 tvg-name="Xena 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",Xena
-http://pdsrv.io:80/wilson02/wilson02/34938
-#EXTINF:-1 tvg-id="" tvg-name="NARUTO 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",NARUTO CLASSICO
-http://pdsrv.io:80/wilson02/wilson02/34903
+
 #EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", Naruto Classico
 http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/715098
-#EXTINF:-1 tvg-name="AVATAR A LENDA DE KORA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",AVATAR A LENDA DE KORA
-http://pdsrv.io:80/wilson02/wilson02/58591
 #EXTINF:-1  tvg-name="AVATAR A LENDA DE KORA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",AVATAR: A Lenda De Kora
 http://pdsrv.io:80/bruno1/bruno1/58591
 #EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://i.pinimg.com/originals/ce/27/87/ce27870499a90e05363c91afe6b04aed.png", Avatar - Lenda de Ang
 http://lista.titanuhd.top:8880/tata1234/tata1234/476
 #EXTINF:-1 tvg-name="OS CAVALEIROS DO ZODIACO" tvg-logo="https://i.ibb.co/XWnRVMS/AAAABXOCbya6-Yl-WMXZgw4l-G4-SJnlce4-Itcy-J-w-Viw4-Oxz-Fv-NSYQj6-HY-8-Na-TRO-ne-S0-F9-XNMMd-S9-UTLDf.png" group-title="CANAIS 24HRS",OS CAVALEIROS DO ZODIACO
 http://pdsrv.io:80/sara2020/sara2020/34909
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",DRAGON BALL
-http://pdsrv.io:80/wilson02/wilson02/34880
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",DRAGON BALL Z
-http://pdsrv.io:80/wilson02/wilson02/34882
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",DRAGON BALL SUPER
-http://pdsrv.io:80/wilson02/wilson02/34881
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",POKEMON 24HRS
 http://pdsrv.io:80/bruno1/bruno1/34919
 #EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",YU-YU-Hakusho 24HRS
@@ -869,16 +822,8 @@ http://pdsrv.io:80/bruno1/bruno1/63147
 http://lista.titanuhd.top:8880/tata1234/tata1234/4107
 #EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H As Aventuras De Jackie Chan
 http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/717108
-
-#EXTINF:-1 tvg-id="" tvg-name="Super Choque 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",Super Choque 24HRS
-http://pdsrv.io:80/wilson02/wilson02/34947
-
 #EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H A Pantera Cor De Rosa
 http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/755668
-#EXTINF:-1 tvg-id="" tvg-name="Super Choque 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",Super Choque 24HRS
-http://pdsrv.io:80/wilson02/wilson02/34947
-#EXTINF:-1 tvg-name="Superman 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",Superman 24HRS
-http://pdsrv.io:80/wilson02/wilson02/34927
 #EXTINF:-1 tvg-name="O MASKARA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",O MASKARA 24HRS
 http://pdsrv.io:80/sara2020/sara2020/34907
 #EXTINF:-1 tvg-name="O SHOW DO GARFIELD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",O SHOW DO GARFIELD
@@ -891,34 +836,8 @@ http://lista.titanuhd.top:8880/tata1234/tata1234/473
 http://lista.titanuhd.top:8880/tata1234/tata1234/435
 
 
-#EXTINF:-1 tvg-name="TARTARUGAS NINJAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",TARTARUGAS NINJAS
-http://pdsrv.io:80/wilson02/wilson02/34928
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",Chaves Desenho 24HRS!
 http://srvcliente.me:80/gege123/gege123/23546
-EXTINF:-1 group-title="24HRS KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", As Meninas Superpoderosas 24HRS
-http://pdsrv.io:80/wilson02/wilson02/34865
-EXTINF:-1 group-title="24HRS KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", BOB ESPONJA 24HRS
-http://pdsrv.io:80/wilson02/wilson02/34867
-#EXTINF:-1 tvg-name="Peppa Pig" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",Peppa Pig
-http://pdsrv.io:80/wilson02/wilson02/34914
-#EXTINF:-1 tvg-id="" tvg-name="Phineas e Ferb 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",Phineas e Ferb
-http://pdsrv.io:80/wilson02/wilson02/34916
-#EXTINF:-1 tvg-name="Tom & Jerry 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",Tom & Jerry 24HRS
-http://pdsrv.io:80/wilson02/wilson02/34932
-#EXTINF:-1 tvg-name="TOM & JERRY CLASSICO 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",TOM & JERRY CLASSICO 24HRS
-http://pdsrv.io:80/wilson02/wilson02/60776
-#EXTINF:-1 tvg-name="PICA PAU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",PICA PAU
-http://pdsrv.io:80/wilson02/wilson02/34917
-#EXTINF:-1 tvg-name="PLAY KIDS" tvg-logo="https://4.bp.blogspot.com/-HfSPbHu76Zc/WYB6u2Jg7yI/AAAAAAAAIEs/9b7qmq0dNTgdh8hFgUuKsBZ9f_thDdR6ACLcBGAs/s1600/playkidslogo.png" group-title="24HRS KIDS",PLAY KIDS HD
-http://pdsrv.io:80/wilson02/wilson02/32164
-#EXTINF:-1 tvg-name="POKEMON 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",POKEMON 24HRS
-http://pdsrv.io:80/wilson02/wilson02/34919
-#EXTINF:-1 tvg-name="POLLY POCKET 24hrs³" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",POLLY POCKET
-http://pdsrv.io:80/wilson02/wilson02/60722
-#EXTINF:-1 tvg-id="" tvg-name="Popeye O Marinheiro 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",Popeye O Marinheiro
-http://pdsrv.io:80/wilson02/wilson02/34920
-#EXTINF:-1 tvg-name="Steven Universe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",Steven Universe
-http://pdsrv.io:80/wilson02/wilson02/34926
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",24H PATRULHA CANINA T01
 http://pdsrv.io:80/bruno1/bruno1/60779
@@ -936,83 +855,11 @@ http://pdsrv.io:80/bruno1/bruno1/34917
 http://pdsrv.io:80/bruno1/bruno1/34918
 
 
-
-
-
-//Filmes
-
-#EXTINF:-1 tvg-name="O Incrível Hulk (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8RddLhz0bHigZwltYlngPZJII0.jpg" group-title="Marvel",O Incrível Hulk (2008)
-http://pdsrv.io:80/movie/wilson02/wilson02/34658.mp4
-#EXTINF:-1 tvg-name="Homem de Ferro (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7w6s8TdJ0Wdayz2MCHZA5wIk9nq.jpg" group-title="Marvel",Homem de Ferro (2008)
-http://pdsrv.io:80/movie/wilson02/wilson02/34654.mp4
-#EXTINF:-1 tvg-name="Homem de Ferro 2 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7NFIOapixCJV3zA3sF823KVrNL.jpg" group-title="Marvel",Homem de Ferro 2 (2010)
-http://pdsrv.io:80/movie/wilson02/wilson02/34655.mp4
-#EXTINF:-1 tvg-name="Homem de Ferro 3 - 2013" tvg-logo="http://srv.tvprodigital.net:25461/images/5193e13315529a73af627d5741d22e32.jpg" group-title="Marvel",Homem de Ferro 3 - 2013
-http://pdsrv.io:80/movie/wilson02/wilson02/34656.mp4
-#EXTINF:-1 tvg-name="Capitão América: O Primeiro Vingador - 2011" tvg-logo="http://srv.tvprodigital.net:25461/images/6ab25257a320d8285cf01f825afa601b.jpg" group-title="Marvel",Capitão América: O Primeiro Vingador - 2011
-http://pdsrv.io:80/movie/wilson02/wilson02/34647.mp4
-
-#EXTINF:-1 tvg-name="Thor (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rimMyzCkPR2buxVL7be1ceuNeH.jpg" group-title="Marvel",Thor (2011)
-http://pdsrv.io:80/movie/wilson02/wilson02/34661.mp4
-#EXTINF:-1 tvg-name="Os Vingadores (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="Marvel",Os Vingadores (2012)
-http://pdsrv.io:80/movie/wilson02/wilson02/34659.mp4
-
-#EXTINF:-1 tvg-name="Thor: O Mundo Sombrio (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oip30thvJBpJRveA13Rtd2am5Qg.jpg" group-title="Marvel",Thor: O Mundo Sombrio (2013)
-http://pdsrv.io:80/movie/wilson02/wilson02/34662.mp4
-
-#EXTINF:-1 tvg-name="Capitão América 2: O Soldado Invernal - 2014" tvg-logo="http://srv.tvprodigital.net:25461/images/874202010b1cd1487158e6e76ee0f739.jpg" group-title="Marvel",Capitão América 2: O Soldado Invernal - 2014
-http://pdsrv.io:80/movie/wilson02/wilson02/34648.mp4
-
-#EXTINF:-1 tvg-name="Vingadores: Era de Ultron" tvg-logo="http://srv.tvprodigital.net:25461/images/337b9ed64ab3828bc740f1afd6918388.jpg" group-title="Marvel",Vingadores: Era de Ultron - 2015
-http://pdsrv.io:80/movie/wilson02/wilson02/34664.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Formiga - 2015" tvg-logo="http://srv.tvprodigital.net:25461/images/bf13583b6f65fac764aba56decbfb9ec.jpg" group-title="Marvel",Homem-Formiga - 2015
-http://pdsrv.io:80/movie/wilson02/wilson02/34657.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Guardiões da Galáxia - 2014" tvg-logo="http://srv.tvprodigital.net:25461/images/24d695f0e1e7e66a246f670cc5f4c86e.jpg" group-title="Marvel",Guardiões da Galáxia - 2014
-http://pdsrv.io:80/movie/wilson02/wilson02/34650.mp4
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Marvel" , P2 Guardiões da Galáxia Vol. 1
-https://playplus.azureedge.net/RCFServer2/ondemand/GRDOESDGLXIA.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Guardiões da Galáxia Vol. 2 - 2017" tvg-logo="http://srv.tvprodigital.net:25461/images/92f32e72f2b85d1430989d90cf5f04c7.jpg" group-title="Marvel",Guardiões da Galáxia Vol. 2 - 2017
-http://pdsrv.io:80/movie/wilson02/wilson02/34651.mp4
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Marvel" , P2 Guardiões da Galáxia Vol. 2
-https://s-delivery20.mxdcontent.net/v/7646eae22d31768a4fd265dee38f592d.mp4
-
-#EXTINF:-1 tvg-name="Doutor Estranho - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsAQmTOCyMDgmiPp9J4aZTvvOJP.jpg" group-title="Marvel",Doutor Estranho - 2016
-http://pdsrv.io:80/movie/wilson02/wilson02/34649.mp4
-
-#EXTINF:-1 tvg-name="Capitão América: Guerra Civil - 2016" tvg-logo="http://srv.tvprodigital.net:25461/images/a0f456e2a78ed434191fd1807c161373.jpg" group-title="Marvel",Capitão América: Guerra Civil - 2016
-http://pdsrv.io:80/movie/wilson02/wilson02/34646.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha: De Volta ao Lar (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Fgs1ewIZiBBTto1XDHeBN0D8ug.jpg" group-title="Marvel",Homem-Aranha: De Volta ao Lar (2017)
-http://pdsrv.io:80/movie/wilson02/wilson02/34653.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Thor: Ragnarok (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLpIFiuWF1bKnBqi7LqnJcLHtN.jpg" group-title="Marvel",Thor: Ragnarok (2017)
-http://pdsrv.io:80/movie/wilson02/wilson02/34663.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Formiga e a Vespa - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azH25XpelbpzSEg8JoQVJQsFNF7.jpg" group-title="Marvel",Homem-Formiga e a Vespa - 2018
-http://pdsrv.io:80/movie/wilson02/wilson02/34652.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yQUnpc1BXgesJrfcdoRa6jTAnA.jpg" group-title="Marvel",Pantera Negra (2018)
-http://pdsrv.io:80/movie/wilson02/wilson02/34660.mp4
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Marvel" ,Vingadores: Ultimato - 2019
 http://anhanga.lhmtv.gq/filmes/avengersendgamenew-dub-1080p.mp4
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Marvel" ,Vingadores: Ultimato - 2019
-http://pdsrv.io:80/movie/wilson02/wilson02/34666.mp4
 
 #EXTINF:-1 group-title="Marvel",DEADPOOL 2
 http://webtvcde.com/Filmes/Dublados/Deadpool2.mkv
-
-#EXTINF:-1 tvg-name="Capitã Marvel - 2019" tvg-logo="http://srv.tvprodigital.net:25461/images/565626019eafe06e76ca175b34840339.jpg" group-title="Marvel",Capitã Marvel - 2019
-http://pdsrv.io:80/movie/wilson02/wilson02/34645.mp4
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Logan (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0CtZbae9cXj8bkWdCHzUHx5lsR.jpg" group-title="Marvel",Logan (2017)
-http://pdsrv.io:80/movie/wilson02/wilson02/35705.mp4
-
-
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Marvel" ,X-Men: Fenix Negra
-http://pdsrv.io:80/movie/wilson02/wilson02/42430.mp4
 
 
 #EXTINF:-1 tvg-logo="https://hyperpix.net/wp-content/uploads/2019/07/shrek-logo-font-download.jpg" group-title="Coletanea: Shrek",Shrek 1 (2001)
@@ -1024,80 +871,8 @@ http://srvcliente.me:80/movie/gege123/gege123/1896.mp4
 #EXTINF:-1 tvg-logo="https://hyperpix.net/wp-content/uploads/2019/07/shrek-logo-font-download.jpg" group-title="Coletanea: Shrek",Shrek 4: Para Sempre (2010)
 http://srvcliente.me:80/movie/gege123/gege123/1897.mp4
 
-#EXTINF:-1 tvg-name="O Rei Leão (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miTUFemBRhBEhdwA6r22AzI2YxD.jpg" group-title="ANIMACAO - FILMES",O Rei Leão (1994)
-http://pdsrv.io:80/movie/wilson02/wilson02/35752.mp4
-#EXTINF:-1 tvg-name="O Rei Leão II: O Reino de Simba (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2j5JYBIm5cGyfpWc7xtE02jjUiv.jpg" group-title="ANIMACAO - FILMES",O Rei Leão II: O Reino de Simba (1998)
-http://pdsrv.io:80/movie/wilson02/wilson02/35753.mp4
-#EXTINF:-1 tvg-name="O Rei Leão 3: Hakuna Matata (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtX3wirmv2VkQi1u4C9cSdHTXQn.jpg" group-title="ANIMACAO - FILMES",O Rei Leão 3: Hakuna Matata (2004)
-http://pdsrv.io:80/movie/wilson02/wilson02/35754.mp4
-#EXTINF:-1 tvg-name="Procurando Dory (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MOyKnmtE2hd778bIybw9v8HkiP.jpg" group-title="ANIMACAO - FILMES",Procurando Dory (2016)
-http://pdsrv.io:80/movie/wilson02/wilson02/35761.mp4
-#EXTINF:-1 tvg-name="Procurando Nemo (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djbivExXSZb0sTO8uYaaQC5vMRM.jpg" group-title="ANIMACAO - FILMES",Procurando Nemo (2003)
-http://pdsrv.io:80/movie/wilson02/wilson02/35762.mp4
-#EXTINF:-1 tvg-name="Zootopia (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZAnKuEhztoOFi8PSUMPUcFLn2u.jpg" group-title="ANIMACAO - FILMES",Zootopia (2016)
-http://pdsrv.io:80/movie/wilson02/wilson02/35771.mp4
-#EXTINF:-1 tvg-name="Toy Story 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxvFpBEBJkvZS9EHLpaLsc1tDKs.jpg" group-title="ANIMACAO - FILMES",Toy Story 2 (1999)
-http://pdsrv.io:80/movie/wilson02/wilson02/35106.mp4
-#EXTINF:-1 tvg-name="Toy Story 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a83hHwstUsEEjE55kTgDkZMFweR.jpg" group-title="ANIMACAO - FILMES",Toy Story 3 (2010)
-http://pdsrv.io:80/movie/wilson02/wilson02/35103.mp4
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="ANIMACAO - FILMES" ,TOY STORY 4
-http://pdsrv.io:80/movie/wilson02/wilson02/36536.mp4
-
-#EXTINF:-1 tvg-name="Emoji: O Filme - 2017" tvg-logo="http://srv.tvprodigital.net:25461/images/1ca86c14c255bf1815ac9f8af9bcdc25.jpg" group-title="ANIMACAO - FILMES",Emoji: O Filme - 2017
-http://pdsrv.io:80/movie/wilson02/wilson02/35785.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Carros " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vis4PBCmXL29nx7e6ELaFjZM8NL.jpg" group-title="ANIMACAO - FILMES",Carros 
-http://pdsrv.io:80/movie/wilson02/wilson02/35925.mp4
-#EXTINF:-1 tvg-name="Carros 3 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVPFdORefTKXKFiSktrXbiFDNAK.jpg" group-title="ANIMACAO - FILMES",Carros 3 (2017)
-http://pdsrv.io:80/movie/wilson02/wilson02/35928.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lego Batman: O Filme (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVf6lTFzDsBZUbYbk8m9dk9SipX.jpg" group-title="ANIMACAO - FILMES",Lego Batman: O Filme (2017)
-http://pdsrv.io:80/movie/wilson02/wilson02/35931.mp4
-#EXTINF:-1 tvg-name="Angry Birds 2: O Filme (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMqAjEyj234escPleCthcmh84ka.jpg" group-title="ANIMACAO - FILMES",Angry Birds 2: O Filme (2019)
-http://pdsrv.io:80/movie/wilson02/wilson02/36428.mp4
-#EXTINF:-1 tvg-name="Os Incríveis 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3EEb7o6NxK0pl0WsOswCos663y.jpg" group-title="ANIMACAO - FILMES",Os Incríveis 2 (2018)
-http://pdsrv.io:80/movie/wilson02/wilson02/36511.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo 2 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikhU4KSoE6lihqWVGgSNkYemfvT.jpg" group-title="ANIMACAO - FILMES",A Era do Gelo 2 (2006)
-http://pdsrv.io:80/movie/wilson02/wilson02/40700.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dlqC2gJs02gc23XvyOjoz52ToRI.jpg" group-title="ANIMACAO - FILMES",A Era do Gelo (2002)
-http://pdsrv.io:80/movie/wilson02/wilson02/40701.mp4
-
-#EXTINF:-1 tvg-name="Coraline e o Mundo Secreto (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rYaWdrlvoZoXhPn9yzSdrQCzWnS.jpg" group-title="ANIMACAO - FILMES",Coraline e o Mundo Secreto (2009)
-http://pdsrv.io:80/movie/wilson02/wilson02/40716.mp4
-
-#EXTINF:-1 tvg-name="Aladdin (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/380Fyz8DSyNkh4Q8NLxZs2f2C6a.jpg" group-title="CLASSICOS DISNEY",Aladdin (1992)
-http://pdsrv.io:80/movie/wilson02/wilson02/40703.mp4
-#EXTINF:-1 tvg-name="Branca de Neve e os Sete Anões (1937)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5l0dsoLXP2eifLQ0lFCYNC5Lcv0.jpg" group-title="CLASSICOS DISNEY",Branca de Neve e os Sete Anões (1937)
-http://pdsrv.io:80/movie/wilson02/wilson02/40711.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k69nGBs0nw1L3ZnAibCl9u5eNvo.jpg" group-title="CLASSICOS DISNEY",A Bela e a Fera (1991)
-http://pdsrv.io:80/movie/wilson02/wilson02/40722.mp4
-#EXTINF:-1 tvg-name="Lilo & Stitch 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcn7a7ENxi5TBTlka4wYLzmKQIp.jpg" group-title="CLASSICOS DISNEY",Lilo & Stitch 2: Stitch Deu Defeito (2005)
-http://pdsrv.io:80/movie/wilson02/wilson02/44703.mp4
-
-#EXTINF:-1 tvg-name="Moana: Um Mar de Aventuras (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/428rxQhNdZHMiiS4HVVExCPFzAs.jpg" group-title="DISNEY - FILMES",Moana: Um Mar de Aventuras (2016)
-http://pdsrv.io:80/movie/wilson02/wilson02/35933.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Dama e o Vagabundo - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BBhQumi9j9TngO9wxy9SJa3iUW.jpg" group-title="DISNEY - FILMES",A Dama e o Vagabundo - 2019
-http://pdsrv.io:80/movie/wilson02/wilson02/44316.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Frozen 2 HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXsndsv3WOoxszmdlvTWeY688eK.jpg" group-title="DISNEY - FILMES",Frozen 2 HD
-http://pdsrv.io:80/movie/wilson02/wilson02/43664.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aladdin (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1d8HShFOmSWDwvqtvPEZqzlZbYl.jpg" group-title="DISNEY - FILMES",Aladdin (2019)
-http://pdsrv.io:80/movie/wilson02/wilson02/35736.mp4
-
-
-#EXTINF:-1 tvg-name="Luccas Neto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCHCa1y3JpR5KynKtsR53ngFAql.jpg" group-title="INFANTIS - FILMES",Luccas Neto em: Perdidos na Noite de Natal (2018)
-http://pdsrv.io:80/movie/wilson02/wilson02/40970.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Luccas Neto em: O Fim do Natal (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvbG8HGZADCUBhZyy8f029KviKW.jpg" group-title="INFANTIS - FILMES",Luccas Neto em: O Fim do Natal (2019)
-http://pdsrv.io:80/movie/wilson02/wilson02/43193.mp4
-#EXTINF:-1 tvg-name="Luccas Neto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYgZa09ICwAB2TkonMfXRT4Dj8E.jpg" group-title="INFANTIS - FILMES",Luccas Neto em: Acampamento de Férias 2 (2020)
-http://pdsrv.io:80/movie/wilson02/wilson02/43192.mp4
-
-#EXTINF:-1 group-title="ANIME - FILMES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7NeAtW9lS4XOoXkf8UL1pzwfsA.jpg", Dragon Ball Super: Broly (2018)
-http://pdsrv.io:80/movie/wilson02/wilson02/36461.mp4
 #EXTINF:-1 group-title="ANIME - FILMES" tvg-logo="https://animenew.com.br/wp-content/uploads/2014/03/cdz-lenda-do-Santu%C3%A1rio.jpg",Os Cavaleiros do Zodíaco: A Lenda do Santuário
 http://canaishd.servidor.tv:8080/movie/lori/12345/32444.mp4
-
-#EXTINF:-1 group-title="EMPREENDEDORISMO - FILMES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YpHj6aV1yKWP20hKj1KUiLaIbi.jpg", Fome de Poder (2016)
-http://pdsrv.io:80/movie/wilson02/wilson02/36467.mp4
 
 
 #EXTINF:-1 tvg-logo="https://assets.fontsinuse.com/static/use-media-items/6/5995/full-1024x908/56701cba/toy-story-logo-1024x908.jpeg?resolution=0" group-title="Coletanea: Toy Story",Toy Story 1 - Um Mundo de Aventuras (1995)
@@ -1115,12 +890,6 @@ http://srvcliente.me:80/movie/gege123/gege123/1270.mp4
 #EXTINF:-1 tvg-logo="https://assets.fontsinuse.com/static/use-media-items/6/5995/full-1024x908/56701cba/toy-story-logo-1024x908.jpeg?resolution=0" group-title="Coletanea: Toy Story",Toy Story 4 (2019)
 http://srvcliente.me:80/movie/gege123/gege123/1098.mp4
 
-#EXTINF:-1 tvg-name="O Hobbit: Uma Jornada Inesperada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aeLKztQXPkSccTySEmyCqBvZfsO.jpg" group-title="Coletanea: Hobbit",O Hobbit: Uma Jornada Inesperada - 2012
-http://pdsrv.io:80/movie/wilson02/wilson02/44805.mp4
-#EXTINF:-1 tvg-name="O Hobbit: A Desolação de Smaug" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfYd1E0hapNp030Z4rWlJLRtlqm.jpg" group-title="Coletanea: Hobbit",O Hobbit: A Desolação de Smaug - 2013
-http://pdsrv.io:80/movie/wilson02/wilson02/44806.mp4
-#EXTINF:-1 tvg-name="O Hobbit: A Batalha dos Cinco Exércitos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0ddJa85vxeyG47inckazn7Yknu.jpg" group-title="Coletanea: Hobbit",O Hobbit: A Batalha dos Cinco Exércitos - 2014
-http://pdsrv.io:80/movie/wilson02/wilson02/44807.mp4
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71DTQQqJfQL._AC_SX466_.jpg" group-title="Coletanea: Star Wars",STAR WARS - A AMEAÇA FANTASMA (1999)
 http://webtvcde.com/Filmes/Dublados/Star.Wars/Star.Wars.Episode.I.The.Phantom.Menace.1999.mkv
@@ -1151,31 +920,6 @@ http://webtvcde.com/Filmes/Dublados/Volta/De%20volta%20para%20o%20futuro%202.mkv
 #EXTINF:-1 group-title="Coletanea: De Volta P/ Futuro" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8c/BackFuture3Poster.jpg",De Volta Pro Futuro 3
 http://webtvcde.com/Filmes/Dublados/Volta/De%20volta%20para%20o%20futuro%203.mkv
 
-#EXTINF:-1 group-title="LANCAMENTOS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOoERCQCGrgFHOrco7wLy6CAYfp.jpg",John Wick 3: Parabellum (2019)
-http://pdsrv.io:80/movie/wilson02/wilson02/36584.mp4
-#EXTINF:-1 group-title="LANCAMENTOS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/io4qQplxQPBb6FbG8H0R9Mlleh9.jpg",Projeto Gemini (2019)
-http://pdsrv.io:80/movie/wilson02/wilson02/36647.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Panteras (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jdMSIPbwK0wgjuOQz0AvkYQ4M3.jpg" group-title="LANCAMENTOS",As Panteras (2019)
-http://pdsrv.io:80/movie/wilson02/wilson02/40836.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rambo: Até o Fim - 2019" tvg-logo="http://srv.tvprodigital.net:80/images/cac058ca7f31fbc1650dfae1b645f076.jpg" group-title="LANCAMENTOS",Rambo: Até o Fim - 2019
-http://pdsrv.io:80/movie/wilson02/wilson02/40989.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Zumbilândia: Atire Duas Vezes (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8T7xy6usNhTWphfQTH7vmr4tOC.jpg" group-title="FILMES - LANCAMENTOS",Zumbilândia: Atire Duas Vezes (2019)
-http://pdsrv.io:80/movie/wilson02/wilson02/36623.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars: A Ascensão Skywalker HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFx2i2pg1BoaD7grcpGDyHM1eML.jpg" group-title="FILMES - LANCAMENTOS",Star Wars: A Ascensão Skywalker HD
-http://pdsrv.io:80/movie/wilson02/wilson02/44775.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Rambo: Até o Fim - 2019" tvg-logo="http://srv.tvprodigital.net:80/images/cac058ca7f31fbc1650dfae1b645f076.jpg" group-title="ACAO - FILMES",Rambo: Até o Fim - 2019
-http://pdsrv.io:80/movie/wilson02/wilson02/40989.mp4
-#EXTINF:-1 tvg-name="Busca Implacável - 2008" tvg-logo="http://srv.tvprodigital.net:80/images/8d0d5af094a7c98dd922f2618dd3d9f5.jpg" group-title="ACAO - FILMES",Busca Implacável - 2008
-http://pdsrv.io:80/movie/wilson02/wilson02/35695.mp4
-#EXTINF:-1 tvg-name="Busca Implacável 2 - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/T8BSCqbbPZ5VM3rFbj4UqdcLv7.jpg" group-title="ACAO - FILMES",Busca Implacável 2 - 2012
-http://pdsrv.io:80/movie/wilson02/wilson02/35693.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="John Wick: De Volta ao Jogo - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rboZslo3eQWKBQ3QvlO6wGV0J3K.jpg" group-title="ACAO - FILMES",John Wick: De Volta ao Jogo - 2014
-http://pdsrv.io:80/movie/wilson02/wilson02/35698.mp4
-#EXTINF:-1 tvg-id="" tvg-name="John Wick 2: Um Novo Dia para Matar - 2017" tvg-logo="http://srv.tvprodigital.net:25461/images/e12c75bf60061f3a93f702c6c40ccd8d.jpg" group-title="ACAO - FILMES",John Wick 2: Um Novo Dia para Matar - 2017
-http://pdsrv.io:80/movie/wilson02/wilson02/35648.mp4
-
 
 #EXTINF:-1 group-title="AVENTURA - FILMES",JUMANJI: BEM VINDO A SELVA
 http://webtvcde.com/Filmes/Dublados/Jumanji.Bem.Vindo.a.Selva.2018.1080p.mkv
@@ -1188,8 +932,6 @@ http://anhanga.lhmtv.gq/filmes/rush2-dub-720p.mp4
 http://anhanga.lhmtv.gq/filmes/cidadededeus-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos" ,Forrest Gump – O Contador de Historias
 http://anhanga.lhmtv.gq/filmes/forrestgump-dub-720p.mp4
-#EXTINF:-1 tvg-name="O Curioso Caso de Benjamin Button" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fNRILGSHFzZ9BLUgkraGEHRaBb.jpg" group-title="Classicos",O Curioso Caso de Benjamin Button
-http://pdsrv.io:80/movie/wilson02/wilson02/40683.mkv
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 1990" ,O Poderoso Chefao
 http://aranami.lhmtv.gq/filmes/O-Poderoso-Chefao-1.mp4
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 1990" ,O Poderoso Chefao 2
@@ -1197,45 +939,21 @@ http://aranami.lhmtv.gq/filmes/O-Poderoso-Chefao-2.mp4
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 90" ,O Poderoso Chefao 3
 http://aranami.lhmtv.gq/filmes/O-Poderoso-Chefao-3.mp4
 
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 1990" ,Rocky
 
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , Harry Potter 1 Pedra Filosofal
 https://playplus.azureedge.net/RCFServer1/ondemand/HRYPTR01.mp4
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , ²Harry Potter 1 Pedra Filosofal
-http://pdsrv.io:80/movie/wilson02/wilson02/40732.mp4
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , Harry Potter 2 Câmara secreta
 https://playplus.azureedge.net/RCFServer1/ondemand/HRYPTR02.mp4
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , ²Harry Potter 2 Câmara secreta
-http://pdsrv.io:80/movie/wilson02/wilson02/40735.mp4
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , Harry Potter 3 Prisioneiro de Azkaban
 https://playplus.azureedge.net/RCFServer1/ondemand/HRYPTR03.mp4?attachment=true
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , ²Harry Potter 3 Prisioneiro de Azkaban
-http://pdsrv.io:80/movie/wilson02/wilson02/40734.mp4
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , Harry Potter 4 Calice de Fogo
 https://playplus.azureedge.net/RCFServer1/ondemand/HRYPTR04.mp4?attachment=true
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , ²Harry Potter 4 Calice de Fogo
-http://pdsrv.io:80/movie/wilson02/wilson02/40733.mp4
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , Harry Potter 5 Ordem da Fênix
 https://playplus.azureedge.net/RCFServer1/ondemand/HRYPTR05.mp4?attachment=true
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , ²Harry Potter 5 Ordem da Fênix
-http://pdsrv.io:80/movie/wilson02/wilson02/40736.mp4
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , Harry Potter 6 Enigma do Principe
 https://playplus.azureedge.net/RCFServer1/ondemand/HRYPTR06.mp4?attachment=true
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , ²Harry Potter 6 Enigma do Principe
-http://pdsrv.io:80/movie/wilson02/wilson02/40738.mp4
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , Harry Potter 7 Relíquias da Morte: Parte 1
 https://playplus.azureedge.net/RCFServer1/ondemand/HRYPTR07.mp4?attachment=true
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , ²Harry Potter 7 Relíquias da Morte: Parte 1
-http://pdsrv.io:80/movie/wilson02/wilson02/40737.mp4
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , Harry Potter  Relíquias da Morte: Parte 2
 https://playplus.azureedge.net/RCFServer1/ondemand/HRYPTR08.mp4?attachment=true
-
-#EXTINF:-1 tvg-name="Animais Fantásticos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcIfTb2nNWnyV9WHL2jh0HEjNw2.jpg" group-title="Coletanea: Harry Potter",Animais Fantásticos: Os Crimes de Grindelwald - 2018
-http://pdsrv.io:80/movie/wilson02/wilson02/40766.mp4
-
-#EXTINF:-1 tvg-name="Matrix - 1999" tvg-logo="http://srv.tvprodigital.net:25461/images/625b4cf6933d9db7bad637e2d443eba4.jpg" group-title="Classicos",Matrix - 1999
-http://pdsrv.io:80/movie/wilson02/wilson02/35650.mp4
-
-
-
 
