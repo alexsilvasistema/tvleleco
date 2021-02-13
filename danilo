@@ -425,3 +425,118 @@ http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
 http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-b.m3u8?iptv2018?sd=10&rebase=on
 
 
+
+
+
+#EXTINF:-1 tvg-id="Premiere2" tvg-name="PREMIER 2 FHD H265¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIER 2 FHD H265¹
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/8149
+#EXTINF:-1 tvg-id="Premiere2" tvg-name="PREMIERE 2 FHD H264¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 2 FHD H264¹
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/69143
+#EXTINF:-1 tvg-id="Premiere2" tvg-name="PREMIERE 2 HD DUAL²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 2 HD DUAL²
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/62436
+#EXTINF:-1 tvg-id="Premiere2" tvg-name="PREMIERE 2 HD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 2 HD²
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/61047
+#EXTINF:-1 tvg-id="Premiere2" tvg-name="PREMIERE 2 HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 2 HD¹
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/6093
+#EXTINF:-1 tvg-id="Premiere2" tvg-name="PREMIERE 2 SD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 2 SD²
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/61046
+#EXTINF:-1 tvg-id="Premiere2" tvg-name="PREMIERE 2 SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 2 SD¹
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/4341
+#EXTINF:-1 tvg-id="Premiere3" tvg-name="PREMIERE 3 FHD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 3 FHD²
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/61266
+#EXTINF:-1 tvg-id="Premiere3" tvg-name="PREMIERE 3 HD DUAL²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 3 HD DUAL²
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/62440
+#EXTINF:-1 tvg-id="Premiere3" tvg-name="PREMIERE 3 HD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 3 HD ²
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/61049
+#EXTINF:-1 tvg-id="Premiere3" tvg-name="PREMIERE 3 HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 3 HD¹
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/6092
+#EXTINF:-1 tvg-id="Premiere3" tvg-name="PREMIERE 3 SD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 3 SD²
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/61048
+#EXTINF:-1 tvg-id="Premiere3" tvg-name="PREMIERE 3 SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 3 SD¹
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/4340
+#EXTINF:-1 tvg-id="Premiere4" tvg-name="PREMIERE 4 FHD H264¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 4 FHD H264¹
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/69145
+#EXTINF:-1 tvg-id="Premiere4" tvg-name="PREMIERE 4 FHD¹ H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 4 FHD¹ H265
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/11552
+#EXTINF:-1 tvg-id="Premiere4" tvg-name="PREMIERE 4 FHD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 4 FHD ²
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/61267
+#EXTINF:-1 tvg-id="Premiere4" tvg-name="PREMIERE 4 HD DUAL²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 4 HD DUAL²
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/62619
+#EXTINF:-1 tvg-id="Premiere4" tvg-name="PREMIERE 4 HD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 4 HD ²
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/61051
+#EXTINF:-1 tvg-id="Premiere4" tvg-name="PREMIERE 4 HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 4 HD¹
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/6091
+#EXTINF:-1 tvg-id="Premiere4" tvg-name="PREMIERE 4 SD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 4 SD²
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/61050
+#EXTINF:-1 tvg-id="Premiere4" tvg-name="PREMIERE 4 SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 4 SD¹
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/4339
+#EXTINF:-1 tvg-id="Premiere5" tvg-name="PREMIERE 5 FHD H264¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 5 FHD H264¹
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/69146
+#EXTINF:-1 tvg-id="Premiere5" tvg-name="PREMIERE 5 FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 5 FHD H265
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/9231
+#EXTINF:-1 tvg-id="Premiere5" tvg-name="PREMIERE 5 FHD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 5 FHD²
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/61268
+#EXTINF:-1 tvg-id="Premiere5" tvg-name="PREMIERE 5 HD DUAL²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 5 HD DUAL²
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/62819
+#EXTINF:-1 tvg-id="Premiere5" tvg-name="PREMIERE 5 HD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 5 HD ²
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/61053
+#EXTINF:-1 tvg-id="Premiere5" tvg-name="PREMIERE 5 HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 5 HD¹
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/6090
+#EXTINF:-1 tvg-id="Premiere5" tvg-name="PREMIERE 5 SD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 5 SD²
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/61052
+#EXTINF:-1 tvg-id="Premiere5" tvg-name="PREMIERE 5 SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 5 SD¹
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/4338
+#EXTINF:-1 tvg-id="Premiere6" tvg-name="PREMIERE 6 FHD H264¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 6 FHD H264¹
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/69147
+#EXTINF:-1 tvg-id="Premiere6" tvg-name="PREMIERE 6 FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 6 FHD H265
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/11550
+#EXTINF:-1 tvg-id="Premiere6" tvg-name="PREMIERE 6 HD DUAL²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 6 HD DUAL²
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/62822
+#EXTINF:-1 tvg-id="Premiere6" tvg-name="PREMIERE 6 HD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 6 HD ²
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/61055
+#EXTINF:-1 tvg-id="Premiere6" tvg-name="PREMIERE 6 HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 6 HD¹
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/10259
+#EXTINF:-1 tvg-id="Premiere6" tvg-name="PREMIERE 6 SD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 6 SD²
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/62820
+#EXTINF:-1 tvg-id="Premiere6" tvg-name="PREMIERE 6 SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 6 SD¹
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/4337
+#EXTINF:-1 tvg-id="AE" tvg-name="PREMIERE 7 FHD H264¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 7 FHD H264¹
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/69148
+#EXTINF:-1 tvg-id="AE" tvg-name="PREMIERE 7 FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 7 FHD H265
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/11549
+#EXTINF:-1 tvg-id="AE" tvg-name="PREMIERE 7 FHD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 7 FHD²
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/61270
+#EXTINF:-1 tvg-id="AE" tvg-name="PREMIERE 7 HD DUAL²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 7 HD DUAL²
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/62824
+#EXTINF:-1 tvg-id="AE" tvg-name="PREMIERE 7 HD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 7 HD ²
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/61057
+#EXTINF:-1 tvg-id="AE" tvg-name="PREMIERE 7 HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 7 HD¹
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/10258
+#EXTINF:-1 tvg-id="AE" tvg-name="PREMIERE 7 SD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 7 SD²
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/61056
+#EXTINF:-1 tvg-id="AE" tvg-name="PREMIERE 7 SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 7 SD¹
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/4336
+#EXTINF:-1 tvg-id="Premiere8" tvg-name="PREMIERE 8 SD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 8 SD²
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/62825
+#EXTINF:-1 tvg-id="Premiere8" tvg-name="PREMIERE 8 SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 8 SD¹
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/20589
+#EXTINF:-1 tvg-id="Premiere9.br" tvg-name="PREMIERE 9 SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 9 SD¹
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/20588
+#EXTINF:-1 tvg-id="PremiereClubes" tvg-name="PREMIERE CLUBE FHD¹ H264" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBE FHD¹ H264
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/61452
+#EXTINF:-1 tvg-id="PremiereClubes" tvg-name="PREMIERE CLUBES  4K" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS 4K",PREMIERE CLUBES  4K
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/33753
+#EXTINF:-1 tvg-id="PremiereClubes" tvg-name="PREMIERE CLUBES FHD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES FHD²
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/62412
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES FHD¹ H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES FHD¹ H265
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/9144
+#EXTINF:-1 tvg-id="PremiereClubes" tvg-name="PREMIERE CLUBES HD DUAL²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES HD DUAL²
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/62414
+#EXTINF:-1 tvg-id="PremiereClubes" tvg-name="PREMIERE CLUBES HD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES HD²
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/61045
+#EXTINF:-1 tvg-id="PremiereClubes" tvg-name="PREMIERE CLUBES  HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES  HD¹
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/6089
+#EXTINF:-1 tvg-id="PremiereClubes" tvg-name="PREMIERE CLUBES SD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES SD²
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/61044
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES SD¹
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/4333
