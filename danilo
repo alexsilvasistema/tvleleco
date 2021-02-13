@@ -190,7 +190,18 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 #EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",Globo Rio 2
 https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
-
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",SBT BAHIA
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/30428
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",GLOBO BAHIA
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/33261
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",GLOBO BAHIA2
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/61305
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",GLOBO BAHIA3
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/7539
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",Band Bahia2
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/30427
+#EXTINF:-1 group-title="ESPECIAL" tvg-name="ESPECIAL " tvg-logo="",RECORD BAHIA2
+http://pdsrv.io:80/kkkxesbx/01rhq9qSM3/60867
 
 
 #EXTINF:-1 group-title="TODOS" tvg-name="TODOS " tvg-logo="",GLOBO RJ
