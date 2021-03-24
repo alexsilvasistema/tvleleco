@@ -1,4 +1,9 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="Danilo" tvg-name="Danilo " tvg-logo="",vitoria
+http://dns.fastuhd.online/live/Josetb05/83507351/175547.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E 
 http://srvx.io:80/live/7885037935/fireurl.co/71762.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC 
