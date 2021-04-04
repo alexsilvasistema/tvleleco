@@ -1,7 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE JOGO 1" tvg-logo="http://dns.jslinkdns.xyz:80/images/ccb291738daad7d3950d0a9a9317c368.png" group-title="CANAIS | SPORTS DIVERSOS",COPA DO NORDESTE JOGO 1
+http://dns.blackouthd.xyz:80/Maria005/800900500/175421
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE JOGO 2" tvg-logo="http://dns.jslinkdns.xyz:80/images/ccb291738daad7d3950d0a9a9317c368.png" group-title="CANAIS | SPORTS DIVERSOS",COPA DO NORDESTE JOGO 2
+http://dns.blackouthd.xyz:80/Maria005/800900500/175422
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE JOGO 3" tvg-logo="http://dns.jslinkdns.xyz:80/images/ccb291738daad7d3950d0a9a9317c368.png" group-title="CANAIS | SPORTS DIVERSOS",COPA DO NORDESTE JOGO 3
+http://dns.blackouthd.xyz:80/Maria005/800900500/175423
 
-#EXTINF:-1 group-title="Danilo" tvg-name="Danilo " tvg-logo="",vitoria
-http://dns.fastuhd.online/live/Josetb05/83507351/175547.m3u8
+
+
 
 #EXTINF:-1 group-title="Danilo" tvg-name="Danilo " tvg-logo="",GLOOB HD²
 http://vvraw.com:2082/JoseTG1512FW/Oliver2045FW/4263
