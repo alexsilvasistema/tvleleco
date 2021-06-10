@@ -227,39 +227,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e100070
 
 
 
-#EXTINF:-1 group-title="SERVIDOR 1",PREMIERE
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
-
-#EXTINF:-1 group-title="SERVIDOR 1",PREMIERE 2
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes22/esportes22_2000/index.m3u8
-
-#EXTINF:-1 group-title="SERVIDOR 1",PREMIERE 3
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/esportes3_2000/index.m3u8
-
-#EXTINF:-1 group-title="SERVIDOR 1",DAZN
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes22/esportes22_2000/index.m3u8
-
-
-
-#EXTINF:-1 group-title="SERVIDOR 1",GLOBO
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
-
-#EXTINF:-1 group-title="SERVIDOR 1",SPORTV
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
-
-#EXTINF:-1 group-title="SERVIDOR 1",FOX SPORTS
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
-
-#EXTINF:-1 group-title="SERVIDOR 1",TNT
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
-
-#EXTINF:-1 group-title="SERVIDOR 1",ESPN BRASIL
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="" group-title="TV ONLINE 24 HORAS",SERIES
@@ -364,53 +331,53 @@ http://brtv.club:8880/MarceloLuizMensal/XpNOfHHcJP/109
 
 
 
-#EXTINF:-1 group-title="ESPECIAL 3" tvg-name="ESPECIAL 3 " tvg-logo="",CINE SKY 01
+#EXTINF:-1 group-title="ESPECIAL3" tvg-name="ESPECIAL3 " tvg-logo="",CINE SKY 01
 http://solutionplay.xyz:8080/live/techruthes/197850/1351.m3u8
-#EXTINF:-1 group-title="ESPECIAL 3" tvg-name="ESPECIAL 3 " tvg-logo="",HBO+ HD
+#EXTINF:-1 group-title="ESPECIAL3" tvg-name="ESPECIAL3 " tvg-logo="",HBO+ HD
 http://solutionplay.xyz:8080/live/techruthes/197850/6493.m3u8
-#EXTINF:-1 group-title="ESPECIAL 3" tvg-name="ESPECIAL 3 " tvg-logo="",TCM FHD
+#EXTINF:-1 group-title="ESPECIAL3" tvg-name="ESPECIAL3 " tvg-logo="",TCM FHD
 http://solutionplay.xyz:8080/live/techruthes/197850/6491.m3u8
-#EXTINF:-1 group-title="ESPECIAL 3" tvg-name="ESPECIAL 3 " tvg-logo="",WARNER CHANNEL HD
+#EXTINF:-1 group-title="ESPECIAL3" tvg-name="ESPECIAL3 " tvg-logo="",WARNER CHANNEL HD
 http://solutionplay.xyz:8080/live/techruthes/197850/6486.m3u8
-#EXTINF:-1 group-title="ESPECIAL 3" tvg-name="ESPECIAL 3 " tvg-logo="",MEGAPIX HD
+#EXTINF:-1 group-title="ESPECIAL3" tvg-name="ESPECIAL3 " tvg-logo="",MEGAPIX HD
 http://solutionplay.xyz:8080/live/techruthes/197850/6457.m3u8
-#EXTINF:-1 group-title="ESPECIAL 3" tvg-name="ESPECIAL 3 " tvg-logo="",A&E HD
+#EXTINF:-1 group-title="ESPECIAL3" tvg-name="ESPECIAL3 " tvg-logo="",A&E HD
 http://solutionplay.xyz:8080/live/techruthes/197850/6427.m3u8
-#EXTINF:-1 group-title="ESPECIAL 3" tvg-name="ESPECIAL 3 " tvg-logo="",Conmebol TV 1
+#EXTINF:-1 group-title="ESPECIAL3" tvg-name="ESPECIAL3 " tvg-logo="",Conmebol TV 1
 http://solutionplay.xyz:8080/live/techruthes/197850/6419.m3u8
-#EXTINF:-1 group-title="ESPECIAL 3" tvg-name="ESPECIAL 3 " tvg-logo="",RECORD SP HD
+#EXTINF:-1 group-title="ESPECIAL3" tvg-name="ESPECIAL3 " tvg-logo="",RECORD SP HD
 http://solutionplay.xyz:8080/live/techruthes/197850/6358.m3u8
-#EXTINF:-1 group-title="ESPECIAL 3" tvg-name="ESPECIAL 3 " tvg-logo="",HGTV HD
+#EXTINF:-1 group-title="ESPECIAL3" tvg-name="ESPECIAL3 " tvg-logo="",HGTV HD
 http://solutionplay.xyz:8080/live/techruthes/197850/6081.m3u8
-#EXTINF:-1 group-title="ESPECIAL 3" tvg-name="ESPECIAL 3 " tvg-logo="",NATGEO KIDS HD
+#EXTINF:-1 group-title="ESPECIAL3" tvg-name="ESPECIAL3 " tvg-logo="",NATGEO KIDS HD
 http://solutionplay.xyz:8080/live/techruthes/197850/5973.m3u8
-#EXTINF:-1 group-title="ESPECIAL 3" tvg-name="ESPECIAL 3 " tvg-logo="",HISTORY CHANNEL HD
+#EXTINF:-1 group-title="ESPECIAL3" tvg-name="ESPECIAL3 " tvg-logo="",HISTORY CHANNEL HD
 http://solutionplay.xyz:8080/live/techruthes/197850/5966.m3u8
-#EXTINF:-1 group-title="ESPECIAL 3" tvg-name="ESPECIAL 3 " tvg-logo="",HBO HD
+#EXTINF:-1 group-title="ESPECIAL3" tvg-name="ESPECIAL3 " tvg-logo="",HBO HD
 http://solutionplay.xyz:8080/live/techruthes/197850/5948.m3u8
-#EXTINF:-1 group-title="ESPECIAL 3" tvg-name="ESPECIAL 3 " tvg-logo="",ESPN HD
+#EXTINF:-1 group-title="ESPECIAL3" tvg-name="ESPECIAL3 " tvg-logo="",ESPN HD
 http://solutionplay.xyz:8080/live/techruthes/197850/5916.m3u8
-#EXTINF:-1 group-title="ESPECIAL 3" tvg-name="ESPECIAL 3 " tvg-logo="",DISNEY XD HD
+#EXTINF:-1 group-title="ESPECIAL3" tvg-name="ESPECIAL3 " tvg-logo="",DISNEY XD HD
 http://solutionplay.xyz:8080/live/techruthes/197850/5904.m3u8
-#EXTINF:-1 group-title="ESPECIAL 3" tvg-name="ESPECIAL 3 " tvg-logo="",CARTOON NETWORK HD
+#EXTINF:-1 group-title="ESPECIAL3" tvg-name="ESPECIAL3 " tvg-logo="",CARTOON NETWORK HD
 http://solutionplay.xyz:8080/live/techruthes/197850/5860.m3u8
-#EXTINF:-1 group-title="ESPECIAL 3" tvg-name="ESPECIAL 3 " tvg-logo="",STAR PREMIUM 1 HD
+#EXTINF:-1 group-title="ESPECIAL3" tvg-name="ESPECIAL3 " tvg-logo="",STAR PREMIUM 1 HD
 http://solutionplay.xyz:8080/live/techruthes/197850/6444.m3u8
-#EXTINF:-1 group-title="ESPECIAL 3" tvg-name="ESPECIAL 3 " tvg-logo="",SBT SP HD
+#EXTINF:-1 group-title="ESPECIAL3" tvg-name="ESPECIAL3 " tvg-logo="",SBT SP HD
 http://solutionplay.xyz:8080/live/techruthes/197850/6368.m3u8
-#EXTINF:-1 group-title="ESPECIAL 3" tvg-name="ESPECIAL 3 " tvg-logo="",BAND SP HD
+#EXTINF:-1 group-title="ESPECIAL3" tvg-name="ESPECIAL3 " tvg-logo="",BAND SP HD
 http://solutionplay.xyz:8080/live/techruthes/197850/6326.m3u8
-#EXTINF:-1 group-title="ESPECIAL 3" tvg-name="ESPECIAL 3 " tvg-logo="",GLOBO NEWS HD
+#EXTINF:-1 group-title="ESPECIAL3" tvg-name="ESPECIAL3 " tvg-logo="",GLOBO NEWS HD
 http://solutionplay.xyz:8080/live/techruthes/197850/6108.m3u8
-#EXTINF:-1 group-title="ESPECIAL 3" tvg-name="ESPECIAL 3 " tvg-logo="",RECORD NEWS FHD
+#EXTINF:-1 group-title="ESPECIAL3" tvg-name="ESPECIAL3 " tvg-logo="",RECORD NEWS FHD
 http://solutionplay.xyz:8080/live/techruthes/197850/6104.m3u8
-#EXTINF:-1 group-title="ESPECIAL 3" tvg-name="ESPECIAL 3 " tvg-logo="",GNT HD
+#EXTINF:-1 group-title="ESPECIAL3" tvg-name="ESPECIAL3 " tvg-logo="",GNT HD
 http://solutionplay.xyz:8080/live/techruthes/197850/6076.m3u8
-#EXTINF:-1 group-title="ESPECIAL 3" tvg-name="ESPECIAL 3 " tvg-logo="",COMEDY CENTRAL HD
+#EXTINF:-1 group-title="ESPECIAL3" tvg-name="ESPECIAL3 " tvg-logo="",COMEDY CENTRAL HD
 http://solutionplay.xyz:8080/live/techruthes/197850/6070.m3u8
-#EXTINF:-1 group-title="ESPECIAL 3" tvg-name="ESPECIAL 3 " tvg-logo="",RECORD CAMPINAS SD
+#EXTINF:-1 group-title="ESPECIAL3" tvg-name="ESPECIAL3 " tvg-logo="",RECORD CAMPINAS SD
 http://solutionplay.xyz:8080/live/techruthes/197850/6342.m3u8
-#EXTINF:-1 group-title="ESPECIAL 3" tvg-name="ESPECIAL 3 " tvg-logo="",FISH TV HD
+#EXTINF:-1 group-title="ESPECIAL3" tvg-name="ESPECIAL3 " tvg-logo="",FISH TV HD
 http://solutionplay.xyz:8080/live/techruthes/197850/5923.m3u8
 
 
