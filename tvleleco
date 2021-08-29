@@ -6087,3 +6087,71 @@ http://170.82.200.38:8080/cnn_brasil/index.m3u8
 
 #EXTINF:-1 tvg-id="loading" tvg-logo="https://imgur.com/1uTKwE9.png" group-title="Abertos canais aqui",LOADING TV
 https://origin-02.nxplay.com.br/IDEAL_TV_HD_01_/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="https://imgur.com/u64Ys1f.png" group-title="Abertos canais aqui",ESPN BRASIL
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7172
+
+#EXTINF:-1 tvg-id="Espn.br" tvg-logo="https://imgur.com/rrzaKNR.png" group-title="Abertos canais aqui",ESPN
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22255
+
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="https://imgur.com/5cEfXjc.png" group-title="Abertos canais aqui",ESPN 2
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7099
+
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="https://imgur.com/IiR0kv9.png" group-title="Abertos canais aqui",ESPN EXTRA
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7136
+
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="https://imgur.com/Z1RJ6GO.png" group-title="Abertos canais aqui",FOX SPORTS 
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7171
+
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="https://imgur.com/Z1RJ6GO.png" group-title="Abertos canais aqui",FOX SPORTS¹
+http://170.82.200.38:8080/fox_sports_1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://imgur.com/FtHtSZl.png" group-title="Abertos canais aqui",SPORTV
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22220
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://imgur.com/FtHtSZl.png" group-title="Abertos canais aqui",SPORTV¹
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7178
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="https://imgur.com/ZXpKzGL.png" group-title="Abertos canais aqui",SPORTV 2
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7154
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="https://imgur.com/IMVzHqd.png" group-title="Abertos canais aqui",SPORTV 3
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7153
+
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://imgur.com/YslkHQW.png" group-title="Abertos canais aqui",PREMIERE CLUBES
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2223
+
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://imgur.com/YslkHQW.png" group-title="Abertos canais aqui",PFC²
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22198
+
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://imgur.com/YslkHQW.png" group-title="Abertos canais aqui",PFC³
+http://paineliptv8.xyz:2082/live/373457/097555/54902.m3u8
+
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="https://imgur.com/YslkHQW.png" group-title="Abertos canais aqui",PREMIERE 2
+http://189.91.128.146:4444/udp/227.10.20.104:1234
+
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="https://imgur.com/YslkHQW.png" group-title="Abertos canais aqui",PREMIERE 3
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7168
+
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="https://imgur.com/YslkHQW.png" group-title="Abertos canais aqui",PREMIERE 4
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7167
+
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="https://imgur.com/YslkHQW.png" group-title="Abertos canais aqui",PREMIERE 5
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7166
+
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="https://imgur.com/YslkHQW.png" group-title="Abertos canais aqui",PREMIERE 6
+http://189.91.128.146:4444/udp/227.10.20.123:1234
+
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="https://imgur.com/YslkHQW.png" group-title="Abertos canais aqui",PREMIERE 7
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22199
+
+
