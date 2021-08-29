@@ -6042,3 +6042,48 @@ http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Abertos canais aqui",RecordTV SD
 https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_240_av-p.m3u8?sd=10&rebase=o
 
+
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="https://imgur.com/c1XFUsl.png" group-title="Abertos canais aqui",TV CULTURA
+https://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ1/video.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="https://imgur.com/3Mrx9Ee.png" group-title="Abertos canais aqui",SBT
+http://189.91.128.150:4444/udp/227.10.20.120:1234
+
+#EXTINF:-1 tvg-id="Redetv.br" tvg-logo="https://imgur.com/56kCir9.png" group-title="Abertos canais aqui",REDETV!
+http://45.182.225.67:8000/play/a01c/index.m3u8
+
+#EXTINF:-1 tvg-id="BandRede.br" tvg-logo="https://imgur.com/pgUS4bP.png" group-title="Abertos canais aqui",BAND
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7483
+
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-logo="https://imgur.com/n5cMpFO.png" group-title="Abertos canais aqui",RBTV
+https://origin-02.nxplay.com.br/sictv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-logo="https://imgur.com/8FhdSZu.png" group-title="Abertos canais aqui",TV BAHIA
+http://177.20.208.58:8000/play/a054/index.m3u8
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-logo="https://imgur.com/OWDnbYT.png" group-title="Abertos canais aqui",GLOBO RIO
+http://177.52.216.28:8000/play/a07h
+
+#EXTINF:-1 tvg-id="RecordTV Itapoan" tvg-logo="https://imgur.com/xmAzIRn.png" group-title="Abertos canais aqui",RECORD TV ITAPOAN
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="https://imgur.com/RKC3VJe.png" group-title="Abertos canais aqui",RECORD NEWS
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+
+#EXTINF:-1 tvg-id="Futura.br" tvg-logo="https://imgur.com/MUdGsN0.png" group-title="Abertos canais aqui",FUTURA
+https://canal1.proxy.tokplay.com.br/streams/FUTURA/format720p_FUTURA.m3u8
+
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-logo="https://imgur.com/edNpGyX.png" group-title="Abertos canais aqui",TV BRASIL
+https://origin-02.nxplay.com.br/TV_BRASIL_NX_/video.m3u8
+
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="Abertos canais aqui",BAND NEWS
+http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Globonews.br" tvg-logo="https://imgur.com/AAUwtnk.png" group-title="Abertos canais aqui",GLOBO NEWS
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7156
+
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-logo="https://imgur.com/8eWUIpz.png" group-title="Abertos canais aqui",CNN BRASIL
+http://170.82.200.38:8080/cnn_brasil/index.m3u8
+
+#EXTINF:-1 tvg-id="loading" tvg-logo="https://imgur.com/1uTKwE9.png" group-title="Abertos canais aqui",LOADING TV
+https://origin-02.nxplay.com.br/IDEAL_TV_HD_01_/tracks-v1a1/mono.m3u8
