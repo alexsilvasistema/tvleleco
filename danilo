@@ -1,0 +1,212 @@
+###########################		###### DOCUMENTÁRIOS ######		###########################
+
+
+#EXTINF:-1 tvg-id="Discovery.br" tvg-logo="https://imgur.com/RTDqcBb.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22265
+
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-logo="https://imgur.com/KS0ULen.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22276
+
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-logo="https://imgur.com/zQR5Cy0.png" group-title="DOCUMENTÁRIOS",NATGEO
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22231
+
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-logo="https://imgur.com/Vjfxm5r.png" group-title="DOCUMENTÁRIOS",NATGEO WILD
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7143
+
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-logo="https://imgur.com/lsj8mW0.png" group-title="DOCUMENTÁRIOS",HISTORY
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7139
+
+#EXTINF:-1 tvg-id="H2.br" tvg-logo="https://imgur.com/ydjMKWB.png" group-title="DOCUMENTÁRIOS",HISTORY 2
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22211
+
+###########################		######## DESENHOS #########		###########################
+
+
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="https://imgur.com/oB49tKX.png" group-title="INFANTIL",CARTOON NETWORK
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22269
+
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-logo="https://imgur.com/IVYQroN.png" group-title="INFANTIL",DISNEY CHANNEL
+http://170.82.200.38:8080/disney_channel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-logo="https://imgur.com/TFprLmy.png" group-title="INFANTIL",DISNEY JR.
+http://170.82.200.38:8080/disney_jr/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-logo="https://imgur.com/bXjA2IL.png" group-title="INFANTIL",DISNEY XD
+http://189.91.128.146:4444/udp/227.10.20.110:1234
+
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="https://imgur.com/iNXtnHM.png" group-title="INFANTIL",NICKELODEON
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7141
+
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="https://imgur.com/CVLuZYH.png" group-title="INFANTIL",BOOMERANG
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22270
+
+###########################		######## FILMES #########		###########################
+
+
+#EXTINF:-1 tvg-id="Amc.br" tvg-logo="https://imgur.com/m7ysQk1.png" group-title="FILMES",AMC
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22277
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-logo="https://imgur.com/7yOhAH5.png" group-title="FILMES",A&E
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/26420
+
+#EXTINF:-1 tvg-id="Axn.br" tvg-logo="https://imgur.com/81paihO.png" group-title="FILMES",AXN
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22275
+
+#EXTINF:-1 tvg-id="Fox.br" tvg-logo="https://imgur.com/zYi2n10.png" group-title="FILMES",STAR CHANNEL
+http://168.205.87.198:8555/live/123456/123456/63.m3u8
+
+#EXTINF:-1 tvg-id="Fx.br" tvg-logo="https://imgur.com/oJzdkKk.png" group-title="FILMES",FX
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22249
+
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-logo="https://imgur.com/B8xPWgZ.png" group-title="FILMES",STAR HITS
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7411
+
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-logo="https://imgur.com/Xd7Kx3B.png" group-title="FILMES",STAR HITS 2
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7144
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-logo="https://imgur.com/l9Igvb9.png" group-title="FILMES",STAR LIFE
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7413
+
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="https://imgur.com/Xo7koef.png" group-title="FILMES",CINEMAX
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22268
+
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="https://imgur.com/gVcHLUw.png" group-title="FILMES",SPACE
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/36122
+
+#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="https://imgur.com/4LdYb79.png" group-title="FILMES",TNT
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/36121
+
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="https://imgur.com/rntkZRR.png" group-title="FILMES",TNT SERIES
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22205
+
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="https://imgur.com/x1OwOVT.png" group-title="FILMES",MEGAPIX
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2245
+
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-logo="https://imgur.com/03ZlL3G.png" group-title="FILMES",UNIVERSAL TV
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22214
+
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="https://imgur.com/yKIhJg8.png" group-title="FILMES",STUDIO UNIVERSAL
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7273
+
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-logo="https://imgur.com/DOHghK5.png" group-title="FILMES",WARNER CHANNEL
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7140
+
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="https://imgur.com/5LIIiZF.png" group-title="FILMES",PARAMOUNT NETWORK
+https://origin-02.nxplay.com.br/PCBR_HD_NX_9998_123/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Tcm" tvg-logo="https://i.imgur.com/IiAxLai.png" group-title="FILMES",CLASSIQUE WESTERN TV
+https://stmv1.srvstm.com/classique2/classique2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hbo.br" tvg-logo="https://imgur.com/qcfATNq.png" group-title="FILMES",HBO
+http://200.71.72.50/HBO/mpegts
+
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-logo="https://imgur.com/NU2IU1y.png" group-title="FILMES",HBO 2
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22244
+
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="https://imgur.com/B0o8h2r.png" group-title="FILMES",HBO PLUS
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2259
+
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-logo="https://imgur.com/v1XsSMw.png" group-title="FILMES",HBO FAMILY
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2263
+
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-logo="https://imgur.com/Bs51p5I.png" group-title="FILMES",HBO SIGNATURE
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2257
+
+#EXTINF:-1 tvg-id="Max.br" tvg-logo="https://imgur.com/TPBuV0L.png" group-title="FILMES",HBO MUNDI
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7342
+
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="https://imgur.com/W0UL6wg.png" group-title="FILMES", HBO XTREME
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7092
+
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-logo="https://imgur.com/RKtPkr0.png" group-title="FILMES",HBO POP
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7337
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="https://imgur.com/lIZnKhQ.png" group-title="FILMES",TELECINE PREMIUM
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7174
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="https://imgur.com/2ueEGov.png" group-title="FILMES",TELECINE ACTION
+http://189.91.128.150:4444/udp/227.10.20.135:1234
+
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="https://imgur.com/oVpJkBf.png" group-title="FILMES",TELECINE TOUCH
+http://189.91.128.150:4444/udp/227.10.20.136:1234
+
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="https://imgur.com/STpx8lh.png" group-title="FILMES",TELECINE FUN
+http://189.91.128.150:4444/udp/227.10.20.137:1234
+
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="https://imgur.com/XqFUtq1.png" group-title="FILMES",TELECINE PIPOCA
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7175
+
+#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="https://imgur.com/ZxlJeON.png" group-title="FILMES",TELECINE CULT
+http://vipeiptv.com:25461/live/hfd202122/ajh284763/856000.m3u8
+
+#EXTINF:-1 tvg-id="MTV Live FHD" tvg-logo="https://imgur.com/nwrRVcJ.png" group-title="VARIEDADES",MTV LIVE
+http://origin-02.nxplay.com.br/MTVLIVE/index.m3u8
+
+#EXTINF:-1 tvg-id="BIS" tvg-logo="https://imgur.com/uBsO00B.png" group-title="VARIEDADES",BIS
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22271
+
+#EXTINF:-1 tvg-id="Viva.br" tvg-logo="https://imgur.com/wvI9gys.png" group-title="VARIEDADES",CANAL VIVA
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2151
+
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-logo="https://imgur.com/SrX2QcT.png" group-title="VARIEDADES",COMEDY CENTRAL
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7098
+
+###########################		######## ESPORTES #########		###########################
+
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="https://imgur.com/u64Ys1f.png" group-title="ESPORTES",ESPN BRASIL
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7172
+
+#EXTINF:-1 tvg-id="Espn.br" tvg-logo="https://imgur.com/rrzaKNR.png" group-title="ESPORTES",ESPN
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22255
+
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="https://imgur.com/5cEfXjc.png" group-title="ESPORTES",ESPN 2
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7099
+
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="https://imgur.com/IiR0kv9.png" group-title="ESPORTES",ESPN EXTRA
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7136
+
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="https://imgur.com/Z1RJ6GO.png" group-title="ESPORTES",FOX SPORTS 
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7171
+
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="https://imgur.com/Z1RJ6GO.png" group-title="ESPORTES",FOX SPORTS¹
+http://170.82.200.38:8080/fox_sports_1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://imgur.com/FtHtSZl.png" group-title="ESPORTES",SPORTV
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22220
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://imgur.com/FtHtSZl.png" group-title="ESPORTES",SPORTV¹
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7178
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="https://imgur.com/ZXpKzGL.png" group-title="ESPORTES",SPORTV 2
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7154
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="https://imgur.com/IMVzHqd.png" group-title="ESPORTES",SPORTV 3
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7153
+
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://imgur.com/YslkHQW.png" group-title="ESPORTES",PREMIERE CLUBES
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2223
+
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://imgur.com/YslkHQW.png" group-title="ESPORTES",PFC²
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22198
+
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://imgur.com/YslkHQW.png" group-title="ESPORTES",PFC³
+http://paineliptv8.xyz:2082/live/373457/097555/54902.m3u8
+
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="https://imgur.com/YslkHQW.png" group-title="ESPORTES",PREMIERE 2
+http://189.91.128.146:4444/udp/227.10.20.104:1234
+
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="https://imgur.com/YslkHQW.png" group-title="ESPORTES",PREMIERE 3
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7168
+
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="https://imgur.com/YslkHQW.png" group-title="ESPORTES",PREMIERE 4
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7167
+
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="https://imgur.com/YslkHQW.png" group-title="ESPORTES",PREMIERE 5
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7166
+
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="https://imgur.com/YslkHQW.png" group-title="ESPORTES",PREMIERE 6
+http://189.91.128.146:4444/udp/227.10.20.123:1234
+
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="https://imgur.com/YslkHQW.png" group-title="ESPORTES",PREMIERE 7
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22199
