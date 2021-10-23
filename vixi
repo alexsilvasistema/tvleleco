@@ -1,9 +1,9 @@
 #EXTM3U
 
 
-#EXTINF:-1,BR: Discovery Home & Health HD
+#EXTINF:-1, Discovery Home & Health HD
 http://aromatv.co:80/Mahmoud-Gaber/user202020/77890
-#EXTINF:-1,BR: Discovery Home & Health SD
+#EXTINF:-1, Discovery Home & Health SD
 http://aromatv.co:80/Mahmoud-Gaber/user202020/77891
 
 #EXTINF:-1 tvg-logo="http://ccdn.so:80/images/51eca9c50410f13cf057b909f1f70765.jpg" group-title="◆Filmes | Animacao",Os Novos Vingadores - Os Heróis do Amanhã
