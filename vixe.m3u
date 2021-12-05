@@ -1,4 +1,65 @@
 #EXTM3U
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="24h 101 DÁLMATAS" tvg-logo="http://img.starbr.nz/1626703055_2b6051990feb1b8d09df35135b15ed988e3839be.jpg" group-title="Canais 24h",24h 101 DÁLMATAS
 http://list.starbr.nz:80/jjhfh17460/hehee91376/77273
 #EXTINF:-1 tvg-id="" tvg-name="24h 3 PALAVRINHAS" tvg-logo="http://img.starbr.nz/1626703055_2b6051990feb1b8d09df35135b15ed988e3839be.jpg" group-title="Canais 24h",24h 3 PALAVRINHAS
@@ -1130,43 +1191,6 @@ http://list.starbr.nz:80/jjhfh17460/hehee91376/52643
 #EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA HD" tvg-logo="http://img.starbr.nz/1559769504_0a5cca6f12f3535e0a1959002ddaf0819462ae23.jpg" group-title="Variedades e Músicas",VIVA HD
 http://list.starbr.nz:80/jjhfh17460/hehee91376/2476
 #EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA SD" tvg-logo="http://img.starbr.nz/1559769504_0a5cca6f12f3535e0a1959002ddaf0819462ae23.jpg" group-title="Variedades e Músicas",VIVA SD
-http://list.starbr.nz:80/jjhfh17460/hehee91376/23984
-#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL" tvg-logo="http://img.starbr.nz/1559769581_aa569a41e20a7b3833a7a28de6a221b7ac640138.png" group-title="Filmes e Séries",WARNER CHANNEL
-http://list.starbr.nz:80/jjhfh17460/hehee91376/896
-#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL FULL HD" tvg-logo="http://img.starbr.nz/1559769581_aa569a41e20a7b3833a7a28de6a221b7ac640138.png" group-title="Filmes e Séries",WARNER CHANNEL FULL HD
-http://list.starbr.nz:80/jjhfh17460/hehee91376/52619
-#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD" tvg-logo="http://img.starbr.nz/1559769581_aa569a41e20a7b3833a7a28de6a221b7ac640138.png" group-title="Filmes e Séries",WARNER CHANNEL HD
-http://list.starbr.nz:80/jjhfh17460/hehee91376/2478
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO" tvg-logo="http://img.starbr.nz/1559769678_25ceb161ea2f20e368257c0852864cddca9aee96.jpg" group-title="Variedades e Músicas",WOOHOO
-http://list.starbr.nz:80/jjhfh17460/hehee91376/894
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO FULL HD" tvg-logo="http://img.starbr.nz/1559769678_25ceb161ea2f20e368257c0852864cddca9aee96.jpg" group-title="Variedades e Músicas",WOOHOO FULL HD
-http://list.starbr.nz:80/jjhfh17460/hehee91376/52597
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO HD" tvg-logo="http://img.starbr.nz/1559769678_25ceb161ea2f20e368257c0852864cddca9aee96.jpg" group-title="Variedades e Músicas",WOOHOO HD
-http://list.starbr.nz:80/jjhfh17460/hehee91376/16214
-#EXTINF:-1 tvg-id="playboy.br" tvg-name="XxX: PLAYBOY TV" tvg-logo="http://img.starbr.nz/1559769740_2e89abe45b95ba871009dd4e9ab94560da19a2ce.png" group-title="Adultos",XxX: PLAYBOY TV
-http://list.starbr.nz:80/jjhfh17460/hehee91376/871
-#EXTINF:-1 tvg-id="playboy.br" tvg-name="XxX: PLAYBOY TV FULL HD" tvg-logo="http://img.starbr.nz/1559769740_2e89abe45b95ba871009dd4e9ab94560da19a2ce.png" group-title="Adultos",XxX: PLAYBOY TV FULL HD
-http://list.starbr.nz:80/jjhfh17460/hehee91376/20820
-#EXTINF:-1 tvg-id="playboy.br" tvg-name="XxX: PLAYBOY TV HD" tvg-logo="http://img.starbr.nz/1559769740_2e89abe45b95ba871009dd4e9ab94560da19a2ce.png" group-title="Adultos",XxX: PLAYBOY TV HD
-http://list.starbr.nz:80/jjhfh17460/hehee91376/68796
-#EXTINF:-1 tvg-id="sexprive.brasileirinhas.br" tvg-name="XxX: SEXPRIVE" tvg-logo="http://img.starbr.nz/1559769783_df66e86921d76e2832da340bf372d6181674330b.jpg" group-title="Adultos",XxX: SEXPRIVE
-http://list.starbr.nz:80/jjhfh17460/hehee91376/68793
-#EXTINF:-1 tvg-id="sexprive.brasileirinhas.br" tvg-name="XxX: SEXPRIVE FULL HD" tvg-logo="http://img.starbr.nz/1559769783_df66e86921d76e2832da340bf372d6181674330b.jpg" group-title="Adultos",XxX: SEXPRIVE FULL HD
-http://list.starbr.nz:80/jjhfh17460/hehee91376/68795
-#EXTINF:-1 tvg-id="sexprive.brasileirinhas.br" tvg-name="XxX: SEXPRIVE HD" tvg-logo="http://img.starbr.nz/1559769783_df66e86921d76e2832da340bf372d6181674330b.jpg" group-title="Adultos",XxX: SEXPRIVE HD
-http://list.starbr.nz:80/jjhfh17460/hehee91376/68794
-#EXTINF:-1 tvg-id="sextreme.brazil.br" tvg-name="XxX: SEXTREME" tvg-logo="http://img.starbr.nz/1559769850_59af1bf1be0a5f96477c86790cf2ea1226b1f1df.jpg" group-title="Adultos",XxX: SEXTREME
-http://list.starbr.nz:80/jjhfh17460/hehee91376/853
-#EXTINF:-1 tvg-id="sexy.hot.br" tvg-name="XxX: SEXY HOT FULL HD" tvg-logo="http://img.starbr.nz/1559769913_abb5ff7b55fb559f03b470118fe0a2ca4e30c23d.png" group-title="Adultos",XxX: SEXY HOT FULL HD
-http://list.starbr.nz:80/jjhfh17460/hehee91376/68323
-#EXTINF:-1 tvg-id="sexy.hot.br" tvg-name="XxX: SEXY HOT HD" tvg-logo="http://img.starbr.nz/1559769913_abb5ff7b55fb559f03b470118fe0a2ca4e30c23d.png" group-title="Adultos",XxX: SEXY HOT HD
-http://list.starbr.nz:80/jjhfh17460/hehee91376/20825
-#EXTINF:-1 tvg-id="sexy.hot.br" tvg-name="XxX: SEXY HOT SD" tvg-logo="http://img.starbr.nz/1559769913_abb5ff7b55fb559f03b470118fe0a2ca4e30c23d.png" group-title="Adultos",XxX: SEXY HOT SD
-http://list.starbr.nz:80/jjhfh17460/hehee91376/37772
-#EXTINF:-1 tvg-id="SEM EPG" tvg-name="XxX: VENUS HD" tvg-logo="http://img.starbr.nz/1559770009_fe3e2aae75a00d561485067d4ccfe090b6552edd.png" group-title="Adultos",XxX: VENUS HD
-http://list.starbr.nz:80/jjhfh17460/hehee91376/79698
-#EXTINF:-1 tvg-id="SEM EPG" tvg-name="XxX: VENUS SD" tvg-logo="http://img.starbr.nz/1559770009_fe3e2aae75a00d561485067d4ccfe090b6552edd.png" group-title="Adultos",XxX: VENUS SD
-http://list.starbr.nz:80/jjhfh17460/hehee91376/18088
 #EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO" tvg-logo="http://img.starbr.nz/1559770063_1f2de0bc4ead42eec4e7fb3abe980e54ed2cfd25.png" group-title="Infantil",ZOOMOO
 http://list.starbr.nz:80/jjhfh17460/hehee91376/20833
 #EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO HD" tvg-logo="http://img.starbr.nz/1559770063_1f2de0bc4ead42eec4e7fb3abe980e54ed2cfd25.png" group-title="Infantil",ZOOMOO HD
