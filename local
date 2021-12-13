@@ -1,9 +1,10 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/cLIdzw6.png" group-title="CANAL | SBT",SBT2
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/cLIdzw6.png" group-title="CANAL | SBT",SBT3
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="",Rede Brasil
@@ -32,9 +33,6 @@ http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/cLIdzw6.png" group-title="CANAL | SBT",SBT 
 http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SBT SP" tvg-name="SBT HD " tvg-logo="http://tvonlinehd.net/img/canais/sbt.png" group-title="CANAL | SBT",SBT SP 
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Band" tvg-name="BAND" tvg-logo="https://i.imgur.com/Fh4SQ6L.png" group-title="CANAL | BAND",BAND
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w16814077.m3u8
@@ -66,13 +64,13 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 #EXTINF:-1 tvg-id="BOMS TEMPOS TV " tvg-name="BOMS TEMPOS TV HD " tvg-logo="https://bit.ly/3s9HOoK" group-title="CANAL | INFANTIL",BOM TEMPOS TV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="05" tvg-id="Sbt.br" tvg-name="TV Aratu" tvg-logo="https://imgur.com/6ikejI1.png" group-title="TV", SBT - TV ARATU (BA)
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/cLIdzw6.png" group-title="CANAL | SBT", SBT - TV ARATU (BA)
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="05" tvg-id="Sbt.br" tvg-name="TV Aratu" tvg-logo="https://imgur.com/6ikejI1.png" group-title="TV", SBT - TV ARATU2 (BA)
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/cLIdzw6.png" group-title="CANAL | SBT", SBT TV ARATU2 (BA)
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="12" tvg-id="RecordTV Itapoan" tvg-logo="https://imgur.com/xmAzIRn.png" group-title="TV",RecordTV BAHIA
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="CANAL | RECORD",RecordTV BAHIA
 https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
 
 #EXTINF:0 channel-id="masterchef-ptv1" tvg-logo="http://images.pluto.tv/channels/6077045b6031bd00078de127/solidLogoPNG.png" group-title="PLUTO TV", MASTERCHEF
@@ -89,28 +87,28 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b99d633a72b00078
 
 
 
-#EXTINF:-1 tvg-id="ESPECIAL" group-title="ESPECIAL",GLOBO BA
+#EXTINF:-1 group-title="CANAIS TESTE2",GLOBO BA
 http://rec2.distv.net:80/live/danton/123456/17.m3u8
 
-#EXTINF:-1 tvg-id="ESPECIAL" group-title="ESPECIAL",GLOBO SP
+#EXTINF:-1 group-title="CANAIS TESTE2",GLOBO SP
 http://rec2.distv.net:80/live/danton/123456/15.m3u8
 
-#EXTINF:-1 tvg-id="ESPECIAL" group-title="ESPECIAL",GLOBO BA
+#EXTINF:-1 group-title="CANAIS TESTE2",GLOBO BA 2
 http://rec2.distv.net:80/live/danton/123456/231.m3u8
 
-#EXTINF:-1 tvg-id="ESPECIAL" group-title="ESPECIAL",DISCOVERY CHANNEL
+#EXTINF:-1 group-title="CANAIS TESTE2",DISCOVERY CHANNEL
 http://rec2.distv.net:80/live/danton/123456/130.m3u8
 
-#EXTINF:-1 tvg-id="ESPECIAL" group-title="ESPECIAL",H&H
+#EXTINF:-1 group-title="CANAIS TESTE2",H&H
 http://rec2.distv.net:80/live/danton/123456/131.m3u8
 
-#EXTINF:-1 tvg-id="ESPECIAL" group-title="ESPECIAL",FOOD NETWORK
+#EXTINF:-1 group-title="CANAIS TESTE2",FOOD NETWORK
 http://rec2.distv.net:80/live/danton/123456/147.m3u8
 
-#EXTINF:-1 tvg-id="ESPECIAL" group-title="ESPECIAL",HISTORY
+#EXTINF:-1 group-title="CANAIS TESTE2",HISTORY
 http://rec2.distv.net:80/live/danton/123456/165.m3u8
 
-#EXTINF:-1 tvg-id="ESPECIAL" group-title="ESPECIAL",TLC
+#EXTINF:-1 group-title="CANAIS TESTE2",TLC
 http://rec2.distv.net:80/live/danton/123456/200.m3u8
 
 
@@ -145,6 +143,4 @@ http://45.224.115.214:80/live/damaris/123456/23.m3u8
 
 #EXTINF:-1 group-title="CANAIS TESTE",TLC
 http://45.224.115.214:80/live/damaris/123456/200.m3u8
-
-#EXTINF:-1 group-title="CANAIS TESTE",
 
