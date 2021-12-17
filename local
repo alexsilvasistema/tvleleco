@@ -82,3 +82,20 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b99d633a72b00078
 
 
 
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png"group-title="GLOBO",Globo RJ
+http://livetv2021.site:8080/9897876765/6576567/80
+
+
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/revenda/168/rodape-168-20190527174312.png"group-title="DIVERSOS",SUMMER TV
+https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/playlist.m3u8
+
+
+
