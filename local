@@ -84,29 +84,3 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b99d633a72b00078
 
 
 
-
-
-
-#EXTINF:-1 group-title="CANAIS TESTE2",GLOBO BA
-http://rec2.distv.net:80/live/danton/123456/17.m3u8
-
-#EXTINF:-1 group-title="CANAIS TESTE2",GLOBO SP
-http://rec2.distv.net:80/live/danton/123456/15.m3u8
-
-#EXTINF:-1 group-title="CANAIS TESTE2",GLOBO BA 2
-http://rec2.distv.net:80/live/danton/123456/231.m3u8
-
-#EXTINF:-1 group-title="CANAIS TESTE2",DISCOVERY CHANNEL
-http://rec2.distv.net:80/live/danton/123456/130.m3u8
-
-#EXTINF:-1 group-title="CANAIS TESTE2",H&H
-http://rec2.distv.net:80/live/danton/123456/131.m3u8
-
-#EXTINF:-1 group-title="CANAIS TESTE2",FOOD NETWORK
-http://rec2.distv.net:80/live/danton/123456/147.m3u8
-
-#EXTINF:-1 group-title="CANAIS TESTE2",HISTORY
-http://rec2.distv.net:80/live/danton/123456/165.m3u8
-
-#EXTINF:-1 group-title="CANAIS TESTE2",TLC
-http://rec2.distv.net:80/live/danton/123456/200.m3u8
