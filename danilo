@@ -1,0 +1,86 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/cLIdzw6.png" group-title="CANAL | SBT",SBT2
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/cLIdzw6.png" group-title="CANAL | SBT",SBT3
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="",Rede Brasil
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/h4WaIw5.jpg" group-title="Religious",Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="Legislative",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VqIzaFz.png" group-title="",TV Digital Birigui
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/b9q8rtn.jpg" group-title="",TV Faap
+http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="Religious",TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TYfIH55.png" group-title="",TV Verdes Campos
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/uBntXf1.png" group-title="",TVDS
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/cLIdzw6.png" group-title="CANAL | SBT",SBT 
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND" tvg-logo="https://i.imgur.com/Fh4SQ6L.png" group-title="CANAL | BAND",BAND
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w16814077.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="CANAL | BAND",Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP HD " tvg-logo="http://tvonlinehd.net/img/canais/band.png" group-title="CANAL | BAND",BAND SP
+ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="RECORD HD2" tvg-name="RECORD HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAL | RECORD",RECORD HD2
+ https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="CANAL | RECORD", RecordTV Rio de Janeiro
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="CANAL | REDE TV", TV Pampa - RedeTV! RS
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tve.jpg" group-title="CANAL | CULTURA", TVE Bahia
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
+#EXTINF:-1 tvg-id="Boomerang" tvg-logo="https://i.imgur.com/x33MwPN.png" group-title="CANAL | INFANTIL",RETRO CARTOON (Desenhos Antigos)
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-id="BOMS TEMPOS TV " tvg-name="BOMS TEMPOS TV HD " tvg-logo="https://bit.ly/3s9HOoK" group-title="CANAL | INFANTIL",BOM TEMPOS TV
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/cLIdzw6.png" group-title="CANAL | SBT", SBT - TV ARATU (BA)
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/cLIdzw6.png" group-title="CANAL | SBT", SBT TV ARATU2 (BA)
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="CANAL | RECORD",RecordTV BAHIA
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+
+#EXTINF:0 channel-id="masterchef-ptv1" tvg-logo="http://images.pluto.tv/channels/6077045b6031bd00078de127/solidLogoPNG.png" group-title="PLUTO TV", MASTERCHEF
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cb1adf50-4557-11ec-9765-d97609c76ffe&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f09caa2f-a8f4-4fef-8908-74e93a2f7422&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-shows-por-stingray" tvg-logo="http://images.pluto.tv/channels/604b91e0692f770007d9f33f/solidLogoPNG.png" group-title="PLUTO TV", PLUTO TV SHOWS POR STINGRAY
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b91e0692f770007d9f33f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cb1ab840-4557-11ec-9765-d97609c76ffe&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=82c1dd9b-b556-4034-9bbb-63a33a88f513&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-karaoke-por-stingray" tvg-logo="http://images.pluto.tv/channels/604b99d633a72b00078e05ad/solidLogoPNG.png" group-title="PLUTO TV", PLUTO TV KARAOKÊ POR STINGRAY
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b99d633a72b00078e05ad/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cb1ab841-4557-11ec-9765-d97609c76ffe&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8ca87f13-9c3a-474f-a4d4-77c6ecb9b64b&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/revenda/168/rodape-168-20190527174312.png"group-title="DIVERSOS",SUMMER TV
+https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/playlist.m3u8
+
+
