@@ -1,86 +1,580 @@
-
 #EXTM3U
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/cLIdzw6.png" group-title="CANAL | SBT",SBT2
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1,A&E 
+http://rec2.distv.net/valter/valter/113
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/cLIdzw6.png" group-title="CANAL | SBT",SBT3
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8
+#EXTINF:-1,AMC
+http://rec2.distv.net/valter/valter/223
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="",Rede Brasil
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://rec2.distv.net/valter/valter/114
 
-#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/h4WaIw5.jpg" group-title="Religious",Rede Vida
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+#EXTINF:-1,ARTE 1
+http://rec2.distv.net/valter/valter/115
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="Legislative",TV Câmara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1,AXN
+http://rec2.distv.net/valter/valter/116
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VqIzaFz.png" group-title="",TV Digital Birigui
-http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+#EXTINF:-1,BABY TV
+http://rec2.distv.net/valter/valter/117
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/b9q8rtn.jpg" group-title="",TV Faap
-http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
+#EXTINF:-1,BAND
+http://rec2.distv.net/valter/valter/224
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="Religious",TV Pai Eterno
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+#EXTINF:-1,BAND NEWS
+http://rec2.distv.net/valter/valter/118
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TYfIH55.png" group-title="",TV Verdes Campos
-https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
+#EXTINF:-1,BAND RN
+http://rec2.distv.net/valter/valter/294
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/uBntXf1.png" group-title="",TVDS
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:-1,BAND SPORTS
+http://rec2.distv.net/valter/valter/119
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/cLIdzw6.png" group-title="CANAL | SBT",SBT 
-http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1,BIS
+http://rec2.distv.net/valter/valter/120
 
-#EXTINF:-1 tvg-id="Band" tvg-name="BAND" tvg-logo="https://i.imgur.com/Fh4SQ6L.png" group-title="CANAL | BAND",BAND
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w16814077.m3u8
+#EXTINF:-1,BOOMERANG
+http://rec2.distv.net/valter/valter/121
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="CANAL | BAND",Band
-http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:-1,CANAL 21
+http://rec2.distv.net/valter/valter/265
 
-#EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP HD " tvg-logo="http://tvonlinehd.net/img/canais/band.png" group-title="CANAL | BAND",BAND SP
- https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:-1,CANAL COMUNITARIO
+http://rec2.distv.net/valter/valter/267
 
-#EXTINF:-1 tvg-id="RECORD HD2" tvg-name="RECORD HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAL | RECORD",RECORD HD2
- https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+#EXTINF:-1,CANAL DO BOI
+http://rec2.distv.net/valter/valter/266
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="CANAL | RECORD", RecordTV Rio de Janeiro
-https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+#EXTINF:-1,CANAL SONY
+http://rec2.distv.net/valter/valter/123
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="CANAL | REDE TV", TV Pampa - RedeTV! RS
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:-1,CAN
+http://rec2.distv.net/valter/valter/65
 
+#EXTINF:-1,CARTOON NETWORK
+http://rec2.distv.net/valter/valter/124
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tve.jpg" group-title="CANAL | CULTURA", TVE Bahia
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+#EXTINF:-1,CINE SKY 01
+http://rec2.distv.net/valter/valter/48
 
-#EXTINF:-1 tvg-id="Boomerang" tvg-logo="https://i.imgur.com/x33MwPN.png" group-title="CANAL | INFANTIL",RETRO CARTOON (Desenhos Antigos)
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+#EXTINF:-1,CINE SKY 02
+http://rec2.distv.net/valter/valter/49
 
-#EXTINF:-1 tvg-id="BOMS TEMPOS TV " tvg-name="BOMS TEMPOS TV HD " tvg-logo="https://bit.ly/3s9HOoK" group-title="CANAL | INFANTIL",BOM TEMPOS TV
-https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
+#EXTINF:-1,CINE SKY 03
+http://rec2.distv.net/valter/valter/50
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/cLIdzw6.png" group-title="CANAL | SBT", SBT - TV ARATU (BA)
-https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+#EXTINF:-1,CINE SKY 04
+http://rec2.distv.net/valter/valter/51
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/cLIdzw6.png" group-title="CANAL | SBT", SBT TV ARATU2 (BA)
-https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
+#EXTINF:-1,CINE SKY 05
+http://rec2.distv.net/valter/valter/52
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="CANAL | RECORD",RecordTV BAHIA
-https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+#EXTINF:-1,CINE SKY 06
+http://rec2.distv.net/valter/valter/53
 
-#EXTINF:0 channel-id="masterchef-ptv1" tvg-logo="http://images.pluto.tv/channels/6077045b6031bd00078de127/solidLogoPNG.png" group-title="PLUTO TV", MASTERCHEF
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cb1adf50-4557-11ec-9765-d97609c76ffe&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f09caa2f-a8f4-4fef-8908-74e93a2f7422&userId=&serverSideAds=true
+#EXTINF:-1,CINE SKY 07
+http://rec2.distv.net/valter/valter/54
 
-#EXTINF:0 channel-id="pluto-tv-shows-por-stingray" tvg-logo="http://images.pluto.tv/channels/604b91e0692f770007d9f33f/solidLogoPNG.png" group-title="PLUTO TV", PLUTO TV SHOWS POR STINGRAY
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b91e0692f770007d9f33f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cb1ab840-4557-11ec-9765-d97609c76ffe&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=82c1dd9b-b556-4034-9bbb-63a33a88f513&userId=&serverSideAds=true
+#EXTINF:-1,CINE SKY 08
+http://rec2.distv.net/valter/valter/55
 
-#EXTINF:0 channel-id="pluto-tv-karaoke-por-stingray" tvg-logo="http://images.pluto.tv/channels/604b99d633a72b00078e05ad/solidLogoPNG.png" group-title="PLUTO TV", PLUTO TV KARAOKÊ POR STINGRAY
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b99d633a72b00078e05ad/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cb1ab841-4557-11ec-9765-d97609c76ffe&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8ca87f13-9c3a-474f-a4d4-77c6ecb9b64b&userId=&serverSideAds=true
+#EXTINF:-1,CINE SKY 09
+http://rec2.distv.net/valter/valter/56
 
-#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/revenda/168/rodape-168-20190527174312.png"group-title="DIVERSOS",SUMMER TV
-https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/playlist.m3u8
+#EXTINF:-1,CINE SKY 10
+http://rec2.distv.net/valter/valter/57
 
+#EXTINF:-1,CINEMAX
+http://rec2.distv.net/valter/valter/125
 
+#EXTINF:-1,CNN BRASIL
+http://rec2.distv.net/valter/valter/225
+
+#EXTINF:-1,COMBATE
+http://rec2.distv.net/valter/valter/126
+
+#EXTINF:-1,COMEDY CENTRAL
+http://rec2.distv.net/valter/valter/127
+
+#EXTINF:-1,CULTURA
+http://rec2.distv.net/valter/valter/128
+
+#EXTINF:-1,CURTA
+http://rec2.distv.net/valter/valter/129
+
+#EXTINF:-1,DAZN
+http://rec2.distv.net/valter/valter/226
+
+#EXTINF:-1,DISCOVERY CHANNEL
+http://rec2.distv.net/valter/valter/130
+
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+http://rec2.distv.net/valter/valter/131
+
+#EXTINF:-1,DISCOVERY ID
+http://rec2.distv.net/valter/valter/132
+
+#EXTINF:-1,DISCOVERY KIDS
+http://rec2.distv.net/valter/valter/133
+
+#EXTINF:-1,DISCOVERY SCIENCE
+http://rec2.distv.net/valter/valter/134
+
+#EXTINF:-1,DISCOVERY THEATER
+http://rec2.distv.net/valter/valter/135
+
+#EXTINF:-1,DISCOVERY TURBO
+http://rec2.distv.net/valter/valter/136
+
+#EXTINF:-1,DISCOVERY WORLD
+http://rec2.distv.net/valter/valter/137
+
+#EXTINF:-1,DISNEY CHANNEL
+http://rec2.distv.net/valter/valter/138
+
+#EXTINF:-1,DISNEY JR
+http://rec2.distv.net/valter/valter/139
+
+#EXTINF:-1,DISNEY XD
+http://rec2.distv.net/valter/valter/140
+
+#EXTINF:-1,E!
+http://rec2.distv.net/valter/valter/141
+
+#EXTINF:-1,EDUCA
+http://rec2.distv.net/valter/valter/285
+
+#EXTINF:-1,ESPN
+http://rec2.distv.net/valter/valter/142
+
+#EXTINF:-1,ESPN 2
+http://rec2.distv.net/valter/valter/143
+
+#EXTINF:-1,ESPN BRASIL
+http://rec2.distv.net/valter/valter/144
+
+#EXTINF:-1,ESPN EXTRA
+http://rec2.distv.net/valter/valter/145
+
+#EXTINF:-1,EURO NEWS
+http://rec2.distv.net/valter/valter/270
+
+#EXTINF:-1,FASHION
+http://rec2.distv.net/valter/valter/82
+
+#EXTINF:-1,FILMS & ARTS
+http://rec2.distv.net/valter/valter/227
+
+#EXTINF:-1,FISH TV
+http://rec2.distv.net/valter/valter/146
+
+#EXTINF:-1,FOOD NETWORK
+http://rec2.distv.net/valter/valter/147
+
+#EXTINF:-1,FOX
+http://rec2.distv.net/valter/valter/148
+
+#EXTINF:-1,FOX LIFE
+http://rec2.distv.net/valter/valter/149
+
+#EXTINF:-1,FOX PREMIUM 1
+http://rec2.distv.net/valter/valter/150
+
+#EXTINF:-1,FOX PREMIUM 2
+http://rec2.distv.net/valter/valter/151
+
+#EXTINF:-1,FOX SPORTS
+http://rec2.distv.net/valter/valter/152
+
+#EXTINF:-1,FOX SPORTS 2
+http://rec2.distv.net/valter/valter/153
+
+#EXTINF:-1,FUTURA
+http://rec2.distv.net/valter/valter/228
+
+#EXTINF:-1,FX
+http://rec2.distv.net/valter/valter/229
+
+#EXTINF:-1,GAZETA
+http://rec2.distv.net/valter/valter/230
+
+#EXTINF:-1,GLOBO BRASILIA
+http://rec2.distv.net/valter/valter/3
+
+#EXTINF:-1,GLOBO FLORIANOPOLIS
+http://rec2.distv.net/valter/valter/5
+
+#EXTINF:-1,GLOBO MINAS
+http://rec2.distv.net/valter/valter/6
+
+#EXTINF:-1,GLOBO NATAL
+http://rec2.distv.net/valter/valter/7
+
+#EXTINF:-1,GLOBO NEWS
+http://rec2.distv.net/valter/valter/232
+
+#EXTINF:-1,GLOBO REDE AMAZ
+http://rec2.distv.net/valter/valter/11
+
+#EXTINF:-1,GLOBO RIO
+http://rec2.distv.net/valter/valter/13
+
+#EXTINF:-1,GLOBO RIO GRANDE DO SUL
+http://rec2.distv.net/valter/valter/12
+
+#EXTINF:-1,GLOBO RPC CURITIBA
+http://rec2.distv.net/valter/valter/14
+
+#EXTINF:-1,GLOBO SP
+http://rec2.distv.net/valter/valter/15
+
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA
+http://rec2.distv.net/valter/valter/16
+
+#EXTINF:-1,GLOBO TV BAHIA
+http://rec2.distv.net/valter/valter/17
+
+#EXTINF:-1,GLOBO TV LIBERAL BELEM
+http://rec2.distv.net/valter/valter/18
+
+#EXTINF:-1,GLOBO TV MIRANTE
+http://rec2.distv.net/valter/valter/19
+
+#EXTINF:-1,GLOOB
+http://rec2.distv.net/valter/valter/154
+
+#EXTINF:-1,GLOOBINHO
+http://rec2.distv.net/valter/valter/215
+
+#EXTINF:-1,GNT
+http://rec2.distv.net/valter/valter/155
+
+#EXTINF:-1,HBO
+http://rec2.distv.net/valter/valter/156
+
+#EXTINF:-1,HBO 2
+http://rec2.distv.net/valter/valter/157
+
+#EXTINF:-1,HBO FAMILY
+http://rec2.distv.net/valter/valter/158
+
+#EXTINF:-1,HBO MUNDI
+http://rec2.distv.net/valter/valter/159
+
+#EXTINF:-1,HBO PLUS
+http://rec2.distv.net/valter/valter/160
+
+#EXTINF:-1,HBO POP
+http://rec2.distv.net/valter/valter/161
+
+#EXTINF:-1,HBO SIGNATURE
+http://rec2.distv.net/valter/valter/162
+
+#EXTINF:-1,HBO XTREME
+http://rec2.distv.net/valter/valter/163
+
+#EXTINF:-1,HGTV
+http://rec2.distv.net/valter/valter/164
+
+#EXTINF:-1,HISTORY
+http://rec2.distv.net/valter/valter/165
+
+#EXTINF:-1,HISTORY 2
+http://rec2.distv.net/valter/valter/166
+
+#EXTINF:-1,INTERTV CABUGI(GLOBO)
+http://rec2.distv.net/valter/valter/295
+
+#EXTINF:-1,LIFE TIME
+http://rec2.distv.net/valter/valter/167
+
+#EXTINF:-1,MAIS GLOBOSAT
+http://rec2.distv.net/valter/valter/235
+
+#EXTINF:-1,MEGAPIX
+http://rec2.distv.net/valter/valter/168
+
+#EXTINF:-1,MTV
+http://rec2.distv.net/valter/valter/169
+
+#EXTINF:-1,MTV LIVE
+http://rec2.distv.net/valter/valter/236
+
+#EXTINF:-1,MULTISHOW
+http://rec2.distv.net/valter/valter/170
+
+#EXTINF:-1,MUSIC BOX BRAZIL
+http://rec2.distv.net/valter/valter/171
+
+#EXTINF:-1,NAT GEO
+http://rec2.distv.net/valter/valter/172
+
+#EXTINF:-1,NAT GEO KIDS
+http://rec2.distv.net/valter/valter/173
+
+#EXTINF:-1,NAT GEO WILD
+http://rec2.distv.net/valter/valter/174
+
+#EXTINF:-1,NBR TV
+http://rec2.distv.net/valter/valter/271
+
+#EXTINF:-1,NICK
+http://rec2.distv.net/valter/valter/175
+
+#EXTINF:-1,NICK JR
+http://rec2.distv.net/valter/valter/176
+
+#EXTINF:-1,OFF
+http://rec2.distv.net/valter/valter/177
+
+#EXTINF:-1,PARAMOUNT
+http://rec2.distv.net/valter/valter/178
+
+#EXTINF:-1,PLAY TV
+http://rec2.distv.net/valter/valter/217
+
+#EXTINF:-1,POLISHOP
+http://rec2.distv.net/valter/valter/272
+
+#EXTINF:-1,PREMIERE 2
+http://rec2.distv.net/valter/valter/179
+
+#EXTINF:-1,PREMIERE 3
+http://rec2.distv.net/valter/valter/180
+
+#EXTINF:-1,PREMIERE 4
+http://rec2.distv.net/valter/valter/181
+
+#EXTINF:-1,PREMIERE 5
+http://rec2.distv.net/valter/valter/182
+
+#EXTINF:-1,PREMIERE 6
+http://rec2.distv.net/valter/valter/183
+
+#EXTINF:-1,PREMIERE 7
+http://rec2.distv.net/valter/valter/237
+
+#EXTINF:-1,PREMIERE CLUBES
+http://rec2.distv.net/valter/valter/184
+
+#EXTINF:-1,PRIME BOX BRAZIL
+http://rec2.distv.net/valter/valter/185
+
+#EXTINF:-1,RECORD BAHIA 
+http://rec2.distv.net/valter/valter/23
+
+#EXTINF:-1,RECORD BRASILIA 
+http://rec2.distv.net/valter/valter/25
+
+#EXTINF:-1,RECORD GOIAS 
+http://rec2.distv.net/valter/valter/26
+
+#EXTINF:-1,RECORD MANAUS
+http://rec2.distv.net/valter/valter/22
+
+#EXTINF:-1,RECORD MG
+http://rec2.distv.net/valter/valter/32
+
+#EXTINF:-1,RECORD MINAS 
+http://rec2.distv.net/valter/valter/27
+
+#EXTINF:-1,RECORD NEWS 
+http://rec2.distv.net/valter/valter/28
+
+#EXTINF:-1,RECORD PARA 
+http://rec2.distv.net/valter/valter/30
+
+#EXTINF:-1,RECORD RIO 
+http://rec2.distv.net/valter/valter/31
+
+#EXTINF:-1,RECORD SP 
+http://rec2.distv.net/valter/valter/33
+
+#EXTINF:-1,REDE GENESIS
+http://rec2.distv.net/valter/valter/273
+
+#EXTINF:-1,REDE GOSPEL
+http://rec2.distv.net/valter/valter/274
+
+#EXTINF:-1,REDE MINAS
+http://rec2.distv.net/valter/valter/275
+
+#EXTINF:-1,REDE SECULO 21
+http://rec2.distv.net/valter/valter/276
+
+#EXTINF:-1,REDE SUPER
+http://rec2.distv.net/valter/valter/277
+
+#EXTINF:-1,REDE TV
+http://rec2.distv.net/valter/valter/69
+
+#EXTINF:-1,REDE VIDA
+http://rec2.distv.net/valter/valter/218
+
+#EXTINF:-1,RIT TV
+http://rec2.distv.net/valter/valter/70
+
+#EXTINF:-1,SBT
+http://rec2.distv.net/valter/valter/238
+
+#EXTINF:-1,SBT RN
+http://rec2.distv.net/valter/valter/296
+
+#EXTINF:-1,SPACE
+http://rec2.distv.net/valter/valter/187
+
+#EXTINF:-1,SPORTV
+http://rec2.distv.net/valter/valter/188
+
+#EXTINF:-1,SPORTV 2
+http://rec2.distv.net/valter/valter/189
+
+#EXTINF:-1,SPORTV 3
+http://rec2.distv.net/valter/valter/190
+
+#EXTINF:-1,STUDIO UNIVERSAL
+http://rec2.distv.net/valter/valter/191
+
+#EXTINF:-1,SYFY
+http://rec2.distv.net/valter/valter/192
+
+#EXTINF:-1,TBC
+http://rec2.distv.net/valter/valter/278
+
+#EXTINF:-1,TBS
+http://rec2.distv.net/valter/valter/193
+
+#EXTINF:-1,TELECINE ACTION
+http://rec2.distv.net/valter/valter/194
+
+#EXTINF:-1,TELECINE CULT
+http://rec2.distv.net/valter/valter/195
+
+#EXTINF:-1,TELECINE FUN
+http://rec2.distv.net/valter/valter/196
+
+#EXTINF:-1,TELECINE PIPOCA
+http://rec2.distv.net/valter/valter/197
+
+#EXTINF:-1,TELECINE PREMIUM
+http://rec2.distv.net/valter/valter/198
+
+#EXTINF:-1,TELECINE TOUCH
+http://rec2.distv.net/valter/valter/199
+
+#EXTINF:-1,TLC
+http://rec2.distv.net/valter/valter/200
+
+#EXTINF:-1,TNT
+http://rec2.distv.net/valter/valter/201
+
+#EXTINF:-1,TNT SERIES
+http://rec2.distv.net/valter/valter/202
+
+#EXTINF:-1,TOONCAST
+http://rec2.distv.net/valter/valter/203
+
+#EXTINF:-1,TRAVELBOX
+http://rec2.distv.net/valter/valter/240
+
+#EXTINF:-1,TV ALEPE
+http://rec2.distv.net/valter/valter/72
+
+#EXTINF:-1,TV ARAPUAN
+http://rec2.distv.net/valter/valter/98
+
+#EXTINF:-1,TV BRASIL
+http://rec2.distv.net/valter/valter/241
+
+#EXTINF:-1,TV BRASIL 2
+http://rec2.distv.net/valter/valter/279
+
+#EXTINF:-1,TV CABO BRANCO PB
+http://rec2.distv.net/valter/valter/100
+
+#EXTINF:-1,TV CAMARA
+http://rec2.distv.net/valter/valter/222
+
+#EXTINF:-1,TV CIDADE
+http://rec2.distv.net/valter/valter/308
+
+#EXTINF:-1,TV CORREIO PB
+http://rec2.distv.net/valter/valter/101
+
+#EXTINF:-1,TV DIARIO
+http://rec2.distv.net/valter/valter/309
+
+#EXTINF:-1,TV ESCOLA DIGITAL
+http://rec2.distv.net/valter/valter/280
+
+#EXTINF:-1,TV EVANGELIZAR
+http://rec2.distv.net/valter/valter/91
+
+#EXTINF:-1,TV GLOBO NE
+http://rec2.distv.net/valter/valter/75
+
+#EXTINF:-1,TV GUARARAPES
+http://rec2.distv.net/valter/valter/73
+
+#EXTINF:-1,TV HORIZONTE
+http://rec2.distv.net/valter/valter/281
+
+#EXTINF:-1,TV JANGADEIRO
+http://rec2.distv.net/valter/valter/90
+
+#EXTINF:-1,TV JORNAL
+http://rec2.distv.net/valter/valter/76
+
+#EXTINF:-1,TV MIRAMAR PB
+http://rec2.distv.net/valter/valter/102
+
+#EXTINF:-1,TV NOVA NORDESTE
+http://rec2.distv.net/valter/valter/62
+
+#EXTINF:-1,TV NOVO TEMPO
+http://rec2.distv.net/valter/valter/242
+
+#EXTINF:-1,TV PAI ETERNO
+http://rec2.distv.net/valter/valter/103
+
+#EXTINF:-1,TV RA TIM BUM
+http://rec2.distv.net/valter/valter/204
+
+#EXTINF:-1,TV RIOSUL
+http://rec2.distv.net/valter/valter/283
+
+#EXTINF:-1,TV TRIBUNA
+http://rec2.distv.net/valter/valter/77
+
+#EXTINF:-1,TV TROPICAL (RECORD TV)
+http://rec2.distv.net/valter/valter/298
+
+#EXTINF:-1,TV UFPB TV
+http://rec2.distv.net/valter/valter/104
+
+#EXTINF:-1,TV UNIAO
+http://rec2.distv.net/valter/valter/92
+
+#EXTINF:-1,TV VERDE MARES CE
+http://rec2.distv.net/valter/valter/306
+
+#EXTINF:-1,TV VERDE VALE
+http://rec2.distv.net/valter/valter/293
+
+#EXTINF:-1,UNIVERSAL TV
+http://rec2.distv.net/valter/valter/205
+
+#EXTINF:-1,VH1
+http://rec2.distv.net/valter/valter/206
+
+#EXTINF:-1,VIVA
+http://rec2.distv.net/valter/valter/207
+
+#EXTINF:-1,WARNER CHANNEL
+http://rec2.distv.net/valter/valter/208
+
+#EXTINF:-1,WOOHOO
+http://rec2.distv.net/valter/valter/243
+
+#EXTINF:-1,ZOOMOO
+http://rec2.distv.net/valter/valter/244
