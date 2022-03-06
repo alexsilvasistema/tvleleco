@@ -1,47 +1,28 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-id="APARECIDA" tvg-name="APARECIDA" group-title="CANAL | APARECIDA",TV Aparecida (1080p)
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-id="CANÇÃO NOVA" tvg-name="CANÇÃO NOVA" group-title="CANAL | CANÇÃO NOVA", CANÇÃO NOVA
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CANÇÃO NOVA" tvg-name="CANÇÃO NOVA" group-title="CANAL | CANÇÃO NOVA", CANÇÃO NOVA
+https://list.iptvcat.com/my_list/s/52552caf978a1da38508d1f645067388.m3u8
+
+#EXTINF:-1 tvg-id="CANÇÃO NOVA" tvg-name="CANÇÃO NOVA" group-title="CANAL | CANÇÃO NOVA", CANÇÃO NOVA
+http://vipeiptv.com:8080/24988143924paulo/asdsdasd334ada/856655
+
+
+
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/cLIdzw6.png" group-title="CANAL | SBT",SBT2
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/cLIdzw6.png" group-title="CANAL | SBT",SBT3
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="",Rede Brasil
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/h4WaIw5.jpg" group-title="Religious",Rede Vida
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="Legislative",TV Câmara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VqIzaFz.png" group-title="",TV Digital Birigui
-http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/b9q8rtn.jpg" group-title="",TV Faap
-http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="Religious",TV Pai Eterno
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TYfIH55.png" group-title="",TV Verdes Campos
-https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/uBntXf1.png" group-title="",TVDS
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/cLIdzw6.png" group-title="CANAL | SBT",SBT 
 http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Band" tvg-name="BAND" tvg-logo="https://i.imgur.com/Fh4SQ6L.png" group-title="CANAL | BAND",BAND
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w16814077.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="CANAL | BAND",Band
-http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP HD " tvg-logo="http://tvonlinehd.net/img/canais/band.png" group-title="CANAL | BAND",BAND SP
- https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="RECORD HD2" tvg-name="RECORD HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAL | RECORD",RECORD HD2
  https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
