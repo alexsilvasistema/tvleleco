@@ -1,6 +1,87 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-id="Aqui Especial" tvg-name="Aqui Especial" group-title="Aqui Especial",Globo
+https://canal1.proxy.tokplay.com.br:443/videos/TV_BAHIA/format720p_TV_BAHIA.m3u8
+
+#EXTINF:-1 tvg-id="Aqui Especial" tvg-name="Aqui Especial" group-title="Aqui Especial",Rede TV
+https://canal1.proxy.tokplay.com.br/streams/REDE_TV/auto.m3u8
+
+#EXTINF:-1 tvg-id="Aqui Especial" tvg-name="Aqui Especial" group-title="Aqui Especial",Rede TV2
+http://168.205.87.198:8555/live/adriana/123456/102.m3u8
+
+#EXTINF:-1 tvg-id="Aqui Especial" tvg-name="Aqui Especial" group-title="Aqui Especial",SBT
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Aqui Especial" tvg-name="Aqui Especial" group-title="Aqui Especial",Series classicas
+http://168.205.87.198:8555/live/adriana/123456/160.m3u8
+
+#EXTINF:-1 tvg-id="Aqui Especial" tvg-name="Aqui Especial" group-title="Aqui Especial",TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Aqui Especial" tvg-name="Aqui Especial" group-title="Aqui Especial",Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Aqui Especial" tvg-name="Aqui Especial" group-title="Aqui Especial",Futura
+https://canal1.proxy.tokplay.com.br:443/videos/FUTURA/format720p_FUTURA.m3u8
+
+#EXTINF:-1 tvg-id="Aqui Especial" tvg-name="Aqui Especial" group-title="Aqui Especial",Band SP
+http://evpp.mm.uol.com.br:1935/geob_band/band/chunklist_w1805120840.m3u8
+
+#EXTINF:-1 tvg-id="Aqui Especial" tvg-name="Aqui Especial" group-title="Aqui Especial",Chaves
+http://168.205.87.198:8555/live/adriana/123456/159.m3u8
+
+#EXTINF:-1 tvg-id="Aqui Especial" tvg-name="Aqui Especial" group-title="Aqui Especial",Globo Minas
+http://168.205.87.198:8555/live/adriana/123456/70.m3u8
+
+#EXTINF:-1 tvg-id="Aqui Especial" tvg-name="Aqui Especial" group-title="Aqui Especial",Jovem Pan News
+http://168.205.87.198:8555/live/adriana/123456/161.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="FILMES E SÉRIES",AMC
 http://51.89.98.62:8080/japones/japones/512
