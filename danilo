@@ -1,9 +1,42 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Aqui Premiere" tvg-name="Aqui Premiere" group-title="Aqui Premiere",
+
+#EXTINF:-1 tvg-id="Aqui Premiere" tvg-name="Aqui Premiere" group-title="Aqui Premiere",Premiere Clubes
+http://50.7.34.155:2200/BR/Premiere_Clubes_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="Aqui Premiere" tvg-name="Aqui Premiere" group-title="Aqui Premiere",Premiere 2
+http://pfsv.io:80/07720253/51853/531
+
+#EXTINF:-1 tvg-id="Aqui Premiere" tvg-name="Aqui Premiere" group-title="Aqui Premiere",Premiere 3
+http://pfsv.io:80/07720253/51853/532
+
+#EXTINF:-1 tvg-id="Aqui Premiere" tvg-name="Aqui Premiere" group-title="Aqui Premiere",Premiere 4
+http://pfsv.io:80/07720253/51853/533
+
+#EXTINF:-1 tvg-id="Aqui Premiere" tvg-name="Aqui Premiere" group-title="Aqui Premiere",Premiere 5 
+http://50.7.34.155:2200/BR/Premiere_5_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="Aqui Premiere" tvg-name="Aqui Premiere" group-title="Aqui Premiere",Premiere 6
+http://50.7.34.155:2200/BR/Premiere_6_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="Aqui Premiere" tvg-name="Aqui Premiere" group-title="Aqui Premiere",Premiere 7
+http://50.7.34.155:2200/BR/Premiere_7_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+
+
+
+
+#EXTINF:-1 tvg-id="Aqui Especial" tvg-name="Aqui Especial" group-title="Aqui Especial",Globo SC
+http://ms1.ddns.me:8801/live/NSC/720p.m3u8
+
 #EXTINF:-1 tvg-id="Aqui Especial" tvg-name="Aqui Especial" group-title="Aqui Especial",SBT BAHIA
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Aqui Especial" tvg-name="Aqui Especial" group-title="Aqui Especial",Globo
+#EXTINF:-1 tvg-id="Aqui Especial" tvg-name="Aqui Especial" group-title="Aqui Especial",SBT BAHIA2
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Aqui Especial" tvg-name="Aqui Especial" group-title="Aqui Especial",Globo Bahia
 https://canal1.proxy.tokplay.com.br:443/videos/TV_BAHIA/format720p_TV_BAHIA.m3u8
 
 #EXTINF:-1 tvg-id="Aqui Especial" tvg-name="Aqui Especial" group-title="Aqui Especial",Rede TV
