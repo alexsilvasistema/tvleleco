@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Aqui Especial" tvg-name="Aqui Especial" group-title="Aqui Especial",SBT BAHIA
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Aqui Especial" tvg-name="Aqui Especial" group-title="Aqui Especial",Globo
 https://canal1.proxy.tokplay.com.br:443/videos/TV_BAHIA/format720p_TV_BAHIA.m3u8
