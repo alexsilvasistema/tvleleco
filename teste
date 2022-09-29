@@ -6,13 +6,6 @@ https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 #EXTINF:-1 tvg-chno="01" tvg-id="Tvbrasil.br" tvg-logo="https://i.imgur.com/kLWg5sp.png" group-title="TV", TVE BAHIA
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 
-#EXTINF:-1 tvg-chno="07" tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/Ll0dvQY.png" tvg-shift="0" group-title="TV", BAND
-http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8
-
-#EXTINF:-1 tvg-chno="12" tvg-id="RecordTV Itapoan" tvg-logo="https://imgur.com/xmAzIRn.png" group-title="TV",RecordTV BAHIA
-https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
-
-
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="Canais | ABERTO",SBT
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
