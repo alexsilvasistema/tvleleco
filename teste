@@ -1,17 +1,50 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="ESPORTES",BAND SPORTS
-https://br.embedflix.net/p2p/bandsport/chunks.m3u8?nimblesessionid=249510&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMiA0OjQ1OjE5IEFNJmhhc2hfdmFsdWU9cGgweGg5WTg0dldnS0hxZGszY2ljdz09JnZhbGlkbWludXRlcz05MA==
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="ESPORTES",BAND SPORTS2
+#EXTINF:0 type="stream" group-title="TV AO VIVO",BAND SPORTS2
 http://ssvrv.xyz:80/145438077389/393000443467/179631 
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="ESPORTES",BAND SPORTS3
-http://api.magiaiptv.com/live/800349/713534/m1_JCr0n6KJkWbSR5_720p
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="ESPORTES",BAND SPORTS4
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16698
+#EXTINF:0 type="stream" group-title="TV AO VIVO",SONY
+http://ssvrv.xyz:80/145438077389/393000443467/179467 
+#EXTINF:0 type="stream" group-title="TV AO VIVO",WARNNER SD
+http://ssvrv.xyz:80/145438077389/393000443467/179543
+#EXTINF:0 type="stream" group-title="TV AO VIVO",DISCOVERY CHANNEL SD
+http://ssvrv.xyz:80/145438077389/393000443467/179557
+#EXTINF:0 type="stream" group-title="TV AO VIVO",DISCOVERY HOME & HEALTH SD
+http://ssvrv.xyz:80/145438077389/393000443467/179563
+#EXTINF:0 type="stream" group-title="TV AO VIVO",TLC
+http://ssvrv.xyz:80/145438077389/393000443467/179579
+#EXTINF:0 type="stream" group-title="TV AO VIVO",HISTORY SD
+http://ssvrv.xyz:80/145438077389/393000443467/179601
+#EXTINF:0 type="stream" group-title="TV AO VIVO",COMBATE SD
+http://ssvrv.xyz:80/145438077389/393000443467/179637
+#EXTINF:0 type="stream" group-title="TV AO VIVO",RECORD BAHIA TOP
+http://ssvrv.xyz:80/145438077389/393000443467/180025
+#EXTINF:0 type="stream" group-title="TV AO VIVO",FOOD NETWORK
+http://ssvrv.xyz:80/145438077389/393000443467/180213
+#EXTINF:0 type="stream" group-title="TV AO VIVO",GLOBO TV BAHIA TOP
+http://ssvrv.xyz:80/145438077389/393000443467/431546
+#EXTINF:0 type="stream" group-title="TV AO VIVO",CAVERNA DO DRAGAO1
+http://ssvrv.xyz:80/145438077389/393000443467/799876
+#EXTINF:0 type="stream" group-title="TV AO VIVO",CAVERNA DO DRAGAO2
+http://ssvrv.xyz:80/145438077389/393000443467/799877
+#EXTINF:0 type="stream" group-title="TV AO VIVO",24H LIGA DA JUSTIÇA
+http://ssvrv.xyz:80/145438077389/393000443467/799934
+#EXTINF:0 type="stream" group-title="TV AO VIVO",24H LULUZINHA
+http://ssvrv.xyz:80/145438077389/393000443467/799937
+#EXTINF:0 type="stream" group-title="TV AO VIVO",SUPER MARIO1
+http://ssvrv.xyz:80/145438077389/393000443467/800015
+#EXTINF:0 type="stream" group-title="TV AO VIVO",SUPER MARIO2
+http://ssvrv.xyz:80/145438077389/393000443467/800016
 
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/band.png", BAND MG
+
+
+
+
+
+
+
+#EXTINF:0 type="stream" group-title="TV AO VIVO", BAND MG
 http://168.205.87.198:8555/live/4666/123456/19.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
+#EXTINF:0 type="stream" group-title="TV AO VIVO", GLOBO SP
 http://mateus.sportiumvip.xyz:8080/play/4KRTrWLgha8VWV0ZOHvqZNVDI0kjzNzI-Zg6EqhD_tZrK2t_RjECEqU7dkUbNaFd
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOBO MG
 http://dns-onplaytv.fun:80/9271394250/2431173504/24203
@@ -71,75 +104,90 @@ https://dd8umsy8yf96u.cloudfront.net/live/cnt-salvador.m3u8
 https://alanza.iptv2022.com/Rede_TV_belem/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SBT TV ARATU BAHIA3
 https://cdn.jmvstream.com:443/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
-#EXTINF:-1 tvg-chno="05" tvg-id="Sbt.br" tvg-name="TV Aratu" tvg-logo="https://imgur.com/6ikejI1.png" group-title="TV", SBT - TV ARATU (BA)2
+#EXTINF:0 type="stream" group-title="TV AO VIVO", SBT - TV ARATU (BA)2
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
-#EXTINF:-1 tvg-chno="01" tvg-id="Tvbrasil.br" tvg-logo="https://i.imgur.com/kLWg5sp.png" group-title="TV", TVE BAHIA1
+#EXTINF:0 type="stream" group-title="TV AO VIVO", TVE BAHIA1
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="Canais | ABERTO",SBT
+#EXTINF:0 type="stream" group-title="TV AO VIVO",SBT
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",SBT - PE
+#EXTINF:0 type="stream" group-title="TV AO VIVO",SBT - PE
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",SBT - Caruaru
+#EXTINF:0 type="stream" group-title="TV AO VIVO",SBT - Caruaru
 http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png" group-title="Variedades",Terra Viva
+#EXTINF:0 type="stream" group-title="TV AO VIVO",Terra Viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede_famc3adlia.png" group-title="🌎Variedades", Rede Família
+#EXTINF:0 type="stream" group-title="TV AO VIVO", Rede Família
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tve.jpg" group-title="🌎Variedades", TVE Bahia2
+#EXTINF:0 type="stream" group-title="TV AO VIVO", TVE Bahia2
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ee32135a0ae4307048d3b24d0891738f.webp" group-title="🌎Variedades", Tela Viva TV
+#EXTINF:0 type="stream" group-title="TV AO VIVO", Tela Viva TV
 https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1609777683.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-rede_vida_logo.png" group-title="🙏Religioso",Rede Vida
+#EXTINF:0 type="stream" group-title="TV AO VIVO",Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/2018091805332321logotipo_da_tv_aparecida.png" group-title="🙏Religioso",TV Aparecida2
+#EXTINF:0 type="stream" group-title="TV AO VIVO",TV Aparecida2
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/izkxzj9.png" group-title="🙏Religioso", Novo Tempo
+#EXTINF:0 type="stream" group-title="TV AO VIVO", Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redegospel.png" group-title="🙏Religioso",Rede Gospel
+#EXTINF:0 type="stream" group-title="TV AO VIVO",Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/paieterno.png" group-title="🙏Religioso",TV Pai Eterno
+#EXTINF:0 type="stream" group-title="TV AO VIVO",TV Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="📰Noticias", Record News
+#EXTINF:0 type="stream" group-title="TV AO VIVO", Record News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GCTplnu.png" group-title="🎬Filmes e Series", Channel 1
+#EXTINF:0 type="stream" group-title="TV AO VIVO", Channel 1
 https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/viva.web.tv.logo.jpg" group-title="🎬Filmes e Series", Viva Web TV
+#EXTINF:0 type="stream" group-title="TV AO VIVO", Viva Web TV
 https://video01.kshost.com.br:4443/cypriano46326/cypriano46326/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/xtreme.png" group-title="🎬Filmes e Series", XTreme
+#EXTINF:0 type="stream" group-title="TV AO VIVO", XTreme
 https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/chunklist_w569697233.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/Tv%20nova%20play%20.jpg" group-title="🎬Filmes e Series", TV Nova Play
+#EXTINF:0 type="stream" group-title="TV AO VIVO", TV Nova Play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1216624718.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="🎬Filmes e Series",Classique TV
+#EXTINF:0 type="stream" group-title="TV AO VIVO",Classique TV
 https://stmv1.srvif.com/classique/classique/chunklist_w1919154997.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="🎬Filmes e Series",Classique TV 2
+#EXTINF:0 type="stream" group-title="TV AO VIVO",Classique TV 2
 https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="🎬Filmes e Series",Classique TV Western
+#EXTINF:0 type="stream" group-title="TV AO VIVO",Classique TV Western
 https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/gsaf.jpg" group-title="🎬Filmes e Series", Guerra Sombra e Agua Frasca
+#EXTINF:0 type="stream" group-title="TV AO VIVO", Guerra Sombra e Agua Frasca
 https://stmv1.srvif.com/tvserie5/tvserie5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/ag86.png" group-title="🎬Filmes e Series", Agente 86
+#EXTINF:0 type="stream" group-title="TV AO VIVO", Agente 86
 https://stmv1.srvif.com/tvserie7/tvserie7/chunklist_w554878438.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/ostp.jpg" group-title="🎬Filmes e Series", Os Tres Patetas 
+#EXTINF:0 type="stream" group-title="TV AO VIVO", Os Tres Patetas 
 https://stmv1.srvif.com/tvserie6/tvserie6/chunklist_w414854403.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/as_panteras.jpg" group-title="🎬Filmes e Series", As Panteras
+#EXTINF:0 type="stream" group-title="TV AO VIVO", As Panteras
 https://stmv1.srvif.com/tvserie/tvserie/chunklist_w173840741.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/mb.jpg" group-title="🎬Filmes e Series", A Mulher Bionica
+#EXTINF:0 type="stream" group-title="TV AO VIVO", A Mulher Bionica
 https://stmv1.srvif.com/tvserie2/tvserie2/chunklist_w1556462638.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/
-tv.png" group-title="🎎Animes", Anime TV
+#EXTINF:0 type="stream" group-title="TV AO VIVO", Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://anitv.live/promos/website.jpg" group-title="🎎Animes", AniTV
+#EXTINF:0 type="stream" group-title="TV AO VIVO", AniTV
 https://tv01.livemustv.com.br/livemustv1358/livemustv1358/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="🎎Animes", Loading
+#EXTINF:0 type="stream" group-title="TV AO VIVO", Loading
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/clone.jpg" group-title="🎎Animes", Rede Clone
+#EXTINF:0 type="stream" group-title="TV AO VIVO", Rede Clone
 https://srv5.zcast.com.br/redeclonetv/redeclonetv/chunklist_w2114962954.m3u8
-#EXTINF: -1 tvg-logo="https://listaiptv.gratis/logos/imagens/jetsons.png" group-title="🎈Infantil", Os Jetsons
+#EXTINF:0 type="stream" group-title="TV AO VIVO", Os Jetsons
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://tvonline.fm/wp-content/uploads/2021/06/retrocartoon.jpeg" group-title="🎈Infantil", Retro Cartoon
+#EXTINF:0 type="stream" group-title="TV AO VIVO", Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1906296166.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/smilinguido.png" group-title="🎈Infantil", Gospel Cartoon
+#EXTINF:0 type="stream" group-title="TV AO VIVO", Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO",  BAND
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w16814077.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO",  Record Criciuma
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO",  SBT TV Aratu (BA)
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO",  SescTV HD
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO",  CANAL SAUDE
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO",  TV CHANNEL NETWORK
+https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-chno="52" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="PLUTO TV BRASIL",Pluto TV Cine Sucessos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-chno="56" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="PLUTO TV BRASIL",Pluto TV Filmes Ação
@@ -312,15 +360,3 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="6047ff2e5e61cf000784e4da" tvg-chno="916" tvg-logo="https://images.pluto.tv/channels/6047ff2e5e61cf000784e4da/colorLogoPNG.png" group-title="PLUTO TV BRASIL",MTV Spankin' New
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4da/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fh4SQ6L.png" group-title="CANAIS: TV ABERTA",  BAND
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w16814077.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/HpyVVvg.png" group-title="CANAIS: TV ABERTA",  Record Criciuma
-https://caikron.com.br:19360/criciuma/criciuma.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvaratu.png" group-title="CANAIS: TV ABERTA",  SBT TV Aratu (BA)
-https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sesctv_28201329.png" group-title="CANAIS: TV ABERTA",  SescTV HD
-https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mOcCv9k.png" group-title="CANAIS: ABERTOS",  CANAL SAUDE
-https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/VYoKxBj.png" group-title="CANAIS: ABERTOS",  TV CHANNEL NETWORK
-https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/playlist.m3u8
