@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="ESPORTES",BAND SPORTS
+https://br.embedflix.net/p2p/bandsport/chunks.m3u8?nimblesessionid=249510&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMiA0OjQ1OjE5IEFNJmhhc2hfdmFsdWU9cGgweGg5WTg0dldnS0hxZGszY2ljdz09JnZhbGlkbWludXRlcz05MA==
+
+
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/band.png", BAND MG
 http://168.205.87.198:8555/live/4666/123456/19.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
