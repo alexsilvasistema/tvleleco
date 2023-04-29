@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 3 | HD" tvg-logo="http://conectweb.site/capas/premiereclubes.jpg" group-title="Brazil",BR: PREMIERE 3 | HD
+http://goodtv.niceapy.xyz:80/play/Pippo_exchange/uNakM3Qwcr/323723.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 5 | HD" tvg-logo="http://conectweb.site/capas/premiereclubes.jpg" group-title="Brazil",BR: PREMIERE 5 | HD
+http://goodtv.niceapy.xyz:80/play/Pippo_exchange/uNakM3Qwcr/323728.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 6 FHD FHD" tvg-logo="" group-title="Brazil",BR: PREMIERE 6 FHD FHD
+http://goodtv.niceapy.xyz:80/play/Pippo_exchange/uNakM3Qwcr/323730.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 7 | HD" tvg-logo="http://conectweb.site/capas/premiereclubes.jpg" group-title="Brazil",BR: PREMIERE 7 | HD
+http://goodtv.niceapy.xyz:80/play/Pippo_exchange/uNakM3Qwcr/323732.ts
