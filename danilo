@@ -3961,28 +3961,28 @@ https://content.jwplatform.com/videos/x94kC8DJ-LfOei1jV.mp4
 
 
 
-#EXTINF:-1 tvg-id="aqui canais" status="online", Rede TV!
+#EXTINF:-1 tvg-logo="" group-title="aqui canais", Rede TV!
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
-#EXTINF:-1 tvg-id="aqui canais" status="online", Rede Massa
+#EXTINF:-1 tvg-logo="" group-title="aqui canais", Rede Massa
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 
-#EXTINF:-1 tvg-id="aqui canais" status="online", TV Aratu
+#EXTINF:-1 tvg-logo="" group-title="aqui canais", TV Aratu
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 
-#EXTINF:-1 tvg-id="aqui canais" status="online", Classique TV Western
+#EXTINF:-1 tvg-logo="" group-title="aqui canais", Classique TV Western
 https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 
-#EXTINF:-1 tvg-id="aqui canais" status="online",, Classique TV
+#EXTINF:-1 tvg-logo="" group-title="aqui canais", Classique TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 
-#EXTINF:-1 tvg-id="aqui canais" status="online", Comédia Brasil
+#EXTINF:-1 tvg-logo="" group-title="aqui canais", Comédia Brasil
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="aqui canais" status="online", Canal TV Rio (720p)
+#EXTINF:-1 tvg-logo="" group-title="aqui canais", Canal TV Rio (720p)
 https://video01.logicahost.com.br/canaltvrio/canaltvrio/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVAparecida.br" status="online",TV Aparecida (1080p) [Not 24/7]
+#EXTINF:-1 tvg-logo="" group-title="aqui canais", TV Aparecida (1080p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
 
