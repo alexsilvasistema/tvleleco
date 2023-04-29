@@ -3985,8 +3985,12 @@ https://video01.logicahost.com.br/canaltvrio/canaltvrio/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AAQUI CANAIS", TV Aparecida (1080p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="AAQUI CANAIS", BAND
+https://enc1.proxy.tokplay.com.br/BAND-MAIS-HD/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="AAQUI CANAIS", BAND2
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w74540908.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="" group-title="AAQUI CANAIS", GLOBO GERAL
+http://45.177.139.80:80/GLOBO_SP_TK/tracks-v1a1/mono.m3u8?token=e4a1861622b5968d6fcbde03eb2089155e4f9ccf-cb28020e5c6b126a5567f88dc10a49b0-1648457650-1648414450
 
