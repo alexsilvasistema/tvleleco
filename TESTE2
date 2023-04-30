@@ -1,4 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1,CANÇÃO NOVA
-http://a5telecom.tvpn.eu:80/0388/0388/293
+#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/z3y92T.png",CANCAO NOVA HD
+http://axr.life:80/eltonamigo/XmFaQMh6qYMb/45249
+#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/z3y92T.png",CANÇÃO NOVA FHD
+http://axr.life:80/eltonamigo/XmFaQMh6qYMb/5384
+#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/z3y92T.png",CANÇÃO NOVA SD
+http://axr.life:80/eltonamigo/XmFaQMh6qYMb/5408
+
+
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="CANÇÃO NOVA SD" tvg-logo="http://lishb.com:8080/images/dec0588befbc06446a35dc345c9ccc0e.png" group-title="CANAIS ENTRETENIMENTO",CANÇÃO NOVA SD
+http://lishb.com:8080/7924193672/8245089073/856655
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="CANÇÃO NOVA SD" tvg-logo="http://i.imgur.com/1EGWuDA.png" group-title="RELIGIÃO",CANÇÃO NOVA SD
+http://lishb.com:8080/7924193672/8245089073/856825
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="CANÇÃO NOVA  HD" tvg-logo="http://i.imgur.com/1EGWuDA.png" group-title="RELIGIÃO",CANÇÃO NOVA  HD
+http://lishb.com:8080/7924193672/8245089073/856824
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="CANAIS ENTRETENIMENTO",CANÇÃO NOVA HD
+http://lishb.com:8080/7924193672/8245089073/856656
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="CANÇÃO NOVA ²" tvg-logo="http://i.imgur.com/1EGWuDA.png" group-title="RELIGIÃO",CANÇÃO NOVA ²
+http://lishb.com:8080/7924193672/8245089073/856823
