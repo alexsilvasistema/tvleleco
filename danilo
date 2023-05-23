@@ -4101,3 +4101,112 @@ http://lishb.com:8080/7924193672/8245089073/956538
 #EXTINF:-1 tvg-logo="" group-title="AAQUI CANAIS ESPECIAIS", 24H SITIO DO PICA PAU AMARELO
 http://lishb.com:8080/7924193672/8245089073/956578
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", tv bahia
+https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", joven pan news
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", tv aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", supertv
+http://tv.brsuper.com.br:9080/hls/brsupertv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", redetv
+https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index_3.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", tve bahia
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?MARTINTV
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", catedral do rock
+https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", pegadinhas
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", retro cartoons
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", pluto filmelier
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/633dcebd80386500074a2461/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b6229c29928f487d87a86d9992d09a5b&deviceLat=-1.3450&deviceLon=-48.4219&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=b4d7d9865d4111ed8e47fec5a6cdbd8c&userId=
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", pluto joven pan
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/602e80c762306a0007179876/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b6229c29928f487d87a86d9992d09a5b&deviceLat=-1.3450&deviceLon=-48.4219&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=b4d7d9865d4111ed8e47fec5a6cdbd8c&userId=
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", pluto paramount
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", pluto filmes nacionais
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", pluto series
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", pluto filme ficção
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3450&deviceLon=-48.4219&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", pluto ação
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", pluto romance
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", pluto comedia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", pluto sucessos
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", cartoonito
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", band
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w375796097.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", sbt ba
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", sony novelas
+https://spt-novelas-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", televisa novelas
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", catfish
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2a3502d84a0007cec817/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", masterchef
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", naruto
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", tv comedia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", porta dos fundos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", fitness
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/630e30ba3583440007c64a20/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", cocorico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", turma da monica
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", bob esponja
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI CANAIS ESPECIAIS", jackie chan
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
