@@ -1,4 +1,4 @@
 EXTM3U
 
 #EXTINF:-1 tvg-id="globo",Globo
-https://server101.online/globo-ba/tracks-v1a1/mono.m3u8?remote=131.255.122.33&token=77408fe7f19947e9821c8b1b92feb8177da74da9-610ef4954984594f5914fc57f52f2080-1686507615-1686500415
+https://edge-aws.aovivotv.xyz/hls/s:51.15.67.42/globonordeste_acf10f2c_ed1bb9121b51ea11531445f0c236470aad915837/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTc2LjEyMy44LjE5MCI7aToxO3M6MTExOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTE0LjAuMC4wIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2ODY1MDEwNTk7fQ%3D%3D
