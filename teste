@@ -1,4 +1,16 @@
 EXTM3U
 
 #EXTINF:-1 tvg-id="globo",Globo
-https://edge-aws.aovivotv.xyz/hls/s:51.15.67.42/globonordeste_acf10f2c_ed1bb9121b51ea11531445f0c236470aad915837/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTc2LjEyMy44LjE5MCI7aToxO3M6MTExOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTE0LjAuMC4wIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2ODY1MDEwNTk7fQ%3D%3D
+https://transcoder.proxy.tokplay.com.br/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
+
+
+#EXTINF:-1 tvg-id="globo",Globo2
+https://br.embedflix.net/p2p/globosp_720p/chunks.m3u8?nimblesessionid=3764623&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMS8yMDIzIDQ6NDA6MjUgUE0maGFzaF92YWx1ZT1oMElURm1lckRjd1dLN0Y4VHM0ZHRBPT0mdmFsaWRtaW51dGVzPTkw
+
+#EXTINF:-1 tvg-id="globo",Globo3
+https://server101.online/globo-sp/tracks-v1a1/mono.m3u8?remote=131.255.122.33&token=e0b269bea674e78c48a860135068f6cf080834bf-abacbb4808f335023a548942bde1afad-1686504993-1686501393
+
+#EXTINF:-1 tvg-id="globo",Globo3
+https://server101.online/globo-ba/tracks-v1a1/mono.m3u8?remote=131.255.122.33&token=fe5ae5d79505d7c3536e8d7560e871a5a4b1e34a-d03fe57210917358de13d3460e81b25e-1686505262-1686501662
+
+
