@@ -1,0 +1,4 @@
+EXTM3U
+
+#EXTINF:-1 tvg-id="globo",Globo
+https://server101.online/globo-ba/tracks-v1a1/mono.m3u8?remote=131.255.122.33&token=77408fe7f19947e9821c8b1b92feb8177da74da9-610ef4954984594f5914fc57f52f2080-1686507615-1686500415
