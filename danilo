@@ -4185,3 +4185,6 @@ https://transcoder.proxy.tokplay.com.br/videos/REDEGLOBO/format720p_REDEGLOBO.m3
 
 #EXTINF:-1 tvg-logo="" group-title="AAAQUI temporario", Globo2
 https://server101.online/globo-rj/tracks-v1a1/mono.m3u8?remote=131.255.122.33&token=cf4aa90f8a671d18135fef86529a3d83c824236a-a89ce920d0a8a11d61b4e9e2d0ca3945-1687914206-1687907006
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI temporario", History
+https://cdn2.connectbr.com.br/History/tracks-v1a1/mono.m3u8
