@@ -4189,15 +4189,7 @@ https://server101.online/globo-rj/tracks-v1a1/mono.m3u8?remote=131.255.122.33&to
 #EXTINF:-1 tvg-logo="" group-title="AAAQUI temporario", History
 https://cdn2.connectbr.com.br/History/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="AAAQUI temporario", Premiere2
-https://server101.online/premiere2/tracks-v1a1/mono.m3u8?remote=131.255.122.33&token=60e9e56e38b6414900bff464056615839edeaa66-7960e5cd10f7f19a52a766e7c4e0013a-1687998133-1687994533
-
 #EXTINF:-1 tvg-logo="" group-title="AAAQUI temporario", Premiere
-https://server101.online/premiere/tracks-v1a1/mono.m3u8?remote=131.255.122.33&token=bdda23aed1bcebb349273c033b06858333bbb40c-395f7d440508a208d1c615cd82cbd7da-1687998347-1687994747
-
-#EXTINF:-1 tvg-logo="" group-title="AAAQUI temporario", Wipeout
-https://stitcher.pluto.tv/stitch/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2e0fdc78-807f-11eb-b762-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-
+https://server101.online/premiere/tracks-v1a1/mono.m3u8?remote=131.255.122.33&token=3e7dbfccff6827137de749445b3956b37b8396fa-4b6df1705cd722f510378bcefc0d72d5-1688001827-1687998227
 
 
