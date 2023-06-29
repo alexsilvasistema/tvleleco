@@ -4192,4 +4192,8 @@ https://cdn2.connectbr.com.br/History/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AAAQUI temporario", Premiere
 https://server101.online/premiere/tracks-v1a1/mono.m3u8?remote=131.255.122.33&token=3e7dbfccff6827137de749445b3956b37b8396fa-4b6df1705cd722f510378bcefc0d72d5-1688001827-1687998227
 
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI temporario", Premiere opção 2
+https://server101.online/premiere-op2/tracks-v1a1/mono.m3u8?remote=131.255.122.33&token=3732f79c9ceccc10c1f64fc39c3d2258293f47ed-6a80908431c452716d4d4f573d3af1c5-1688005717-1687998517
 
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI temporario", Premiere opção 3
+https://m3u9.ml/a2/hls1/premiereclubes/__index.m3u8?mu3zAQc9HC3GbwJq=x28Htr-LmH0LlAudz6_FkA&3U1G7qaTxrPbalZnEx=1688027826
