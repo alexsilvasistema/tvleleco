@@ -245,4 +245,59 @@ https://stitcher.pluto.tv/stitch/hls/channel/604b91e0692f770007d9f33f/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/604b99d633a72b00078e05ad/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1af62afe-3e06-11ee-a5a7-faf148c13419
 
 
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", GLOBO BA
+https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", BAND
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", NASA
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", GLOBO SP
+http://pfsv.io:80/regina1/123456/429.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", GLOBO BA OPÇAO2
+http://pfsv.io:80/regina1/123456/431.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PREMIERE 2
+http://pfsv.io:80/regina1/123456/538.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PREMIERE 3
+http://pfsv.io:80/regina1/123456/539.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PREMIERE 4
+http://pfsv.io:80/regina1/123456/540.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PREMIERE 5
+http://pfsv.io:80/regina1/123456/541.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PREMIERE 6
+http://pfsv.io:80/regina1/123456/542.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PREMIERE 7
+http://pfsv.io:80/regina1/123456/543.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PREMIERE CLUBES
+http://pfsv.io:80/regina1/123456/544.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", RECORD BA
+http://pfsv.io:80/regina1/123456/78.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", RECORD BA OPÇAO2
+http://pfsv.io:80/regina1/123456/69086.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", SBT BA
+http://pfsv.io:80/regina1/123456/34018.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", SPORTV
+http://pfsv.io:80/regina1/123456/559.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", SPORTV 2
+http://pfsv.io:80/regina1/123456/560.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", SPORTV 3
+http://pfsv.io:80/regina1/123456/561.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", FOOD NETWORK
+http://pfsv.io:80/regina1/123456/119.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", H&H
+http://pfsv.io:80/regina1/123456/198.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", HISTORY
+http://pfsv.io:80/regina1/123456/204.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", 24H ESCOLINHA PROF RAIMUNDO
+http://pfsv.io:80/regina1/123456/106667.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", 24H OS TRAPALHOES
+http://pfsv.io:80/regina1/123456/43949.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", 24H OS VINGADORES
+http://pfsv.io:80/regina1/123456/43902.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", 24H X-MAN
+http://pfsv.io:80/regina1/123456/43927.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", 24H GUARDIOES DA GALAXIA
+http://pfsv.io:80/regina1/123456/43876.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", 24H JASPION
+http://pfsv.io:80/regina1/123456/43885.m3u8
