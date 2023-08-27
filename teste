@@ -4245,3 +4245,14 @@ https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="AAAQUI temporario", Yu gi oh
 https://i.mjh.nz/PlutoTV/63988a50be012600070f5db3-alt.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI temporario", SBT OPC 1
+https://simulcast.sbtvideosonline.com/v1/dash/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/f8d12b8d09674de28c0fca3e6e726c65/dashOutput.mpd?content_channel_id=12&content_livestream=1
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI temporario", SBT OPC 2
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1098979875.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AAAQUI temporario", SBT OPC 3
+https://5ad482a77183d.streamlock.net/sbtsbtmt.com/sbtsbtmt.com/chunklist_w25951056.m3u8
+
+
