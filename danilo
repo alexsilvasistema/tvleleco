@@ -46,9 +46,6 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", GLOBO OPÇ 2
-http://superblazertop.com.br.global.prod.fastly.net/live/globo/play2.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", GLOBO OPÇ 3
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", DISCOVERY SCIENCE
@@ -122,10 +119,7 @@ https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
 https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", BAND SPORTS
-https://cdn-1.nxplay.com.br/BAND_SPORTS_NXPLAY/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", RECORD SP
-https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8
+https://cdn2.connectbr.com.br/Band-Sports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", SPACE
 https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
@@ -244,6 +238,7 @@ http://24hrs.homelinux.com/24H-jaspion/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", OS SIMPSONS 24H
 http://24hrs.homelinux.com/24H-ossimpsons/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", 
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PEGADINHAS 24H
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", 
