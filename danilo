@@ -1,0 +1,298 @@
+#extm3u
+
+  #EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", SBT
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", RECORD
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", BAND 1
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", BAND 2
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", DARKFLIX
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", SONY
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", TELAVIVA
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w944972315.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", REDE FAMILIA
+https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/chunklist_w1134839487.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", REDE VIDA
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", TV APARECIDA
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", REDE CLONE
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", CARTOON NETWORK
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", TVE BAHIA
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", TV CAMARA
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", CANAL SAUDE
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", GLOBO OPÇ 2
+http://superblazertop.com.br.global.prod.fastly.net/live/globo/play2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", GLOBO OPÇ 3
+https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", DISCOVERY SCIENCE
+https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", DISCOVERY H&H
+https://cdn-1.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", DISCOVERY CHANNEL
+https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", DISCOVERY WORLD
+https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", FOOD NETWORK
+https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", HGTV
+https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", HISTORY
+http://cdn2.connectbr.com.br/History/video.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", DAZN COMBAT
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazncombat-lgmx/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", DAZN WOMENS
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznwomenssport-lgbr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PARAMOUNT
+http://cdn.connectbr.com.br/paramount/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", BORA FILMES
+http://cdn2.connectbr.com.br/Bora_Filmes/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", TCM
+http://cdn2.connectbr.com.br/TCM/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", MACGAYVER
+https://i.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", FILMES NACIONAIS
+https://i.mjh.nz/PlutoTV/5f5a545d0dbf7f0007c09408-alt.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", A&E
+http://cdn.connectbr.com.br/AE/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", GLOBO SP
+https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", TLC
+https://cdn-1.nxplay.com.br/TLC_BR_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", AXN
+https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", AMC
+https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", HISTORY 2
+https://cdn-1.nxplay.com.br/HISTORY_2_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PRIME BOX
+http://cdn-1.nxplay.com.br/PRIME_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", TNT
+https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", BAND SP
+https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", BAND SPORTS
+https://cdn-1.nxplay.com.br/BAND_SPORTS_NXPLAY/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", RECORD SP
+https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", SPACE
+https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", ANIMAL PLANET
+https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", GLOBO TV BAHIA
+https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", JOVEM PAN NEWS
+https://d6yfbj4xxtrod.cloudfront.net:443/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", MTV
+http://cdn2.connectbr.com.br/mtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PORTA DOS FUNDOS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef22-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4be72ee-4337-4176-a253-be6d837c977f&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PREMIERE CLUBES
+http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/31525.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", TNT SPORTS 1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", TNT SPORTS 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", TNT SPORTS 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", TNT SPORTS 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", TNT SPORTS 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", NICKELODEON
+http://cdn.connectbr.com.br/Nickelodeon/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", RECORD CONQUISTA
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", SBT TV ARATU
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", CAVERNA DO DRAGÃO
+https://ythlsgo.onrender.com/channel/UCrDjVXUA3_yLgKcXyR-4Csw.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", JACKIE CHAN 24H
+https://i.mjh.nz/PlutoTV/6079c1539b05aa0007a57495-alt.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", MORANGUINHO 24H
+https://i.mjh.nz/PlutoTV/63eba189c111bc0008ff59c5-alt.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", TURMA DA MONICA 24H
+https://i.mjh.nz/PlutoTV/5f997e44949bc70007a6941e-alt.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", YU GI OH 24H
+https://i.mjh.nz/PlutoTV/63988a50be012600070f5db3-alt.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", MASTERCHEF 24H
+https://i.mjh.nz/PlutoTV/6077045b6031bd00078de127-alt.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", CATFISCH 24H
+https://i.mjh.nz/PlutoTV/626c2a3502d84a0007cec817-alt.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", ANIME TV 24H
+https://stmv1.srvif.com/animetv/animetv/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", NARUTO 24H
+https://i.mjh.nz/PlutoTV/5f6df5a173d7340007c559f7-alt.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", ONE PIECE 24H
+https://i.mjh.nz/PlutoTV/624b1c8d4321e200073ee421-alt.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", MARSHA E O URSO 24H
+http://24hrs.homelinux.com/24H-Masha.e.o.Urso.S01eS02eS03/video.m3u8?token=_OpedstPr3
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PEPPA PIG 24H
+http://24hrs.homelinux.com/24H-Peppa.Pig.S01.S02.S03.S04/video.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", CHAVES 24H
+http://24hrs.homelinux.com/24H-chaves-a-serie/video.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", CHAPOLIN 24H
+http://24hrs.homelinux.com/24H-chapolin1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", TODO MUNDO ODEIA O CHRIS 24H
+http://24hrs.homelinux.com/24H-todomundoodeiaocris/video.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", OS TRAPALHO~ES 24H
+http://24hrs.homelinux.com/24H-ostrapalhoes/video.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PICA PAU 24H
+http://24hrs.homelinux.com/24H-picapau/video.m3u8?token=_OpedstPr3
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", WESTERN CLASSICO 24H
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w230143934.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", A CASA DO MICKEY MOUSE 24H
+http://24hrs.homelinux.com/24H-acasadomickey/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", DIGIMON 24H
+http://24hrs.homelinux.com/24H-digimon/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", DRAGON BALL Z 24H
+http://24hrs.homelinux.com/24H-dragon.ball.z/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", FATOS DESCONHECIDOS 24H
+http://24hrs.homelinux.com/24H-fatosdesconhecidos/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", JASPION 24H
+http://24hrs.homelinux.com/24H-jaspion/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", OS SIMPSONS 24H
+http://24hrs.homelinux.com/24H-ossimpsons/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", COMBATE
+http://lista.sv1.tv:25461/live/Flaviocliente/5070/1845.ts
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", SPORTV
+http://lista.sv1.tv:25461/live/Flaviocliente/5070/1738.ts
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", SPORTV2
+http://lista.sv1.tv:25461/live/Flaviocliente/5070/1737.ts
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", SPORTV3
+http://lista.sv1.tv:25461/live/Flaviocliente/5070/1735.ts
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PREMIERE CLUBES
+http://lista.sv1.tv:25461/live/Flaviocliente/5070/1758.ts
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PREMIERE2
+http://lista.sv1.tv:25461/live/Flaviocliente/5070/1770.ts
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PREMIERE3
+http://lista.sv1.tv:25461/live/Flaviocliente/5070/1768.ts
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PREMIERE4
+http://lista.sv1.tv:25461/live/Flaviocliente/5070/1766.ts
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PREMIERE5
+http://lista.sv1.tv:25461/live/Flaviocliente/5070/1764.ts
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PREMIERE6
+http://lista.sv1.tv:25461/live/Flaviocliente/5070/1762.ts
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PREMIERE7
+http://lista.sv1.tv:25461/live/Flaviocliente/5070/1761.ts
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PREMIERE8
+http://lista.sv1.tv:25461/live/Flaviocliente/5070/1760.ts
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PREMIERE9
+http://lista.sv1.tv:25461/live/Flaviocliente/5070/1759.ts
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", 
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", 
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", 
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", 
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", 
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", 
+
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", 
