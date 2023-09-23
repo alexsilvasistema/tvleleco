@@ -217,7 +217,7 @@ http://24hrs.homelinux.com/24H-chapolin1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", TODO MUNDO ODEIA O CHRIS 24H
 http://24hrs.homelinux.com/24H-todomundoodeiaocris/video.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", OS TRAPALHO~ES 24H
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", OS TRAPALHÕES 24H
 http://24hrs.homelinux.com/24H-ostrapalhoes/video.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PICA PAU 24H
@@ -243,55 +243,6 @@ http://24hrs.homelinux.com/24H-jaspion/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", OS SIMPSONS 24H
 http://24hrs.homelinux.com/24H-ossimpsons/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", COMBATE
-http://lista.sv1.tv:25461/live/Flaviocliente/5070/1845.ts
-
-#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", SPORTV
-http://lista.sv1.tv:25461/live/Flaviocliente/5070/1738.ts
-
-#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", SPORTV2
-http://lista.sv1.tv:25461/live/Flaviocliente/5070/1737.ts
-
-#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", SPORTV3
-http://lista.sv1.tv:25461/live/Flaviocliente/5070/1735.ts
-
-#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PREMIERE CLUBES
-http://lista.sv1.tv:25461/live/Flaviocliente/5070/1758.ts
-
-#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PREMIERE2
-http://lista.sv1.tv:25461/live/Flaviocliente/5070/1770.ts
-
-#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PREMIERE3
-http://lista.sv1.tv:25461/live/Flaviocliente/5070/1768.ts
-
-#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PREMIERE4
-http://lista.sv1.tv:25461/live/Flaviocliente/5070/1766.ts
-
-#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PREMIERE5
-http://lista.sv1.tv:25461/live/Flaviocliente/5070/1764.ts
-
-#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PREMIERE6
-http://lista.sv1.tv:25461/live/Flaviocliente/5070/1762.ts
-
-#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PREMIERE7
-http://lista.sv1.tv:25461/live/Flaviocliente/5070/1761.ts
-
-#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PREMIERE8
-http://lista.sv1.tv:25461/live/Flaviocliente/5070/1760.ts
-
-#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", PREMIERE9
-http://lista.sv1.tv:25461/live/Flaviocliente/5070/1759.ts
-
-#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", 
-
-#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", 
-
-#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", 
-
-#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", 
-
-#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", 
 
 #EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", 
 
