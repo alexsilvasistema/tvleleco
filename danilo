@@ -1,7 +1,7 @@
 #extm3u
 
   #EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", SBT
-https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+https://ythlsgo.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", RECORD
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
@@ -163,8 +163,8 @@ http://cdn.connectbr.com.br/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", RECORD CONQUISTA
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", SBT TV ARATU
-https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", SBT 2
+https://simulcast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/2402654f-e16b-4f35-ab84-87088eeb2397/4.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", CAVERNA DO DRAGÃO
 https://ythlsgo.onrender.com/channel/UCrDjVXUA3_yLgKcXyR-4Csw.m3u8?ROGERIOTORRES
@@ -276,7 +276,7 @@ http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/37006
 
 #EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", Guardiões da Galáxia
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/57342
-#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", Jiraiya, O Incrível Ninja
+#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", Jiraiya
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/63198
 #EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", Os Vingadores
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/63207
