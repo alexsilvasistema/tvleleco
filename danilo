@@ -99,12 +99,6 @@ https://live.seo.tv.bo/live/SEO-5.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", TV RA TIM BUM
 https://cdn-1.nxplay.com.br/TV_RA_TIM_BUM/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", BBB
-https://reidoscanais.com/embed/?id=bbb
-
-#EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", COMBATE
-https://reidoscanais.com/embed/?id=combate
-
 #EXTINF:-1 tvg-logo="" group-title="AQUI CANAIS ESPECIAIS E LOCAIS", DAZN COMBAT
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazncombat-lgmx/playlist.m3u8
 
